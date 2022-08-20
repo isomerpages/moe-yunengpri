@@ -21,13 +21,13 @@ contacts:
       - other: ""
     title: General Office
   - content:
-      - phone: +65 6449 8564
-      - email: ""
-      - other: ""
-    title: Fax
-  - content:
       - phone: ""
       - email: ynps@moe.edu.sg
       - other: ""
     title: Email
+  - content:
+      - phone: +65 6449 8564
+      - email: ""
+      - other: ""
+    title: Fax
 ---
