@@ -4,29 +4,26 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Yu Neng Primary School
+      subtitle: Aspire, Learn & Lead
+      background: /images/hero-banner.png
+      button: Contact Us
+      url: /contact-us/
+  - infopic:
+      title: ALP (ICT)
+      description: Read more about our ALP in Info-Comm Technology.
+      button: Read
+      url: /applied-learning-programme-in-ict/
+      image: /images/ALP-Banner-scaled.jpg
+      alt: ALP (ICT)
+  - infopic:
+      title: LLP (SPORTS)
+      description: Find out more about our LLP - Character Development Through Sports.
+      button: Read
+      url: /sports-and-games/
+      image: /images/IMG_1689-e1498179786675.jpg
+      alt: LLP (Sports)
 ---
-
