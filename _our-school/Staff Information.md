@@ -130,3 +130,11 @@ To email our staff, click on their names.
 | P6 Responsibility | [Mdm Siti Aminah](mailto:siti_aminah_mohd_hassan@moe.edu.sg) | [Mr Toh Su Yen](mailto:toh_su_yen@moe.edu.sg) <br> [Mdm Sitti Maisarah](mailto:sitti_maisarah_abu_bakar@moe.edu.sg) |
 | P6 Integrity | [Mdm Syarifah Fatimah](mailto:syarifah_fatimah@moe.edu.sg)  | [Mdm Xu Qianhao](mailto:xu_qianhao@moe.edu.sg) |
 | P6 Teamwork (A, B & C)     | [Mdm Sim Li Hiang](mailto:sim_li_hiang@moe.edu.sg) | [Mr Anuar](mailto:mohamed_anuar_mohamed_sahri@moe.edu.sg) <br>[Mdm Dewi Wati](mailto:dewi_wati_rahmat@moe.edu.sg) |
+
+#### SUBJECT TEACHERS
+
+|  |  |  |
+|---|---|---|
+| EMS | [Mdm Nursuriati](mailto:nursuriati_johari@moe.edu.sg) <br> Mdm Azleen | [Mdm Michelle Kim](mailto:michelle_kim_sivarajasingham@moe.edu) <br> Mdm Niazmeen <br> Mdm Chiang Doris |
+| Chinese Language | [Mdm Thia Yoke Ping](mailto:thia_yoke_ping@moe.edu.sg) | [Ms Quek Li Hwei](mailto:quek_li_hwei@moe.edu.sg) |
+| Art | [Ms Agustina Huang](mailto:agustina_huang_fang_hui@moe.edu.sg) |  [Mdm Chang Jiahui](mailto:chang_jiahui@moe.edu.sg) |
