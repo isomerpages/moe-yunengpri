@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Staff Information.md
       - Mission, Vision, Values.md
       - Motto and Crests.md
       - Beliefs.md
