@@ -2,5 +2,6 @@ collections:
   our-school:
     output: true
     order:
+      - Learning Dispositions.md
       - Achievements.md
       - Contact Us.md
