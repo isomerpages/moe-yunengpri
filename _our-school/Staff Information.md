@@ -119,7 +119,7 @@ To email our staff, click on their names.
 | P5 Respect | [Ms Leanna Lyn](mailto:leanna_lyn_gaffar@moe.edu.sg "[GMCP] Compose a new mail to Mdm Ang Lie Chin") | [Mdm Cinthia Liou](mailto:liou_chew_yoong@moe.edu.sg) |
 | P5 Responsibility | [Mdm Wahidah](mailto:wahidah_abdul_wahid@moe.edu.sg) | [Mr Yok Joon Meng](mailto:yok_joon_meng@moe.edu.sg) |
 | P5 Integrity      | [Mdm Siti Nuraishah](mailto:siti_nuraishah_rosli@moe.edu.sg "[GMCP] Compose a new mail to Mdm Ang Lie Chin") | [Mr Ng Chye Huat](mailto:ng_chye_huat@moe.edu.sg) <br> [Miss Claire Yeo](mailto:claire_yeo@moe.edu.sg) |
-| P5 Teamwork      | [Mrs Kanesan](mailto:mahendran_shamala@moe.edu.sg) | [Ms Tan Pin Sing](mailto:tan_pin_sing@moe.edu.sg) <br> [Mr Steve Goh] (mailto:goh_boon_sin_steve@moe.edu.sg) |
+| P5 Teamwork      | [Mrs Kanesan](mailto:mahendran_shamala@moe.edu.sg) | [Ms Tan Pin Sing](mailto:tan_pin_sing@moe.edu.sg) <br> [Mr Steve Goh](mailto:goh_boon_sin_steve@moe.edu.sg) |
 
 #### PRIMARY SIX LEVEL
 
