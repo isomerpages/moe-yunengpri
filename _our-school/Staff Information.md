@@ -67,3 +67,46 @@ To email our staff, click on their names.
 | --- | --- |
 | **Learning Support <br>Coordinator** | [Mdm Marlina](mailto:marlina_mohamed_noor@moe.edu.sg) (EL) <br>[Mrs Ravi](mailto:rajeswarie_sundram@moe.edu.sg) (Math) |
 
+| Class | Form Teacher | Form Teacher |
+| --- | --- | --- |
+| P1 Graciousness |[Mr Roonie Chew](mailto:chew_lye_hock_roonie@moe.edu.sg) | [Mdm Gao Qijie](mailto:gao_qijie@moe.edu.sg) |
+| P1 Respect | [Ms Selena Chew](mailto:chew_wui_ling_selena@moe.edu.sg) | [Mrs Ignatia Leng](mailto:wong_thin_wing_ignatia@moe.edu.sg) |
+| P1 Responsibility  | [Mdm Tan Meng Kee](mailto:tan_meng_kee@moe.edu.sg) | [Mrs Ravi](mailto:rajeswarie_sundram@moe.edu.sg)  |
+| P1 Resilience  | [Ms Wong Min Shia](mailto:wong_min_shia@moe.edu.sg) | [Mdm Marlina](mailto:marlina_mohamed_noor@moe.edu.sg) |
+| P1 Integrity  | [Mrs Sally Chew](mailto:chew-chua_siew_hoon@moe.edu.sg) | [Mdm Leelakanti](mailto:leelakanti_ramalingam@moe.edu.sg)i |
+| P1 Teamwork  | [Mdm Zuhaila](mailto:zuhaila_md_jizan@moe.edu.sg) | [Mdm Jessamine Tan](mailto:tan_swee_lai_jessamine@moe.edu.sg) |
+
+#### PRIMARY TWO LEVEL
+
+| | |
+| --- | --- |
+| **Learning Support <br>Coordinator** | **[Mdm Marlina](mailto:marlina_mohamed_noor@moe.edu.sg) (EL)** |
+
+| Class | Form Teacher | Form Teacher |
+| --- | --- | --- |
+| P2 Graciousness  | [Mdm Shamana](mailto:shamana_khatu_kassim_khan@moe.edu.sg) | [Mr Cai Hanfeng](mailto:cai_hanfeng@moe.edu.sg) <br> [Mdm Wong Nga Lin](mailto:wong_nga_lin@moe.edu.sg) |
+| P2 Respect  | [Mdm Eymani](mailto:eymani_helmi@moe.edu.sg) | [Ms Phan Huey Ju](mailto:phan_huey_ju@moe.edu.sg) <br>[Mdm Tuty Atiqah](mailto:tuty_atiqah_mohamed@moe.edu.sg) |
+| P2 Responsibility  | [Mrs Esther Cheng-Ngo Xiu Fen](mailto:ngo_xiu_fen@moe.edu.sg) | [Ms Shelwyn Tan](mailto:tan_xin_hui_shelwyn@moe.edu.sg) |
+| P2 Resilience  | [Mdm Zulaiha](mailto:zulaiha_ismail@moe.edu.sg) | [Ms Lim Hui Ling](mailto:lim_hui_ling_a@moe.edu.sg) |
+| P2 Integrity  | [Ms Lin Yanyi](mailto:lin_yanyi@moe.edu.sg) | [Mr Low Hao Rong](mailto:low_kok_chiah@moe.edu.sg) |
+| P2 Teamwork  | [Ms Tan Keng Bee](mailto:tan_keng_bee@moe.edu.sg) | [Mdm Ivy Tan](mailto:tan_seow_wee_a@moe.edu.sg) |
+
+#### PRIMARY THREE LEVEL
+
+| Class | Form Teacher | Form Teacher |
+|---|---|---|
+| P3 Graciousness | [Mrs Pauline Ng](mailto:neoh_swee_lan_pauline@moe.edu.sg) | [Mr Zhu Xiangjun](mailto:zhu_xiangjun@moe.edu.sg) |
+| P3 Respect | [Mrs Iris Lim](mailto:goh_hong_buay@moe.edu.sg) | [Ms Hu Hui Ru](mailto:hu_hui_ru@moe.edu.sg) |
+| P3 Responsibility | [Mr Haniffa](mailto:mohamad_haniffa_mohd@moe.edu.sg)  | [Ms Lu Wen](mailto:lu_wen@moe.edu.sg) <br> [Mdm Ang Lie Chin](mailto:ang_lie_chin@moe.edu.sg) |
+| P3 Integrity | [Ms Ruzana](mailto:ruzana_abdul_rahim@moe.edu.sg) | [Mdm Catherine Tan](mailto:tan_eng_ling_catherine@moe.edu.sg) |
+| P3 Teamwork  | [Mdm Roslinda](mailto:roslinda_rasli@moe.edu.sg) | [Mr Royston Neo](mailto:Royston_Neo_Li_Ren@moe.edu.sg) |
+
+#### PRIMARY FOUR LEVEL
+
+| Class | Form Teacher | Form Teacher |
+| --- | --- | --- |
+| P4 Graciousness | [Mdm Norashikin](mailto:norashikin_mohd_ali@moe.edu.sg) | [Mdm Nadiah Murni](mailto:nadiah_murni_ab_malek@moe.edu.sg) <br> [Mr Mu Zhiming](mailto:mu_zhiming@moe.edu.sg) <br>[Mdm Fiona Cham](mailto:cham_qing_hui@moe.edu.sg) |
+| P4 Respect      | [Mdm Bridget Wong](mailto:bridgetteosp@hotmail.com) | [Mr Ho Wei Hao](mailto:ho_wei_hao@moe.edu.sg) <br> [Ms Peh Pei Ying](mailto:peh_pei_ying@moe.edu.sg) |
+| P4 Responsibility     |[Mdm Ong Boon Leng](mailto:ong_boon_leng@moe.edu.sg) |[Mdm Esther Peh](mailto:peh_soh_kuen@moe.edu.sg) |
+| P4 Integrity     | [Mdm Yong Li Ling](mailto:yong_li_ling_a@moe.edu.sg) | [Mrs Raj](mailto:rethinamala_rajendran@moe.edu.sg) |
+| P4 Teamwork | [Mr Saleem](mailto:samsugani_abdul_saleem@moe.edu.sg) | [Mdm Loke Yik Pey](mailto:loke_yik_pey@moe.edu.sg) |
