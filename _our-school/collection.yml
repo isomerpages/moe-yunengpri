@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Mission, Vision, Values.md
       - Motto and Crests.md
       - Beliefs.md
       - School Song.md
