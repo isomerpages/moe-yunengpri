@@ -121,3 +121,12 @@ To email our staff, click on their names.
 | P5 Integrity      | [Mdm Siti Nuraishah](mailto:siti_nuraishah_rosli@moe.edu.sg "[GMCP] Compose a new mail to Mdm Ang Lie Chin") | [Mr Ng Chye Huat](mailto:ng_chye_huat@moe.edu.sg) <br> [Miss Claire Yeo](mailto:claire_yeo@moe.edu.sg) |
 | P5 Teamwork      | [Mrs Kanesan](mailto:mahendran_shamala@moe.edu.sg) | [Ms Tan Pin Sing](mailto:tan_pin_sing@moe.edu.sg) <br> [Mr Steve Goh] (mailto:goh_boon_sin_steve@moe.edu.sg) |
 
+#### PRIMARY SIX LEVEL
+
+| Class | Form Teacher | Form Teacher |
+| --- | --- | --- |
+| P6 Graciousness | [Mdm Jamilah](mailto:jamilah_abdullah_a@moe.edu.sg) | [Mr Ng Siong Boon](mailto:ng_siong_boon@moe.edu.sg) |
+| P6 Respect | [Mrs Janet Lee](mailto:poh_swee_lan_janet@moe.edu.sg) | [Mdm Chloe Phang](mailto:phang_yan_fen@moe.edu.sg) |
+| P6 Responsibility | [Mdm Siti Aminah](mailto:siti_aminah_mohd_hassan@moe.edu.sg) | [Mr Toh Su Yen](mailto:toh_su_yen@moe.edu.sg) <br> [Mdm Sitti Maisarah](mailto:sitti_maisarah_abu_bakar@moe.edu.sg) |
+| P6 Integrity | [Mdm Syarifah Fatimah](mailto:syarifah_fatimah@moe.edu.sg)  | [Mdm Xu Qianhao](mailto:xu_qianhao@moe.edu.sg) |
+| P6 Teamwork (A, B & C)     | [Mdm Sim Li Hiang](mailto:sim_li_hiang@moe.edu.sg) | [Mr Anuar](mailto:mohamed_anuar_mohamed_sahri@moe.edu.sg) <br>[Mdm Dewi Wati](mailto:dewi_wati_rahmat@moe.edu.sg) |
