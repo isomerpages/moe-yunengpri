@@ -43,9 +43,11 @@ Yu Neng celebrates its 80th anniversary in 2015, the same year that Singapore ce
 
 The commemorative YN80 book was launched on 12 April to mark Yu Neng’s 80 years of inspiring and enabling education. Finally, to round up the year-long celebration of this momentous occasion, Yu Neng embarked on a ‘Pay-it-Forward’ Values-in-Action (VIA) project in collaboration with strategic partners The Business Times and The RICE Co Ltd. The school came together for a mass sewing session of the SGBears on 3 August. With the support of strategic partners, parents, staff and many others, the school managed to raise $110,000 for ChildAid Asia as Cogent Holdings bought all the bears made by pupils and staff. Our parents also supported the school throughout the process. They cut the cloths, sorted them out, sewed some of the bears and were also present on the day to help our pupils.
 
-![IMG_0514](https://yunengpri.moe.edu.sg/wp-content/uploads/2017/06/IMG_0514-300x200.jpg)![IMG_0451](https://yunengpri.moe.edu.sg/wp-content/uploads/2017/06/IMG_0451-300x200.jpg)
+| | | 
+| --- | --- |
+| ![](/images/IMG_0514-300x200.jpg) | ![](/images/IMG_0451-300x200.jpg) |
 
-**THE SCHOOL BELL**
+#### THE SCHOOL BELL
 
 The bell (currently in the school hall) was donated to the school ny Mr Ng Hong Kok and his brothers after the Japanese Occupation. It was used by the school to signify the start of school, recess and dismissal till the 1980s. It was kept in store until it was displayed at the i-Gallery in 2015. 
 
