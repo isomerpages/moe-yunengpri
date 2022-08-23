@@ -157,4 +157,21 @@ description: ""
 			<img src="/images/IMG_20181108_105535-1024x768.jpg"/>
 		</td>
 		<td width="30%">
-			![](/images/IMG_20181108_112447-300x225.jpg)
+			<img src="/images/IMG_20181108_112447-300x225.jpg"/>
+		</td>
+		<td width="30%">
+			<img src="/images/IMG_20181109_095450-1024x768.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/Classroom-Lesson-300x225.jpg"/>
+		</td>
+		<td>
+			<img src="/images/Global-India-International-School-1024x768.jpg"/>
+		</td>
+		<td>
+			<img src="/images/Group-Discussion-1024x768.jpg"/>
+		</td>
+	</tr>
+	</table>
