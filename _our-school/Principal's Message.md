@@ -9,7 +9,7 @@ description: ""
 #### The Quest for Wholeness @ Yu Neng
 
 <img src="/images/Ng-Yeow-Ling-683x1024.png"
-		 style="width:50%"/>
+		 style="width:30%"/>
 		 
 Welcome and warmest greetings for 2022!
 
