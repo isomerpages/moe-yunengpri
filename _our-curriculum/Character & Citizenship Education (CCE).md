@@ -24,6 +24,7 @@ Character and Citizenship Education (CCE) is an integral part in developing our 
 
 The core GR<sup>3</sup>IT values are fundamental for a person of good character and a useful citizen of Singapore. The values guide students to discern between right and wrong and help them make responsible choices. Students are nurtured to be leaders of self and others, thereby preparing them to be leaders of tomorrow.
 
-|  | # | # |
+| ![](/images/1-300x225.jpg) | ![](/images/2-300x225.jpg) | ![](/images/3-300x200.jpg) |
 |---|---|---|
 | Students participating in an online FTGP lesson during HBL | Student leadership investiture | Prefects and Peer Support Leaders attending the inaugural C.A.R.E. Symposium |
+
