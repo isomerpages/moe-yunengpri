@@ -29,9 +29,9 @@ description: ""
     <td colspan="3">The lower primary level focuses on the teaching and mastery of fundamental motor skills and concepts. Through the learning areas of athletics, dance, games and sports, gymnastics, and swimming, the foundation of specific movement patterns is laid. In this way, students have numerous opportunities to reinforce their movement, and learn new skills and understanding, as they practise and transfer skills and understanding across multiple areas to develop efficiency, effectiveness and versatility in their performance.</td>
   </tr>
   <tr>
-    <td><img src="/images/1-113x150.png"/></td>
-    <td><img src="/images/2-300x225.png"/></td>
-    <td><img src="/images/3-300x225.png"/></td>
+    <td width="33%"><img src="/images/1-113x150.png" style="padding:0px 45px 0px 45px"/></td>
+    <td width="33%"><img src="/images/2-300x225.png"/></td>
+    <td width="33%"><img src="/images/3-300x225.png"/></td>
   </tr>
   <tr>
     <td>Warm Up Exercise</td>
