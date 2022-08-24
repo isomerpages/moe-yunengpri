@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Social Studies.md
       - Programme for Active Learning (PAL).md
       - Character & Citizenship Education (CCE).md
       - Applied Learning in ICT.md
