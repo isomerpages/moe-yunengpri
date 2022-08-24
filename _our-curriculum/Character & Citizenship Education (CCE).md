@@ -23,8 +23,43 @@ Character and Citizenship Education (CCE) is an integral part in developing our 
 <h5><u>Character & Leadership Development</u></h5>
 
 The core GR<sup>3</sup>IT values are fundamental for a person of good character and a useful citizen of Singapore. The values guide students to discern between right and wrong and help them make responsible choices. Students are nurtured to be leaders of self and others, thereby preparing them to be leaders of tomorrow.
+<table>
+  <tr>
+    <td width="33%">
+			<img src="/images/1-300x225.jpg"/>
+		</td>
+    <td width="33%">
+			<img src="/images/2-300x225.jpg"/>
+		</td>
+		<td width="33%">
+			<img src="/images/3-300x200.jpg"/>
+		</td>
+	</tr>
+  <tr>
+    <td>Students participating in an online FTGP lesson during HBL</td>
+    <td>Student leadership investiture</td>
+    <td>Prefects and Peer Support Leaders attending the inaugural C.A.R.E. Symposium</td>
+  </tr>
+</table>
 
-| ![](/images/1-300x225.jpg) | ![](/images/2-300x225.jpg) | ![](/images/3-300x200.jpg) |
-|---|---|---|
-| Students participating in an online FTGP lesson during HBL | Student leadership investiture | Prefects and Peer Support Leaders attending the inaugural C.A.R.E. Symposium |
+<h5><u>Values-in-Action (VIA)</u></h5>
+
+To establish an effective learning environment, spaces are created for their voices to be heard, providing opportunities for them to develop self-directedness, responsibility and ownership of their learning. Through VIAs, opportunities are provided for students to participate in the planning and implementation of the projects, thereby developing a sense of belonging to the school community and beyond, and having the motivation to make a positive difference.
+
+<table>
+<thead>
+  <tr>
+    <th>![](/images/4VIA.jpg)</th>
+    <th>![](/images/5-199x300.jpg)</th>
+    <th>![](/images/6-150x300.jpg)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Students taking part in the Walk for Rice, a collaboration with South East CDC, during PE lessons</td>
+    <td>Students taking part in the YN VIA Home Challenge</td>
+    <td>Students paying tribute to the frontliners who have been working tirelessly to keep Singaporeans safe</td>
+  </tr>
+</tbody>
+</table>
 
