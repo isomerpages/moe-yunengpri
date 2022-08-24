@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Creative Arts.md
       - Social Studies.md
       - Programme for Active Learning (PAL).md
       - Character & Citizenship Education (CCE).md
