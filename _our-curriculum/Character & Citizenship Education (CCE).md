@@ -51,7 +51,7 @@ To establish an effective learning environment, spaces are created for their voi
     <td width="45%">
 			<img src="/images/4VIA.jpg"/>
 		</td>
-    <td width=30%">
+    <td width="30%">
 			<img src="/images/5-199x300.jpg"/>
 		</td>
 		<td width="25%">
