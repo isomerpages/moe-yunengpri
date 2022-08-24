@@ -66,3 +66,6 @@ To establish an effective learning environment, spaces are created for their voi
 </table>
 
 <h5><u>School based initiatives and experiences</u></h5>
+
+These school based initiatives and experiences help to ensure students’ learning experiences are meaningfully blended in with the school-wide approach to CCE.
+
