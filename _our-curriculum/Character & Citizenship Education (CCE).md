@@ -69,6 +69,6 @@ To establish an effective learning environment, spaces are created for their voi
 
 These school based initiatives and experiences help to ensure students’ learning experiences are meaningfully blended in with the school-wide approach to CCE.
 
-| # | # | # |
+| ![](/images/citizen1.jpg) | <img src="/images/citizen2.jpg" style="width:40%"/> | ![](/images/citizen3.jpg) | 
 |---|---|---|
 | Sharing by Mr Steve Tee, a Paralympian, about his life experiences and how he turned his disability to his ability | P4 students engaged in a 2 hour ECG programme to discover and appreciate their Multiple Intelligence (MI) and career interests with MI | P6 students attending a Secondary Road show talk |
