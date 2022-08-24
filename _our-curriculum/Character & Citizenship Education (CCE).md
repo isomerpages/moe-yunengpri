@@ -63,5 +63,6 @@ To establish an effective learning environment, spaces are created for their voi
     <td>Students taking part in the YN VIA Home Challenge</td>
     <td>Students paying tribute to the frontliners who have been working tirelessly to keep Singaporeans safe</td>
   </tr>
-</tbody>
 </table>
+
+<h5><u>School based initiatives and experiences</u></h5>
