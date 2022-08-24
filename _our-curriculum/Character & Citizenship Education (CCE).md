@@ -47,14 +47,17 @@ The core GR<sup>3</sup>IT values are fundamental for a person of good character 
 To establish an effective learning environment, spaces are created for their voices to be heard, providing opportunities for them to develop self-directedness, responsibility and ownership of their learning. Through VIAs, opportunities are provided for students to participate in the planning and implementation of the projects, thereby developing a sense of belonging to the school community and beyond, and having the motivation to make a positive difference.
 
 <table>
-<thead>
   <tr>
-    <th>![](/images/4VIA.jpg)</th>
-    <th>![](/images/5-199x300.jpg)</th>
-    <th>![](/images/6-150x300.jpg)</th>
+    <td width="45%">
+			<img src="/images/4VIA.jpg"/>
+		</td>
+    <td width=30%">
+			<img src="/images/5-199x300.jpg"/>
+		</td>
+		<td width="25%">
+			<img src="/images/6-150x300.jpg"/>
+		</td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>Students taking part in the Walk for Rice, a collaboration with South East CDC, during PE lessons</td>
     <td>Students taking part in the YN VIA Home Challenge</td>
@@ -62,4 +65,3 @@ To establish an effective learning environment, spaces are created for their voi
   </tr>
 </tbody>
 </table>
-
