@@ -70,3 +70,6 @@ description: ""
 		<td width="33%"><img src="/images/pic-2.png"/></td>
 		<td width="33%"><img src="/images/pic-1-215x300.png" style="padding:0px 50px 0px 40px"/></td>
 	</tr>
+</table>
+
+<b>B) Learning Journeys</b>
