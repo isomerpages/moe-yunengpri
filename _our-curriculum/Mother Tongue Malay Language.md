@@ -29,4 +29,16 @@ description: ""
 	</tr>
 </table>
 
-The Mother Tongue Fortnight provided students with an authentic learning of the Mother Tongue Languages through a wide range of cultural activities. Students learnt about songs, poetry and stories through drama and Dikir Barat. Traditional musical instruments such as Angklung and Kompang were also introduced. Students had fun participated in the traditional games. Screening of folklore stories and participating in games such as Pintar Kata (Smart in Vocabulary), Scrabble and Boggle encouraged the learning of vocabulary. 
+The Mother Tongue Fortnight provided students with an authentic learning of the Mother Tongue Languages through a wide range of cultural activities. Students learnt about songs, poetry and stories through drama and Dikir Barat. Traditional musical instruments such as Angklung and Kompang were also introduced. Students had fun participated in the traditional games. Screening of folklore stories and participating in games such as Pintar Kata (Smart in Vocabulary), Scrabble and Boggle encouraged the learning of vocabulary.
+
+<b><u> Reading Programme</u></b>
+
+<img src="/images/reading-programme-1-1024x768.jpg" style="width:40%"/>
+
+This programme encourages students to express their thoughts and opinions based on the reading materials: _Mari Membaca_ magazine, _Kembara Nusa_ magazine and story books. In this programme, students get the opportunity to take on the role of a character from these reading materials and write an alternative ending based on a story.
+
+<b><u> Oracy Programme </u></b>
+
+<img src="/images/oracy-programme-1350x1013.jpg" style="width:40%"/>
+
+The objectives of the oracy programme are to enhance students’ ability to express themselves clearly and communicate with others effectively through spoken Malay Language. Students will have the opportunity to have a conversation with their peers and exchange ideas with others. Through this programme, students are able to gain confidence in using the Malay Language.
