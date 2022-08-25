@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mathematics.md
       - Science.md
       - Mother Tongue Chinese Language.md
       - Mother Tongue Malay Language.md
