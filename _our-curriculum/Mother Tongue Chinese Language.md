@@ -18,3 +18,10 @@ description: ""
 
 #### KEY PROGRAMMES
 
+<table>
+	<tr>
+		<td colspan="3">
+			The department aims to make the learning of MT languages a joyful, meaningful and relatable experience by incorporating authentic learning in its curriculum. We also create a language-rich environment in the classrooms and school language corner to promote fun learning of Chinese language.
+		</td>
+	</tr>
+</table>
