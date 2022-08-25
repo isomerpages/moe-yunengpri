@@ -77,6 +77,15 @@ Science learning takes place beyond the classroom. Besides at one learning trail
 
 <table style="border:1px solid black">
 	<tr>
-		<td>
-			
-			
+		<td colspan="3">
+			<b>P1 and P2 Learning Journeys to the Singapore Science Centre</b>
+			<br><br>
+			Our P1 and P2 students visit the Singapore Science Centre and engage in hands-on activities via workshops to learn more about the garden habitat (P1) and the world of insects (P2). These experiences concretise what they learn in the STELLAR curriculum and arouse their interest and curiosity about their environment.
+		</td>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/pic-3-1-300x225.jpg"/></td>
+		<td width="33%"><img src="/images/pic-2-1-300x225.jpg"/></td>
+		<td width="33%"><img src="/images/pic-1-225x300.jpg" style="padding:0px 50px 0px 40px"/></td>
+	</tr>
+		
