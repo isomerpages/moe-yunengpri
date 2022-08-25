@@ -35,3 +35,38 @@ description: ""
 
 #### KEY PROGRAMMES
 
+<b>A) Growing Minds, Growing Hearts</b> <br>
+ Growing Minds, Growing Hearts is a Science department 6 year programme to groom students to be stewards of the environment in promoting green efforts towards a more sustainable future. This is to ensure that the Earth and all of its resources can continue to provide a home for people, animals and plants.
+
+<table style="border:1px solid black">
+	<tr>
+		<td>
+			<b>
+				EXPOSE P1 and P2<br>
+				Integration of Science into P1 and P2 STELLAR
+			</b>
+			<br><br>
+			The Science in STELLAR Programme is a collaboration with the English department to infuse Science with learning English. Themes include “A Butterfly is Born”, “What Will the Weather Be Like Today?”, and “The Enormous Watermelon”. Cross-disciplinary activities are used to engage learners in the classroom and arouse their interests in Science and the world around them, before they start learning Science at P3.
+		</td>
+	</tr>
+</table>
+
+<table style="border:1px solid black">
+	<tr>
+		<td colspan="3">
+			<b>
+				EXTEND P3 and P4 <br>
+				P3 Every Child A Seed Programme <br> 
+				P4 Vegetable Planting for the Community
+			</b>
+			<br><br>
+			Students’ involvement are extended to hands on activities by them planting their own plants. P3 students will get their own pots, soil and seeds from Nparks and learn about the Plant System during Science lessons. While P4 students will also grow vegetables from seeds before transplanting them into the vegetable plots in our very own eco garden. They will learn not only on life cycle of plants but they will also be harvesting the vegetables they have planted and distributing them to the community.
+			<br>
+			It is a way giving back to the community by showing our care and emphathy with the others.
+		</td>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/pic-3.png" style="padding:0px 20px 0px 25px"/></td>
+		<td width="33%"><img src="/images/pic-2.png"/></td>
+		<td width="33%"><img src="/images/pic-1-215x300.png" style="padding:0px 50px 0px 40px"/></td>
+	</tr>
