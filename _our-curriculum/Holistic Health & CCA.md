@@ -58,13 +58,33 @@ description: ""
 			</td>
 	</tr>
 	<tr>
-		<td><img src="/images/4-300x225.png"/></td>
-		<td><img src="/images/5-300x225.png"/></td>
-		<td><img src="/images/6-300x225.png"/></td>
+		<td width="33%"><img src="/images/4-300x225.png"/></td>
+		<td width="33%"><img src="/images/5-300x225.png"/></td>
+		<td width="33%"><img src="/images/6-300x225.png"/></td>
 	</tr>
 	<tr>
 		<td>Athletes</td>
 		<td>Territorial-Invasion Games</td>
 		<td>Net Barrier Games</td>
-	</tr>		
+	</tr>
+	<tr>
+		<td><img src="/images/7-300x225.png"/></td>
+		<td><img src="/images/8-113x150.jpg" style="padding:0px 45px 0px 45px"/></td>
+		<td><img src="/images/9-300x225.png"/></td>
+	</tr>
+	<tr>
+		<td>Games & Sports</td>
+		<td>Modified Equipment</td>
+		<td>Swimming Lessons</td>
+	</tr>
+	<tr>
+		<td><img src="/images/10-300x225.png"/></td>
+		<td><img src="/images/Gymnastics-Agility-Balance-1-169x300.jpg" style="padding:0px 60px 0px 60px"/></td>
+		<td><img src="/images/12-300x225.jpg"/></td>
+	</tr>
+	<tr>
+		<td>Health Education</td>
+		<td>Gymnastics</td>
+		<td>PE Monitor Training</td>
+	</tr>
 </table>
