@@ -88,4 +88,34 @@ Science learning takes place beyond the classroom. Besides at one learning trail
 		<td width="33%"><img src="/images/pic-2-1-300x225.jpg"/></td>
 		<td width="33%"><img src="/images/pic-1-225x300.jpg" style="padding:0px 50px 0px 40px"/></td>
 	</tr>
-		
+</table>
+
+<table style="border:1px solid black">
+	<tr>
+		<td colspan="3">
+			<b>P3 Learning Journey to the Singapore Zoo</b>
+			<br><br>
+			Our P3 students visit the Singapore Zoo, where they get to witness different animals, including endangered animals, and learn more about the animals’ lifestyles and efforts to conserve them. This learning experience also paves the way as they embark on P3 Project Work to advocate for the conservation of animals.
+		</td>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/IMG-20200709-WA0000-300x225.jpg"/></td>
+		<td width="33%"><img src="/images/IMG-20200709-WA0008-300x225.jpg"/></td>
+		<td width="33%"><img src="/images/IMG-20200709-WA0010-300x225.jpg"/></td>
+	</tr>
+</table>
+
+<table style="border:1px solid black">
+	<tr>
+		<td colspan="3">
+			<b>P5 Learning Journey to the Sustainable Singapore Gallery</b>
+			<br><br>
+			Our P5 students visit the Marina Barrage where they learn more about the Singapore Water Story and visit the Sustainable Singapore Gallery to learn how they can play a part to create a liveable and sustainable Singapore. There is also a hands-on workshop where they will get a chance to try upcycling of materials.
+		</td>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/pic-3-2-300x169.jpg"/></td>
+		<td width="33%"><img src="/images/pic-2-2-300x169.jpg"/></td>
+		<td width="33%"><img src="/images/pic-1-1-300x169.jpg"/></td>
+	</tr>
+</table>
