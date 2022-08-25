@@ -72,4 +72,11 @@ description: ""
 	</tr>
 </table>
 
-<b>B) Learning Journeys</b>
+<b>B) Learning Journeys</b><br>
+Science learning takes place beyond the classroom. Besides at one learning trails at our school Multi-Sensory Ecogarden from P3 to P6 levels, students also explore other places to foster stronger connections between real-life experiences and its application in Science questions.
+
+<table style="border:1px solid black">
+	<tr>
+		<td>
+			
+			
