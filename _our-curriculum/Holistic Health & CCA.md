@@ -41,17 +41,20 @@ description: ""
 </tbody></table>
 
 
-		<table>
-	<tbody><tr><td colspan="3">
-			The&nbsp;<b>upper primary</b> level builds on students’ development in the lower primary. There is further refinement of basic movement patterns, and the&nbsp;<b>development of combined skills to help them move with increasing complexity, variety, and versatility to take on more challenging movement activities and tasks.</b> Students, therefore, develop the more complex and specialised movement skills that are needed for sports and other physical activities. Specifically for games and sports, the games-related concepts such as ‘use of space’, ‘maintain possession’, ‘create attack’, ‘organise defence’ and ‘defend space and bases’ are articulated within the various categories of territorial-invasion, net-barrier, and striking-fielding games.
-
-Key Learning Areas
-			<ul>
-				<li>Sports &amp; Games</li>
-				<li>Gymnastics</li>
-			</ul>
-*   Dance
-*   Physical Health &amp; Fitness
-*   Outdoor Education
-*   Athletics (from Primary 3 onward)
-*   Swimming</td></tr></tbody></table>
+<table>
+	<tr>
+		<td colspan="3">
+		The <b>upper primary</b> level builds on students’ development in the lower primary. There is further refinement of basic movement patterns, and the&nbsp;<b>development of combined skills to help them move with increasing complexity, variety, and versatility to take on more challenging movement activities and tasks.</b> Students, therefore, develop the more complex and specialised movement skills that are needed for sports and other physical activities. Specifically for games and sports, the games-related concepts such as ‘use of space’, ‘maintain possession’, ‘create attack’, ‘organise defence’ and ‘defend space and bases’ are articulated within the various categories of territorial-invasion, net-barrier, and striking-fielding games. <br><br>
+			Key Learning Areas
+				<ul>
+					<li>Sports &amp; Games</li>
+					<li>Gymnastics</li>
+					<li>Dance</li>
+					<li>Physical Health &amp; Fitness</li>
+					<li>Outdoor Education</li>
+					<li>Athletics (from Primary 3 onward)</li>
+					<li>Swimming</li>
+				</ul>
+			</td>
+	</tr>
+</table>
