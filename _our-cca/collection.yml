@@ -1,0 +1,4 @@
+collections:
+  our-cca:
+    output: true
+    order: []
