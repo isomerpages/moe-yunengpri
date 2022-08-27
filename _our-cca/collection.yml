@@ -2,7 +2,7 @@ collections:
   our-cca:
     output: true
     order:
-      - Clubs & Societies/E Innovation Club.md
+      - Clubs & Societies/E nnovation Club.md
       - Clubs & Societies/Broadcast Journalism Club.md
       - Clubs & Societies/Maths Club.md
       - Clubs & Societies/.keep
