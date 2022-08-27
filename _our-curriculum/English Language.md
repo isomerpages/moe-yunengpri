@@ -72,11 +72,30 @@ Students also acquire multiliteracies when they analyse texts, pictures and vide
 
 <table style="border:1px solid black">
 	<tr>
-		<td>
+		<td colspan="3">
 			<b><u>Joyful Writing</u></b><br>
 			<br>
 Writing for different purposes is an important skill. The Joyful Writing programme aims to provide students with positive, authentic writing experiences. Students are equipped with the skills and strategies to use appropriate text types to write for different purposes.
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td width="22%"><img src="/images/Joyful-Writing-1-173x300.jpg"/></td>
+		<td width="28%"><img src="/images/Joyful-Writing-2-225x300.jpg"/></td>
+		<td width="49%"><img src="/images/Joyful-Writing-3-300x225.jpg"/></td>
+	</tr>
+</table>
+
+<table style="border:1px solid black">
+	<tr>
+		<td colspan="3">
+			<b><u>Pupil Oracy Programme (POP): Learning To Talk Through Talk </u></b><br>
+			<br>
+The POP is an exciting programme designed to enable our students to acquire the skills to talk effectively as well as developing subject knowledge and understanding through talk. POP focuses on the four strands of oracy – physical, cognitive, linguistic and socio-emotional – to enable students to communicate effectively with one another. Students practise their skills through presentations, discussions (of current affairs and contemporary issues) and debates.
+		</td>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/Pupil-Oracy-Programme-1-300x199.jpg"/></td>
+		<td width="30%"><img src="/images/Pupil-Oracy-Programme-2-300x233.jpeg"/></td>
+		<td width="37%"><img src="/images/Pupil-Oracy-Programme-3-300x180.jpg"/></td>
+	</tr>
+</table>
