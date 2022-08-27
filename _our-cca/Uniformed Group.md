@@ -21,4 +21,4 @@ Working in packs (teams) places responsibility on their young shoulders and teac
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mdm Siti Aminah (OIC) <br><br> Ms Leelanti | Tuesdays: 2pm to 4pm <br><br> *(Please refer to the schedule given each semester).* | Teaching Lab |
+| Mdm Siti Aminah (OIC) <br>Ms Leelanti | Tuesdays: 2pm to 4pm <br> *(Please refer to the schedule given each semester).* | Teaching Lab |
