@@ -14,6 +14,7 @@ The school crest symbolises the aims and aspirations of Yu Neng Primary School.
 - The circle represents the unity that everyone in Yu Neng Primary School will work towards a common goal amidst the diversity of people. It also represents the ‘total education’ that the school provides, that is, to develop all students in the social aesthetic, moral, physical and academic areas.
 - The book represents the acquisition of knowledge.
 - The torch represents the light that shines and guides us as we strive towards excellence. It is also a symbol that the caring leaders we nurture be good example for others to follow.
+
 | | |
 | --- | --- |
 | ![](/images/blue-144x150.png) | The dark blue outer ring signifies joy and happiness. |
