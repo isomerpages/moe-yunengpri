@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parent Support Group (PSG)/PSG Activities.md
       - Parent Support Group (PSG)/Join Us.md
       - Parent Support Group (PSG)/.keep
       - School Advisory Committee (SAC).md
