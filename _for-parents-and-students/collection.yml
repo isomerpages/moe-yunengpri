@@ -2,6 +2,7 @@ collections:
   for-parents-and-students:
     output: true
     order:
+      - Booklist, Uniform & School Bus.md
       - Health Promotion @ YN/Parents Gateway.md
       - Health Promotion @ YN/Health Promotion @ YN.md
       - Health Promotion @ YN/Canteen Menu.md
