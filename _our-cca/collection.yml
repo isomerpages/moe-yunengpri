@@ -2,6 +2,7 @@ collections:
   our-cca:
     output: true
     order:
+      - Performing Arts/.keep
       - Clubs & Societies/Overview.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Community & Environment Care Club.md
