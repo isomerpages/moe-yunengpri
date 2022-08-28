@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Yu Neng Primary School
       subtitle: Aspire, Learn & Lead
-      background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
   - infopic:
@@ -27,4 +26,3 @@ sections:
       image: /images/IMG_1689-e1498179786675.jpg
       alt: LLP (Sports)
 ---
-
