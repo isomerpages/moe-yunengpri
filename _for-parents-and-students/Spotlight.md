@@ -20,7 +20,7 @@ description: ""
 	<tr>
 		<td>
 			<img src="/images/Bicentennial-145x150.jpg" style="width:30%"/> <br>
-			<p align="center"><a href="https://yunengpri.moe.edu.sg/wp-content/uploads/2019/07/2019-Spotlight-The-Singapore-Bicentennial-Edition_Sem-1.pdf"> Sem 1: The Singapore Bicentennial Edition < file exceeds 5MB > </a></p>
+			<p align="center"><a href="https://yunengpri.moe.edu.sg/wp-content/uploads/2019/07/2019-Spotlight-The-Singapore-Bicentennial-Edition_Sem-1.pdf"> Sem 1: The Singapore Bicentennial Edition - file exceeds 5MB  </a></p>
 		</td>
 	</tr>
 </table>
@@ -30,10 +30,10 @@ description: ""
 	<tr>
 		<td>
 			<img src="/images/1-253x300.png" style="width:60%"/><br>
-			<p align="center"><a href="https://yunengpri.moe.edu.sg/wp-content/uploads/2017/03/Yu-Neng-Spotlight-NL_final-version.pdf"> June 2018 < file exceeds 5MB > </a></p>
+			<p align="center"><a href="https://yunengpri.moe.edu.sg/wp-content/uploads/2017/03/Yu-Neng-Spotlight-NL_final-version.pdf"> June 2018 - file exceeds 5MB  </a></p>
 		<td>
 			<img src="/images/1-3-106x150.png" style="width:60%"/> <br>
-			<p align="center"><a href="https://yunengpri.moe.edu.sg/wp-content/uploads/2018/11/Yu-Neng-Spotlight-NL-Term2_FA.pdf"> Nov 2018 < file exceeds 5MB > </a></p>
+			<p align="center"><a href="https://yunengpri.moe.edu.sg/wp-content/uploads/2018/11/Yu-Neng-Spotlight-NL-Term2_FA.pdf"> Nov 2018 - file exceeds 5MB </a></p>
 		</td>
 	</tr>
 </table>
@@ -43,10 +43,10 @@ description: ""
 	<tr>
 		<td>
 			<img src="/images/Spotlight-Jun-2017-224x300.png" style="width:60%"/><br>
-			<p align="center"><a href="https://yunengpri.moe.edu.sg/wp-content/uploads/2017/07/Yuneng-Jun-2017.pdf"> June 2017 < file exceeds 5MB > </a></p>
+			<p align="center"><a href="https://yunengpri.moe.edu.sg/wp-content/uploads/2017/07/Yuneng-Jun-2017.pdf"> June 2017 - file exceeds 5MB </a></p>
 		<td>
 			<img src="/images/Nov2017.png" style="width:60%"/> <br>
-			<p align="center"><a href="https://yunengpri.moe.edu.sg/wp-content/uploads/2017/03/Yu-Neng-Spotlight-NL_Nov17_041117.pdf"> Nov 2017 < file exceeds 5MB > </a></p>
+			<p align="center"><a href="https://yunengpri.moe.edu.sg/wp-content/uploads/2017/03/Yu-Neng-Spotlight-NL_Nov17_041117.pdf"> Nov 2017 - file exceeds 5MB</a></p>
 		</td>
 	</tr>
 </table>
