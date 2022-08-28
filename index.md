@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Yu Neng Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Yu Neng Primary School.jpg
 permalink: /
 notification: ""
 sections:
@@ -27,3 +27,4 @@ sections:
       image: /images/IMG_1689-e1498179786675.jpg
       alt: LLP (Sports)
 ---
+
