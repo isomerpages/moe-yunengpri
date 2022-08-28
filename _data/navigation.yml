@@ -1,6 +1,13 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our School
+    collection: our-school
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our CCA
+    collection: our-cca
+  - title: Our Partners
+    collection: our-partners
+  - title: For Parents & Students
+    url: /permalink
+    sublinks: []
