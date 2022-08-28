@@ -1,4 +1,5 @@
 collections:
   for-parents-and-students:
     output: true
-    order: []
+    order:
+      - School eResource Repository (OPAC).md
