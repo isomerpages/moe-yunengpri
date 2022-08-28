@@ -2,4 +2,5 @@ collections:
   for-parents-and-students:
     output: true
     order:
+      - Spotlight.md
       - School eResource Repository (OPAC).md
