@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - School History.md
       - Staff Information.md
@@ -12,3 +11,4 @@ collections:
       - School Song.md
       - Learning Dispositions.md
       - Achievements.md
+      - Contact Us.md
