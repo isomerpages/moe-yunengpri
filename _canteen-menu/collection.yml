@@ -2,7 +2,7 @@ collections:
   canteen-menu:
     output: true
     order:
-      - Kampung Bagus.md
+      - Kampong Bagus.md
       - Nippon Oiishi (Halal).md
       - Wild Wild West (Halal).md
       - Dragon Origin.md
