@@ -8,7 +8,7 @@ third_nav_title: Clubs & Societies
 
 <table>
 	<tr>
-		<td><img src="/images/ArtClub-1.jpg"/></td>
+		<td width="33%"><img src="/images/ArtClub-1.jpg"/></td>
 		<td><img src="/images/ArtClub-2.jpg"/></td>
 		<td><img src="/images/ArtClub-3.jpg"/></td>
 	</tr>
