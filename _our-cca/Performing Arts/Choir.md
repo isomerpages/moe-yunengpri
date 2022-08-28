@@ -8,9 +8,9 @@ third_nav_title: Performing Arts
 
 <table>
 	<tr>
-		<td><img src="/images/Choir-1.jpeg"/></td>
-		<td><img src="/images/Choir-2.jpeg"/></td>
-		<td><img src="/images/Choir-3.jpeg"/></td>
+		<td><img src="/images/Choir-1.jpg"/></td>
+		<td width="25%"><img src="/images/Choir-2.jpg"/></td>
+		<td><img src="/images/Choir-3.jpg"/></td>
 	</tr>
 </table>
 
