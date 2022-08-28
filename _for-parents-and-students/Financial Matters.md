@@ -22,7 +22,7 @@ There is also school-based assistance to benefit those who do not meet the quali
 *   Parents should obtain the application form from the General Office **or**
 *   [Click here](/files/MOE-FAS-Application-Form-Aug-21-FINAL.pdf) to download the application form.
 
-**NEU PC Plus Programme**
+#### NEU PC Plus Programme
 
 Students from low income households who wish to own a new computer at a subsidised price can apply for one under the NEU PC Plus Programme administered by Info-communications Media Development Authority (IMDA). Under this Programme, each eligible household may apply for one subsidised computer once every 3 years, regardless of the number of school-going children or household members with permanent disabilities.
 
