@@ -2,6 +2,7 @@ collections:
   for-parents-and-students:
     output: true
     order:
+      - Direct School Admission (DSA Sec).md
       - Sexuality Education (SEd).md
       - School Waiting List.md
       - Meet the Parents Session.md
