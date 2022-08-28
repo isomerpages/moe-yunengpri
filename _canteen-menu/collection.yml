@@ -2,4 +2,5 @@ collections:
   canteen-menu:
     output: true
     order:
+      - Natural Spring.md
       - Oriental Pearl.md
