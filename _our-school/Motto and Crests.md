@@ -5,7 +5,7 @@ description: ""
 ---
 ### MOTTO AND CRESTS
 
-<h4 align="center">Our School Crest</h5>
+<h4 align="center">Our School Crest</h4>
 
 
 <img src="/images/Yu_Neng_Final_Logo_-_Transparent_For_Coloured_Backgrounds-931x1024.png" style="width:40%"/>
