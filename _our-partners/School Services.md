@@ -14,4 +14,4 @@ description: ""
 | CANTEEN | Canteen Hours:<br>Mon – Fri : 7.00am – 3.00pm  |
 | BUS TRANSPORT | Lingo Star Transport<br><br>Operating time:<br>Mon – Fri: 7.00am – 7.00pm<br><br>Tel: 64450514<br>Hp: 93874020 (Mr Eddie Lim)<br>Fax: 65207944<br>  |
 | SCHOOL DENTAL CLINIC | School Dental Clinic<br><br>Opening hours:<br>Mon – Thu: 8.00am – 5.30pm<br>Fri – 8.00am – 5.00pm<br>Lunch time : 12.30pm – 1.30pm<br><br>Tel/Fax: 64435067 |
-| STUDENT CARE | Big Heart Student Care<br><br>Operating Hours:<br>Mon – Fri: 10 am – 7 pm<br><br>Contact number: 8189 2305<br>Email address: [yuneng@shgstudentcarecentre.com.sg](mailto:yuneng@shgstudentcarecentre.com.sg)<br><br>[![](/images/YN-Big-Heart-300x169.jpg)](/YN-Big-Heart/)<br>Click on the image to enlarge. |
+| STUDENT CARE | Big Heart Student Care<br><br>Operating Hours:<br>Mon – Fri: 10 am – 7 pm<br><br>Contact number: 8189 2305<br>Email address: [yuneng@shgstudentcarecentre.com.sg](mailto:yuneng@shgstudentcarecentre.com.sg)<br><br>![](/images/YN-Big-Heart-300x169.jpg)<br>Click on the image to enlarge. |
