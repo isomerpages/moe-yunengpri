@@ -1,0 +1,4 @@
+collections:
+  canteen-menu:
+    output: true
+    order: []
