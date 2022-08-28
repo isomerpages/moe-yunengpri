@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - School Advisory Committee (SAC).md
       - Alumni.md
       - School Services.md
