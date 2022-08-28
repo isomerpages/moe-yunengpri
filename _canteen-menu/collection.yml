@@ -2,6 +2,7 @@ collections:
   canteen-menu:
     output: true
     order:
+      - Nippon Oiishi.md
       - Wild Wild West (Halal).md
       - Dragon Origin.md
       - Natural Spring.md
