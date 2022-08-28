@@ -43,4 +43,4 @@ third_nav_title: Parent Support Group (PSG)
 | Post PSLE Programme for P6 | Term 4 |
 
 The above schedule of events may be subject to changes from time to time. <br>
-**_Event photos will be available at our_** [PSG facebook group](https://www.facebook.com/groups/ynpspsg/), exclusive for PSG members**_._**
+**_Event photos will be available at our_** [PSG facebook group](https://www.facebook.com/groups/ynpspsg/), exclusive for PSG members.
