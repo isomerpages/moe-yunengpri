@@ -2,6 +2,7 @@ collections:
   for-parents-and-students:
     output: true
     order:
+      - Parent Volunteer.md
       - Financial Matters.md
       - Direct School Admission (DSA Sec).md
       - Sexuality Education (SEd).md
