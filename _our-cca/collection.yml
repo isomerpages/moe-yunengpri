@@ -2,6 +2,7 @@ collections:
   our-cca:
     output: true
     order:
+      - Sports & Games/Badminton.md
       - Sports & Games/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Chinese Orchestra.md
