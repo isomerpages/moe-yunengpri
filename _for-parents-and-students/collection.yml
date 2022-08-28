@@ -2,6 +2,7 @@ collections:
   for-parents-and-students:
     output: true
     order:
+      - Health Promotion @ YN/Health Promotion @ YN.md
       - Health Promotion @ YN/Canteen Menu.md
       - Health Promotion @ YN/.keep
       - Primary 1 Registration.md
