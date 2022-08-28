@@ -39,4 +39,6 @@ No single food can provide all the nutrients that your body needs. That is why y
 | --- | --- |
 | ![](/images/4-1-300x300.jpg) | ![](/images/5-300x300.jpg) |
 | ![](/images/6-300x300.jpg) | ![](/images/7-300x300.jpg) | 
-| ![](/images/8-300x300.jpg) | ![](/images/9-293x300.jpg) | 
+| ![](/images/8-300x300.jpg) | ![](/images/9-293x300.jpg) |
+
+Posters are placed at strategic location to remind students to have a balanced diet
