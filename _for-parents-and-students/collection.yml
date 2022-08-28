@@ -2,6 +2,7 @@ collections:
   for-parents-and-students:
     output: true
     order:
+      - Meet the Parents Session.md
       - Letter to Parents.md
       - Spotlight.md
       - School eResource Repository (OPAC).md
