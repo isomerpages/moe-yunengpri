@@ -21,7 +21,7 @@ third_nav_title: Parent Support Group (PSG)
 
 | | |
 | --- | --- |
-| Events | <ul><li>To collaborate and support school-driven events / programmes</li><li>To engage parents through education programmes and outreach efforts</li> |
-| Creative Work | <ul><li>To support in areas where artwork and/or creative design are required</li> |
-| Environment | <ul><li>To support school’s green initiatives such as Project Green</li> |
-| Communication | <ul><li>To support communication efforts with members via various contact platforms</li><li>To support membership recruitment initiatives and maintain membership database</li> |
+| Events | * To collaborate and support school-driven events / programmes<br> * To engage parents through education programmes and outreach efforts |
+| Creative Work | * To support in areas where artwork and/or creative design are required |
+| Environment | * To support school’s green initiatives such as Project Green |
+| Communication | * To support communication efforts with members via various contact platforms<br>* To support membership recruitment initiatives and maintain membership database |
