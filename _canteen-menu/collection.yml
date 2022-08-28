@@ -1,4 +1,5 @@
 collections:
   canteen-menu:
     output: true
-    order: []
+    order:
+      - Oriental Pearl.md
