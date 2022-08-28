@@ -2,5 +2,6 @@ collections:
   canteen-menu:
     output: true
     order:
+      - Dragon Origin.md
       - Natural Spring.md
       - Oriental Pearl.md
