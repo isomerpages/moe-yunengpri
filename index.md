@@ -9,6 +9,7 @@ sections:
   - hero:
       title: Yu Neng Primary School
       subtitle: Aspire, Learn & Lead
+      background: /images/IMG_0649 (1).jpg
   - infopic:
       title: ALP (ICT)
       description: Read more about our ALP in Info-Comm Technology.
