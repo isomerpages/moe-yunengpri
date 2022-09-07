@@ -10,6 +10,11 @@ sections:
       title: Yu Neng Primary School
       subtitle: Aspire, Learn & Lead
       background: /images/IMG_0649 (1).jpg
+  - infobar:
+      title: Important Announcements
+      description: Please click on the link below
+      button: Button Text
+      url: https://www.google.com/
   - infopic:
       title: ALP (ICT)
       description: Read more about our ALP in Info-Comm Technology.
