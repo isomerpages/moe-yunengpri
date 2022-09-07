@@ -4,7 +4,7 @@ title: Yu Neng Primary School
 description: Brief site description here
 image: /images/Yu Neng Primary School.jpg
 permalink: /
-notification: ""
+notification: Welcome To Yu Neng Primary School
 sections:
   - hero:
       title: Yu Neng Primary School
