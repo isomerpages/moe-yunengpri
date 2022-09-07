@@ -13,7 +13,7 @@ sections:
   - infobar:
       title: Important Announcements
       description: Please click on the link below
-      button: Button Text
+      button: Link
       url: https://www.google.com/
   - infopic:
       title: ALP (ICT)
