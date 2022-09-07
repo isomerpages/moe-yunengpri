@@ -10,6 +10,8 @@ sections:
       title: Yu Neng Primary School
       subtitle: Aspire, Learn & Lead
       background: /images/IMG_0649 (1).jpg
+      url: https://form.gov.sg/5f20c79d5961620011e343f7
+      button: Share a Compliment
   - infobar:
       title: Important Announcements
       description: Please click on the link below
