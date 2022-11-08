@@ -1,15 +1,43 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/cropped-3-1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Our School
+    collection: our-school
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our CCA
+    collection: our-cca
+  - title: Our Partners
+    collection: our-partners
+  - title: For Parents & Students
+    url: "#"
+    sublinks:
+      - title: E-learning Platforms
+        url: /e-learning-platforms/
+      - title: Parents Gateway
+        url: /2978-2/
+      - title: Booklist, Uniform & School Bus
+        url: /booklist/
+      - title: Health Promotion @ YN
+        url: /health-promotion-yn/
+      - title: Primary 1 Registration
+        url: /primary-1-registration/
+      - title: Parent Volunteer
+        url: /parent-volunteer/
+      - title: Financial Matters
+        url: /financial-matters/
+      - title: Direct School Admission (DSA)
+        url: /direct-school-admission-dsa-sec/
+      - title: Sexuality Education (SEd)
+        url: /sexuality-education-sed/
+      - title: School Waiting List
+        url: /school-waiting-list/
+      - title: Meet the Parents Session
+        url: /meet-parents-session/
+      - title: Letter to Parents
+        url: /letter-to-parents/
+      - title: Spotlight
+        url: /newsletter/
+      - title: School eResource Repository
+        url: https://schoolibrary.moe.edu.sg/yunengpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+  - title: P1 Orientation
+    url: https://yunengpri.moe.edu.sg/

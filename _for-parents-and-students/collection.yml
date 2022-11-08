@@ -1,0 +1,20 @@
+collections:
+  for-parents-and-students:
+    output: true
+    order:
+      - E Learning Platforms.md
+      - Parents Gateway.md
+      - Booklist, Uniform & School Bus.md
+      - Health Promotion @ YN/Health Promotion @ YN.md
+      - Health Promotion @ YN/Canteen Menu.md
+      - Health Promotion @ YN/.keep
+      - Primary 1 Registration.md
+      - Parent Volunteer.md
+      - Financial Matters.md
+      - Direct School Admission (DSA Sec).md
+      - Sexuality Education (SEd).md
+      - School Waiting List.md
+      - Meet the Parents Session.md
+      - Letter to Parents.md
+      - Spotlight.md
+      - School eResource Repository (OPAC).md

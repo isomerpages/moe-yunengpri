@@ -1,0 +1,16 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Chinese Language.md
+      - Mother Tongue Malay Language.md
+      - Holistic Health & CCA.md
+      - Creative Arts.md
+      - Social Studies.md
+      - Programme for Active Learning (PAL).md
+      - Character & Citizenship Education (CCE).md
+      - Applied Learning in ICT.md
+      - Learning for Life Programme.md

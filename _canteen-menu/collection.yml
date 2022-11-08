@@ -1,0 +1,10 @@
+collections:
+  canteen-menu:
+    output: true
+    order:
+      - Kampong Bagus.md
+      - Nippon Oiishi (Halal).md
+      - Wild Wild West (Halal).md
+      - Dragon Origin.md
+      - Natural Spring.md
+      - Oriental Pearl.md
