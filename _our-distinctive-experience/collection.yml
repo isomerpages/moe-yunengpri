@@ -2,5 +2,6 @@ collections:
   our-distinctive-experience:
     output: true
     order:
+      - CCA/Sports & Games.md
       - CCA/CCA Overview.md
       - CCA/.keep
