@@ -1,4 +1,5 @@
 collections:
   our-distinctive-experience:
     output: true
-    order: []
+    order:
+      - CCA/.keep
