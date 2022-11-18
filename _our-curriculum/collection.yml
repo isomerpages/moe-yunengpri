@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Holistic Health & CCA/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
