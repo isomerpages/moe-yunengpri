@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA Overview.md
       - Sports & Games/Sports & Games.md
       - Sports & Games/.keep
       - Performing Arts/Performing Arts.md
