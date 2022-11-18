@@ -1,5 +1,5 @@
 collections:
-  our-distinctive-experience:
+  our-cca:
     output: true
     order:
       - CCA Overview.md
