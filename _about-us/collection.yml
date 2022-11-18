@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Services/.keep
       - School History.md
       - Mission, Vision, Values.md
       - Motto and Crests.md
@@ -10,4 +9,5 @@ collections:
       - School Song.md
       - Learning Dispositions.md
       - Achievements.md
+      - School Services/.keep
       - School Services.md
