@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Services/.keep
       - School History.md
       - Mission, Vision, Values.md
       - Motto and Crests.md
