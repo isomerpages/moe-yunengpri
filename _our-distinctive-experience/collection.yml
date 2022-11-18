@@ -2,7 +2,7 @@ collections:
   our-distinctive-experience:
     output: true
     order:
-      - CCA.md
+      - CCA Overview.md
       - Sports & Games/Sports & Games.md
       - Sports & Games/.keep
       - Performing Arts/Performing Arts.md
