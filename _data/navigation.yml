@@ -1,13 +1,13 @@
 logo: /images/cropped-3-1.png
 links:
-  - title: Our School
+  - title: About US
     collection: our-school
+  - title: Our Family
+    collection: our-partners
   - title: Our Curriculum
     collection: our-curriculum
   - title: Our CCA
     collection: our-cca
-  - title: Our Partners
-    collection: our-partners
   - title: For Parents & Students
     url: "#"
     sublinks:
