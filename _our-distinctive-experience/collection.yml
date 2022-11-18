@@ -2,6 +2,5 @@ collections:
   our-distinctive-experience:
     output: true
     order:
-      - SPORTS & GAMES/Table Tennis.md
       - SPORTS & GAMES/.keep
       - CCA.md
