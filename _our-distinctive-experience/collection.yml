@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - CCA Overview.md
-      - Test.md
