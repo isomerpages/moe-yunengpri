@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School History.md
-      - Staff Information.md
       - Mission, Vision, Values.md
       - Motto and Crests.md
       - Beliefs.md
