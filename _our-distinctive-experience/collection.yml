@@ -2,5 +2,4 @@ collections:
   our-distinctive-experience:
     output: true
     order:
-      - SPORTS & GAMES/.keep
       - CCA.md
