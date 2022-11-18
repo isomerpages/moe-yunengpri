@@ -2,7 +2,6 @@ collections:
   our-distinctive-experience:
     output: true
     order:
-      - SPORTS & GAMES/Volley Ball.md
       - SPORTS & GAMES/Floorball.md
       - SPORTS & GAMES/Table Tennis.md
       - SPORTS & GAMES/.keep
