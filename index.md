@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Parents and Students (Useful Links)
           description: ""
-          url: www.google.com
+          url: ""
         - title: For Staff (Useful Links)
           description: ""
           url: ""
