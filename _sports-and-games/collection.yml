@@ -2,5 +2,4 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Volley Ball.md
       - Badminton.md
