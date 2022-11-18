@@ -2,4 +2,4 @@ collections:
   our-distinctive-experience:
     output: true
     order:
-      - Example Title.md
+      - test.md
