@@ -2,9 +2,9 @@ collections:
   our-distinctive-experience:
     output: true
     order:
-      - CCA/Uniformed Group.md
+      - CCA/.keep
+      - CCA/CCA Overview.md
+      - CCA/Sports & Games.md
       - CCA/Clubs & Societies.md
       - CCA/Performing Arts.md
-      - CCA/Sports & Games.md
-      - CCA/CCA Overview.md
-      - CCA/.keep
+      - CCA/Uniformed Group.md
