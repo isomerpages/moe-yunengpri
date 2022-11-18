@@ -1,5 +1,4 @@
 collections:
   our-distinctive-experience:
     output: true
-    order:
-      - CCA.md
+    order: []
