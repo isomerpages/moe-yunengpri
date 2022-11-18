@@ -12,11 +12,13 @@ sections:
       background: /images/IMG_0649 (1).jpg
       url: https://form.gov.sg/5f20c79d5961620011e343f7
       button: Share a Compliment
-  - infobar:
-      title: Important Announcements
-      description: Please click on the link below
-      button: Link
-      url: https://www.google.com/
+      key_highlights:
+        - title: For Parents and Students (Useful Links)
+          description: ""
+          url: www.google.com
+        - title: For Staff (Useful Links)
+          description: ""
+          url: ""
   - infopic:
       title: ALP (ICT)
       description: Read more about our ALP in Info-Comm Technology.
