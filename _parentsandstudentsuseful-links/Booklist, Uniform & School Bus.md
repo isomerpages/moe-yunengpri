@@ -30,7 +30,7 @@ Primary 6<br>
 
 #### Uniform
 
-[2022 Uniform List](/files/Uniform-List.pdf)
+[2023 Uniform List](/files/2023-Uniform.pdf)
 
 #### School Bus
 
