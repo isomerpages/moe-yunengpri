@@ -2,6 +2,7 @@ collections:
   parentsandstudentsuseful-links:
     output: true
     order:
+      - School eResource Repository (OPAC).md
       - School Waiting List.md
       - Primary 1 Registration.md
       - Financial Matters.md
