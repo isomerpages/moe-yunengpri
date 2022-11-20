@@ -8,6 +8,8 @@ description: ""
 #### November2022
 
 * [Letter to Parents](/files/Nov-LTP.pdf)
+* [Annex A: Joint Advisory Year End 2022](/files/Annex-A_Joint-Advisory-Year-End-2022.pdf)
+* [Annex B: HPB HSA advisory on vaping](/files/Annex-B_HPB-HSA-advisory-on-vaping.pdf)
 
 #### October 2022
 
