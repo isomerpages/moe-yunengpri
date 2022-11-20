@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - NON TEACHING STAFF.md
       - Principal's Message.md
       - Parent Support Group (PSG)/Parent Support Group (PSG）.md
       - Parent Support Group (PSG)/About Us.md
