@@ -5,6 +5,10 @@ description: ""
 ---
 ### LETTER TO PARENTS
 
+#### November2022
+
+* [Letter to Parents](/files/Nov-LTP.pdf)
+
 #### October 2022
 
 * [Letter to Parents](/files/Oct-LTP.pdf)
