@@ -18,7 +18,7 @@ sections:
           url: /ps-useful-links/
         - title: For Staff (Useful Links)
           description: ""
-          url: https://yunengpri.moe.edu.sg/staff-useful-links/
+          url: /staff-useful-links/
   - infopic:
       title: Celebrating Writing
       description: Click here to know more about our celebrating Writing
