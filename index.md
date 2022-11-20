@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Parents and Students (Useful Links)
           description: ""
-          url: ""
+          url: /parents-and-students-useful-links/
         - title: For Staff (Useful Links)
           description: ""
           url: ""
