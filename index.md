@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Parents and Students (Useful Links)
           description: ""
-          url: https://yunengpri.moe.edu.sg/parents-and-students-useful-links/
+          url: /ps-useful-links/
         - title: For Staff (Useful Links)
           description: ""
           url: https://yunengpri.moe.edu.sg/staff-useful-links/
