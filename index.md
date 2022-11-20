@@ -23,7 +23,7 @@ sections:
       title: Celebrating Writing
       description: Click here to know more about our celebrating Writing
       button: Read More
-      url: /English-language
+      url: /English-language/
       image: /images/Celebrating-Writing.png
       alt: Image alt text
   - infopic:
