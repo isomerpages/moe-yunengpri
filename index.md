@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: For Parents and Students (Useful Links)
           description: ""
-          url: /parents-and-students-useful-links/
+          url: https://yunengpri.moe.edu.sg/parents-and-students-useful-links/
         - title: For Staff (Useful Links)
           description: ""
-          url: ""
+          url: https://yunengpri.moe.edu.sg/staff-useful-links/
   - infopic:
       title: Celebrating Writing
       description: Click here to know more about our celebrating Writing
