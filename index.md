@@ -20,6 +20,13 @@ sections:
           description: ""
           url: ""
   - infopic:
+      title: Celebrating Writing
+      description: Click here to know more about our celebrating Writing
+      button: Read More
+      url: /English-language
+      image: /images/Celebrating-Writing.png
+      alt: Image alt text
+  - infopic:
       title: ALP (ICT)
       description: Read more about our ALP in Info-Comm Technology.
       button: Read
