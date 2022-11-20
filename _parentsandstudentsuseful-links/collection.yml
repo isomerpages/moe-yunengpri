@@ -1,4 +1,5 @@
 collections:
   parentsandstudentsuseful-links:
     output: true
-    order: []
+    order:
+      - Booklist, Uniform & School Bus.md
