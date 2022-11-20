@@ -20,7 +20,8 @@ Primary 6<br>
 [(1S – English) (3F –  Maths, Science, MT)](https://drive.google.com/file/d/1k8mYPkifB4OGf6KnNskHboDvXOSYfWZc/view?usp=share_link)<br>
 [(2S –  English, MT) (2F – Maths, Science)](https://drive.google.com/file/d/1tWg07mAVTmLlZn7V6Z56jk350J0lT6t0/view?usp=share_link)<br>
 [(3S – English, Science, MT) (1F – Maths)](https://drive.google.com/file/d/1IImcfRlvj8KljnUrqCt-29B28NfxpAe2/view?usp=share_link)<br>
-
+[(3S – English, Maths, Science) (1F -MT)](https://drive.google.com/file/d/1ZctNU8bCtcT9rOAICUOwQQdZ3r3av54W/view?usp=share_link)<br>
+[(4F)](https://drive.google.com/file/d/1e5EoCC7St3bDA9IIEpCjvcbTYchdJi0C/view?usp=share_link)
 
 
 
