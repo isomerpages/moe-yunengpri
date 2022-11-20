@@ -76,8 +76,8 @@ Students also acquire multiliteracies when they analyse texts, pictures and vide
 			<b><u>Joyful Writing</u></b><br>
 			<br>
 Writing for different purposes is an important skill. The Joyful Writing programme aims to provide students with positive, authentic writing experiences. Students are equipped with the skills and strategies to use appropriate text types to write for different purposes.
-			<br><br>
-<b>Celebrating Writing</b><br>
+			<br><br><br>
+			<b><u>Celebrating Writing</u></b>
 			
 P1 & P2: [Click Here](http://shorturl.at/kS138) <br> 
 P3 & P4: [Click Here](http://shorturl.at/afOPR)  <br>
