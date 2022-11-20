@@ -34,6 +34,5 @@ Primary 6<br>
 
 #### School Bus
 
-[P1 School Bus Services Form](/files/2023-P1-Request-for-School-Bus-Services.pdf)<br>
-[P2 to P6 Request for School Bus Services Form](/files/2023-P2-P6-Request-for-School-Bus-Services.pdf)
-
+[P1 School Bus Services Form](https://drive.google.com/file/d/1BajjN5_T3GtUgQL7rwDhsJlqCvLq1HJr/view?usp=share_link)<br>
+[P2 to P6 Request for School Bus Services Form](https://drive.google.com/file/d/1HktZPwHhEd0i6X_eiaMtinN-x4vm9G4x/view?usp=share_link)
