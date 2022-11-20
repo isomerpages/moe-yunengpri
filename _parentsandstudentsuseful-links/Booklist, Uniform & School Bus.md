@@ -36,6 +36,4 @@ Primary 6<br>
 
 [P1 School Bus Services Form](/files/Request-for-School-Bus-Services-Form.pdf)
 
-[P2 to P6 Information Sheet on School Bus Service for Year 2021](/files/Information-Sheet-on-School-Bus-Service-for-Year-2021-P2-to-P6.pdf)
-
 [P2 to P6 Request for School Bus Services Form](/files/Request-for-School-Bus-Services-Form-P2-to-P6.pdf)
