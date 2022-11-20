@@ -18,7 +18,7 @@ description: ""
 [(Standard)](https://drive.google.com/file/d/1695GwV8GHdwUK0ZzDpSTm1OGGHj_pZRb/view?usp=share_link)<br><br>
 Primary 6<br>
 [(1S – English) (3F –  Maths, Science, MT)](https://drive.google.com/file/d/1k8mYPkifB4OGf6KnNskHboDvXOSYfWZc/view?usp=share_link)<br>
-
+[(2S –  English, MT) (2F – Maths, Science)](https://drive.google.com/file/d/1tWg07mAVTmLlZn7V6Z56jk350J0lT6t0/view?usp=share_link)<br>
 
 
 
