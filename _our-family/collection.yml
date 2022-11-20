@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - SCHOOL MANAGEMENT COMMITTEE.md
       - Principal's Message.md
       - School Advisory Committee (SAC).md
       - NON TEACHING STAFF.md
