@@ -2,8 +2,8 @@ collections:
   our-family:
     output: true
     order:
-      - SCHOOL MANAGEMENT COMMITTEE.md
       - Principal's Message.md
+      - SCHOOL MANAGEMENT COMMITTEE.md
       - School Advisory Committee (SAC).md
       - NON TEACHING STAFF.md
       - Parent Support Group (PSG)/.keep
