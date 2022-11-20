@@ -2,7 +2,6 @@ collections:
   for-parents-and-students:
     output: true
     order:
-      - E Learning Platforms.md
       - Parents Gateway.md
       - Booklist, Uniform & School Bus.md
       - Health Promotion @ YN/Health Promotion @ YN.md
