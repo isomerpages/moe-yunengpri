@@ -2,7 +2,9 @@
 title: Holistic Health & CCA
 permalink: /holistic-health-ed-and-cca/
 description: ""
+third_nav_title: Holistic Health & CCA
 ---
+
 ### HOLISTIC HEALTH &amp; CCA
 
 #### Objectives / Goals

@@ -1,14 +1,15 @@
 collections:
-  our-school:
+  about-us:
     output: true
     order:
-      - Principal's Message.md
       - School History.md
-      - Staff Information.md
       - Mission, Vision, Values.md
       - Motto and Crests.md
       - Beliefs.md
       - School Song.md
       - Learning Dispositions.md
       - Achievements.md
-      - Contact Us.md
+      - School Services/Health Promotion @ YN.md
+      - School Services/.keep
+      - School Services/School Services.md
+      - School Services/Canteen Menu.md

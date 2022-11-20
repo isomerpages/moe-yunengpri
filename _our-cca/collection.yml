@@ -2,24 +2,19 @@ collections:
   our-cca:
     output: true
     order:
-      - CCA Overview.md
-      - Sports & Games/Sports & Games.md
-      - Sports & Games/Table Tennis.md
-      - Sports & Games/Floorball.md
-      - Sports & Games/Volley Ball.md
       - Sports & Games/Badminton.md
+      - Sports & Games/Volley Ball.md
+      - Sports & Games/Floorball.md
+      - Sports & Games/Table Tennis.md
       - Sports & Games/.keep
-      - Performing Arts/Performing Arts.md
       - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Choir.md
       - Performing Arts/Contemporary Dance.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/.keep
-      - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Community & Environment Care Club.md
       - Clubs & Societies/E nnovation Club.md
       - Clubs & Societies/Broadcast Journalism Club.md
       - Clubs & Societies/Maths Club.md
       - Clubs & Societies/.keep
-      - Uniformed Group.md

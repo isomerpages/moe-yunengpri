@@ -1,0 +1,12 @@
+collections:
+  our-distinctive-experience:
+    output: true
+    order:
+      - CCA/.keep
+      - CCA/CCA Overview.md
+      - CCA/Sports & Games.md
+      - CCA/Clubs & Societies.md
+      - CCA/Performing Arts.md
+      - CCA/Uniformed Group.md
+      - Learning for Life Programme.md
+      - Applied Learning in ICT.md

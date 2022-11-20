@@ -2,8 +2,9 @@
 title: Health Promotion @ YN
 permalink: /health-promotion-yn/
 description: ""
-third_nav_title: Health Promotion @ YN
+third_nav_title: School Services
 ---
+
 ### HEALTH PROMOTION @ YN
 
 A healthy lifestyle is about having a healthy diet, active lifestyle and caring for mental wellbeing. In Yu Neng  we promote ***active lifestyle*** by providing platforms for them to stay active. We have Recess Play to expose our students to a varieties of sports activities. In addition, we promote sports like Sports Education Programme and Values through Sports so as to cater to our sports enthusiasts by having 4 sports CCA of their interests.

@@ -3,6 +3,7 @@ title: Principal's Message
 permalink: /principals-message/
 description: ""
 ---
+
 ### PRINCIPAL'S MESSAGE
 
 #### Beyond Well-being:  

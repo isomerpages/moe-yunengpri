@@ -1,13 +1,13 @@
 logo: /images/cropped-3-1.png
 links:
-  - title: Our School
-    collection: our-school
+  - title: About Us
+    collection: about-us
+  - title: Our Family
+    collection: our-family
   - title: Our Curriculum
     collection: our-curriculum
-  - title: Our CCA
-    collection: our-cca
-  - title: Our Partners
-    collection: our-partners
+  - title: OUR DISTINCTIVE EXPERIENCE
+    collection: our-distinctive-experience
   - title: For Parents & Students
     url: "#"
     sublinks:
@@ -39,5 +39,3 @@ links:
         url: /newsletter/
       - title: School eResource Repository
         url: https://schoolibrary.moe.edu.sg/yunengpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-  - title: P1 Orientation
-    url: https://yunengpri.moe.edu.sg/

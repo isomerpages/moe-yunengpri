@@ -12,11 +12,20 @@ sections:
       background: /images/IMG_0649 (1).jpg
       url: https://form.gov.sg/5f20c79d5961620011e343f7
       button: Share a Compliment
-  - infobar:
-      title: Important Announcements
-      description: Please click on the link below
-      button: Link
-      url: https://www.google.com/
+      key_highlights:
+        - title: For Parents and Students (Useful Links)
+          description: ""
+          url: https://yunengpri.moe.edu.sg/parents-and-students-useful-links/
+        - title: For Staff (Useful Links)
+          description: ""
+          url: https://yunengpri.moe.edu.sg/staff-useful-links/
+  - infopic:
+      title: Celebrating Writing
+      description: Click here to know more about our celebrating Writing
+      button: Read More
+      url: /english-language/
+      image: /images/Celebrating-Writing.png
+      alt: Image alt text
   - infopic:
       title: ALP (ICT)
       description: Read more about our ALP in Info-Comm Technology.

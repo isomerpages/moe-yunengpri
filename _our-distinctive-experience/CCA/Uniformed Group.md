@@ -2,7 +2,9 @@
 title: Uniformed Group
 permalink: /uniformed-group/
 description: ""
+third_nav_title: CCA
 ---
+
 ### UNIFORMED GROUPS
 
 #### BOY & GIRL SCOUTS (WOLVERINE CUB SCOUTS)
