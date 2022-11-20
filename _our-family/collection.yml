@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Parent Volunteer.md
       - Principal's Message.md
       - SCHOOL MANAGEMENT COMMITTEE.md
       - School Advisory Committee (SAC).md
@@ -14,4 +13,5 @@ collections:
       - Parent Support Group (PSG)/PSG EXCO.md
       - Parent Support Group (PSG)/PSG Activities.md
       - Parent Support Group (PSG)/Join Us.md
+      - Parent Volunteer.md
       - Alumni.md
