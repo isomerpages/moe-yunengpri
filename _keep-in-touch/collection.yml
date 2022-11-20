@@ -1,5 +1,5 @@
 collections:
-  for-parents-and-students:
+  keep-in-touch:
     output: true
     order:
       - Parents Gateway.md
