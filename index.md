@@ -27,6 +27,15 @@ sections:
       image: /images/Celebrating-Writing.png
       alt: Image alt text
   - infopic:
+      title: F.A.M.I.L.Y. (Father And Mother I Love You) @YN
+      subtitle: Infopic Subtitle
+      description: Chinese Language Teachers in collaboration with CCE department has
+        put together the F.A.M.I.L.Y. (Father And Mother I Love You) @ YN
+        initiative.
+      button: Button Text
+      image: /images/family.jpg
+      alt: Image alt text
+  - infopic:
       title: ALP (ICT)
       description: Read more about our ALP in Info-Comm Technology.
       button: Read
@@ -40,13 +49,4 @@ sections:
       url: /sports-and-games/
       image: /images/IMG_1689-e1498179786675.jpg
       alt: LLP (Sports)
-  - infopic:
-      title: F.A.M.I.L.Y. (Father And Mother I Love You) @YN
-      subtitle: Infopic Subtitle
-      description: Chinese Language Teachers in collaboration with CCE department has
-        put together the F.A.M.I.L.Y. (Father And Mother I Love You) @ YN
-        initiative.
-      button: Button Text
-      image: /images/family.jpg
-      alt: Image alt text
 ---
