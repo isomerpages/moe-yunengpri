@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Parent Volunteer.md
       - Principal's Message.md
       - SCHOOL MANAGEMENT COMMITTEE.md
       - School Advisory Committee (SAC).md
