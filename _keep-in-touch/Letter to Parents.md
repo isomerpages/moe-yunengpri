@@ -5,6 +5,20 @@ description: ""
 ---
 ### LETTER TO PARENTS
 
+#### November2022
+
+* [Letter to Parents](/files/Nov-LTP.pdf)
+* [Annex A: Joint Advisory Year End 2022](/files/Annex-A_Joint-Advisory-Year-End-2022.pdf)
+* [Annex B: HPB HSA advisory on vaping](/files/Annex-B_HPB-HSA-advisory-on-vaping.pdf)
+
+#### October 2022
+
+* [Letter to Parents](/files/Oct-LTP.pdf)
+
+#### September 2022
+
+* [Letter to Parents ](/files/LTP%20Sep%202022.pdf)
+
 #### August 2022
 
 * [Letter to Parents Teachers Day](/files/Letter-to-Parents_Teachers-Day.pdf)

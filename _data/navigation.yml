@@ -8,34 +8,5 @@ links:
     collection: our-curriculum
   - title: OUR DISTINCTIVE EXPERIENCE
     collection: our-distinctive-experience
-  - title: For Parents & Students
-    url: "#"
-    sublinks:
-      - title: E-learning Platforms
-        url: /e-learning-platforms/
-      - title: Parents Gateway
-        url: /2978-2/
-      - title: Booklist, Uniform & School Bus
-        url: /booklist/
-      - title: Health Promotion @ YN
-        url: /health-promotion-yn/
-      - title: Primary 1 Registration
-        url: /primary-1-registration/
-      - title: Parent Volunteer
-        url: /parent-volunteer/
-      - title: Financial Matters
-        url: /financial-matters/
-      - title: Direct School Admission (DSA)
-        url: /direct-school-admission-dsa-sec/
-      - title: Sexuality Education (SEd)
-        url: /sexuality-education-sed/
-      - title: School Waiting List
-        url: /school-waiting-list/
-      - title: Meet the Parents Session
-        url: /meet-parents-session/
-      - title: Letter to Parents
-        url: /letter-to-parents/
-      - title: Spotlight
-        url: /newsletter/
-      - title: School eResource Repository
-        url: https://schoolibrary.moe.edu.sg/yunengpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+  - title: Keep In Touch
+    collection: keep-in-touch

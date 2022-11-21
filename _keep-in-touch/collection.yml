@@ -1,0 +1,10 @@
+collections:
+  keep-in-touch:
+    output: true
+    order:
+      - Contact Us.md
+      - Parents Gateway.md
+      - Meet the Parents Session.md
+      - P1 Orientation.md
+      - Letter to Parents.md
+      - Spotlight.md

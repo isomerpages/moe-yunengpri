@@ -1,6 +1,6 @@
 ---
 title: Parents And Students Useful Links
-permalink: /parents-and-students-useful-links/
+permalink: /ps-useful-links/
 description: ""
 ---
 

@@ -26,4 +26,4 @@ When we come together in the PSG, we have to remember to balance our own needs a
 
 We warmly invite you to join us and contribute towards making Yu Neng the best school for OUR children! To register as a PSG member, simply scan the QR code below or click on this link [https://forms.gle/nKhK2GDJHt4EqVdw5](https://forms.gle/nKhK2GDJHt4EqVdw5)
 
-![](/images/PSG-QR-Code.png)
+![](/images/Join-us-.png)

@@ -15,16 +15,25 @@ sections:
       key_highlights:
         - title: For Parents and Students (Useful Links)
           description: ""
-          url: https://yunengpri.moe.edu.sg/parents-and-students-useful-links/
+          url: /ps-useful-links/
         - title: For Staff (Useful Links)
           description: ""
-          url: https://yunengpri.moe.edu.sg/staff-useful-links/
+          url: /staff-useful-links/
   - infopic:
       title: Celebrating Writing
       description: Click here to know more about our celebrating Writing
       button: Read More
       url: /english-language/
       image: /images/Celebrating-Writing.png
+      alt: Image alt text
+  - infopic:
+      title: F.A.M.I.L.Y. (Father And Mother I Love You) @YN
+      subtitle: Infopic Subtitle
+      description: Chinese Language Teachers in collaboration with CCE department has
+        put together the F.A.M.I.L.Y. (Father And Mother I Love You) @ YN
+        initiative.
+      button: Button Text
+      image: /images/family.jpg
       alt: Image alt text
   - infopic:
       title: ALP (ICT)

@@ -2,8 +2,9 @@
 title: Health Promotion @ YN
 permalink: /health-promotion-yn/
 description: ""
-third_nav_title: School Services
+third_nav_title: Holistic Health & CCA
 ---
+
 
 ### HEALTH PROMOTION @ YN
 
