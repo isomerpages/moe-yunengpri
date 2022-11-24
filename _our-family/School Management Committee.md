@@ -1,8 +1,9 @@
 ---
-title: SCHOOL MANAGEMENT COMMITTEE
+title: School Management Committee
 permalink: /school-management-committee/
 description: ""
 ---
+
 
 
 
