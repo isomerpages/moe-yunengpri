@@ -3,27 +3,35 @@ title: Principal's Message
 permalink: /principals-message/
 description: ""
 ---
-
 ### PRINCIPAL'S MESSAGE
 
-#### Beyond Well-being:  
-#### The Quest for Wholeness @ Yu Neng
+#### Difference Making at the Heart of Learning
 
-<img src="/images/Ng-Yeow-Ling-683x1024.png"
+
+<img src="/images/Mr%20Ng%202023.jpg"
 		 style="width:30%"/>
 		 
-Welcome and warmest greetings for 2022!
 
-As we look forward to a new school year, my heart is filled with both gratitude and wonder, with a strong sense of pride in the many accomplishments and impact we are making to our community.
 
-As we continue to rediscover and nurture Yu Neng’s brand of passion, creativity and care in developing our strength of will, strength of mind and strength of heart, we are also guided by a roadmap to embrace each of us in Yu Neng as _whole persons_: one with _passion_ to pursue life goals, _creativity_ to adapt and overcome challenges and _care_ for the community we belong to. Whole persons who have well-being at the heart of what they do. Indeed, well-being is important in all areas of life, but especially in young people’s development.
+Today’s learners know they face a complex future. They yearn to live in a world where people are working with purpose, leading with character and making a difference. Learning to identify problems and use smart tools to develop meaningful solutions will help them make a difference in their families, their communities and for society.  Finding purpose in what they learn, enable them to be confident about the future which can be uncertain, by having the agency to know they can create the future they envision.
 
-We know that young people feel well when they enjoy their learning, look forward to coming to school, and feel valued by their families and friends. We all want them to experience joy, to thrive physically and emotionally, and to have a voice in their learning and their future. Well-being brings us balance in the present. Wholeness pulls us towards the future. In a larger sense, wholeness comes from being in service to others and something larger than yourself. Ultimately, this is about each of us taking personal responsibility for realizing the wholeness of our vibrant connected community, centered on our purpose to nurture passionate learners, creative thinkers and caring leaders. It is also premised on each of us embracing self-care and wellbeing, so we can experience wholeness.
+            To this end, we continue to actively engage our staff, students and stakeholders on our discovery journey in difference making at the heart of learning.  Specifically, we have reaffirmed our school mission to develop passion, creativity and care among staff and students, so as a Yu Neng vibrant connected community we can realise our vision to aspire, learn and lead.  Through ongoing improvements made to key programmes, we continue to premise our school GR3IT values, our ‘_Portrait of the Yu Neng Student_, and our shared school beliefs to routinise our 4R Learning Dispositions (Readiness, Reflectiveness, Resourcefulness and Relatedness) and develop knowledge and skills of students towards 21CC such as teamwork, communication and innovation.
 
-This year, as we journey ahead, we invite all our parents and partners to join us in the quest for wholeness, both within and beyond the school.  May we always find joy and contentment, meaning and purpose in all we do, while accepting the occasional disappointment and sadness.  For this is what wholeness beyond well-being is all about, a higher calling for all to aspire and live our lives.
+            Over the next three years, we are guided by two key thrusts moving forward: (a) developing 21CC in our students through the design and provision of authentic blended learning environment; and (b) promoting student agency through fostering self-efficacy and a growth mindset among our students.  Anchored on the belief that learning must be joyful and purposeful and be nurtured as a lifelong process, our learning experiences and signature programmes are designed to engage students in authentic settings, scenarios and challenges. These experiences and programmes also facilitate the strengthening of learning dispositions (or ‘habits of mind and action’) in students to help them learn for life.
 
-Wishing all a blissful year together @ Yu Neng!
+The school recognises that staff is a key enabler to nurture future-ready learners and places great emphasis on how we engage, develop and deploy every member of staff. We are committed to building a caring, trusting and positive environment for all staff to grow and thrive.  In the promotion of the culture of innovation, we would work with different staff segments to explore ways to make enhancements towards greater staff agency. 
+
+At the same time, we have been placing a strong focus on stakeholder partnerships, given our long history. Our Yu Neng alumni is currently spearheading a publication to be launched in August 2023, in commemoration of our 88th anniversary, capturing voices of YN family across the generations.  They will also organise an exhibition to display collections of works by ex-Yu Neng staff and alumni, to demonstrate the YN spirit of “doing well by doing good”, and to inspire our current students to remain steadfast to our founding school motto to “light up and shine”.
+
+Today’s students may be ones to find a better way forward - but only if they develop their potential as problem solvers and change makers. These learners feel empowered, curious and full of agency. Schools that make purpose and community the core of learning would be well poised to prepare their charges for the future.
 
 Yours in Education  
 Mr Ng Yeow Ling  
 Principal
+
+
+<img src="/images/Change%20Maker.jpg"
+		 style="width:60%"/>
+
+
+![](/images/The%20YN%20Experience.png)
