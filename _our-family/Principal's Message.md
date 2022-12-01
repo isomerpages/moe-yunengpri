@@ -26,7 +26,7 @@ At the same time, we have been placing a strong focus on stakeholder partnership
 Today’s students may be ones to find a better way forward - but only if they develop their potential as problem solvers and change makers. These learners feel empowered, curious and full of agency. Schools that make purpose and community the core of learning would be well poised to prepare their charges for the future.
 
 Yours in Education  
-Mr Ng Yeow Ling 
+Mr Ng Yeow Ling  
 Principal
 
 
