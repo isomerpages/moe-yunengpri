@@ -16,12 +16,13 @@ description: ""
 
 | | | |
 | --- | --- | ---|
+| Community in Bloom Awards  	| 2022 	| Gold 	|
 | Restroom Association of Singapore’s LOO 	|  2021 	|  Platinum Star 	|
 | School Heritage Champion Awards 2019 	| 2019 	| Silver 	|
 | School Green Award 2017 	| 2017 	| Lotus Sustained Achievement Award 	|
 | BCA Green Mark Award 	| 2017 	| Gold 	|
 | Reading Excellence Award 2017 	| 2017 	| Top 15 schools 	|
-| Community in Bloom Awards  	| 2016 	| Gold Award 	|
+| Community in Bloom Awards  	| 2016 	| Gold 	|
 | Singapore Green Audit  	| 2016 	| Lotus Sustained Achievement Award 	|
 
 #### STUDENT ACHIEVEMENTS
