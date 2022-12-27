@@ -22,4 +22,4 @@ Our caring choristers also use their vocal talents to reach out and make a diffe
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mdm Wahidah (OIC) <br>Mdm Eymani | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Music Room 1<br>(E-CCA) |
+| Mdm Wahidah (OIC) <br>Mdm Eymani | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Music Room 1<br> |
