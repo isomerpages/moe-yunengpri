@@ -30,4 +30,4 @@ Through this CCA, students will grow to be passionate learners, creative thinker
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mrs Xu Qian Hao (OIC) <br>Ms Leanna<br>Mdm Esther Peh | Tuesday: 2.00 pm – 4.00 pm <br>(Please refer to the schedule given per semester.) | Maker Space |
+| Mrs Xu Qian Hao (OIC) <br>Miss Claire Yeo<br>Mdm Esther Peh | Tuesday: 2.00 pm – 4.00 pm <br>(Please refer to the schedule given per semester.) | Maker Space |
