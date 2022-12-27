@@ -4,9 +4,6 @@ permalink: /table-tennis/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-
-
 ### TABLE TENNIS
 
 <table>
@@ -23,4 +20,4 @@ With the infusion of the YN GR3IT values, Table Tennis CCA provides opportunitie
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mr Jason Toh (OIC)<br>Mdm Ong Boon Leng <br>Mr Anuar<br>Mrs Sally Chew<br>Ms Esther Wong Min Sia<br>Mrs Ivy Oh | Group B: (P4,5,6)<br>Tuesdays: 2pm to 4pm<br><br>Group C:<br>Tuesdays:  2pm to 5pm <br>(Only selected pupils)<br>Group C: (P4,5,6)<br>Fridays: 2pm to 5pm <br>*(Please refer to the schedules given each semester* | Indoor Sports Hall (ISH) Level 3 |
+|Mr Anuar(OIC)<br> Mr Jason Toh <br>Mrs Sally Chew<br>Ms Esther Wong Min Sia<br>Mrs Ivy Oh | Tuesdays: 2pm to 5pm<br>Fridays: 2pm to 5pm <br>*(Please refer to the schedules given each semester* | Indoor Sports Hall (ISH) Level 3 |
