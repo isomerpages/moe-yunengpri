@@ -22,4 +22,4 @@ In line with our school values, GR3IT, our dancers grow together in keeping tra
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mdm Marlina (OIC) <br>Mdm Zuhailah | Tuesdays – 2pm to 4pm<br>Fridays– 2pm to 4pm<br>Note: P3s attend Tuesday session only.<br>*(Please refer to the schedule given each semester).* | Dance Studio |
+| Mdm Marlina (OIC) <br>Mdm Zuhailah | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Dance Studio |
