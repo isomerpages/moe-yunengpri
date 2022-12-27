@@ -20,4 +20,4 @@ The Art Club provides a platform for students to build on their talent while exp
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Ms Ruzana (OIC)<br>Mdm Wong Nga Lin | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Art Room |
+| Ms Ruzana (OIC)<br>Mrs Ravi | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Art Room |
