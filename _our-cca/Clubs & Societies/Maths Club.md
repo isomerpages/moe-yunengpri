@@ -26,4 +26,4 @@ Promote teamwork and working with others.
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mrs Pauline Ng (OIC)<br> Mr Steve Goh | Tuesdays: 2pm to 4pm<br>*(Please refer to the schedule given each semester)* | Computer Lab 1 |
+| Mrs Pauline Ng (OIC)<br> Mr Steve Goh | Tuesdays: 2pm to 4pm<br>*(Please refer to the schedule given each semester)* | Maths Space |
