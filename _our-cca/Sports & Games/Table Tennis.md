@@ -20,4 +20,4 @@ With the infusion of the YN GR3IT values, Table Tennis CCA provides opportunitie
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-|Mr Anuar(OIC)<br> Mr Jason Toh <br>Mrs Sally Chew<br>Ms Esther Wong Min Sia<br>Mrs Ivy Oh | Tuesdays: 2pm to 5pm<br>Fridays: 2pm to 5pm <br>*(Please refer to the schedules given each semester* | Indoor Sports Hall (ISH) Level 3 |
+|Mr Anuar(OIC)<br> Mr Jason Toh <br>Mrs Sally Chew<br>Ms Esther Wong <br>Mrs Ivy Oh | Tuesdays: 2pm to 5pm<br>Fridays: 2pm to 5pm <br>*(Please refer to the schedules given each semester* | Indoor Sports Hall (ISH) Level 3 |
