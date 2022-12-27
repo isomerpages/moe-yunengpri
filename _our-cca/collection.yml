@@ -2,7 +2,6 @@ collections:
   our-cca:
     output: true
     order:
-      - Uniformed Group.md
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
       - Sports & Games/Volley Ball.md
@@ -19,3 +18,4 @@ collections:
       - Clubs & Societies/E nnovation Club.md
       - Clubs & Societies/Broadcast Journalism Club.md
       - Clubs & Societies/Maths Club.md
+      - Uniformed Group.md
