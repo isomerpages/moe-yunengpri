@@ -2,7 +2,7 @@ collections:
   our-cca:
     output: true
     order:
-      - Example Title.md
+      - Uniformed Group.md
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
       - Sports & Games/Volley Ball.md
