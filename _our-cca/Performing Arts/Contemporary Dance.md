@@ -18,4 +18,4 @@ In Contemporary Dance CCA, we strive to develop students’ movement skills, mus
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mdm Shikin (OIC)<br>Ms Lu Wen | Tuesdays – 2pm to 4pm<br>Fridays – 2pm to 4pm <br>*(Please refer to the schedule given each semester).* | PAL Room |
+| Mdm Shikin (OIC)<br>Ms Leanna Lyn | Tuesdays – 2pm to 4pm <br>*(Please refer to the schedule given each semester).* | PAL Room |
