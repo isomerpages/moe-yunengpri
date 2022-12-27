@@ -17,10 +17,12 @@ Co-Curricular Activities (CCA) are a key component of the holistic development o
 
 We are excited that you are now given the opportunity to be part of our CCAs @ Yu Neng.  We wish you all the very best as you make your choice to join one of these CCAs!  May you continue to grow and discover yourself through the enriching experiences offered as you contribute by giving your best to the CCA you will be part of.
 
+
 # Virtual Tour
+|  | |  |
+| -------- | -------- | -------- |
 
-[![](/images/Virtual%20Tour.png)](/images/Virtual%20Tour.png)
-
+[![](/images/Virtual%20Tour.png)](https://app.lapentor.com/sphere/cca-venu-virtual-tour)
 Click on the image to view our virtual tour
 
 
