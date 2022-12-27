@@ -28,4 +28,4 @@ Cultivate the spirit of scientific inquiry and innovation.
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mdm Maryam (OIC)<br>Ms Lim Hui Yi<br>Mdm Faridah (Science Lab Tech) | Tuesdays: 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Science Labs 1 & 2 |
+| Mdm Maryam (OIC)<br>Ms Lim Hui Yi<br>Mdm Faridah | Tuesdays: 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Science Labs 1 & 2 |
