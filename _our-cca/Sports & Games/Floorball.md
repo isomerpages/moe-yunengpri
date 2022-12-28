@@ -4,9 +4,6 @@ permalink: /floorball/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-
-
 ### FLOORBALL
 
 <table>
@@ -23,4 +20,4 @@ Through the post-training reflections, students will gain a deeper knowledge and
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mdm Jessamine Tan (OIC)<br>Mdm Sim Li Hiang<br>Mdm Tuty | Mondays: 3.30pm to 5.30pm <br>Tuesdays: 2pm to 4pm <br>*(Please refer to the schedules given each semester).* | Indoor Sports Hall (ISH) Level 1 |
+| Mdm Jessamine Tan (OIC)<br>Mdm Sim Li Hiang<br>Mdm Tuty<br>Mdm Nawshein | Mondays: 3.30pm to 5.30pm <br>Tuesdays: 2pm to 4pm <br>*(Please refer to the schedules given each semester).* | Indoor Sports Hall (ISH) Level 1 |

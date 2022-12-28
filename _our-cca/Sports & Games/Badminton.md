@@ -4,9 +4,6 @@ permalink: /badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-
-
 ### BADMINTON
 
 <table>
@@ -22,4 +19,4 @@ Badminton CCA provides opportunities for students to cooperate and work together
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mr Mohamad Haniffa (OIC)  <br>Mdm Jamilah Abdullah<br>Mrs Kanesan <br>Ms Hu Hui Ru<br>Mrs Fiona Tan <br>Mrs Bridget Wong<br>Mdm Sitti Maisarah | <em>Group A<br><u>Tuesdays</u><br>Team A: 2pm to 5pm<br>Team B: 2pm-4pm<br><u>Fridays</u><br>Team A: 2pm to 5pm<br>Team B: 2pm-4pm<br>(Please refer to the schedules given each semester).</em>| School Hall |
+| Mr Mohamad Haniffa (OIC)  <br>Mdm Jamilah Abdullah<br>Mrs Kanesan <br>Ms Hu Hui Ru<br>Mrs Fiona Tan <br>Mrs Bridget Wong<br>Mdm Sitti Maisarah | <em><u>Tuesdays</u><br>2pm to 5pm<br><u>Fridays</u><br>2pm to 5pm<br>(Please refer to the schedules given each semester).</em>| School Hall |

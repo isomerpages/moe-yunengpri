@@ -18,4 +18,4 @@ E-nnovation Club strives to nurture successful innovators of tomorrow. Through t
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mr Zhu Xiang Jun (OIC)<br>Mr Roonie Chew<br>Mdm Chloe Phang<br>Ms Sri Rathi Priya | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Computer Lab 2<br>Computer Lab 3 |
+| Mr Zhu Xiang Jun (OIC)<br>Mr Roonie Chew<br>Ms Lu Wen<br>Ms Sri Rathi Priya | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Computer Lab 2<br>Computer Lab 3 |

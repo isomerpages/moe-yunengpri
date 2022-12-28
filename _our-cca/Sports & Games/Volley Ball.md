@@ -4,9 +4,6 @@ permalink: /volley-ball/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-
-
 ### VOLLEY BALL
 
 <table>
@@ -23,4 +20,4 @@ In addition, the regular trainings will develop their social and emotional skill
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Ms Selena Chew (OIC)<br>Mdm Tan Meng Kee<br>Mrs Ravi | Mondays: 3.30pm-5.30pm<br>Fridays: 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Mondays: Hall<br>Fridays: Indoor Sports Hall (ISH) Level 1 |
+| Mdm Tan Meng Kee (OIC)<br>Ms Shelwyn Tan<br>Mr Goh Si Wei| Mondays: 3.30pm-5.30pm<br>Fridays: 2pm to 5pm<br>*(Please refer to the schedule given each semester).* | Mondays: Hall<br>Fridays: Indoor Sports Hall (ISH) Level 1 |
