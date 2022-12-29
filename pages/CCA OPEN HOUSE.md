@@ -66,7 +66,7 @@ Click on the image to view our virtual tour
   </tr>
   <tr style="text-align: center; vertical-align: middle;">
     <td><b>Art Club</b><br><img src="/images/Art%20Club.png"/>  Click <a href="https://youtu.be/OcN93FsK1YE">HERE</a> to watch a video</td>
-    <td><br>The Art Club offers students with a shared interest in visual arts to come together and to express themselves through various art media and forms of art-making. The Art Club provides a platform for students to build on their talent while exploring different art forms and experimenting with both traditional and modern mediums. <a href=”https://www.yunengpri.moe.edu.sg/art-club/”>[Read More...]</a></td>
+    <td><br>The Art Club offers students with a shared interest in visual arts to come together and to express themselves through various art media and forms of art-making. The Art Club provides a platform for students to build on their talent while exploring different art forms and experimenting with both traditional and modern mediums. <a href="https://www.yunengpri.moe.edu.sg/art-club/">[Read More...]</a></td>
   </tr>
    <tr style="text-align: center; vertical-align: middle;">
     <td><b>Community & Environmental Care Club</b><br><img src="/images/CECC.png"/>  Click <a href="https://youtu.be/pz5j_YeCofI">HERE</a> to watch a video</td>
