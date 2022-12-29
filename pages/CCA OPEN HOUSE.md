@@ -87,6 +87,6 @@ Click on the image to view our virtual tour
    <tr style="text-align: center; vertical-align: middle;">
     <td><b>Scouts</b><br><img src="/images/Scouts.png"/>  Click <a href="https://youtu.be/5TG7oOT8t9g">HERE</a> to watch a video</td>
     <td><br>In Yu Neng Primary School, the Scouting program has three main objectives. They are character development, citizenship training and personal growth. Guided by Scout Promise and Law, the Wolverine Cub Scouts continually tries to improve themselves by setting their goals and reaching for them through commitment, dedication and perseverance. <a href="https://www.yunengpri.moe.edu.sg/uniformed-group/">[Read More...]</a></td>
-  </tr>
+ </tr>
 </tbody>
 </table>
