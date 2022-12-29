@@ -61,7 +61,7 @@ Click on the image to view our virtual tour
     <td><br>In Contemporary Dance CCA, we strive to develop students’ movement skills, musicality and creativity. Through our weekly sessions, the students will develop a love and appreciation for contemporary dance. The sessions and the activities also serve as platforms to inculcate the GR3IT values. <a href="https://www.yunengpri.moe.edu.sg/contemporary-dance/">[Read More...]</a></td>
   </tr>
    <tr style="text-align: center; vertical-align: middle;">
-    <td><b>Malay Dance<b> <img src="/images/Malay%20Dance.png"/>  Click <a href="https://youtu.be/mXk_WTFAcUQ">HERE</a> to watch a video</td>
+    <td><b>Malay Dance</b><br><img src="/images/Malay%20Dance.png"/>  Click <a href="https://youtu.be/mXk_WTFAcUQ">HERE</a> to watch a video</td>
     <td><br>Yu Neng Primary School’s Malay Dance aims to expose members to a repertoire of traditional Malay dances such as the Asli, Inang, Joget and Zapin. Through this CCA, our dancers gain confidence while performing and showcasing their talent. It also imbues the values of commitment and perseverance. <a href="https://www.yunengpri.moe.edu.sg/malay-dance/">[Read More...]</a></td>
   </tr>
   <tr style="text-align: center; vertical-align: middle;">
