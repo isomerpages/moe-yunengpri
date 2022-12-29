@@ -33,12 +33,12 @@ Click on the image to view our virtual tour
 </thead>
 <tbody>
   <tr style="text-align: center; vertical-align: middle;">
-    <td><b>Table Tennis</b><br><img src="/images/Table%20Tennis.png"/>  Click <a href="https://youtu.be/2VhBypoDrek">HERE</a> to watch a video</td>
+    <td><b>Table Tennis</b><br><img src="/images/Table%20Tennis.png">  Click <a href="https://youtu.be/2VhBypoDrek">HERE</a> to watch a video</td>
     <td><br>Table tennis is one of the four sports CCAs in Yu Neng Primary School. The team has won numerous accolades at the zonal and national levels over the years. We hope to cultivate their love for Table Tennis in every member as well as to develop their skills and their physical fitness. <a href="https://www.yunengpri.moe.edu.sg/table-tennis/">[Read More...]</a></td>
 </tr>
    <tr style="text-align: center; vertical-align: middle;">
     <td><b>Floorball</b><br><img src="/images/Floorball.png"/>  Click <a href=”https://youtu.be/GMh7Jge-qUo”>HERE</a> to watch a video</td>
-    <td><br>As one of the sports CCA, Floorball training aims to inculcate GR3IT values and develop every student holistically. Through our training sessions and exposure to competitive games in the Nationals, we empower our students with leadership opportunities, develop a robust team spirit and foster a positive and winning mentality resulting in resilient players. <a href=”https://www.yunengpri.moe.edu.sg/floorball/”>[Read More...]</a></td>
+    <td><br>As one of the sports CCA, Floorball training aims to inculcate GR3IT values and develop every student holistically. Through our training sessions and exposure to competitive games in the Nationals, we empower our students with leadership opportunities, develop a robust team spirit and foster a positive and winning mentality resulting in resilient players. <a href="https://www.yunengpri.moe.edu.sg/floorball/">[Read More...]</a></td>
  </tr>
    <tr style="text-align: center; vertical-align: middle;">
     <td><b>Volleyball</b><br><img src="/images/Volleyball.png"/>  Click <a href="https://youtu.be/ZDlFa-xZNn4">HERE</a> to watch a video</td>
@@ -54,18 +54,18 @@ Click on the image to view our virtual tour
   </tr>
    <tr style="text-align: center; vertical-align: middle;">
     <td><b>Choir</b><br><img src="/images/choir.png"/>  Click <a href="https://youtu.be/lVRME1Jo2G0">HERE</a> to watch a video</td>
-    <td><br>The Yu Neng Primary School Choir was established in 2015 with the aim of promoting the use of voice to spread the joy of music to others. Choir provides a fun and supportive environment that motivates and inspires members to pursue their passion in choral singing. <a href=”https://www.yunengpri.moe.edu.sg/choir/”>[Read More...]</a></td>
+    <td><br>The Yu Neng Primary School Choir was established in 2015 with the aim of promoting the use of voice to spread the joy of music to others. Choir provides a fun and supportive environment that motivates and inspires members to pursue their passion in choral singing. <a href="https://www.yunengpri.moe.edu.sg/choir/">[Read More...]</a></td>
   </tr>
    <tr style="text-align: center; vertical-align: middle;">
     <td><b>Contemporary Dance</b><br><img src="/images/Contemporary%20Dance.png"/>  Click <a href="https://youtu.be/cWLRgGeHC98">HERE</a> to watch a video</td>
-    <td><br>In Contemporary Dance CCA, we strive to develop students’ movement skills, musicality and creativity. Through our weekly sessions, the students will develop a love and appreciation for contemporary dance. The sessions and the activities also serve as platforms to inculcate the GR3IT values. <a href=”https://www.yunengpri.moe.edu.sg/contemporary-dance/”>[Read More...]</a></td>
+    <td><br>In Contemporary Dance CCA, we strive to develop students’ movement skills, musicality and creativity. Through our weekly sessions, the students will develop a love and appreciation for contemporary dance. The sessions and the activities also serve as platforms to inculcate the GR3IT values. <a href="https://www.yunengpri.moe.edu.sg/contemporary-dance/">[Read More...]</a></td>
   </tr>
    <tr style="text-align: center; vertical-align: middle;">
     <td><b>Malay Dance<b> <img src="/images/Malay%20Dance.png"/>  Click <a href="https://youtu.be/mXk_WTFAcUQ">HERE</a> to watch a video</td>
     <td><br>Yu Neng Primary School’s Malay Dance aims to expose members to a repertoire of traditional Malay dances such as the Asli, Inang, Joget and Zapin. Through this CCA, our dancers gain confidence while performing and showcasing their talent. It also imbues the values of commitment and perseverance. <a href="https://www.yunengpri.moe.edu.sg/malay-dance/">[Read More...]</a></td>
   </tr>
   <tr style="text-align: center; vertical-align: middle;">
-    <td><b>Art Club</b><br><img src="/images/Art%20Club.png"/>  Click <a href=”https://youtu.be/OcN93FsK1YE”>HERE</a> to watch a video</td>
+    <td><b>Art Club</b><br><img src="/images/Art%20Club.png"/>  Click <a href="https://youtu.be/OcN93FsK1YE">HERE</a> to watch a video</td>
     <td><br>The Art Club offers students with a shared interest in visual arts to come together and to express themselves through various art media and forms of art-making. The Art Club provides a platform for students to build on their talent while exploring different art forms and experimenting with both traditional and modern mediums. <a href=”https://www.yunengpri.moe.edu.sg/art-club/”>[Read More...]</a></td>
   </tr>
    <tr style="text-align: center; vertical-align: middle;">
