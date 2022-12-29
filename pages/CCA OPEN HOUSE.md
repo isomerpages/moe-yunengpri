@@ -45,7 +45,7 @@ Click on the image to view our virtual tour
     <td><br>Volleyball is one of the four sports CCA offered at Yu Neng. It strives to offer every student opportunities to develop their interests as well as their skills. Through the training and competitions, Volleyball students will develop the students’ character and inculcate GR3IT values that will prepare them for a rapidly changing world. <a href="https://www.yunengpri.moe.edu.sg/volley-ball/">[Read More…]</a></td>
  </tr>
    <tr style="text-align: center; vertical-align: middle;">
- <td><b>Badminton<b><br><img src="/images/badminton.png"/>  Click <a href="https://youtu.be/k-Kj91Ron20">HERE</a> to watch a video</td>
+ <td><b>Badminton</b><br><img src="/images/badminton.png"/>  Click <a href="https://youtu.be/k-Kj91Ron20">HERE</a> to watch a video</td>
 <td><br>Badminton is one of the four sports CCAs offered in Yu Neng Primary School. Students from the Badminton CCA, have demonstrated the school’s GR3IT values, during training as well as competitions. As such, the team has consistently received recognition at the Zonal and National level competitions. <a href="https://www.yunengpri.moe.edu.sg/badminton/">[Read More...]</a></td>
   </tr>
   <tr style="text-align: center; vertical-align: middle;">
