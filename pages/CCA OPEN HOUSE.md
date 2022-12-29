@@ -25,6 +25,12 @@ Click on the image to view our virtual tour
 <h1>Our CCAs</h1>
 
 <table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
 <tbody>
   <tr>
     <td><b>Table Tennis</b><br><img src="/images/Table%20Tennis.png"/>  Click <a href="https://youtu.be/2VhBypoDrek">HERE</a> to watch a video</td>
