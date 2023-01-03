@@ -18,4 +18,4 @@ The Chinese Orchestra aims to nurture students into passionate individuals with 
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Ms Lim Hui Ling (OIC)<br>Ms Phan Huey Ju (2IC)<br>Ms Tan Pin Sing<br>Mdm Loke Yik Peh<br>Mdm Gao Qijie<br>Ms Tan Keng Bee<br>Mdm Yong Li Ling | Mondays – 3.30pm to 5:30pm<br>Tuesdays – 2pm to 5pm<br>*(Please refer to the schedule given each semester).* | Monday: Band Room <br>Tuesday: 4RY to 4TM and 5TM |
+| Ms Lim Hui Ling (OIC)<br>Ms Phan Huey Ju (2IC)<br>Ms Tan Pin Sing<br>Mdm Loke Yik Peh<br>Mdm Gao Qijie<br>Ms Tan Keng Bee<br>Mdm Yong Li Ling<br>Mdm Wong Nga Lin | Mondays – 3.30pm to 5:30pm<br>Tuesdays – 2pm to 5pm<br>*(Please refer to the schedule given each semester).* | Monday: Band Room <br>Tuesday: 4RY to 4TM and 5TM |
