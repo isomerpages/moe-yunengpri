@@ -19,4 +19,4 @@ Badminton CCA provides opportunities for students to cooperate and work together
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mr Mohamad Haniffa (OIC)  <br>Mdm Jamilah Abdullah<br>Mrs Kanesan <br>Ms Hu Hui Ru<br>Mrs Fiona Tan <br>Mrs Bridget Wong<br>Mdm Sitti Maisarah | <em><u>Tuesdays</u><br>2pm to 5pm<br><u>Fridays</u><br>2pm to 5pm<br>(Please refer to the schedules given each semester).</em>| School Hall |
+|Mdm Jamilah Abdullah (OIC)<br> Mr Mohamad Haniffa (2IC) <br>Mrs Kanesan <br>Ms Hu Hui Ru <br>Mrs Bridget Wong<br>Mdm Sitti Maisarah | <em><u>Tuesdays</u><br>2pm to 5pm<br><u>Fridays</u><br>2pm to 5pm<br>(Please refer to the schedules given each semester).</em>| School Hall |
