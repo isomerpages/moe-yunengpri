@@ -79,18 +79,18 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   </tr>
 </tbody>
 </table>
+<br>
 
 
-
-<h6 align="center">Primary 6</h6>
+<h5 align="center">Primary 6</h6>
 
 <table>
 <thead>
   <tr>
-    <th>UNIT</th>
-    <th>LESSONS / DURATION</th>
-    <th>Lesson Objectives<br><br>At the end of the lesson, pupils will be able to:</th>
-    <th>DATE*</th>
+    <th>CCE (FTGP) THEME</th>
+    <th>LESSONS TITLE / DURATION</th>
+		<th><CENTER>LESSON OVERVIEW</CENTER></th>
+    <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
 <tbody>
