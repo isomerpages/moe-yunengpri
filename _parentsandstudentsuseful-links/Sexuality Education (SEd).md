@@ -124,4 +124,4 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable  [here](/files/Annex-A_SEd-Opt-Out-Form.pdf). The completed opt-out form is to be submitted by **27/01/2023**.
 
-10.  Parents can contact the school at 6449 0121 or email us at [ynps@moe.edu.sg](mailto:ynps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+10.       Parents can contact the school at 6449 0121 or email us at  [ynps@moe.edu.sg](mailto:ynps@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
