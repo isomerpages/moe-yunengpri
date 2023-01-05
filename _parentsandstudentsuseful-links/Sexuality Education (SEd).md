@@ -41,10 +41,10 @@ b.       Character and Citizenship Education (CCE)
 6.         The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
 7\.         Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
-
+<br><br>
 <h5>At Yu Neng Primary School, the following Sexuality Education lessons will be taught in <u>2023</u>:</h5>
 
-<h5 align="center">Primary 5</h6>
+<h5 align="center">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br>Primary 5</h6>
 
 <table>
 <thead>
@@ -79,10 +79,10 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   </tr>
 </tbody>
 </table>
-<br>
+<br><br><br>
 
 
-<h5 align="center">Primary 6</h6>
+<h5 align="center">2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br>Primary 6</h6>
 
 <table>
 <thead>
