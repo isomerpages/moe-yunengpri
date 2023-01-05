@@ -44,7 +44,7 @@ b.       Character and Citizenship Education (CCE)
 
 <h5>At Yu Neng Primary School, the following Sexuality Education lessons will be taught in <u>2023</u>:</h5>
 
-<h6 align="center">Primary 5</h6>
+<h5 align="center">Primary 5</h6>
 
 <table>
 <thead>
@@ -61,51 +61,26 @@ b.       Character and Citizenship Education (CCE)
     <td> The Changes in Me<br><br>(60 min)</td>
     <td>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td>Term 1 week 8</td>
+    <td>Term 2 week 7</td>
   </tr>
   <tr>
-    <td>What Can I Do? (Part 1)<br><br>(60 min)</td>
-    <td>·       identify the stresses caused by physical and emotional changes during puberty<br><br>·       describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>·       describe the emotions caused by physical changes during puberty<br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-    <td>Term 1 week 9</td>
+    <td>Did You Know?<br><br>(60 min)</td>
+    <td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.**
+			<br></br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br></td>
+    <td>Term 2 week 8</td>
   </tr>
   <tr>
-    <td>What Can I Do? (Part 2)<br><br>(60 min)</td>
-    <td>·       identify the stresses caused by physical and emotional changes during puberty<br><br>·       describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>·       describe the emotions caused by physical changes during puberty<br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-    <td>Term 1 week 10</td>
-  </tr>
-  <tr>
-    <td>Where I Belong</td>
-    <td>What Are Families?<br><br>(40 min)</td>
-    <td>·       know that there are different types of family structures<br><br>·       know that every family is unique<br>·       state that the three basic functions of families are to provide love, protection and guidance<br>·       identify the right sources of help to turn to when in need</td>
-    <td>Term 2 week 1</td>
-  </tr>
-  <tr>
-    <td>Where I Belong</td>
-    <td>What is My Role?<br><br>(40 min)</td>
-    <td>·       know that gender is about being male or female<br><br>·       choose not to stereotype by gender</td>
-    <td>Term 2 week 1 /<br><br>week 2</td>
-  </tr>
-  <tr>
-    <td rowspan="2">How Do I Keep Myself Safe?</td>
-    <td>What is Safety?<br><br>(40 min)</td>
-    <td>·       know what sexual abuse is<br><br>·       know that there are laws in Singapore that can protect them from sexual abuse<br>·       know their rights in keeping themselves safe from sexual abuse</td>
-    <td>Term 2 week 2</td>
-  </tr>
-  <tr>
-    <td>Stop It! Run! Tell!<br><br>(60 min)</td>
-    <td>·       protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br><br>·       know their responsibilities in minimising the risk of sexual harm</td>
-    <td>Term 2 week 4</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Main Task and Reflections<br><br>(60 min)</td>
-    <td>Description of the Main Task:<br><br>·       Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
-    <td>Term 2 week 5</td>
+    <td>Keeping Myself Safe)<br><br>(60 min)</td>
+    <td>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
+<br><br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td>Term 2 week 9</td>
   </tr>
 </tbody>
 </table>
 
-\*Dates may be subject to change depending on the pace of the class.
+
 
 <h6 align="center">Primary 6</h6>
 
@@ -138,13 +113,13 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   <tr>
     <td>Am I Falling In Love?<br><br>(60 min)</td>
     <td>·       manage strong feelings arising from infatuation<br><br>·       identify ways to manage and cope with teasing from peers</td>
-    <td>Term 1 week 10</td>
+    <td>Term 2 week 7</td>
   </tr>
   <tr>
     <td rowspan="3">Friends or Foes?</td>
     <td>Are You Really My Friend?<br><br>(60 min)</td>
     <td>·       identify the pros and cons of forming relationships through social networking websites<br><br>·       know ways to keep themselves safe when using social networking websites</td>
-    <td>Term 2 week 1</td>
+    <td>Term 2 week 8</td>
   </tr>
   <tr>
     <td>Is It All Safe?<br><br>(60 min)</td>
