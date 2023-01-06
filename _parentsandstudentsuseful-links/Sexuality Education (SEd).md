@@ -31,7 +31,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 ##### Overview of Yu Neng Primary School’s Sexuality Education Programme for 2023
 
-4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click[here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br><br>
+4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br><br>
 5.       The subjects that incorporate topics on sexuality include:<br>
 a.       Science<br>
 b.       Character and Citizenship Education (CCE)
@@ -96,22 +96,22 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <tbody>
   <tr>
     <td rowspan="3">Growing Years</td>
-    <td> Are We More than Friends?<br>Lesson 1<br><br>(60 min)</td>
-    <td>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-    <td>Term 2 week 6</td>
-  </tr>
-  <tr>
-    <td>Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
-    <td> In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
-	</td>
-    <td>Term 2 week 7</td>
-  </tr>
-  <tr>
-    <td>Did You Know<br><br>(60 min)</td>
+		 <td>Did You Know<br><br>(60 min)</td>
     <td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.**
 <br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
     <td>Term 2 week 5</td>
+  </tr>
+  <tr>
+       <td> Are We More than Friends?<br>Lesson 1<br><br>(60 min)</td>
+    <td>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
+    <td>Term 2 week 6</td>
+  </tr>
+	  <tr>
+    <td>Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
+    <td> In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
+	</td>
+    <td>Term 2 week 7</td>
   </tr>
 </tbody>
 </table>
