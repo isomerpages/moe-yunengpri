@@ -3,9 +3,9 @@ title: Sexuality Education (SEd)
 permalink: /sexuality-education-sed/
 description: ""
 ---
-### SEXUALITY EDUCATION (SEd)
+### <center>SEXUALITY EDUCATION (SEd)
 
-<h5> align="center">YU NENG PRIMARY SCHOOL</h5>
+<h5> <center>YU NENG PRIMARY SCHOOL</h5>
 
 ##### Moe Sexuality Education in Schools
        
@@ -44,7 +44,7 @@ b.       Character and Citizenship Education (CCE)
 <br><br>
 <h5>At Yu Neng Primary School, the following Sexuality Education lessons will be taught in <u>2023</u>:</h5>
 
-<h5> <center>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br>Primary 5</center></h6>
+<h5> <center>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br>Primary 5</center></h5>
 
 <table>
 <thead>
@@ -82,7 +82,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <br><br><br>
 
 
-<h5><center>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br>Primary 6</center></h6>
+<h5><center>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br>Primary 6</center></h5>
 
 <table>
 <thead>
