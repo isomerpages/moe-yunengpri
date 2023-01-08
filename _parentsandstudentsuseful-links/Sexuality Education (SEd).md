@@ -3,9 +3,9 @@ title: Sexuality Education (SEd)
 permalink: /sexuality-education-sed/
 description: ""
 ---
-### <center>SEXUALITY EDUCATION (SEd)</center>
+### SEXUALITY EDUCATION (SEd)
 
-#### <center>YU NENG PRIMARY SCHOOL</center>
+#### YU NENG PRIMARY SCHOOL
 
 ##### Moe Sexuality Education in Schools
        
