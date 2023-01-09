@@ -5,4 +5,4 @@ description: ""
 ---
 ### NATURAL SPRING
 
-![](/images/Natural-Spring.png)
+![](/images/Natural%20Spring.jpg)
