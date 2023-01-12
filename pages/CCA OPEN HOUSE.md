@@ -1,8 +1,9 @@
 ---
 title: CCA OPEN HOUSE
-permalink: /cca-open-house/
+permalink: /cca-open-house-archive/
 description: ""
 ---
+
 <img src="/images/WebsiteBanner_CCA-01.png">
 
 <h1>Trailer</h1>
