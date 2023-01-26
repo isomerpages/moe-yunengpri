@@ -5,6 +5,6 @@ description: ""
 ---
 ### SCHOOL ADVISORY COMMITTEE (SAC)
 
-#### SAC (2022)
+#### SAC (2023)
 
 ![](/images/SAC.png)
