@@ -8,4 +8,3 @@ description: ""
 #### SAC (2022)
 
 ![](/images/SAC.png)
-
