@@ -11,11 +11,11 @@ third_nav_title: Parent Support Group (PSG)
 | | |
 | --- | --- |
 | PSG Advisor | Mr Ng Yeow Ling (Principal) |
-| Staff Liaisons (ST3) | Ms Jamie Ong (Vice Principal)<br>Mr Yok Joon Meng (HOD/EL & SS)<br>Mr Low Hao Rong (HOD/PE & CCA)<br>Ms Shelwyn Tan (SH/CCE Covering)<br>Ms Joanne Loh (Corporate Support Officer) |
+| Staff Liaisons (ST3) | Ms Jamie Ong (Vice Principal)<br>Mr Yok Joon Meng (HOD/EL & SS)<br>Mr Low Hao Rong (HOD/PE & CCA)<br>Ms Shelwyn Tan (SH/CCE Covering)<br>Ms Alicia Tan (Corporate Support Officer) |
 
 #### EXCO Members
 
-![](/images/PSG.png)
+![](/images/PSG%202023.png)
 
 #### Roles of PSG Exco Members
 
