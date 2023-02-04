@@ -20,6 +20,13 @@ sections:
           description: ""
           url: /staff-useful-links/
   - infopic:
+      title: YN88
+      description: "Join in the celebration. "
+      button: Coming soon
+      url: "-"
+      image: /images/YN88.png
+      alt: Image alt text
+  - infopic:
       title: Celebrating Writing
       description: Click here to know more about our celebrating Writing
       button: Read More
