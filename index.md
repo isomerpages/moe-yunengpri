@@ -23,7 +23,7 @@ sections:
       title: YN88
       description: "Join in the celebration. "
       button: Coming soon
-      url: "-"
+      url: https://www.yunengpri.moe.edu.sg/yn88
       image: /images/YN88logo.png
       alt: Image alt text
   - infopic:
