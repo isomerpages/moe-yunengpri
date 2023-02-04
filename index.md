@@ -24,7 +24,7 @@ sections:
       description: "Join in the celebration. "
       button: Coming soon
       url: "-"
-      image: /images/YN88-logo-final.png
+      image: /images/YN88logo.png
       alt: Image alt text
   - infopic:
       title: Celebrating Writing
