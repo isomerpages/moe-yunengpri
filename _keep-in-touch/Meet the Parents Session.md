@@ -5,21 +5,21 @@ description: ""
 ---
 ### MEET THE PARENTS SESSION
 
-2022
+2023
 ----
-
-Thank you for taking part in MPS 1 on 22 January 2022.
+Thank you for taking part in MPS 1 on 4 February 2023.
 
 The slides shared during the session are now available.
 
-[Primary 1 < file exceeds 5MB >](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P1.pdf)
+[Primary 1 ](https://drive.google.com/file/d/15h8c9NwJYmcTLTCR1ccvUOAngvzRKoha/view?usp=share_link)
 
-[Primary 2 < file exceeds 5MB >](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P2.pdf)
+[Primary 2 ](https://drive.google.com/file/d/1ZITMf3fkuEjzLs57HCTNtWbYUNrGnzw1/view?usp=share_link)
 
-[Primary 3 < file exceeds 5MB >](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P3.pdf)
+[Primary 3 ](https://drive.google.com/file/d/1c89oxZGgwBk7rgx9ipU1OAVR4XXi9A7E/view?usp=share_link)
 
-[Primary 4 < file exceeds 5MB >](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P4.pdf)
+[Primary 4 ](https://drive.google.com/file/d/1epKdybK-MCSjrGm_xbjMSbqGITdFKpPt/view?usp=share_link)
 
-[Primary 5 < file exceeds 5MB >](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P5.pdf)
+[Primary 5 ](https://drive.google.com/file/d/1gW2kSvUeBy0bcgZCX_xKpGJjNMEQ8zHq/view?usp=share_link)
 
-[Primary 6 < file exceeds 5MB >](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P6.pdf)
+[Primary 6 ](https://drive.google.com/file/d/1czlGYY47-iqiuC6eAQUiPW4x0SwmuuKe/view?usp=share_link)
+
