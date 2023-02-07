@@ -23,22 +23,3 @@ The slides shared during the session are now available.
 
 [Primary 6 ](https://drive.google.com/file/d/1czlGYY47-iqiuC6eAQUiPW4x0SwmuuKe/view?usp=share_link)
 
-
-2022
-----
-
-Thank you for taking part in MPS 1 on 22 January 2022.
-
-The slides shared during the session are now available.
-
-[Primary 1 ](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P1.pdf)
-
-[Primary 2 ](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P2.pdf)
-
-[Primary 3 ](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P3.pdf)
-
-[Primary 4 ](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P4.pdf)
-
-[Primary 5 ](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P5.pdf)
-
-[Primary 6 ](https://yunengpri.moe.edu.sg/wp-content/uploads/2022/01/MPS1_P6.pdf)
