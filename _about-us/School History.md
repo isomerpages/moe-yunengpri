@@ -9,7 +9,10 @@ In 1934, the late Mr Huang Hua Long, along with 4 humble villagers, took upon th
 
 <img src="/images/tnoldschoolJPG2.jpg" style="width:40%"/>
 
- After the Japanese Occupation, the restoration of the school once again confirmed the undying spirit of selfless dedication. By 1960, the school had an enrollment of about hundred pupils. The enrolment grew to about 693 in 1978 with a staff strength of 23 teachers. With a committed new management committee, Yeu Nerng grew to become a 9-classroom, double-session school. Over the years, the school had consistently managed an overall percentage of passes above the National Average in the Primary School Leaving Examination.
+ After the Japanese Occupation, the restoration of the school once again confirmed the undying spirit of selfless dedication. 
+There were two other Principals who headed the school then, namely Mr Zhen Zhao Wu and Mr Lin Qin Rong till 1959.
+ 
+By 1960, the school had an enrollment of about hundred pupils. The enrolment grew to about 693 in 1978 with a staff strength of 23 teachers. With a committed new management committee, Yeu Nerng grew to become a 9-classroom, double-session school. Over the years, the school had consistently managed an overall percentage of passes above the National Average in the Primary School Leaving Examination.
 
 | | |
 | --- | --- |
@@ -28,7 +31,7 @@ Through the years, Yu Neng Primary School has maintained the traits and virtues 
 *   Mdm Tan Lee Ching, Elis (2009 – 2013)
 *   Mrs Clara Lim-Tan (2014-2020)
 
-On 15 December 2020, our current principal, Mr Ng Yeow Ling, will join Yu Neng Primary School as its 9th principal.
+On 15 December 2020, our current principal, Mr Ng Yeow Ling, joined Yu Neng Primary School as principal.
 
 <img src="/images/Mr-Ng2-1024x704.jpg" style="width:60%"/>
 
