@@ -22,3 +22,9 @@ Teachers are encouraged to plan learning experiences that help children acquire 
 | ![](/images/1-212x300.png) | ![](/images/2-212x300.png) |
 | --- | --- | 
 | ![](/images/3-212x300.png) | ![](/images/4-212x300.png) |
+
+![](/images/LD%20Lower%20Primary.png)
+
+![](/images/LD%20Middle%20Primary.png)
+
+![](/images/LD%20Upper%20Primary.png)
