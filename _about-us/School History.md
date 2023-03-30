@@ -3,9 +3,10 @@ title: School History
 permalink: /school-history/
 description: ""
 ---
-### SCHOOL HISTORY**OUR HISTORY**
+### SCHOOL HISTORY
 
-In 1934, the late Mr Huang Hua Long, along with 4 humble villagers, took upon themselves the responsibility of nurturing and educating the young. With meagre resources, they managed to build a zinc and attap school and called it Yeu Nerng School. Conducting lessons in Mandarin and dialect, Yeu Nerng catered to 20 students from the neighbouring villages. Despite poverty and difficult times, the students of Yeu Nerng achieved commendable examination results.
+
+In 1934, the late Mr Ng Huay Leng, along with 4 humble villagers, took upon themselves the responsibility of nurturing and educating the young. With meagre resources, they managed to build a zinc and attap school and called it Yeu Nerng School. Conducting lessons in Mandarin and dialect, Yeu Nerng catered to 20 students from the neighbouring villages. Despite poverty and difficult times, the students of Yeu Nerng achieved commendable examination results.
 
 <img src="/images/tnoldschoolJPG2.jpg" style="width:40%"/>
 
