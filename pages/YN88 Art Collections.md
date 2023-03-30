@@ -6,4 +6,5 @@ description: ""
 ![](/images/YN88%20Collections.jpg)
 <br>
 
-![](/images/YN88%20Art%20Collections.png)
+
+<a href="https://heyzine.com/flip-book/057a3ef42c.html"><img src="/images/YN88%20Art%20Collections.png"/>Click on the image to enlarge it.</a>
