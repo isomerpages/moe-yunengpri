@@ -4,14 +4,14 @@ permalink: /yn88artcollections/
 description: ""
 ---
 ![](/images/YN88%20Collections.jpg)
-<br>
+<br><br>
 
 
 <a href="https://heyzine.com/flip-book/057a3ef42c.html"><img src="/images/YN88%20Art%20Collections.png"/>Click on the image to view collections.</a>
 
 
 
-<br><br>Please select the artworks you are interested in via the form below<br>
+<br>Please select the artworks you are interested in via the form below<br>
 <div
   style="
     font-family: Sans-Serif;
