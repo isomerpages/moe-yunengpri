@@ -21,7 +21,9 @@ sections:
           url: /staff-useful-links/
   - infopic:
       title: YN88
-      description: "Join in the celebration. "
+      description: "Yu Neng was established in 1935 by its early founders with the aim
+        to do whatever it takes so that the children in the villages could have
+        better lives. "
       button: Read More
       url: https://www.yunengpri.moe.edu.sg/yn88
       image: /images/YN88logo.png
