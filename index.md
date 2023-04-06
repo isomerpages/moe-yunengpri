@@ -29,22 +29,6 @@ sections:
       image: /images/YN88logo.png
       alt: Image alt text
   - infopic:
-      title: Celebrating Writing
-      description: Click here to know more about our celebrating Writing
-      button: Read More
-      url: /english-language/
-      image: /images/Celebrating-Writing.png
-      alt: Image alt text
-  - infopic:
-      title: F.A.M.I.L.Y. (Father And Mother I Love You) @YN
-      subtitle: Infopic Subtitle
-      description: Chinese Language Teachers in collaboration with CCE department has
-        put together the F.A.M.I.L.Y. (Father And Mother I Love You) @ YN
-        initiative.
-      button: Button Text
-      image: /images/family.jpg
-      alt: Image alt text
-  - infopic:
       title: ALP (ICT)
       description: Read more about our ALP in Info-Comm Technology.
       button: Read

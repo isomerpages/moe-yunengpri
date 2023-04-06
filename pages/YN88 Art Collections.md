@@ -7,7 +7,7 @@ description: ""
 <br><br>
 
 
-<a href="https://heyzine.com/flip-book/057a3ef42c.html"><img src="/images/YN88%20Art%20Collections.png">Click on the image to view collections.</a>
+<a href="https://heyzine.com/flip-book/50fe383b49.html"><img src="/images/YN88%20Art%20Collections.png">Click on the image to view collections.</a>
 <br><br><br>
 <a href="https://heyzine.com/flip-book/44961ddc75.html"><img src="/images/yn88%20art%20collections%20psg's%20and%20students'%20artworks.png">Click on the image to view collections.</a>
 
