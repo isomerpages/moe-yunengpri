@@ -8,6 +8,7 @@ description: ""
 <br>
 
 #### April 2023
+* [Early Dismissal on Eve of Hari Raya](/files/early%20dismissal%20on%20eve%20of%20hari%20raya.pdf)
 * [Letter To Parents](/files/april%20ltp%202023.pdf)
 
 
