@@ -8,8 +8,12 @@ description: ""
 
 Here are the artworks contributed by Alumni:
 <a href="https://go.gov.sg/yn88artcollection"><img src="/images/YN88%20Art%20Collections.png">Click on the image to view collections.</a>
-<br><br><br>
+<br><br>
+We are proud to have curated many good quality paintings and artworks to share. Here's are some featured artists that you can see from the art exhibition. 
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3Yi5sThQvF3HMlyUz89APN3QBSeF3w5ga8iXIkX0rdKiRmJ4ow6fJ1RqAA5_wEA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
+
+<br><br>
 Here are the artworks contributed by students, parents and staff:
 <a href="https://go.gov.sg/yn88psgnstudents"><img src="/images/yn88%20art%20collections%20psg's%20and%20students'%20artworks.png">Click on the image to view collections.</a>
 
@@ -27,12 +31,12 @@ We invite interested individuals or organisations to contribute generously throu
 </div>
 
 <!-- Change the width and height values to suit you best -->
-<iframe id="iframe" src="https://form.gov.sg/6423b109f33bd00013432f69" style="width: 100%; height: 500px"></iframe>
+<iframe style="width: 100%; height: 500px" src="https://form.gov.sg/6423b109f33bd00013432f69" id="iframe"></iframe>
 
 <div style="font-family: Sans-Serif;
     font-size: 12px;
     color: #999;
     opacity: 0.5;
     padding-top: 5px;">
-  Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
+  Powered by <a style="color: #999" href="https://form.gov.sg">Form</a>
 </div>
