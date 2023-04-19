@@ -9,7 +9,7 @@ description: ""
 Here are the artworks contributed by Alumni:
 <a href="https://go.gov.sg/yn88artcollection"><img src="/images/YN88%20Art%20Collections.png">Click on the image to view collections.</a>
 <br><br>
-We are proud to have curated many good quality paintings and artworks to share. Here's are some featured artists that you can see from the art exhibition. 
+We are proud to have curated many good quality paintings and artworks to share. Here are some featured artists that you can see from the art exhibition. 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3Yi5sThQvF3HMlyUz89APN3QBSeF3w5ga8iXIkX0rdKiRmJ4ow6fJ1RqAA5_wEA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 
