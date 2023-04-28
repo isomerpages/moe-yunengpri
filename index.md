@@ -18,6 +18,7 @@ sections:
         - title: For Staff (Useful Links)
           description: ""
           url: /staff-useful-links/
+      title: Yu Neng Primary School
   - infopic:
       title: YN88
       description: "Yu Neng was established in 1935 by its early founders with the aim
