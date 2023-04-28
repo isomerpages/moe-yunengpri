@@ -7,7 +7,6 @@ permalink: /
 notification: Welcome To Yu Neng Primary School
 sections:
   - hero:
-      title: Yu Neng Primary School
       subtitle: Aspire, Learn & Lead
       background: /images/IMG_0649 (1).jpg
       url: https://form.gov.sg/5f20c79d5961620011e343f7
