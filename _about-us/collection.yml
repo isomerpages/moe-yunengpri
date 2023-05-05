@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Canteen.md
       - School History.md
       - Mission, Vision, Values.md
       - Motto and Crests.md
@@ -13,3 +12,4 @@ collections:
       - School Services/.keep
       - School Services/School Services.md
       - School Services/Canteen Menu.md
+      - School Canteen.md
