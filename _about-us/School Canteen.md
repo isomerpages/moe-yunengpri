@@ -11,9 +11,7 @@ description: ""
     <label for="accordion1">School Canteen Menu</label>
     <div>
 			<p> 
-			
-			
-
+	
 | | | |
 | --- | --- | --- |
 | [![](/images/Kampong-Bagus-300x253.jpg) <br> Kampong Bagus](/kampong-bagus/) | [![](/images/Nippon-Oiishi-300x245.jpg) <br> Nippon Oiishi (Halal)](/nippon-oiishi/) | [![](/images/Wild-Wild-West-300x274.jpg)<br> Wild Wild West (Halal)](/wild-wild-west/) |
