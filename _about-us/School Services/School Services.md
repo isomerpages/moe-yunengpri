@@ -32,14 +32,15 @@ NAME TAG, SHOES &amp; SOCKS </label>
     <div>
 			<p>	<strong>Sowell Garment Pte Ltd  </strong><br>
   <br>
-1004 Toa Payoh North #07-08/09  <br>
-Off Toa Payoh Lor 1 S(318995)  
+80 Playfair Road<br>
+#01-14 Kapo Factory Building<br>
+Singapore 367998
   <br><br>
 Uniform hours:  <br>
 Mon – Thu : 8.30 am – 9.15 am; 2.00 pm – 3.30 pm  <br>
 Fri: 8.30 am – 9.15 am; 1.00 pm – 3.30 pm  <br>
   <br><br>
-Tel/Fax : 62531063</p>
+Tel/Fax : 86183083</p>
 
 <p></p>
 
@@ -69,6 +70,8 @@ Mon – Fri: 7.00am – 7.00pm
 Tel: 64450514  <br>
 Hp: 93874020 (Mr Eddie Lim)<br>  
 Fax: 65207944<br>
+				
+				
 
 </p><p></p>
     </div>
@@ -104,25 +107,4 @@ Operating Hours:<br>Mon – Fri: 10 am – 7 pm
 </p><p></p>
     </div>
   </li>
-</ul>
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input id="accordion1" type="checkbox">
-		<label for="accordion1">SCHOOL BOOKSHOP</label>
-    <div>
-			<p> <strong>Pacific Bookstores Pte Ltd </strong>  <br>
-Blk 73 Ayer Rajah Crescent  <br>
-#03-01/09 Ayer Rajah Industrial  <br>
-Estate S (139952)  
- <br><br>
-Bookshop hours:  <br>
-Mon – Thu : 8.30 am – 9.15 am; 2.00 pm – 3.30 pm  <br>
-Fri: 8.30 am – 9.15 am; 1.00 pm – 3.30 pm  
-  <br><br>
-Tel/Fax : 64438605function</p>
-
-<p></p>
-    </div>
-	</li>  
 </ul>
