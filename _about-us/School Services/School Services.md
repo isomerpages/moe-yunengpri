@@ -102,8 +102,8 @@ Big Heart Student Care<br><br>
 Operating Hours:<br>Mon – Fri: 10 am – 7 pm
 				<br><br>
 				Contact number: 8189 2305<br>
-				Email address: [yuneng@shgstudentcarecentre.com.sg](mailto:yuneng@shgstudentcarecentre.com.sg)<br><br>[![]Click here to view the image](/images/YN-Big-Heart.jpg)<br>
-
+				Email address: [yuneng@shgstudentcarecentre.com.sg](mailto:yuneng@shgstudentcarecentre.com.sg)<br><br>[![]Click here to view the image](/images/YN-Big-Heart-300x169.jpg)<br>
+			
 </p><p></p>
     </div>
   </li>
