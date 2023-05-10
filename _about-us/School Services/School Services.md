@@ -63,9 +63,7 @@ Mon – Fri : 7.00am – 3.00pm</p>
     <div>
       <p>
         Lingo Star Transport  
-  <br><br>
-Operating time:  <br>
-Mon – Fri: 7.00am – 7.00pm  
+
   <br><br>
 Tel: 64450514  <br>
 Hp: 93874020 (Mr Eddie Lim)<br>  
