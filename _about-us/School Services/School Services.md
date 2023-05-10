@@ -51,8 +51,8 @@ Mon – Fri : 7.00am – 3.00pm</p>
     </div>
   </li>
 	  <li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">SCHOOL BUS</label>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">SCHOOL BUS</label>
     <div>
       <p>
         Lingo Star Transport  
@@ -65,8 +65,8 @@ Fax: 65207944</p><br>
     </div>
   </li>
 	  <li>
-    <input id="accordion4" type="checkbox">
-    <label for="accordion4">SCHOOL DENTAL CLINIC</label>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">SCHOOL DENTAL CLINIC</label>
     <div>
       <p>
      School Dental Clinic  
@@ -80,8 +80,8 @@ Tel/Fax: 64435067<br></p>
     </div>
   </li>
 	  <li>
-    <input id="accordion5" type="checkbox">
-    <label for="accordion5">STUDENT CARE</label>
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">STUDENT CARE</label>
     <div>
       <p>
 Big Heart Student Care<br><br>
