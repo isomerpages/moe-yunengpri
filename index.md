@@ -7,7 +7,6 @@ permalink: /
 notification: Welcome To Yu Neng Primary School
 sections:
   - hero:
-      title: Yu Neng Primary School
       subtitle: Aspire, Learn & Lead
       background: /images/IMG_0649 (1).jpg
       url: https://form.gov.sg/5f20c79d5961620011e343f7
@@ -19,6 +18,7 @@ sections:
         - title: For Staff (Useful Links)
           description: ""
           url: /staff-useful-links/
+      title: Yu Neng Primary School
   - infopic:
       title: YN88
       description: "Yu Neng was established in 1935 by its early founders with the aim

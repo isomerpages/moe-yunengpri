@@ -7,6 +7,10 @@ description: ""
 
 <br>
 
+#### May 2023
+* [Letter To Parents](/files/ltp%20may%202023.pdf)
+
+
 #### April 2023
 * [Early Dismissal on Eve of Hari Raya](/files/early%20dismissal%20on%20eve%20of%20hari%20raya.pdf)
 * [Letter To Parents](/files/april%20ltp%202023.pdf)
