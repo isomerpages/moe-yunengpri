@@ -3,7 +3,8 @@ title: NTStaffTest
 permalink: /our-family/nts/
 description: ""
 ---
-<br style="box-sizing: inherit;"><p></p>
+<br style="box-sizing: inherit;">
+<p></p>
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 272px; width: 867.995px; background-color: rgb(255, 255, 255);" cellpadding="0" cellspacing="0" width="100%" border="0" class="inner-table">
 	<tbody style="box-sizing: inherit;">
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 22px;">
