@@ -21,8 +21,6 @@ Mon – Thu : 8.30 am – 9.15 am; 2.00 pm – 3.30 pm  <br>
 Fri: 8.30 am – 9.15 am; 1.00 pm – 3.30 pm  
   <br><br>
 Tel/Fax : 64438605</p>
-
-<p></p>
     </div>
 	</li>  
   <li>
@@ -41,10 +39,7 @@ Mon – Thu : 8.30 am – 9.15 am; 2.00 pm – 3.30 pm  <br>
 Fri: 8.30 am – 9.15 am; 1.00 pm – 3.30 pm  <br>
   <br><br>
 Tel/Fax : 86183083</p>
-			
-<p></p>
-
-</div>
+		</div>
   </li>
   <li>
     <input id="accordion3" type="checkbox">
@@ -53,30 +48,25 @@ Tel/Fax : 86183083</p>
       <p>
         Canteen Hours:  <br>
 Mon – Fri : 7.00am – 3.00pm</p>
-
-<p></p>
     </div>
   </li>
 	  <li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">SCHOOL BUS</label>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">SCHOOL BUS</label>
     <div>
       <p>
         Lingo Star Transport  
-
   <br><br>
 Tel: 64450514  <br>
 Hp: 93874020 (Mr Eddie Lim)<br>  
-Fax: 65207944<br>
-			
-![](/images/bus%20vendor.png)
+Fax: 65207944</p><br>
 
-</p><p></p>
+<img style="width:85%" src="/images/bus vendor.png">
     </div>
   </li>
 	  <li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">SCHOOL DENTAL CLINIC</label>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">SCHOOL DENTAL CLINIC</label>
     <div>
       <p>
      School Dental Clinic  
@@ -86,23 +76,24 @@ Mon – Thu: 8.00am – 5.30pm  <br>
 Fri – 8.00am – 5.00pm  <br>
 Lunch time : 12.30pm – 1.30pm <br> 
   <br><br>
-Tel/Fax: 64435067<br>
-
-</p><p></p>
+Tel/Fax: 64435067<br></p>
     </div>
   </li>
 	  <li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">STUDENT CARE</label>
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">STUDENT CARE</label>
     <div>
       <p>
 Big Heart Student Care<br><br>
 Operating Hours:<br>Mon – Fri: 10 am – 7 pm
 				<br><br>
-				Contact number: 8189 2305<br>
-				Email address: [yuneng@shgstudentcarecentre.com.sg](mailto:yuneng@shgstudentcarecentre.com.sg)<br><br>[![]Click here to view the image](/images/YN-Big-Heart-300x169.jpg)<br>
-			
-</p><p></p>
+Contact number: 8189 2305<br>
+							
+</p><p> Email Address: </p><a href="mailto: yuneng@shgstudentcarecentre.com.sg">yuneng@shgstudentcarecentre.com.sg</a>			
+				
+<p></p><p><a href="https://staging.d983uqf4p7xhi.amplifyapp.com/images/YN-Big-Heart.jpg">
+<img src="/images/YN-Big-Heart.jpg" style="width:100%">
+</a></p>
     </div>
   </li>
 </ul>
