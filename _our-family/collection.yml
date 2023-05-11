@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - NTStaffTest.md
       - Principal's Message.md
       - School Management Committee.md
       - School Advisory Committee (SAC).md
