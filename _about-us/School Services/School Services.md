@@ -92,7 +92,7 @@ Contact number: 8189 2305<br>
 </p><p>Email address: <a href="yuneng@shgstudentcarecentre.com.sg">yuneng@shgstudentcarecentre.com.sg
 </a></p>
 				
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://staging.d983uqf4p7xhi.amplifyapp.com/images/YN-Big-Heart.jpg">
 <img src="/images/YN-Big-Heart.jpg" style="width:100%">
 </a></p>
     </div>
