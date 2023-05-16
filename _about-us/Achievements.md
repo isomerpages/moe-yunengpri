@@ -161,7 +161,7 @@ description: ""
 |---	|---	|---	|
 | Ng Xian Zhi Marc<br>Cheryl Ng Poh Poh<br>Yew Rui Xiang Xavier 	| 2019 	| 3rd placing in Range category 	|
 | Wang Ting Yu<br>Ng Zi Yang Jovan<br>Mikael Bin Mohamed Zarkhan 	| 2019 	| 3rd placing in Overall Championship (Category A)<br>3rd placing in Precision category 	|
-|  	| 2018 	| 2nd in Range Award<br>3rd place in Overall Championsip 	|
+| 
 
 ##### ACADEMIC
 
