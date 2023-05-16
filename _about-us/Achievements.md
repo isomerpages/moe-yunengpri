@@ -9,7 +9,7 @@ description: ""
 
 | | | |
 | --- | --- | --- |
-| Parent’s appreciation for his son’s teachers<br>Click [here](/accolades) for article 	|  2021 	| Straits Times News Paper Article 	|
+| Parent’s appreciation for his son’s teachers<br>Click [here](https://www.straitstimes.com/opinion/forum/bouquets-sons-teachers-made-a-big-difference-in-his-learning-journey) for article 	|  2021 	| Straits Times News Paper Article 	|
 
 
 #### SCHOOL ACHIEVEMENTS
