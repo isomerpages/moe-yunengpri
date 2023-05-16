@@ -9,7 +9,7 @@ description: ""
 
 | | | |
 | --- | --- | --- |
-| Parent’s appreciation for his son’s teachers<br>Click [here](/accolades) for article 	|  2021 	| Straits Times News Paper Article 	|
+| Parent’s appreciation for his son’s teachers<br>Click [here](https://www.straitstimes.com/opinion/forum/bouquets-sons-teachers-made-a-big-difference-in-his-learning-journey) for article 	|  2021 	| Straits Times News Paper Article 	|
 
 
 #### SCHOOL ACHIEVEMENTS
@@ -67,9 +67,9 @@ description: ""
 |---	|---	|---	|
 | National School Games East-Zone Badminton Senior Division 	| 2021  	| Zonal Top 6  	|
 | Pines Cup Boys 	| 2019 	| Singles 1st Runner Up<br>Aaron Leow Jia Yi 	|
-| Pines Cup Boys 	| 2019 	| Doubles Champion<br>Nigel Lee Yueze & Lee Keng Wai, Lucas 	|
+| Pines Cup Boys 	| 2019 	| Doubles Champion<br>Nigel Lee Yueze &amp; Lee Keng Wai, Lucas 	|
 | Pines Cup Girls 	| 2019 	| Singles Champion<br>Kiera Ng 	|
-| Pines Cup Girls 	| 2019 	| Doubles 2nd Runner Up<br>Chia Chin Yi, Claudia & Tan Tian Xin, Dilys 	|
+| Pines Cup Girls 	| 2019 	| Doubles 2nd Runner Up<br>Chia Chin Yi, Claudia &amp; Tan Tian Xin, Dilys 	|
 | East Zone Primary Schools Badminton Championship, Junior Boys 	| 2019 	| 3rd Position 	|
 | East Zone Primary Schools Badminton Championship, Senior Boys 	| 2019 	| 2nd Position 	|
 | East Zone Primary School Badminton Championship (Junior Boys) 	| 2018 	| 2nd Position 	|
@@ -79,9 +79,9 @@ description: ""
 | East Zone Senior Boys 	| 2017 	| 2nd Position 	|
 | East Zone Junior Girls 	| 2017 	| 4th Position 	|
 | Pines Cup Boys 	| 2017 	| Singles Champion<br>Remus Ng 	|
-| Pines Cup Boys 	| 2017 	| Doubles Champion<br>Kalkin Kumar & Tan Zhong Sing 	|
+| Pines Cup Boys 	| 2017 	| Doubles Champion<br>Kalkin Kumar &amp; Tan Zhong Sing 	|
 | Pines Cup Girls 	| 2017 	| Singles 1st Runner up<br>Ivie Poh 	|
-| Pines Cup Girls 	| 2017 	| Doubles 1st Runner up<br>Chloe Liew & Renee Yong 	|
+| Pines Cup Girls 	| 2017 	| Doubles 1st Runner up<br>Chloe Liew &amp; Renee Yong 	|
 | National Junior Boys 	| 2016 	| Top 8 	|
 | National Senior Girls  	| 2016 	| Top 8 	|
 | National Individual Championship 2016 (Junior Boys)  	| 2016 	| 3rd Position 	|
@@ -161,16 +161,16 @@ description: ""
 |---	|---	|---	|
 | Ng Xian Zhi Marc<br>Cheryl Ng Poh Poh<br>Yew Rui Xiang Xavier 	| 2019 	| 3rd placing in Range category 	|
 | Wang Ting Yu<br>Ng Zi Yang Jovan<br>Mikael Bin Mohamed Zarkhan 	| 2019 	| 3rd placing in Overall Championship (Category A)<br>3rd placing in Precision category 	|
-|  	| 2018 	| 2nd in Range Award<br>3rd place in Overall Championsip 	|
+| 
 
 ##### ACADEMIC
 
 | Chinese Language 	| Year 	| Award 	|
 |---	|---	|---	|
 | Text Recital Competition for Primary and Secondary Schools 	| 2020 	| Silver:<br>Megan Bang Shiya<br>Lee Jue Ming<br>Pek Luo Xi GiseleBronze:<br>Wong Pui Yee, Cyrena 	|
-| National PrimarT Schools On-The-Spot Chinese Creative Writing Competition 	| 2019 	| Merit:<br>Yang Jiali 	|
+| National Primary Schools On-The-Spot Chinese Creative Writing Competition 	| 2019 	| Merit:<br>Yang Jiali 	|
 | National Chinese Challenge 	| 2019 	| Top 20:<br>Xu Ruokai 	|
-| Chinese Language & Culture Competition 	| 2019 	| 2nd Position:<br>Chai Qihan<br>Lu Yu Song<br>Xu Ruokai<br>Xu Wai Tung 	|
+| Chinese Language &amp; Culture Competition 	| 2019 	| 2nd Position:<br>Chai Qihan<br>Lu Yu Song<br>Xu Ruokai<br>Xu Wai Tung 	|
 | International Chinese Language Writing Competition 	| 2017 	| Gold<br>Chen Wei 	|
 | National Chinese Challenge 2016 	| 2016 	| Top 20 Individual award  	|
 | 12th On-the-Spot Chinese Story Writing Competition 	| 2016 	| Merit 	|
@@ -186,7 +186,7 @@ description: ""
 |  Primary School Debate Open Championships  	| 2021 	| Good Speaker:<br>Wang Liwei  	|
 | Scholastic Spot On Read and Write Challenge 	| 2020 	| 3rd Position:<br>Siti Qayyimah Binte Ismail Nazri 	|
 | International Primary and Secondary School English Speech Contest 	| 2019 	| Bronze:<br>Tan Yee Kai 	|
-| Scholastic Spot On Read & Write Challenge 	| 2019 	| 2nd Position:<br>Eugene Ong Yong Jun 	|
+| Scholastic Spot On Read &amp; Write Challenge 	| 2019 	| 2nd Position:<br>Eugene Ong Yong Jun 	|
 | Wits and Words Debate Competition 	|  2019 	| Best speaker in the respective rounds:<br>Xu Ruokai<br>Keira Ng 	|
 |  SOTA Writing Competition 	| 2019 	| Top 60 students selected to attend a writing master class:<br>Lim Cheng Rui<br>Tan Han Wen Jonathan  	|
 | National English Writing Competition 	| 2018 	| Merit:<br>Ang Rae Shyn 	|
@@ -196,7 +196,7 @@ description: ""
 |---	|---	|---	|
 | Singapore Mathematics Olympiad for Primary Schools 	| 2021 	| Silver and Bronze 	|
 | River Valley High School Mathematics Challenge 	| 2021 	| 6th Place 	|
-| Singapore & Asian Schools Mathematics Olympiad 2020 (SASMO)  	| 2020 	| Gold:<br>Gisele Pek Luo Xi 	|
+| Singapore &amp; Asian Schools Mathematics Olympiad 2020 (SASMO)  	| 2020 	| Gold:<br>Gisele Pek Luo Xi 	|
 | National Mathematics Olympiad of Singapore (NMOS)  	| 2019 	| Honourable Mention:<br>Asher Kek Zhongyue<br>He Tianle<br>Jervis Lim Yu Cheng<br>Loo Yen Xi, Evangeline<br>Ng Jun Hao Cason<br>Teoh Xin Lei<br>Silver:<br>Chi Yuze<br>Bronze:<br>Grace Tan Yuting <br>Mikael Bin Mohamed Zarkhan <br>Ng Zhen Xuan 	|
 | International Competitions and Assessments for Schools (ICAS) Math 	| 2019 	| Distinction:<br>Gisele Pek Luo Xi 	|
 | Math Warriors Competition 	| 2019 	| Silver:<br>Tan Yew Han 	|
@@ -267,9 +267,9 @@ The Caring Teacher Awards aims to pay tribute to teachers who show care and conc
 | Mdm Catherine Tan 	| 2018 	| School Level 	|
 | Mrs Ignatia Leng 	| 2018 	| School Level 	|
 
-##### Listening Educator for Advancement & Progress (LEAP) Award
+##### Listening Educator for Advancement &amp; Progress (LEAP) Award
 
-The LEAP Award recognizes exceptional teachers who have made a difference in the lives of their pupils.  We are proud of our teacher who has attained the award.
+The LEAP Award recognizes exceptional teachers who have made a difference in the lives of their pupils.&nbsp; We are proud of our teacher who has attained the award.
 
 | Name 	| Year 	| Award 	|
 |---	|---	|---	|
