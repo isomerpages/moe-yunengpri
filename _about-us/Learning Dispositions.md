@@ -13,7 +13,7 @@ Learning dispositions, or habits of learning, are the different characteristics 
 
 We are committed to helping our students understand that different habits and ways of thinking can make learning easier. At Yu Neng Primary School, we have identified four key learning dispositions we will focus on, namely Reflectiveness and Readiness (categorised as habits of mind); Resourcefulness and Relatedness (categorised as habits of action). <em>The first disposition under each category, Reflectiveness and Readiness, take on the personal dimension, while the second set takes on the team dimension.All four dispositions are equally important. We can only be effective learners when we have developed both habits of mind and action, along with the personal and team dimensions, as learning is both a personal and social undertaking.</em>
 
-<img src="/images/5-768x417.jpg" style="width:60%"/>
+<img src="/images/5-768x417.jpg" style="width:60%">
 
 #### Introducing Positive Learning Dispositions into the Classroom
 
@@ -25,6 +25,6 @@ Teachers are encouraged to plan learning experiences that help children acquire 
 
 ![](/images/LD%20Lower%20Primary.png)
 
-![](/images/LD%20Middle%20Primary.png)
+![](/images/ld%20middle%20primary1.png)
 
 ![](/images/LD%20Upper%20Primary.png)
