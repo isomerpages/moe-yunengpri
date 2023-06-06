@@ -2,7 +2,7 @@
 title: Maths Club
 permalink: /maths-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 ### MATHS CLUB
 
