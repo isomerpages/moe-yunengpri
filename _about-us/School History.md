@@ -11,7 +11,7 @@ In 1934, the late Mr Ng Huay Leng, along with 4 humble villagers, took upon them
 <img src="/images/tnoldschoolJPG2.jpg" style="width:40%">
 
 &nbsp;After the Japanese Occupation, the restoration of the school once again confirmed the undying spirit of selfless dedication. 
-There were three other principals who headed the school then, namely Mr Zhen Zhao Wu, Mr Lin Qin Rong and Mr Huang Chen Si till 1960.
+There were two other principals who headed the school then, namely Mr Zheng Zhao Wu and Mr Lin Qin Rong till 1959.
  
 By 1960, the school had an enrollment of about hundred pupils. The enrolment grew to about 693 in 1978 with a staff strength of 23 teachers. With a committed new management committee, Yeu Nerng grew to become a 9-classroom, double-session school. Over the years, the school had consistently managed an overall percentage of passes above the National Average in the Primary School Leaving Examination.
 
