@@ -18,4 +18,3 @@ Here are the artworks contributed by students, parents and staff:
 <a href="https://go.gov.sg/yn88psgnstudents"><img src="/images/yn88%20art%20collections%20psg's%20and%20students'%20artworks.png">Click on the image to view collections.</a>
 
 We invite interested individuals or organisations to contribute generously through the buying of the art pieces contributed by Alumni, staff, students and friends of Yu Neng Primary School. &nbsp;If you are interested in any of the art pieces, please leave your contact details in this form. We will contact you soon.
-
