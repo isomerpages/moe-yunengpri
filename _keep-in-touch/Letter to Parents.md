@@ -7,6 +7,9 @@ description: ""
 
 <br>
 
+#### June 2023
+* [P1 SS Learning Journey (Jacob Ballas)](/files/2023%20p1%20ss%20lj%20jacob%20ballas%20letter%20to%20parents.pdf)
+
 #### May 2023
 * [Parent-Teacher-Child (PTC) Conference Cum YN88 Art Exhibition](/files/parent-teacher-child%20(ptc)%20conference%20cum%20yn88%20art%20exhibition.pdf)
 * [Letter To Parents](/files/ltp%20may%202023.pdf)
