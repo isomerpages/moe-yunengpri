@@ -4,7 +4,7 @@ title: Yu Neng Primary School
 description: Brief site description here
 image: /images/Yu Neng Primary School.jpg
 permalink: /
-notification: Welcome To Yu Neng Primary School
+notification: "E-Open House 2023: 30th June 2023 - 14 August 2023"
 sections:
   - hero:
       subtitle: Aspire, Learn & Lead
@@ -21,9 +21,9 @@ sections:
       title: Yu Neng Primary School
   - infopic:
       title: YN88
-      description: "Yu Neng was established in 1935 by its early founders with the aim
+      description: Yu Neng was established in 1935 by its early founders with the aim
         to do whatever it takes so that the children in the villages could have
-        better lives. "
+        better lives.
       button: Read More
       url: https://www.yunengpri.moe.edu.sg/yn88
       image: /images/YN88logo.png
