@@ -4,7 +4,7 @@ title: Yu Neng Primary School
 description: Brief site description here
 image: /images/Yu Neng Primary School.jpg
 permalink: /
-notification: "E-Open House 2023: 30th June 2023 - 14 August 2023"
+notification: "E-Open House 2023: 30th June 2023 - 14th August 2023"
 sections:
   - hero:
       subtitle: Aspire, Learn & Lead
