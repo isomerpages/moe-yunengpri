@@ -8,7 +8,7 @@ notification: "E-Open House 2023: 30th June 2023 - 14th August 2023"
 sections:
   - hero:
       subtitle: Aspire, Learn & Lead
-      background: /images/IMG_0649 (1).jpg
+      background: /images/banner 1.jpg
       url: https://form.gov.sg/5f20c79d5961620011e343f7
       button: Share a Compliment
       key_highlights:
