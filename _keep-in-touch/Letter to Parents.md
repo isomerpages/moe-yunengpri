@@ -7,6 +7,15 @@ description: ""
 
 <br>
 
+#### August 2023
+* [Letter To Parents](/files/ltp%20aug%202023%20.pdf)
+* [National Day Celebration](/files/national%20day%20celebration%202023.pdf)
+* [Teachers' Day Early Dismissal](/files/teachers’%20day%20early%20dismissal.pdf)
+
+
+#### July 2023
+* [Letter To Parents](/files/ltp%20july%202023.pdf)
+
 #### June 2023
 * [P1 SS Learning Journey (Jacob Ballas)](/files/2023%20p1%20ss%20lj%20jacob%20ballas%20letter%20to%20parents.pdf)
 
