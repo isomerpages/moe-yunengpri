@@ -40,6 +40,7 @@ On 15 December 2020, our current principal, Mr Ng Yeow Ling, joined Yu Neng Prim
 
 <img src="/images/Mr-Ng2-1024x704.jpg" style="width:60%">
 
+<br><br>
 
 #### THE SCHOOL BELL
 
@@ -49,7 +50,7 @@ Since reallocating in September 2016, the school rung the school bell to signify
 
 <img src="/images/school%20bell1.png" style="width:40%">
 
-
+<br><br>
 
 #### OUR 88TH ANNIVERSARY
 
