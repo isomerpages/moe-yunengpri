@@ -51,7 +51,7 @@ Yu Neng celebrates its 88th anniversary in 2023 with its Alumni coming together 
 
 | | |
 | --- | --- |
-|||
+|![](/images/yn88%20art.png)|![](/images/yn88hall.jpg)|
 
 The YN Alumni has also launched a special YN88 publication titled "With All My Voice" on 8th August 2023, as part of our school National Day celebrations. This commemorative publication captures voices of generations of our alumni, students, staff and stakeholders. Together, they construct what Yu Neng means to us across generations who have lived through our years of nation-building.
 
