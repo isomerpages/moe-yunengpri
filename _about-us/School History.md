@@ -25,6 +25,8 @@ Yeu Nerng Public School continued to grow from strength to strength. In 1982, it
 | --- | --- |
 |![](/images/old%20school%20torch%201.png)|![](/images/school%20field%201.png)|
 
+Through the years, Yu Neng Primary School has maintained the traits and virtues of its early founders. 2015 will be a significant year for the school as it commemorates its 80th anniversary. With its rich history , strong foundation, values and beliefs, Yu Neng continues to grow and strive towards its motto of "Light Up and Shine".
+
 *   Mr Ng Sin Soo (1960 – 1983)
 *   Mr Chia Chee Fun (1983 – 1988)
 *   Mr Foo Don Wan (1989 – 1992)
@@ -44,6 +46,10 @@ On 15 December 2020, our current principal, Mr Ng Yeow Ling, joined Yu Neng Prim
 The bell (currently in the school hall) was donated to the school by Mr Ng Hong Kok and his brothers after the Japanese Occupation.&nbsp;It was used by the school to signify the start of school, recess and dismissal till the 1980s. It was kept in store until it was displayed at the YN Gallery in 2015.&nbsp;
 
 Since reallocating in September 2016, the school rung the school bell to signify important school events and celebration of individual or team achievements.
+
+<img src="/images/school%20bell1.png" style="width:40%">
+
+
 
 #### OUR 88TH ANNIVERSARY
 
