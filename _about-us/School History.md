@@ -49,5 +49,13 @@ Since reallocating in September 2016, the school rung the school bell to signify
 
 Yu Neng celebrates its 88th anniversary in 2023 with its Alumni coming together to organize a commemorative art exhibition which draws on the talents and passions of alumni students former and current staff. A total of 88 pieces of artworks ranging from Chinese landscaping painting to Chinese calligraphy pieces were put on display.
 
+| | |
+| --- | --- |
+|||
 
+The YN Alumni has also launched a special YN88 publication titled "With All My Voice" on 8th August 2023, as part of our school National Day celebrations. This commemorative publication captures voices of generations of our alumni, students, staff and stakeholders. Together, they construct what Yu Neng means to us across generations who have lived through our years of nation-building.
+
+[Click here for YN88 Publication "With All My Voice".](https://go.gov.sg/yn88wamv)
+
+[Click here for YN80 Publication "With All My Voice".](https://bit.ly/3DVczWF)
 
