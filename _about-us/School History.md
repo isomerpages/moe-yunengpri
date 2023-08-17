@@ -23,7 +23,7 @@ Yeu Nerng Public School continued to grow from strength to strength. In 1982, it
 
 | | |
 | --- | --- |
-|![](/images/old%20school%20torch.png)|![](/images/school%20field.png)|
+|![](/images/old%20school%20torch%201.png)|![](/images/school%20field%201.png)|
 
 *   Mr Ng Sin Soo (1960 – 1983)
 *   Mr Chia Chee Fun (1983 – 1988)
@@ -58,4 +58,3 @@ The YN Alumni has also launched a special YN88 publication titled "With All My V
 [Click here for YN88 Publication "With All My Voice".](https://go.gov.sg/yn88wamv)
 
 [Click here for YN80 Publication "With All My Voice".](https://bit.ly/3DVczWF)
-
