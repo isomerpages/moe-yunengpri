@@ -97,9 +97,7 @@ This is a series of exercises through which students develop their schema for ma
 		<td width="40%"><img src="/images/slide%209_math%20magic%20(3).jpeg" style="padding:0px 40px 0px 40px"></td>
 		<td width="40%"><img src="/images/slide%209_math%20magic%20(4).jpeg"></td>
 	</tr>
-<tr>
-		<td width="40%"><img src="/images/slide%209_math%20magic%20(3).jpeg"></td>
-	</tr>
+
 </tbody></table><br>
 
 <table style="border: 1px solid black">
