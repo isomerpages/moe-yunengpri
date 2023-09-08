@@ -70,10 +70,9 @@ This is a series of exercises through which students develop their schema for ma
 		<td width="40%"><img src="/images/p3%20international%20chess%20training%2002.jpeg"></td>
 		<td></td>
 	</tr>
-	
-</tbody></table>
+</tbody></table><br>
 
-<table style="border: 1px solid black">
+<br><table style="border: 1px solid black">
 	<tbody><tr>
 		<td colspan="3">
 			<b><u>P4 Math Game Design</u></b>
@@ -101,7 +100,7 @@ This is a series of exercises through which students develop their schema for ma
 <tr>
 		<td width="40%"><img src="/images/slide%209_math%20magic%20(3).jpeg"></td>
 	</tr>
-</tbody></table>
+</tbody></table><br>
 
 <table style="border: 1px solid black">
 	<tbody><tr>
@@ -114,4 +113,4 @@ This is a series of exercises through which students develop their schema for ma
 		<td width="37%"><img src="/images/kite%20making%202.png" style="padding:0px 40px 0px 40px"></td>
 		<td width="38%"><img src="/images/kite%20making%203.jpg"></td>
 	</tr>
-</tbody></table>
+</tbody></table><br>
