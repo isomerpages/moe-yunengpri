@@ -29,7 +29,10 @@ description: ""
 2\.  Involve students as active learners. <br>
 3\.  Experiential Learning to strengthen thinking and reasoning skills <br>
 4\.  Ensure relevance by blending with digital millennial
-5\.  Build metacognitive skills through inculcating a reflective disposition
+5\.  Build metacognitive skills through inculcating a reflective disposition<br><br>
+
+![](/images/math%20classroom%20structure_website%20(1).jpg)
+
 
 #### Syllabus
 
