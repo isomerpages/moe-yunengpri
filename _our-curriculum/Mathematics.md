@@ -52,12 +52,33 @@ This is a series of exercises through which students develop their schema for ma
 
 <b><u>Math Enrichment</u></b>
 
-*  E2K (P4 – P6)
-*  Magic Math (P4-P5)
-*  P5 Kite Construction
-*  P5 Calculator Workshop
-*  P4 Board Game Design
-*  P3 International Chess Training
+<table style="border: 1px solid black">
+	<tbody><tr>
+		<td colspan="3">
+			<b><u>E2K (P4 – P6)</u></b>
+		</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody></table>
+<br>
+
+<table style="border: 1px solid black">
+	<tbody><tr>
+		<td colspan="3">
+			<b><u>P5 Calculator Workshop</u></b>
+		</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody></table>
+<br>
 
 <table style="border: 1px solid black">
 	<tbody><tr>
@@ -94,8 +115,7 @@ This is a series of exercises through which students develop their schema for ma
 	</tr>
 	<tr>
 		<td width="40%"><img src="/images/slide%209_math%20magic%20(1).jpeg"></td>
-		<td width="40%"><img src="/images/slide%209_math%20magic%20(3).jpeg" style="padding:0px 40px 0px 40px"></td>
-		<td width="40%"><img src="/images/slide%209_math%20magic%20(4).jpeg"></td>
+		<td width="50%"><img src="/images/slide%209_math%20magic%20(3).jpeg" style="padding:0px 40px 0px 40px"></td>
 	</tr>
 
 </tbody></table><br>
@@ -108,7 +128,6 @@ This is a series of exercises through which students develop their schema for ma
 	</tr>
 	<tr>
 		<td width="33%"><img src="/images/slide%2010_p5%20kite%20construction%2001.JPG"></td>
-		<td width="33%"><img src="/images/kite%20making%202.png" style="padding:0px 40px 0px 40px"></td>
 		<td width="33%"><img src="/images/kite%20making%203.jpg"></td>
 	</tr>
 </tbody></table><br>
@@ -126,9 +145,8 @@ This is a series of exercises through which students develop their schema for ma
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/math%20trail%20series%201.jpg"></td>
 		<td width="39%"><img src="/images/math%20trail%20series%202.jpg" style="padding:0px 40px 0px 40px"></td>
-		<td width="48%"><img src="/images/math%20trail%20series%203.jpg"></td>
+		<td width="35%"><img src="/images/math%20trail%20series%203.jpg"></td>
 	</tr>
 </tbody></table><br>
 
@@ -179,19 +197,11 @@ Highlights includes a montage of our students’ journey of mathematical learnin
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/math%20week%201.jpg"></td>
-		<td width="33%"><img src="/images/math%20week%202.jpg"></td>
+		<td width="36%"><img src="/images/math%20week%201.jpg"></td>
 		<td width="33%"><img src="/images/math%20week%203.jpg"></td>
 	</tr>
 </tbody></table>
-<table style="border: 1px solid black">
-	<tbody><tr>
-	</tr>
-	<tr>
-		<td width="33%"><img src="/images/math%20week%204.jpg"></td>
-		<td></td>
-	</tr>
-</tbody></table><br>
+
 
 <b><u>Blending with Digital Millennial as part of Mathematics curriculum practice</u></b>
    
