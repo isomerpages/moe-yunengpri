@@ -66,7 +66,7 @@ This is a series of exercises through which students develop their schema for ma
 		</td>
 	</tr>
 	<tr>
-		<td><img src="/images/Math-trail3-300x225.jpg"></td>
+		<td width="33%"><img src="/images/p3%20international%20chess%20training.JPG"></td>
 		<td><img src="/images/Math-trail2-300x225.jpg"></td>
 		<td><img src="/images/Math-trail1-300x225.jpg"></td>
 	</tr>
