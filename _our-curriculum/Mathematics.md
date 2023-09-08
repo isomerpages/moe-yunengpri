@@ -193,4 +193,17 @@ Highlights includes a montage of our students’ journey of mathematical learnin
 	</tr>
 </tbody></table><br>
 
+<b><u>Blending with Digital Millennial as part of Mathematics curriculum practice</u></b>
+   
 
+This involves leveraging on online platforms eg Google Classroom, SLS and the use of google suite, zoom and gamification apps to create opportunities for …….
+
+*  Inquiry base and collaborative learning at blended project work programme
+
+*  Strengthening reasoning and thinking skills from cognitive to metacognitive levels
+
+*  Concept base learning
+
+*  Flip classroom sessions
+
+*  Interactive and/or self-directed learning
