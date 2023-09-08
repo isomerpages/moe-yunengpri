@@ -66,9 +66,9 @@ This is a series of exercises through which students develop their schema for ma
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/p3%20international%20chess%20training.JPG"></td>
-		<td><img src="/images/Math-trail2-300x225.jpg"></td>
-		<td><img src="/images/Math-trail1-300x225.jpg"></td>
+		<td width="40%"><img src="/images/p3%20international%20chess%20training.JPG"></td>
+		<td width="40%"><img src="/images/p3%20international%20chess%20training%2002.jpeg"></td>
+		<td></td>
 	</tr>
 	
 </tbody></table>
@@ -76,46 +76,42 @@ This is a series of exercises through which students develop their schema for ma
 <table style="border: 1px solid black">
 	<tbody><tr>
 		<td colspan="3">
-			<b><u>E2K Programme</u></b>
+			<b><u>P4 Math Game Design</u></b>
 		</td>
 	</tr>
 	<tr>
-		<td><img src="/images/E2K-3.jpg"></td>
-		<td><img src="/images/E2K-2.jpg"></td>
-		<td><img src="/images/E2K-1.jpg"></td>
+		<td width="33%"><img src="/images/p4%20math%20game%20design%201.jpg"></td>
+		<td width="40%"><img src="/images/p4%20math%20game%20design%202.jpg"></td>
+		<td></td>
+	</tr>
+
+</tbody></table>
+
+<table style="border: 1px solid black">
+	<tbody><tr>
+		<td colspan="4">
+			<b><u>   Magic Math (P4-P5)</u></b>
+		</td>
 	</tr>
 	<tr>
-		<td colspan="3">
-			E2K is a Mathematics enrichment programme for upper primary students who demonstrate interest and ability in Mathematics.<br>
-			<br>
-The programme comprises Mathematics curriculum units that are designed to challenge high-ability students and to introduce them to advanced Mathematics concepts and thinking.&nbsp;&nbsp; It fosters independence in mathematical thinking skills, as well as nurture other important 21st century competencies such as creative and critical thinking and effective communication skills.<br>
-			<br>
-During the E2K sessions, students will be assigned challenging Mathematics problems. They will have opportunities to discover, reason and communicate mathematical ideas and concepts, especially in problem solving (games-based learning).
-		</td>
+		<td width="40%"><img src="/images/slide%209_math%20magic%20(1).jpeg"></td>
+		<td width="35%"><img src="/images/slide%209_math%20magic%20(2).jpeg" style="padding:0px 40px 0px 40px"></td>
+		<td width="40%"><img src="/images/slide%209_math%20magic%20(4).jpeg"></td>
+	</tr>
+<tr>
+		<td width="40%"><img src="/images/slide%209_math%20magic%20(3).jpeg"></td>
 	</tr>
 </tbody></table>
 
 <table style="border: 1px solid black">
 	<tbody><tr>
-		<td colspan="3">
-			<b><u>Construction of Mathematics Kite for P5</u></b>
+		<td colspan="4">
+			<b><u>P5 Kite Construction</u></b>
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/3-1-768x576.jpg"></td>
-		<td width="33%"><img src="/images/2-1-225x300.jpg" style="padding:0px 40px 0px 40px"></td>
-		<td width="33%"><img src="/images/1-1-768x576.jpg"></td>
-	</tr>
-	<tr>
-		<td colspan="3">
-			<p align="center">
-				<iframe width="310" height="172" src="https://www.youtube.com/embed/jEdR_Po6Y4I" title="P5 Kite Construction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="3">
-			Students experience real life application of mathematical&nbsp; knowledge as they apply their understanding of geometry in the process of constructing a kite. This event not only deepens mathematical understanding of students, but strengthens recall and process thinking skills through hands-on involvement in the kite construction. Apart from being engaging and fun, true joy is also elicited through seeing their newly constructed&nbsp; kite soar high in the sky.
-		</td>
+		<td width="40%"><img src="/images/slide%209_math%20magic%20(1).jpeg"></td>
+		<td width="35%"><img src="/images/slide%209_math%20magic%20(2).jpeg" style="padding:0px 40px 0px 40px"></td>
+		<td width="40%"><img src="/images/slide%209_math%20magic%20(4).jpeg"></td>
 	</tr>
 </tbody></table>
