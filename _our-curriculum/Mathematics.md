@@ -145,3 +145,16 @@ This is a series of exercises through which students develop their schema for ma
 	</tr>
 </tbody></table><br>
 
+<table style="border: 1px solid black">
+	<tbody><tr>
+		<td colspan="4">
+			<b><u>P1-P2 Math &amp; Art (Statistics)</u></b>
+		</td>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/slide%2013_p1-p2%20math%20&amp;%20art%20(statistics)%2001.jpg"></td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody></table><br>
+
