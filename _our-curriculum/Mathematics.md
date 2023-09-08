@@ -62,7 +62,7 @@ This is a series of exercises through which students develop their schema for ma
 <table style="border: 1px solid black">
 	<tbody><tr>
 		<td colspan="3">
-			<b><u>Math Trails</u></b>
+			<b><u>P3 International Chess Training</u></b>
 		</td>
 	</tr>
 	<tr>
@@ -70,11 +70,7 @@ This is a series of exercises through which students develop their schema for ma
 		<td><img src="/images/Math-trail2-300x225.jpg"></td>
 		<td><img src="/images/Math-trail1-300x225.jpg"></td>
 	</tr>
-	<tr>
-		<td colspan="3">
-			Math Trails aim to provide P1 and P2 students with the opportunities to learn beyond the classrooms in authentic learning environments.&nbsp; Through the activities designed for Math Trails, the P1 and P2 students are also provided with the opportunities to apply their mathematical skills in the real world.&nbsp; The use of technology helps students to go about their Math Trails in a convenient and paperless way!
-		</td>
-	</tr>
+	
 </tbody></table>
 
 <table style="border: 1px solid black">
