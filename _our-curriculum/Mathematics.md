@@ -131,3 +131,17 @@ This is a series of exercises through which students develop their schema for ma
 		<td width="33%"><img src="/images/math%20trail%20series%203.jpg"></td>
 	</tr>
 </tbody></table><br>
+
+<table style="border: 1px solid black">
+	<tbody><tr>
+		<td colspan="4">
+			<b><u>P2-P4 Money Education Series (Numbers)</u></b>
+		</td>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/slide%2012_p2-p4%20money%20education%20series%20(numbers)%2001.jpg"></td>
+		<td width="33%"><img src="/images/slide%2012_p2-p4%20money%20education%20series%20(numbers)%2002.jpg" style="padding:0px 40px 0px 40px"></td>
+		<td></td>
+	</tr>
+</tbody></table><br>
+
