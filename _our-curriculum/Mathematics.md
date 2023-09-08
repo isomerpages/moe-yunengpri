@@ -70,7 +70,8 @@ This is a series of exercises through which students develop their schema for ma
 		<td width="40%"><img src="/images/p3%20international%20chess%20training%2002.jpeg"></td>
 		<td></td>
 	</tr>
-</tbody></table><br>
+</tbody></table>
+<br>
 
 <br><table style="border: 1px solid black">
 	<tbody><tr>
@@ -101,6 +102,25 @@ This is a series of exercises through which students develop their schema for ma
 		<td width="40%"><img src="/images/slide%209_math%20magic%20(3).jpeg"></td>
 	</tr>
 </tbody></table><br>
+
+<table style="border: 1px solid black">
+	<tbody><tr>
+		<td colspan="4">
+			<b><u>P5 Kite Construction</u></b>
+		</td>
+	</tr>
+	<tr>
+		<td width="35%"><img src="/images/slide%2010_p5%20kite%20construction%2001.JPG"></td>
+		<td width="37%"><img src="/images/kite%20making%202.png" style="padding:0px 40px 0px 40px"></td>
+		<td width="38%"><img src="/images/kite%20making%203.jpg"></td>
+	</tr>
+</tbody></table><br>
+
+<b><u>Strand Base Math Programmes</u></b>
+
+*   P1- P4 Math Trail Series (Geometry)
+*   P2-P4 Money Education&nbsp; Series ( Numbers)
+*   P1- P2 Math &amp; Art (Statistics)
 
 <table style="border: 1px solid black">
 	<tbody><tr>
