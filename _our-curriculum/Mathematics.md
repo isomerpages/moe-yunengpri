@@ -127,8 +127,8 @@ This is a series of exercises through which students develop their schema for ma
 	</tr>
 	<tr>
 		<td width="33%"><img src="/images/math%20trail%20series%201.jpg"></td>
-		<td width="38%"><img src="/images/math%20trail%20series%202.jpg" style="padding:0px 40px 0px 40px"></td>
-		<td width="33%"><img src="/images/math%20trail%20series%203.jpg"></td>
+		<td width="39%"><img src="/images/math%20trail%20series%202.jpg" style="padding:0px 40px 0px 40px"></td>
+		<td width="38%"><img src="/images/math%20trail%20series%203.jpg"></td>
 	</tr>
 </tbody></table><br>
 
@@ -140,7 +140,7 @@ This is a series of exercises through which students develop their schema for ma
 	</tr>
 	<tr>
 		<td width="33%"><img src="/images/slide%2012_p2-p4%20money%20education%20series%20(numbers)%2001.jpg"></td>
-		<td width="33%"><img src="/images/slide%2012_p2-p4%20money%20education%20series%20(numbers)%2002.jpg" style="padding:0px 40px 0px 40px"></td>
+		<td width="43%"><img src="/images/slide%2012_p2-p4%20money%20education%20series%20(numbers)%2002.jpg" style="padding:0px 40px 0px 40px"></td>
 		<td></td>
 	</tr>
 </tbody></table><br>
@@ -157,4 +157,3 @@ This is a series of exercises through which students develop their schema for ma
 		<td></td>
 	</tr>
 </tbody></table><br>
-
