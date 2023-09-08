@@ -117,7 +117,7 @@ This is a series of exercises through which students develop their schema for ma
 
 *   P1- P4 Math Trail Series (Geometry)
 *   P2-P4 Money Education&nbsp; Series ( Numbers)
-*   P1- P2 Math &amp; Art (Statistics)
+*   P1- P2 Math &amp; Art (Statistics)<br>
 
 <table style="border: 1px solid black">
 	<tbody><tr>
@@ -157,3 +157,20 @@ This is a series of exercises through which students develop their schema for ma
 		<td></td>
 	</tr>
 </tbody></table><br>
+
+
+<b><u>Mathematics Beyond the Classroom @ Math Week</u></b>
+   
+
+This annual 1-week programme is undergirded by a simple desire amongst our YNPS Math educators to bring the joy of learning mathematics through a variety of purposeful and fun-filled experiences while ensuring that we keep intact our 3 key criteria, namely …..<br>
+*   meaningful use of school curriculum hours,
+*   beyond the 4 walls of their classroom and
+*   within a safe environment&nbsp; remain intact.<br>
+   
+
+Math Week activities are anchored on providing opportunities to enrich students’ learning through knowledge expansion, enable application of theory to practice through engaging students with meaningful tasks and empower them to see how mathematical concepts are used in everyday life.&nbsp;<br>
+
+Highlights includes a montage of our students’ journey of mathematical learning from the start of their YNPS year, strolling through a gallery of artefacts and admire the creativity of peers who designed and prototype interesting games using a combination of mathematical concepts, artisan skills, ICT tools and scientific knowledge, puzzles galore and lessons beyond the primary math textbook shared at pre-morning assemblies.<br>
+
+
+
