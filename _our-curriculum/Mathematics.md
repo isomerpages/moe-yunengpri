@@ -110,8 +110,8 @@ This is a series of exercises through which students develop their schema for ma
 		</td>
 	</tr>
 	<tr>
-		<td width="40%"><img src="/images/slide%209_math%20magic%20(1).jpeg"></td>
-		<td width="35%"><img src="/images/slide%209_math%20magic%20(2).jpeg" style="padding:0px 40px 0px 40px"></td>
-		<td width="40%"><img src="/images/slide%209_math%20magic%20(4).jpeg"></td>
+		<td width="35%"><img src="/images/slide%2010_p5%20kite%20construction%2001.JPG"></td>
+		<td width="37%"><img src="/images/kite%20making%202.png" style="padding:0px 40px 0px 40px"></td>
+		<td width="38%"><img src="/images/kite%20making%203.jpg"></td>
 	</tr>
 </tbody></table>
