@@ -73,7 +73,7 @@ This is a series of exercises through which students develop their schema for ma
 </tbody></table>
 <br>
 
-<br><table style="border: 1px solid black">
+<table style="border: 1px solid black">
 	<tbody><tr>
 		<td colspan="3">
 			<b><u>P4 Math Game Design</u></b>
@@ -84,8 +84,7 @@ This is a series of exercises through which students develop their schema for ma
 		<td width="40%"><img src="/images/p4%20math%20game%20design%202.jpg"></td>
 		<td></td>
 	</tr>
-
-</tbody></table>
+</tbody></table><br>
 
 <table style="border: 1px solid black">
 	<tbody><tr>
