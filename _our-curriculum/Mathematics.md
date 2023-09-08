@@ -127,7 +127,7 @@ This is a series of exercises through which students develop their schema for ma
 	</tr>
 	<tr>
 		<td width="33%"><img src="/images/math%20trail%20series%201.jpg"></td>
-		<td width="33%"><img src="/images/math%20trail%20series%202.jpg" style="padding:0px 40px 0px 40px"></td>
+		<td width="38%"><img src="/images/math%20trail%20series%202.jpg" style="padding:0px 40px 0px 40px"></td>
 		<td width="33%"><img src="/images/math%20trail%20series%203.jpg"></td>
 	</tr>
 </tbody></table><br>
