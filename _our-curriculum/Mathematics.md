@@ -107,9 +107,9 @@ This is a series of exercises through which students develop their schema for ma
 		</td>
 	</tr>
 	<tr>
-		<td width="35%"><img src="/images/slide%2010_p5%20kite%20construction%2001.JPG"></td>
-		<td width="37%"><img src="/images/kite%20making%202.png" style="padding:0px 40px 0px 40px"></td>
-		<td width="38%"><img src="/images/kite%20making%203.jpg"></td>
+		<td width="33%"><img src="/images/slide%2010_p5%20kite%20construction%2001.JPG"></td>
+		<td width="33%"><img src="/images/kite%20making%202.png" style="padding:0px 40px 0px 40px"></td>
+		<td width="33%"><img src="/images/kite%20making%203.jpg"></td>
 	</tr>
 </tbody></table><br>
 
@@ -122,12 +122,12 @@ This is a series of exercises through which students develop their schema for ma
 <table style="border: 1px solid black">
 	<tbody><tr>
 		<td colspan="4">
-			<b><u>P5 Kite Construction</u></b>
+			<b><u>P1-P4 Math Trail Series (Geometry)</u></b>
 		</td>
 	</tr>
 	<tr>
-		<td width="35%"><img src="/images/slide%2010_p5%20kite%20construction%2001.JPG"></td>
-		<td width="37%"><img src="/images/kite%20making%202.png" style="padding:0px 40px 0px 40px"></td>
-		<td width="38%"><img src="/images/kite%20making%203.jpg"></td>
+		<td width="33%"><img src="/images/math%20trail%20series%201.jpg"></td>
+		<td width="33%"><img src="/images/kite%20making%202.png" style="padding:0px 40px 0px 40px"></td>
+		<td width="33%"><img src="/images/kite%20making%203.jpg"></td>
 	</tr>
 </tbody></table><br>
