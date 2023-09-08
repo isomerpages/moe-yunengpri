@@ -172,5 +172,16 @@ Math Week activities are anchored on providing opportunities to enrich studentsâ
 
 Highlights includes a montage of our studentsâ€™ journey of mathematical learning from the start of their YNPS year, strolling through a gallery of artefacts and admire the creativity of peers who designed and prototype interesting games using a combination of mathematical concepts, artisan skills, ICT tools and scientific knowledge, puzzles galore and lessons beyond the primary math textbook shared at pre-morning assemblies.<br>
 
-
+<table style="border: 1px solid black">
+	<tbody><tr>
+		<td colspan="4">
+			<b><u>Math Week @ YNPS</u></b>
+		</td>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/math%20week%201.jpg"></td>
+		<td width="33%"><img src="/images/math%20week%202.jpg"></td>
+		<td></td>
+	</tr>
+</tbody></table><br>
 
