@@ -42,16 +42,22 @@ description: ""
 
 #### Key Programmes
 
-*   P1 and P2 Enhanced Learning Support for Mathematics
-*   P1 and P2 Math Trails&nbsp;
+<b><u>The Thinking Routine</u></b><br>
+This is a series of exercises through which students develop their schema for mathematical thinking and&nbsp; reasoning via a structure process. The routine aims to…….
+* Building understanding and memory with <b>Similar questions</b>
+* Addressing <b>Misconceptions</b>
+* Deepening concept knowledge with <b>Alternate Solutions</b>
+* Decision making questions with <b>Right or Wrong</b>
+* Build higher order thinking by allowing students to <b>Think &amp; Create</b>
 
-<b><u>P3-P6 ICAN Programme</u></b>
+<b><u>Math Enrichment</u></b>
 
-*   P4-P6 E2K Programme (selected students)
-*   P5 Calculator Discovery Workshop
-*   P5 and P6 Mathematics Olympiad Training (selected students)
-*   P6 Mathematics Challenge
-*   P1-P6 Math Corner Tuesdays
+*  E2K (P4 – P6)
+*  Magic Math (P4-P5)
+*  P5 Kite Construction
+*  P5 Calculator Workshop
+*  P4 Board Game Design
+*  P3 International Chess Training
 
 <table style="border: 1px solid black">
 	<tbody><tr>
