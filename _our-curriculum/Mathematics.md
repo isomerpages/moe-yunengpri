@@ -181,7 +181,16 @@ Highlights includes a montage of our students’ journey of mathematical learnin
 	<tr>
 		<td width="33%"><img src="/images/math%20week%201.jpg"></td>
 		<td width="33%"><img src="/images/math%20week%202.jpg"></td>
+		<td width="33%"><img src="/images/math%20week%203.jpg"></td>
+	</tr>
+</tbody></table>
+<table style="border: 1px solid black">
+	<tbody><tr>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/math%20week%204.jpg"></td>
 		<td></td>
 	</tr>
 </tbody></table><br>
+
 
