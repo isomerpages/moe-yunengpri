@@ -28,7 +28,7 @@ description: ""
 1\.  Develop relational understanding. <br>
 2\.  Involve students as active learners. <br>
 3\.  Experiential Learning to strengthen thinking and reasoning skills <br>
-4\.  Ensure relevance by blending with digital millennial
+4\.  Ensure relevance by blending with digital millennial<br>
 5\.  Build metacognitive skills through inculcating a reflective disposition<br><br>
 
 ![](/images/math%20classroom%20structure_website%20(1).jpg)
