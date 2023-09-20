@@ -19,8 +19,9 @@ description: ""
 
 #### YN Mathematics Curriculum Framework
 
-<img src="/images/yn%20math%20framework.jpg" align="left" style="width:100%; padding: 15px 5px 0px 0px">
+<img src="/images/ynmathframework.png" align="left" style="width:100%; padding: 15px 5px 0px 0px">
 
+<br>
 
 
 **5 Key Considerations in Designing Mathematics Lessons:**
@@ -28,7 +29,7 @@ description: ""
 1\.  Develop relational understanding. <br>
 2\.  Involve students as active learners. <br>
 3\.  Experiential Learning to strengthen thinking and reasoning skills <br>
-4\.  Ensure relevance by blending with digital millennial
+4\.  Ensure relevance by blending with digital millennial<br>
 5\.  Build metacognitive skills through inculcating a reflective disposition<br><br>
 
 ![](/images/math%20classroom%20structure_website%20(1).jpg)

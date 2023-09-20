@@ -7,38 +7,46 @@ description: ""
 
 #### Objectives
 
-*   To develop the civic competencies of our students which encompass the body of knowledge, skills and values which will empower students to be informed, concerned and participative citizens.
+* Develop students into informed, concerned and participative citizens
 
-<img src="/images/The-singapore-social-studies-curriculum.jpg" style="width:40%"/>
+* Empower students to be confident and self-directed learners
 
-The curriculum prepares our students to be citizens of tomorrow by helping them to understand the interconnectedness in Singapore and the world they live in. Our students will be encouraged to inquire real-world issues that concern their lives. This is to help them attain relevant knowledge and understandings of these issues, develop critical and reflective thinking skills, and appreciate different perspectives. The curriculum also seeks to inculcate in students the values that define the Singaporean society and nurture dispositions to show concern for the world they live in and demonstrate empathy in their relationships with others.
+Our Social Studies curriculum prepares our students to be citizens of tomorrow by helping them understand the connections within Singapore, as well as between Singapore and the world. Through this, we seek to inculcate values that define the Singaporean identity in our students.
+
+In our classrooms, students are encouraged to question and inquire about the world around them, with a special emphasis on real-world issues that impact their lives. This not only equips them with relevant knowledge but also hones their critical and reflective thinking skills. It creates an safe environment where students learn to appreciate different perspectives and develop care and empathy for others.
+
+<img src="/images/The-singapore-social-studies-curriculum.jpg" style="width:40%">
+
+
 
 #### Syllabus
 
 **2020 Social Studies (Primary) Syllabus:** <br>
-[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/humanities/files/2020-social-studies-(primary)-syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/humanities/files/2020-social-studies-(primary)-syllabus.pdf)
+[https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.pdf](https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.pdf)
 
-**2012 Social Studies (Primary) Syllabus (till 2021 – applicable for Primary 4 to Primary 6 only):** <br>
-[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/humanities/files/2012-social-studies-(primary)-syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/humanities/files/2012-social-studies-(primary)-syllabus.pdf)
+<br>
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td colspan="3">
 			<h5> Field-based Learning </h5>
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/LJ1-Guided-Discovery-1024x768.jpg"/></td>
-		<td width="33%"><img src="/images/1-228x300.png" style="padding:0px 40px 0px 40px"/></td>
-		<td width="33%"><img src="/images/LJ3-Bicentennial-celebrations-1024x768.jpg"/></td>
+		<td width="33%"><img src="/images/field-based%20learning%201.jpg"></td>
+		<td width="33%"><img src="/images/field-based%20learning%203.jpg" style="padding:0px 40px 0px 40px"></td>
+		<td width="33%"><img src="/images/field-based%20learning%202.jpg"></td>
+	</tr>
+		<tr>
+		<td width="33%"><img src="/images/field-based%20learning%204.jpg"></td>
 	</tr>
 	<tr>
-		<td colspan="3">
-			Authentic learning experience forms part of the teaching and learning of Social Studies. In Yu Neng, each year, students participate in field-based learning through learning journeys that take them to places like the museums and heritage trails. These experiences strengthen students’ understanding and appreciation of Singapore and enable them to make connections between knowledge learnt with real, authentic experiences. During the Covid-19 pandemic, our students went on virtual learning journeys locally and regionally.
+		<td colspan="3">	   
+An authentic learning experience is integral to Social Studies in Yu Neng. Each year, students embark on learning journeys to museums and heritage trails to reinforce what they have learnt in the classroom, outside of the classroom. By stepping out of the classroom, students are able to appreciate, understand and engage with the world around them more deeply. These learning journeys also help students bridge the gap between theory and real life.
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 ##### Contemporary Issues
 
-Students also connect what they have learnt in Social Studies to real, world issues such as environmental protection (recycling) and regional/international affairs (ASEAN and ancient civilisations) through discussions of contemporary issues.
+Topics and concepts learnt in Social Studies are applied to our students’ everyday lives. For instance, in Primary 5, students delve into Singapore’s ties with Southeast Asia and explore the region’s physical geography. To solidify their learning, students have hands-on opportunities to cultivate rice to reinforce their understanding of geography, Southeast Asian relations, and food sustainability.
