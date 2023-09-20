@@ -8,7 +8,11 @@ description: ""
 <br>
 
 #### September 2023
-* 
+* [Letter To Parents](/files/ltp%20sep%202023.pdf)
+* [P3 EYE Oral 2023](/files/ltp%20p3%20eye%20oral%202023.pdf)
+* [P4 EYE Oral 2023](/files/ltp%20p4%20eye%20oral%202023.pdf)
+* [P5 EYE Oral 2023 (EL)](/files/ltp%20p5%20eye%20oral%202023%20el.pdf)
+* [P5 EYE Oral 2023 (MT)](/files/ltp%20p5%20eye%20oral%202023%20mt.pdf)
 
 #### August 2023
 * [Letter To Parents](/files/ltp%20aug%202023%20.pdf)
