@@ -19,8 +19,9 @@ description: ""
 
 #### YN Mathematics Curriculum Framework
 
-<img src="/images/yn%20math%20framework.jpg" align="left" style="width:100%; padding: 15px 5px 0px 0px">
+<img src="/images/ynmathframework.png" align="left" style="width:100%; padding: 15px 5px 0px 0px">
 
+<br>
 
 
 **5 Key Considerations in Designing Mathematics Lessons:**
