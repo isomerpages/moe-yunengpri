@@ -55,20 +55,10 @@ description: ""
 
 
 | <img src="/images/digital%20music%201.jpg" style="width:60%"> | <img src="/images/digital%20music%202.jpg" style="width:60%"> |
-| -------- | -------- |
-
-The integration of the Music application in iPads and Music instruments lead students to enjoy and explore Music creatively.
-
+| --- | --- |
+|The integration of the Music application in iPads and Music instruments lead students to enjoy and explore Music creatively.|| <br><br>
 
 
-
-| <img src="/images/digital%20music%201.jpg" style="width:60%"> |<img src="/images/digital%20music%202.jpg" style="width:60%"> |
-|    
-
-   The integration of the Music application in iPads and Music instruments lead students to enjoy and explore Music creatively. | --- |
-| | |
-
-The integration of the Music application in iPads and Music instruments lead students to enjoy and explore Music creatively.
 
 <b><u>Arts Exposure Programme (AEP@Assembly)</u></b>
 
