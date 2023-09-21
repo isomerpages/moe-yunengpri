@@ -63,8 +63,8 @@ An authentic learning experience is integral to Social Studies in Yu Neng. Each 
 		</td>
 	</tr>
 	<tr>
-		<td><img src="/images/digital%20music%201.jpg" style="width:60%"></td>
-			<td><img src="/images/digital%20music%202.jpg" style="width:60%"></td>
+		<td><img src="/images/digital%20music%201.jpg" style="width:45%"></td>
+			<td><img src="/images/digital%20music%202.jpg" style="width%"></td>
 	</tr>
 	<tr>
 		<td colspan="3">	   
@@ -98,7 +98,7 @@ AEP@Assembly broadens students’ exposure to the Arts in an enjoyable way. Stud
 	</tr>
 	<tr>
 		<td><img src="/images/fame@yn1.jpg" style="width:60%"><br>   &nbsp;   Dwayne from 5TM performing a song using his Chinese flute.</td>
-			<td><img src="/images/fame@yn2.jpg" style="width:60%"><br>   Students seated at the library to watch their peers perform.</td>
+			<td><img src="/images/fame@yn2.jpg" style="width:75%"><br>   Students seated at the library to watch their peers perform.</td>
 	</tr>
 	<tr>
 		<td colspan="3">	   
@@ -115,8 +115,8 @@ Creative Students Innovators</h5>
 		</td>
 	</tr>
 	<tr>
-		<td><img src="/images/csi_01.jpg" style="width:60%"><br>Students showing off their completed Lanterns with Chibitronics.</td>
-			<td><img src="/images/csi_02.jpg" style="width:60%"></td>
+		<td><img src="/images/csi_01.jpg" style="width:52%"><br>Students showing off their completed Lanterns with Chibitronics.</td>
+			<td><img src="/images/csi_02.jpg" style="width:%"></td>
 	</tr>
 	<tr>
 		<td colspan="3">	   
@@ -136,7 +136,7 @@ Fame@YN develops students to be confident performers by encouraging students to 
 		<td><img src="/images/museum-based%20learning1.jpg" style="width:60%"><br>   Students asked to role-play as two characters  
 from the artwork and inference what is the  
 conversation between them</td>
-			<td><img src="/images/museum-based%20learning2.jpg" style="width:60%"><br>Students listening attentively to the docent</td>
+			<td><img src="/images/museum-based%20learning2.jpg" style="width:70%"><br>Students listening attentively to the docent</td>
 	</tr>
 	<tr>
 		<td colspan="3">	   
