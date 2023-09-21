@@ -172,7 +172,7 @@ This is a series of exercises through which students develop their schema for ma
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/slide%2013_p1-p2%20math%20&amp;%20art%20(statistics)%2001.jpg"></td>
+		<td width="35%"><img src="/images/slide%2013_p1-p2%20math%20&amp;%20art%20(statistics)%2001.jpg"></td>
 		<td></td>
 		<td></td>
 	</tr>
