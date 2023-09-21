@@ -3,7 +3,7 @@ title: Character & Citizenship Education (CCE)
 permalink: /character-and-citizenship-education-cce/
 description: ""
 ---
-### CHARACTER & CITIZENSHIP EDUCATION (CCE)
+### CHARACTER &amp; CITIZENSHIP EDUCATION (CCE)
 
 #### Objectives / Goals
 
@@ -20,19 +20,19 @@ Character and Citizenship Education (CCE) is an integral part in developing our 
 
 #### Key Programmes
 
-<h5><u>Character & Leadership Development</u></h5>
+<h5><u>Character &amp; Leadership Development</u></h5>
 
 The core GR<sup>3</sup>IT values are fundamental for a person of good character and a useful citizen of Singapore. The values guide students to discern between right and wrong and help them make responsible choices. Students are nurtured to be leaders of self and others, thereby preparing them to be leaders of tomorrow.
 <table>
-  <tr>
+  <tbody><tr>
     <td width="33%">
-			<img src="/images/1-300x225.jpg"/>
+			<img src="/images/1-300x225.jpg">
 		</td>
     <td width="33%">
-			<img src="/images/2-300x225.jpg"/>
+			<img src="/images/2-300x225.jpg">
 		</td>
 		<td width="33%">
-			<img src="/images/3-300x200.jpg"/>
+			<img src="/images/3-300x200.jpg">
 		</td>
 	</tr>
   <tr>
@@ -40,22 +40,22 @@ The core GR<sup>3</sup>IT values are fundamental for a person of good character 
     <td>Student leadership investiture</td>
     <td>Prefects and Peer Support Leaders attending the inaugural C.A.R.E. Symposium</td>
   </tr>
-</table>
+</tbody></table>
 
 <h5><u>Values-in-Action (VIA)</u></h5>
 
 To establish an effective learning environment, spaces are created for their voices to be heard, providing opportunities for them to develop self-directedness, responsibility and ownership of their learning. Through VIAs, opportunities are provided for students to participate in the planning and implementation of the projects, thereby developing a sense of belonging to the school community and beyond, and having the motivation to make a positive difference.
 
 <table>
-  <tr>
+  <tbody><tr>
     <td width="45%">
-			<img src="/images/4VIA.jpg"/>
+			<img src="/images/4VIA.jpg">
 		</td>
     <td width="30%">
-			<img src="/images/5-199x300.jpg"/>
+			<img src="/images/5-199x300.jpg">
 		</td>
 		<td width="25%">
-			<img src="/images/6-150x300.jpg"/>
+			<img src="/images/6-150x300.jpg">
 		</td>
   </tr>
   <tr>
@@ -63,12 +63,34 @@ To establish an effective learning environment, spaces are created for their voi
     <td>Students taking part in the YN VIA Home Challenge</td>
     <td>Students paying tribute to the frontliners who have been working tirelessly to keep Singaporeans safe</td>
   </tr>
-</table>
+</tbody></table>
+
+<table>
+	<tbody><tr>
+		<td colspan="3">
+			<h5>F.A.M.I.L.Y. @YN Initiative: P3 Appreciation Card</h5>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">	   
+Yu Neng Primary School Mother Tongue Language Teachers in collaboration with our Character and Citizenship Education department has put together the F.A.M.I.L.Y. (Father And Mother I Love You) @YN initiative. This initiative aims to bring in real world context to learning and imbued in students a sense of gratitude for the role their families play in shaping who they are and who they become. Through this, we hope students not only extend their learning beyond the classrooms, but also grow to appreciate and value family relationships more. Parents are strongly encouraged to write back to your child via the link provided. Please refer to your child’s Mother Tongue classes when you click on the link. Thank you.<br><br>
+			
+P3 Appreciation Card link<br>
+[P3Graciousness](https://padlet.com/lim_hl/3gr-5o6f6uxesjsfm3yv) <br>
+[P3Respect](https://padlet.com/lim_hl/3rp-9tzihew2dn8tmzv3)<br>
+[P3Responsibility](https://padlet.com/lim_hl/3ry-8z2il9st8v1rr1t0) <br>
+[P3Integrity](https://padlet.com/LIMHL/3in-g5r0fbdfca8byzzu)<br>
+[P3Teamwork](https://padlet.com/LIMHL/3tm-smevnao1tb4a99rv) <br>
+[P3 Malay](https://padlet.com/LIMHL/3ml-appreciation-card-9ty07enzb17yr6yx)<br>
+[P3 able](https://padlet.com/lim_hl_a1/p3-abled-jmep5f37u15no2w)<br>
+		</td>
+	</tr>
+</tbody></table><br>
 
 <h5><u>School based initiatives and experiences</u></h5>
 
 These school based initiatives and experiences help to ensure students’ learning experiences are meaningfully blended in with the school-wide approach to CCE.
 
-| ![](/images/citizen1.jpg) | <img src="/images/citizen2.jpg" style="width:40%"/> | ![](/images/citizen3.jpg) | 
+| ![](/images/citizen1.jpg) | <img src="/images/citizen2.jpg" style="width:40%"> | ![](/images/citizen3.jpg) | 
 |---|---|---|
 | Sharing by Mr Steve Tee, a Paralympian, about his life experiences and how he turned his disability to his ability | P4 students engaged in a 2 hour ECG programme to discover and appreciate their Multiple Intelligence (MI) and career interests with MI | P6 students attending a Secondary Road show talk |
