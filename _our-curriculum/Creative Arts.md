@@ -38,11 +38,14 @@ description: ""
 
 #### Key Programmes
 
+
 <b><u>Digital Art</u></b>
 
-| <img src="/images/digital%20art.jpg" style="width:70%"> ||
+| <img src="/images/digital%20art.jpg" style="width:70%"><br>   
+
+<b>P3 students work on creating their GIF using the ipad keynote app and apple pencil.</b> ||
 | --- | --- |
-| | |![]()
+| | |
 
 Students explore ideas using their imagination and develop their creativity using digital applications to design interesting art pieces. 
 
