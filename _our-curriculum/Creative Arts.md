@@ -97,8 +97,8 @@ AEP@Assembly broadens students’ exposure to the Arts in an enjoyable way. Stud
 		</td>
 	</tr>
 	<tr>
-		<td><img src="/images/fame@yn1.jpg" style="width:60%"><br>   &nbsp;   Dwayne from 5TM performing a song using his Chinese flute.</td>
-			<td><img src="/images/fame@yn2.jpg" style="width:75%"><br>   Students seated at the library to watch their peers perform.</td>
+		<td><center><img src="/images/fame@yn1.jpg" style="width:60%"><br>  Dwayne from 5TM performing a song using his Chinese flute.</center></td>
+			<td><center><img src="/images/fame@yn2.jpg" style="width:75%"><br>   Students seated at the library to watch their peers perform.</center></td>
 	</tr>
 	<tr>
 		<td colspan="3">	   
