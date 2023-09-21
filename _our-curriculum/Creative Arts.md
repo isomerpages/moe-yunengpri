@@ -39,63 +39,124 @@ description: ""
 #### Key Programmes
 
 
-<b><u>Digital Art</u></b>
+<table>
+	<tbody><tr>
+		<td colspan="3">
+			<h5> Digital Art </h5>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/digital%20art.jpg" style="width:60%"><br>P3 students work on creating their GIF using the ipad keynote app and apple pencil.</td>
+	</tr>
+	<tr>
+		<td colspan="3">	   
+An authentic learning experience is integral to Social Studies in Yu Neng. Each year, students embark on learning journeys to museums and heritage trails to reinforce what they have learnt in the classroom, outside of the classroom. By stepping out of the classroom, students are able to appreciate, understand and engage with the world around them more deeply. These learning journeys also help students bridge the gap between theory and real life.
+		</td>
+	</tr>
+</tbody></table><br>
 
 
+<table>
+	<tbody><tr>
+		<td colspan="3">
+			<h5> Digital Music </h5>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/digital%20music%201.jpg" style="width:60%"></td>
+			<td><img src="/images/digital%20music%202.jpg" style="width:60%"></td>
+	</tr>
+	<tr>
+		<td colspan="3">	   
+An authentic learning experience is integral to Social Studies in Yu Neng. Each year, students embark on learning journeys to museums and heritage trails to reinforce what they have learnt in the classroom, outside of the classroom. By stepping out of the classroom, students are able to appreciate, understand and engage with the world around them more deeply. These learning journeys also help students bridge the gap between theory and real life.
+		</td>
+	</tr>
+</tbody></table><br>
 
-<img src="/images/digital%20art.jpg" style="width:60%"><br>   
+<table>
+	<tbody><tr>
+		<td colspan="3">
+			<h5>Arts Exposure Programme (AEP@Assembly) </h5>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/arts%20exposure%20programme%201.jpg" style="width:60%"><br>   &nbsp;Performance by T’ang Quartet in our School Hall during Assembly</td>
+			<td><img src="/images/arts%20exposure%20programme%202.jpg" style="width:60%"><br>2023 Chingay assembly show – Thea and the Lunar Rabbit</td>
+	</tr>
+	<tr>
+		<td colspan="3">	   
+AEP@Assembly broadens students’ exposure to the Arts in an enjoyable way. Students have the opportunities to experience the different Art forms and performances.
+		</td>
+	</tr>
+</tbody></table><br>
 
-<b>P3 students work on creating their GIF using the ipad keynote app and apple pencil.</b> ||
-| --- | --- |
-| Students explore ideas using their imagination and develop their creativity using digital applications to design interesting art pieces.| |
-<br><br>
+<table>
+	<tbody><tr>
+		<td colspan="3">
+			<h5>Fame@YN </h5>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/fame@yn1.jpg" style="width:60%"><br>   &nbsp;   Dwayne from 5TM performing a song using his Chinese flute.</td>
+			<td><img src="/images/fame@yn2.jpg" style="width:60%"><br>   Students seated at the library to watch their peers perform.</td>
+	</tr>
+	<tr>
+		<td colspan="3">	   
+Fame@YN develops students to be confident performers by encouraging students to perform live or send in a recording of their performances to be played on the TV at the library during recess.
+		</td>
+	</tr>
+</tbody></table><br>
 
-<b><u>Digital Music</u></b>
+<table>
+	<tbody><tr>
+		<td colspan="3">
+			<h5>   CSI@Play<br>  
+Creative Students Innovators</h5>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/csi_01.jpg" style="width:60%"><br>Students showing off their completed Lanterns with Chibitronics.</td>
+			<td><img src="/images/csi_02.jpg" style="width:60%"></td>
+	</tr>
+	<tr>
+		<td colspan="3">	   
+Fame@YN develops students to be confident performers by encouraging students to perform live or send in a recording of their performances to be played on the TV at the library during recess.
+		</td>
+	</tr>
+</tbody></table><br>
 
 
-
-| <img src="/images/digital%20music%201.jpg" style="width:60%"> | <img src="/images/digital%20music%202.jpg" style="width:60%"> |
-| --- | --- |
-|The integration of the Music application in iPads and Music instruments lead students to enjoy and explore Music creatively.|| <br><br>
-
-
-
-<b><u>Arts Exposure Programme (AEP@Assembly)</u></b>
-
-| ![](/images/AEP@Assembly1.jpg) | ![](/images/AEP@Assembly2.jpg) |
-| --- | --- | 
-| | |
-
-AEP@Assembly broadens students’ exposure to the Arts in an enjoyable way. Students have the opportunities to experience the different Art forms, such as the brass, wind and string ensemble, show choir, acapella singing, different dance forms, drumming, drama and puppetry performances.
-
-<b><u>Fame@YN</u></b>
-
-Fame@YN develops students to be confident performers by encouraging students to perform individually or self- organised performances during recess.
-
-<b><u>Art@Play</u></b>
-
-| ![](/images/Art@Play-2.jpg) | ![](/images/Art@Play-1.jpg) |
-| --- | --- |
-| | |
-
-Art@Play provides students opportunities to demonstrate their art skills as well as their communication skills. Throughout the whole program, students develop confidence and teamwork while working with their peers to facilitate the art making sessions during recess.
-
-<b><u>Museum-Based Learning</u></b>
-
-<img src="/images/Museum-Based-Learning2-1024x497.jpg" style="width:70%">
-
+<table>
+	<tbody><tr>
+		<td colspan="3">
+			<h5>   Museum-Based Learning</h5>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/museum-based%20learning1.jpg" style="width:60%"><br>   Students asked to role-play as two characters  
+from the artwork and inference what is the  
+conversation between them</td>
+			<td><img src="/images/museum-based%20learning2.jpg" style="width:60%"><br>Students listening attentively to the docent</td>
+	</tr>
+	<tr>
+		<td colspan="3">	   
 The Museum-Based Learning (MBL) experience is designed to provide the breadth and depth of learning local art in the Art curriculum. The experience comprises pre-, during- and post-visit experiences to the National Gallery Singapore where students are involved as artists and audience to create and appreciate art. MBL culminates in a showcase of students’ art expression that forms part of the collective memory for all students.
+		</td>
+	</tr>
+</tbody></table><br>
 
-<b><u>Ceramics</u></b>
 
-<img src="/images/ceramics.jpg" style="width:50%">
-
-The Ceramics programme provides students the opportunity to explore the medium they use to create their 3D artwork. Students gain an understanding of the different techniques, tools and glazes that contribute to their final product.
-
-<b><u>Outreach to the Community through the Arts</u></b>
-
-The school works with its partners, Passion Art to foster a close partnership with the community to display students’ artworks at the HDB blocks in Bedok. Art Exhibition at NLB provides students the platform to interact with the public regarding the students’ artworks. Students worked with Passion Art to paint the drums and wood panels for the Passion Arts Festivals.&nbsp; To foster empathy and care, students have also brought art learning to the elderly seniors from the Montfort Elder Care.
-
-<b><u>School Events</u></b>
-
-To showcase students’ talent and creativity, their artworks are exhibited annually at the School Speech Day.&nbsp; In 2020, the school collaborated with Little Creators, NPO, Tokyo to celebrate their 10th Anniversary&nbsp; as well as Yu Neng Primary School’s 85th&nbsp;Anniversary. The postcards were exhibited at Child Aid Tokyo, International 2020 – Virtual Concert.
+<table>
+	<tbody><tr>
+		<td colspan="3">
+			<h5>School Events</h5>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">	   
+   To showcase students’ talent and creativity, their artworks are exhibited around the school such as the library and the level 2 notice boards outside staff room.  
+In 2023, we held an internal HeARTS exhibition in playspace 2, 25 – 27 september where students can viewed the digital art and music pieces created by the different levels as well as two interactive stations where students can create art and music.  
+In 2020, the school collaborated with Little Creators, NPO, Tokyo to celebrate their 10th Anniversary&nbsp; as well as Yu Neng Primary School’s 85th&nbsp;Anniversary. The postcards were exhibited at Child Aid Tokyo, International 2020 – Virtual Concert.
+		</td>
+	</tr>
+</tbody></table><br>
