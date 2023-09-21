@@ -53,7 +53,7 @@ This is a series of exercises through which students develop their schema for ma
 
 <b><u>Math Enrichment</u></b>
 
-<table style="border: 1px solid black">
+<table>
 	<tbody><tr>
 		<td colspan="3">
 			<b><u>E2K (P4 – P6)</u></b>
@@ -67,7 +67,8 @@ This is a series of exercises through which students develop their schema for ma
 </tbody></table>
 <br>
 
-<table style="border: 1px solid black">
+
+<table>
 	<tbody><tr>
 		<td colspan="3">
 			<b><u>P5 Calculator Workshop</u></b>
@@ -81,7 +82,7 @@ This is a series of exercises through which students develop their schema for ma
 </tbody></table>
 <br>
 
-<table style="border: 1px solid black">
+<table>
 	<tbody><tr>
 		<td colspan="3">
 			<b><u>P3 International Chess Training</u></b>
@@ -95,7 +96,7 @@ This is a series of exercises through which students develop their schema for ma
 </tbody></table>
 <br>
 
-<table style="border: 1px solid black">
+<table>
 	<tbody><tr>
 		<td colspan="3">
 			<b><u>P4 Math Game Design</u></b>
@@ -108,7 +109,7 @@ This is a series of exercises through which students develop their schema for ma
 	</tr>
 </tbody></table><br>
 
-<table style="border: 1px solid black">
+<table>
 	<tbody><tr>
 		<td colspan="4">
 			<b><u>   Magic Math (P4-P5)</u></b>
@@ -121,7 +122,7 @@ This is a series of exercises through which students develop their schema for ma
 
 </tbody></table><br>
 
-<table style="border: 1px solid black">
+<table>
 	<tbody><tr>
 		<td colspan="4">
 			<b><u>P5 Kite Construction</u></b>
@@ -139,7 +140,7 @@ This is a series of exercises through which students develop their schema for ma
 *   P2-P4 Money Education&nbsp; Series ( Numbers)
 *   P1- P2 Math &amp; Art (Statistics)<br>
 
-<table style="border: 1px solid black">
+<table>
 	<tbody><tr>
 		<td colspan="4">
 			<b><u>P1-P4 Math Trail Series (Geometry)</u></b>
@@ -151,7 +152,7 @@ This is a series of exercises through which students develop their schema for ma
 	</tr>
 </tbody></table><br>
 
-<table style="border: 1px solid black">
+<table>
 	<tbody><tr>
 		<td colspan="4">
 			<b><u>P2-P4 Money Education Series (Numbers)</u></b>
@@ -164,7 +165,7 @@ This is a series of exercises through which students develop their schema for ma
 	</tr>
 </tbody></table><br>
 
-<table style="border: 1px solid black">
+<table>
 	<tbody><tr>
 		<td colspan="4">
 			<b><u>P1-P2 Math &amp; Art (Statistics)</u></b>
@@ -191,7 +192,7 @@ Math Week activities are anchored on providing opportunities to enrich students�
 
 Highlights includes a montage of our students’ journey of mathematical learning from the start of their YNPS year, strolling through a gallery of artefacts and admire the creativity of peers who designed and prototype interesting games using a combination of mathematical concepts, artisan skills, ICT tools and scientific knowledge, puzzles galore and lessons beyond the primary math textbook shared at pre-morning assemblies.<br>
 
-<table style="border: 1px solid black">
+<table>
 	<tbody><tr>
 		<td colspan="4">
 			<b><u>Math Week @ YNPS</u></b>
