@@ -41,6 +41,8 @@ description: ""
 
 <b><u>Digital Art</u></b>
 
+
+
 <img src="/images/digital%20art.jpg" style="width:60%"><br>   
 
 <b>P3 students work on creating their GIF using the ipad keynote app and apple pencil.</b> ||
@@ -50,10 +52,20 @@ description: ""
 
 <b><u>Digital Music</u></b>
 
-| ![](/images/Digital-Music-1.jpg) | ![](/images/Digital-Music-2.jpg) |
+
+
+| <img src="/images/digital%20music%201.jpg" style="width:60%"> | <img src="/images/digital%20music%202.jpg" style="width:60%"> |
+| -------- | -------- |
+
+The integration of the Music application in iPads and Music instruments lead students to enjoy and explore Music creatively.
+
+
+
+
+| <img src="/images/digital%20music%201.jpg" style="width:60%"> |<img src="/images/digital%20music%202.jpg" style="width:60%"> |
 |    
 
-P3 students work on creating their GIF using the ipad keynote app and apple pencil. | --- |
+   The integration of the Music application in iPads and Music instruments lead students to enjoy and explore Music creatively. | --- |
 | | |
 
 The integration of the Music application in iPads and Music instruments lead students to enjoy and explore Music creatively.
