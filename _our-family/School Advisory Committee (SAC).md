@@ -7,4 +7,4 @@ description: ""
 
 #### SAC (2023)
 
-![](/images/SAC.png)
+![](/images/sac_01.png)
