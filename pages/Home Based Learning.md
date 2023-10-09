@@ -28,8 +28,4 @@ To ensure a positive experience, your child should prepare the following:
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Microphone (optional)<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Web camera (optional)<br>
 
-**Joining Live Session**<br>
-Please follow the following steps when joining a live lesson for HBL:<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mute your microphone**&nbsp;and&nbsp;**turn off the video function**&nbsp;when you join a live lesson<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Key in your names in a standard format for easy identification e.g.&nbsp;**Class\_Full Name**<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students who wish to speak should indicate by using the “**raising hand**” feature and wait for instructions before speaking.
+![/images/live%20lesson%20etiquette%201.png](/images/live%20lesson%20etiquette%201.png)
