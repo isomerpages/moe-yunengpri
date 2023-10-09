@@ -20,7 +20,7 @@ Primary 4<br>
 Primary 5<br>
 Primary 6<br>
 ##### Useful links for Students
-Please click here to view the list of useful links.<br> 
+Please click [HERE](https://www.yunengpri.moe.edu.sg/e-learning-platforms/) to view the list of useful links.<br> 
 ##### Support for Teacher-Student Live Interaction Sessions
 
 There are scheduled live lessons or interaction time which your child needs to attend during HBL. The schedule will shared via the HBL Daily-to-do list.<br><br>
