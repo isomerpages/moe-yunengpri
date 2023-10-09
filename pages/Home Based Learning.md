@@ -5,9 +5,9 @@ description: ""
 ---
 ## Home Based Learning
 
-Starting from 19 October 2023, Yu Neng Primary School students will shift to Home Based Learning (HBL) till 20 October 2023.<br>
+Starting from ___________, Yu Neng Primary School students will shift to Home Based Learning (HBL) until further notice.<br>
 
-Students need not report to school starting fro 19 October 2023 to 20 October 2023 and are expected to stay at home to engage in planned online and offline learning activites. Students are strongly encouraged to follow the proposed learning timetable. <br>
+Students need not report to school starting from ___________ until further notice and are expected to stay at home to engage in planned online and offline learning activites. Students are strongly encouraged to follow the proposed learning timetable. <br>
 
 Teachers will monitor students' learning progress and provide the necessary support i.e. providing feedback through the online platforms. They will also contact the students via Class Dojo or phone call to check in with their students and monitor how they are coping with HBL. <br>
 
@@ -29,4 +29,8 @@ To ensure a positive experience, your child should prepare the following:
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microphone (optional)<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web camera (optional)<br>
 
-![/images/live%20lesson%20etiquette%201.png](/images/live%20lesson%20etiquette%201.png)
+![/images/live%20lesson%20etiquette%201.png](/images/live%20lesson%20etiquette%201.png)<br>
+
+##### Contact Us
+If you have any technical queries, please call 6449 0121.<br>
+To request for a reset of password, please fill in the form at [go.gov.sg/ynpwdreset](go.gov.sg/ynpwdreset)<br>
