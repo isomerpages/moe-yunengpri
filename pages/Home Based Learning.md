@@ -26,7 +26,7 @@ Please click here to view the list of useful links.<br>
 There are scheduled live lessons or interaction time which your child needs to attend during HBL. The schedule will shared via the HBL Daily-to-do list.<br><br>
 To ensure a positive experience, your child should prepare the following:  
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Headphones/ earphones<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Microphone (optional)<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Web camera (optional)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microphone (optional)<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web camera (optional)<br>
 
 ![/images/live%20lesson%20etiquette%201.png](/images/live%20lesson%20etiquette%201.png)
