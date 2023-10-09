@@ -32,5 +32,5 @@ To ensure a positive experience, your child should prepare the following:
 ![/images/live%20lesson%20etiquette%201.png](/images/live%20lesson%20etiquette%201.png)<br>
 
 ##### Contact Us
-If you have any technical queries, please call 6449 0121.<br>
+If you have any technical queries, please call 6449 0121 ext 114.<br>
 To request for a reset of password, please fill in the form at [go.gov.sg/ynpwdreset](go.gov.sg/ynpwdreset)<br>
