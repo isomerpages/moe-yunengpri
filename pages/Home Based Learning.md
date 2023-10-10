@@ -12,7 +12,7 @@ Students need not report to school starting from ___________ until further notic
 Teachers will monitor students' learning progress and provide the necessary support i.e. providing feedback through the online platforms. They will also contact the students via Class Dojo or phone call to check in with their students and monitor how they are coping with HBL. <br>
 
 ##### Timetable and HBL to-do-list<br>
-Click on the UR below to access the level Weekly learning Timetable and HBL to-do-list.<br>
+Click on the link below to access the level Weekly learning Timetable and HBL to-do-list.<br>
 Primary 1<br>
 Primary 2<br>
 Primary 3<br>
@@ -33,4 +33,4 @@ To ensure a positive experience, your child should prepare the following:
 
 ##### Contact Us
 If you have any technical queries, please call 6449 0121 ext 114.<br>
-To request for a reset of password, please fill in the form at [go.gov.sg/ynpwdreset](go.gov.sg/ynpwdreset)<br>
+To request for a reset of password, please fill in the form at [https://form.gov.sg/5cca661ede59dc00172f7e26](go.gov.sg/ynpwdreset)<br>
