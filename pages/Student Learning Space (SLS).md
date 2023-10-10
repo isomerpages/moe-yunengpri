@@ -11,7 +11,7 @@ With the SLS, students will be able to learn better through the use of technolog
 
 The Singapore Student Learning Space (SLS) is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience). However, the system is currently not optimised for use on these devices.
 
-**SLS Website:**&nbsp;[https://learning.moe.edu.sg](https://learning.moe.edu.sg/)
+**SLS Website:**&nbsp;[https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
 
 
 #### Password Reset
