@@ -33,4 +33,4 @@ To ensure a positive experience, your child should prepare the following:
 
 ##### Contact Us
 If you have any technical queries, please call 6449 0121 ext 114.<br>
-To request for a reset of password, please fill in the form at [https://form.gov.sg/5cca661ede59dc00172f7e26](go.gov.sg/ynpwdreset)<br>
+To request for a reset of password, please fill in the form at [Password Reset](https://form.gov.sg/5cca661ede59dc00172f7e26)<br>
