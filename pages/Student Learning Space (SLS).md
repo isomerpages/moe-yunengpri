@@ -11,9 +11,8 @@ With the SLS, students will be able to learn better through the use of technolog
 
 The Singapore Student Learning Space (SLS) is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience). However, the system is currently not optimised for use on these devices.
 
-**SLS Website:** [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)
+**SLS Website:**&nbsp;[https://learning.moe.edu.sg](https://learning.moe.edu.sg/)
 
-**SLS Login Guide:** [Click here](/files/SLS-Login-Guide.pdf)
 
 #### Password Reset
 
@@ -24,9 +23,9 @@ If you have forgotten your password, you can reset it via the following methods:
 3.  contact your School-based Helpdesk, or
 4.  contact the SLS Helpdesk.
 
-Self-help password reset guide: [Click here](/files/Self-help-password-reset-guide.pdf)
+Self-help password reset guide:&nbsp;[Click here](/files/Self-help-password-reset-guide.pdf)
 
-School-based helpdesk for password reset and unlock account: [Click here](https://go.gov.sg/ynpwdreset)
+School-based helpdesk for password reset and unlock account:&nbsp;[Click here](https://go.gov.sg/ynpwdreset)
 
 #### SLS Support for Home-based Learning
 
@@ -38,7 +37,7 @@ School-based Helpline: 6449 0121 ext 114
 
 Mondays – Fridays: 8:00 am – 4:00 pm
 
-For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+For other matters, students can email the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
 <u>Non-School Operating Hours</u>
 
@@ -50,6 +49,6 @@ Mondays – Fridays: 4:00 pm – 9:00 pm
 
 Saturdays: 9:00 am – 9:00 pm
 
-\*Closed on Sundays & Public Holidays
+\*Closed on Sundays &amp; Public Holidays
 
-Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+Alternatively, students can email the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
