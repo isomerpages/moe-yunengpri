@@ -60,8 +60,12 @@ Mon – Fri : 7.00am – 3.00pm</p>
 Tel: 64450514  <br>
 Hp: 93874020 (Mr Eddie Lim)<br>  
 Fax: 65207944</p><br>
-
-<img style="width:85%" src="/images/bus vendor.png">
+	
+<p><a href="/files/request%20for%20school%20bus%20services%202024.pdf">
+	Request for school bus services 2024 form
+</a></p>
+			
+<img style="width:85%" src="/images/new%20rates%20for%202024.png">
     </div>
   </li>
 	  <li>
