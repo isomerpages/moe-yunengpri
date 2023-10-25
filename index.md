@@ -20,6 +20,15 @@ sections:
           url: /staff-useful-links/
       title: Yu Neng Primary School
   - infopic:
+      title: Celebrating Writing
+      id: infopic
+      description: "As the year draws to a close, our school has once again published
+        a compilation of stories by our students. "
+      button: Read
+      url: www.yunengpri.moe.edu.sg/english-language/
+      image: /images/celebrating writing.jpg
+      alt: Image alt text
+  - infopic:
       title: YN88
       description: 88 years on, and nestled in the heart of Bedok, we have established
         ourselves as a school of choice, with distinctive programmes.
