@@ -23,17 +23,17 @@ description: ""
 <b><u>2020 (For implementation from 2020 Primary 1 Cohort)</u></b>
 
 * **English Language:** [https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/primary\_els-2020-\_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/primary_els-2020-_syllabus.pdf)
-*   **Foundational English:** [https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/felnt\_els-2020\_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/felnt_els-2020_syllabus.pdf)
+*   **Foundational English:**&nbsp;[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/felnt\_els-2020\_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/felnt_els-2020_syllabus.pdf)
 
 <b><u>2010 (For implementation until 2024)</u></b>
 
-*   **English Language:** [https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-secondary-express-normal-academic.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-secondary-express-normal-academic.pdf)
-*   **Foundation English**: [https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-foundation-secondary-normal-technical.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-foundation-secondary-normal-technical.pdf)
+*   **English Language:**&nbsp;[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-secondary-express-normal-academic.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-secondary-express-normal-academic.pdf)
+*   **Foundation English**:&nbsp;[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-foundation-secondary-normal-technical.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-foundation-secondary-normal-technical.pdf)
 
 #### Key Programmes
 
 <table style="border:1px solid black">
-	<tr>
+	<tbody><tr>
 		<td colspan="2">
 			<b><u>World Class@YN - Staying Current@YN</u></b><br>
 			<br>The WorldClass@YN – Staying Current@YN programme seeks to bring the world into the classrooms by introducing people and cultures from around the world to our students. This helps students to develop intercultural, social and global awareness.<br>
@@ -49,16 +49,16 @@ Students also acquire multiliteracies when they analyse texts, pictures and vide
 	</tr>
 	<tr>
 		<td width="25%">
-			<img src="/images/WorldClass_YN-1-e1594797016544-146x300.jpg"/>
+			<img src="/images/WorldClass_YN-1-e1594797016544-146x300.jpg">
 		</td>
 		<td>
-			<img src="/images/WorldClass_YN-2-e1594797306642-768x441.jpg"/>
+			<img src="/images/WorldClass_YN-2-e1594797306642-768x441.jpg">
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table style="border:1px solid black">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b><u>Rich Texts</u></b><br>
 			<br>
@@ -66,33 +66,39 @@ Students also acquire multiliteracies when they analyse texts, pictures and vide
 		</td>
 	</tr>
 	<tr>
-		<td> <img src="/images/Rich-Text-768x363.jpg"/> </td>
+		<td> <img src="/images/Rich-Text-768x363.jpg"> </td>
 	</tr>
-</table>
+</tbody></table>
 
 <table style="border:1px solid black">
-	<tr>
+	<tbody><tr>
 		<td colspan="3">
 			<b><u>Joyful Writing</u></b><br>
 			<br>
 Writing for different purposes is an important skill. The Joyful Writing programme aims to provide students with positive, authentic writing experiences. Students are equipped with the skills and strategies to use appropriate text types to write for different purposes.
 			<br><br><br>
-			<b><u>Celebrating Writing</u></b>
+			<b><u>Celebrating Writing</u></b><br>
 			
-P1 & P2: [Click Here](http://shorturl.at/kS138) <br> 
-P3 & P4: [Click Here](http://shorturl.at/afOPR)  <br>
-P5 & P6: [Click Here](http://shorturl.at/dhzFQ)
+<a href="https://drive.google.com/file/d/1eKQ5g-KAT8KZtyf7yQc9f-vUvGPt6XQ_/view?usp=drive_web">P1 and P2</a><br>
+<a href="https://drive.google.com/file/d/1Oj0gVxXI2i8FqBE08uw_aWKDYS_e9ERb/view?usp=drive_web">P3 and P4</a><br>
+			<a href="https://drive.google.com/file/d/13a6MrY_lJVZu4ZWvo26gEvlMc8UHyd0X/view?usp=drive_web">P5 and P6</a><br>
+			
+			
+			
+P1 &amp; P2:&nbsp;[Click Here](http://shorturl.at/kS138) <br> 
+P3 &amp; P4:&nbsp;[Click Here](http://shorturl.at/afOPR)  <br>
+P5 &amp; P6:&nbsp;[Click Here](http://shorturl.at/dhzFQ)
 		</td>
 	</tr>
 	<tr>
-		<td width="22%"><img src="/images/Joyful-Writing-1-173x300.jpg"/></td>
-		<td width="28%"><img src="/images/Joyful-Writing-2-225x300.jpg"/></td>
-		<td width="49%"><img src="/images/Joyful-Writing-3-300x225.jpg"/></td>
+		<td width="22%"><img src="/images/Joyful-Writing-1-173x300.jpg"></td>
+		<td width="28%"><img src="/images/Joyful-Writing-2-225x300.jpg"></td>
+		<td width="49%"><img src="/images/Joyful-Writing-3-300x225.jpg"></td>
 	</tr>
-</table>
+</tbody></table>
 
 <table style="border:1px solid black">
-	<tr>
+	<tbody><tr>
 		<td colspan="3">
 			<b><u>Pupil Oracy Programme (POP): Learning To Talk Through Talk </u></b><br>
 			<br>
@@ -100,8 +106,8 @@ The POP is an exciting programme designed to enable our students to acquire the 
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/Pupil-Oracy-Programme-1-300x199.jpg"/></td>
-		<td width="30%"><img src="/images/Pupil-Oracy-Programme-2-300x233.jpeg"/></td>
-		<td width="37%"><img src="/images/Pupil-Oracy-Programme-3-300x180.jpg"/></td>
+		<td width="33%"><img src="/images/Pupil-Oracy-Programme-1-300x199.jpg"></td>
+		<td width="30%"><img src="/images/Pupil-Oracy-Programme-2-300x233.jpeg"></td>
+		<td width="37%"><img src="/images/Pupil-Oracy-Programme-3-300x180.jpg"></td>
 	</tr>
-</table>
+</tbody></table>
