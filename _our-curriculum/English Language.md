@@ -85,9 +85,9 @@ Writing for different purposes is an important skill. The Joyful Writing program
 			
 			
 			
-P1 &amp; P2:&nbsp;[Click Here](http://shorturl.at/kS138) <br> 
-P3 &amp; P4:&nbsp;[Click Here](http://shorturl.at/afOPR)  <br>
-P5 &amp; P6:&nbsp;[Click Here](http://shorturl.at/dhzFQ)
+[]() <br> 
+[]()  <br>
+[]()
 		</td>
 	</tr>
 	<tr>
