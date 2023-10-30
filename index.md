@@ -22,10 +22,10 @@ sections:
   - infopic:
       title: Celebrating Writing
       id: infopic
-      description: "As the year draws to a close, our school has once again published
-        a compilation of stories by our students. "
+      description: As the year draws to a close, our school has once again published a
+        compilation of stories by our students.
       button: Read
-      url: www.yunengpri.moe.edu.sg/english-language/
+      url: /english-language/
       image: /images/celebrating writing.jpg
       alt: Image alt text
   - infopic:
