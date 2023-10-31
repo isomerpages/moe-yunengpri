@@ -5,6 +5,6 @@ description: ""
 ---
 ### DRAGON ORIGIN
 
-![](/images/Dragon-Origin-1-768x1086.png)
+![](/images/dragon%20origin%201.jpg)
 
-![](/images/Dragon-Origin-2-768x1086.png)
+![](/images/dragon%20origin%202.jpg)
