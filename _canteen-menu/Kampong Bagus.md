@@ -3,9 +3,8 @@ title: Kampong Bagus
 permalink: /kampong-bagus/
 description: ""
 ---
-
 ### KAMPONG BAGUS
 
-![](/images/Kampong-Bagus-1-768x1086.png)
+![](/images/kampong%20bagus%2001.jpg)
 
-![](/images/Kampong-Bagus-2-768x1086.png)
+![](/images/kampong%20bagus%2002.jpg)
