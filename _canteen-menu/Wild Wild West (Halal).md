@@ -5,4 +5,4 @@ description: ""
 ---
 ### WILD WILD WEST
 
-![](/images/wild%20wild%20west1.jpg)
+![](/images/wild_wild_west.jpg)
