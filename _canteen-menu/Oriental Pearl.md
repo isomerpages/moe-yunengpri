@@ -5,4 +5,5 @@ description: ""
 ---
 ### ORIENTAL PEARL
 
-![](/images/oriental%20pearl.jpg)
+![](/images/oriental_pearl.jpg)
+
