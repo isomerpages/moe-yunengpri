@@ -5,6 +5,6 @@ description: ""
 ---
 ### NIPPON OIISHI
 
-![](/images/nippon%20oiishi%2001.jpg)
+![](/images/nippon%20oiishi_01.jpg)
 
-![](/images/nippon%20oiishi%2002.jpg)
+![](/images/nippon%20oiishi_02.jpg)
