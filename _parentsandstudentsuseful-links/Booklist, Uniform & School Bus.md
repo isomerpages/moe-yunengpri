@@ -8,13 +8,13 @@ variant: markdown
 
 #### Booklist
 
-[]()
 
- [Primary 1](/files/P1_Merged_Booklists__Online_Purchase_Guide_2023.pdf)        <br>
- [Primary 2](/files/P2_2023.pdf)<br>
- [Primary 3](https://drive.google.com/file/d/1_MhAkTY8ACrJaoZGzhNi_RElwWFj4MjV/view?usp=share_link)
+
+ [Primary 1](/files/P1_Merged_Booklists__Online_Purchase_Guide_2024.pdf)        <br>
+ [Primary 2](/files/P2_2024.pdf)<br>
+ [Primary 3](/files/P3_2024.pdf)
  <br>
- [Primary 4](https://drive.google.com/file/d/1tysum7RaEeDXfpk06iaCKvk0n4XVW0gk/view?usp=share_link)<br><br>
+ [Primary 4](/files/P4_2024.pdf)<br><br>
  Primary 5      <br> [(2S – English, Science) (2F – Maths, MT)](https://drive.google.com/file/d/1bzaefInp2RhN1mPOd7UwdiGH8QG6LN-u/view?usp=share_link)    <br>   [(3S – English, Science, MT) (1F – Maths)](https://drive.google.com/file/d/1RNQoZDV1xkgH8u3R28I6xOzg2-hD9zWp/view?usp=share_link)   <br> [(3S – English, Maths, Science) (1F – MT)](https://drive.google.com/file/d/1o07ZdtYMs8DfvNYMh1Hni8RHgvwQZb78/view?usp=share_link) <br>
 [(Standard)](https://drive.google.com/file/d/1695GwV8GHdwUK0ZzDpSTm1OGGHj_pZRb/view?usp=share_link)<br><br>
 Primary 6<br>
