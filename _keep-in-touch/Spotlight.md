@@ -2,6 +2,7 @@
 title: Spotlight
 permalink: /newsletter/
 description: ""
+variant: markdown
 ---
 ### SPOTLIGHT
 
@@ -9,8 +10,12 @@ description: ""
 <table>
 	<tbody><tr>
 		<td>
-			<img src="/images/spotlight%20issue%201%20may%202023.png" style="width:30%"> <br>
+			<img src="/images/spotlight%20issue%201%20may%202023.png" style="width:90%"> <br>
 			<p align="center"><a href="https://drive.google.com/file/d/17qlRefa_qSOo-YI-i2iaD-ZIdFVwlJzl/view?usp=sharing"> May 2023 </a></p>
+		</td>
+		<td>
+			<img src="/images/Spotlight_Nov_2023.png" style="width:43%"> <br>
+			<p align="center"><a href="https://drive.google.com/file/d/1_JI216-UqZQrEJDsCcCrP5Kdd0Yr18Qa/view?usp=sharing"> Nov 2023 </a></p>
 		</td>
 	</tr>
 </tbody></table>
