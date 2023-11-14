@@ -2,10 +2,16 @@
 title: Letter to Parents
 permalink: /letter-to-parents/
 description: ""
+variant: markdown
 ---
 ### LETTER TO PARENTS
 
 <br>
+
+#### October 2023
+* [P6 Values In Action - Food Donation Drive](/files/P6_Values_In_Action__VIA____Food_Donation_Drive_2023.pdf)
+* [Posting of Vice Principal](/files/POSTING_OF_VICE_PRINCIPAL.pdf)
+* [Travel Declaration for Year End Holidays](/files/Travel_Declaration_for_Year_End_Holidays.pdf)
 
 #### September 2023
 * [Letter To Parents](/files/ltp%20sep%202023.pdf)
