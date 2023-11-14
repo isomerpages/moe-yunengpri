@@ -29,9 +29,9 @@ Primary 6<br>
 
 #### Uniform
 
-[2024 Uniform List](https://drive.google.com/file/d/14ujyX7MaJ7uL2VXyd-vycp0-fD9HfLdr/view?usp=share_link)
+[2024 Uniform List](/files/Sales_of_Uniform__2024_.pdf)
 
 #### School Bus
 
 [P1 School Bus Services Form](https://drive.google.com/file/d/1BajjN5_T3GtUgQL7rwDhsJlqCvLq1HJr/view?usp=share_link)<br>
-[P2 to P6 Request for School Bus Services Form](https://drive.google.com/file/d/1HktZPwHhEd0i6X_eiaMtinN-x4vm9G4x/view?usp=share_link)
+[P2 to P6 Request for School Bus Services Form](/files/request%20for%20school%20bus%20services%202024.pdf)
