@@ -2,10 +2,20 @@
 title: Letter to Parents
 permalink: /letter-to-parents/
 description: ""
+variant: markdown
 ---
 ### LETTER TO PARENTS
 
 <br>
+
+#### November 2023
+* [88th Speech and Prize Giving Ceremony](/files/Invitation_Letter_to_Parents_of_Prize_Winners_to_88th_Speech_and_Prize_19_Oct.pdf)
+* [Letter To Parents](/files/LTP_Nov_2023.pdf)
+
+#### October 2023
+* [P6 Values In Action - Food Donation Drive](/files/P6_Values_In_Action__VIA____Food_Donation_Drive_2023.pdf)
+* [Posting of Vice Principal](/files/POSTING_OF_VICE_PRINCIPAL.pdf)
+* [Travel Declaration for Year End Holidays](/files/Travel_Declaration_for_Year_End_Holidays.pdf)
 
 #### September 2023
 * [Letter To Parents](/files/ltp%20sep%202023.pdf)
