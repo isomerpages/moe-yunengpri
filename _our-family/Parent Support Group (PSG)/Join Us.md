@@ -3,6 +3,7 @@ title: Join Us
 permalink: /parent-support-group-psg/join-us/
 description: ""
 third_nav_title: Parent Support Group (PSG)
+variant: markdown
 ---
 ### JOIN US 
 
@@ -19,6 +20,8 @@ When we come together in the PSG, we have to remember to balance our own needs a
 *   Respect the views and comments of fellow members.
 *   Dress modestly when volunteering at school events.
 *   For security purposes, put on the PSG passes at all times when in the school premises for PSG events.
+*   Check in with the security personnel at the foyer when entering the school premises.
+*   Don the PSG T-shirt when in the school premises for PSG events.
 *   Use the PSG room strictly for PSG-related activities.
 *   Use the PSG whatsapp group chat solely for PSG events communication
 
