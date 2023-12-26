@@ -29,6 +29,11 @@ variant: markdown
 
 ### PSG Events Calendar
 
+The following is planned schedule, and subject to changes  
+Delete: Project Green, World of work P1 P2, Kite Construction for P5,  
+Insert the following blue ones;
+
+
 | Name of Event | Period / Date |
 | --- | --- |
 | Project Green | Ongoing (every Wed @ 12pm) |
