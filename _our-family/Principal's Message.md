@@ -2,36 +2,35 @@
 title: Principal's Message
 permalink: /principals-message/
 description: ""
+variant: markdown
 ---
 ### PRINCIPAL'S MESSAGE
 
-#### Difference Making at the Heart of Learning
+#### **_ChangeMakers:_ Always Connecting, Creating and Contributing**
 
 
-<img src="/images/Mr%20Ng%202023.jpg"
-		 style="width:30%"/>
+<img src="/images/Mr%20Ng%202023.jpg" style="width:30%">
 		 
 
 
-Today’s learners know they face a complex future. They yearn to live in a world where people are working with purpose, leading with character and making a difference. Learning to identify problems and use smart tools to develop meaningful solutions will help them make a difference in their families, their communities and for society.  Finding purpose in what they learn, enable them to be confident about the future which can be uncertain, by having the agency to know they can create the future they envision.
+   
 
-            To this end, we continue to actively engage our staff, students and stakeholders on our discovery journey in difference making at the heart of learning.  Specifically, we have reaffirmed our school mission to develop passion, creativity and care among staff and students, so as a Yu Neng vibrant connected community we can realise our vision to aspire, learn and lead.  Through ongoing improvements made to key programmes, we continue to premise our school GR3IT values, our ‘_Portrait of the Yu Neng Student_, and our shared school beliefs to routinise our 4R Learning Dispositions (Readiness, Reflectiveness, Resourcefulness and Relatedness) and develop knowledge and skills of students towards 21CC such as teamwork, communication and innovation.
+More than 100 years ago, John Dewey proposed a philosophy of education known as progressivism. A central idea of progressivism calls on educational institutions to do more than prepare students to participate in society after they leave education. Instead, students can learn more and better by participating in society while they are studying. Furthermore, Dewey and his colleagues believed that students should not accept society as it is and then learn in order to carve out the best niche for themselves within the status quo. In contrast, students should seek to help society progress for the benefit of all, and students should learn with that altruistic, cooperative goal in mind (Dewey, 1916).<br>
 
-            Over the next three years, we are guided by two key thrusts moving forward: (a) developing 21CC in our students through the design and provision of authentic blended learning environment; and (b) promoting student agency through fostering self-efficacy and a growth mindset among our students.  Anchored on the belief that learning must be joyful and purposeful and be nurtured as a lifelong process, our learning experiences and signature programmes are designed to engage students in authentic settings, scenarios and challenges. These experiences and programmes also facilitate the strengthening of learning dispositions (or ‘habits of mind and action’) in students to help them learn for life.
+To develop young changemakers, we must identify ourselves as changemakers, practise changemaking, and model that journey for students.&nbsp; A Changemaker School recognises the power of investing in people at all levels of the organisation, and create spaces where we are encouraged to pause and reflect on our action, our professional relationships, and our practice.&nbsp; Agency has become a buzz word in education in recent years. To be an agent or to be agentive is, in the words of Albert Bandura, to “intentionally make things happen by one’s actions”. In the field of general education, scholars have talked about teachers as agents of change or agents of curricular and pedagogical reform.&nbsp;<br>
 
-The school recognises that staff is a key enabler to nurture future-ready learners and places great emphasis on how we engage, develop and deploy every member of staff. We are committed to building a caring, trusting and positive environment for all staff to grow and thrive.  In the promotion of the culture of innovation, we would work with different staff segments to explore ways to make enhancements towards greater staff agency. 
+In a Changemaker School, students are immersed in a community environment where living out values of personal responsibility, hard work, initiative and excellence go hand-in-hand with empathy, creativity, contribution, and caring. Set routines and procedures enable students to understand the class expectations. How are they supposed to act toward other students? What are they supposed to do when they start losing control of their emotions? What are they supposed to do when a conflict occurs? When we become a Changemaker School, we should be able to feel and see the trust, respect and equality between the students and the adults. Here, vulnerability is a learning asset, emotional expression is encouraged, and mutual trust is built over time in small, daily interactions.<br>
 
-At the same time, we have been placing a strong focus on stakeholder partnerships, given our long history. Our Yu Neng alumni is currently spearheading a publication to be launched in August 2023, in commemoration of our 88th anniversary, capturing voices of YN family across the generations.  They will also organise an exhibition to display collections of works by ex-Yu Neng staff and alumni, to demonstrate the YN spirit of “doing well by doing good”, and to inspire our current students to remain steadfast to our founding school motto to “light up and shine”.
+Changemaker Schools focus on creating the conditions for changemakers to emerge and flourish. The mindset that supports this kind of learning environment can be summed up by the mantra ‘I matter. I can.’ It is about humanizing education by centering the students and their holistic development. Students are not merely passive recipients or disengaged consumers of education, they are active participants and leaders of their learning experiences.&nbsp; Kurt Hahn, the founding father of UWC Atlantic, a UK Changemaker School, famously said: “There is more in us than we know if we could be made to see it perhaps, for the rest of our lives we will be unwilling to settle for less.” &nbsp;Changemaker Education embodies this aspiration to ‘see more’ as educators so we can meet the demands of young people to step into their power as changemakers in ways that truly prepare them to rediscover certainty in these complex times.&nbsp;<br>
 
-Today’s students may be ones to find a better way forward - but only if they develop their potential as problem solvers and change makers. These learners feel empowered, curious and full of agency. Schools that make purpose and community the core of learning would be well poised to prepare their charges for the future.
+May we continue to contribute to the Yu Neng story as changemakers – as we connect with our past, we create our future.<br>
 
 Yours in Education  
 Mr Ng Yeow Ling  
 Principal
 
 
-<img src="/images/Change%20Maker.jpg"
-		 style="width:60%"/>
+<img src="/images/Change%20Maker.jpg" style="width:60%">
 
 
 ![](/images/The%20YN%20Experience.png)

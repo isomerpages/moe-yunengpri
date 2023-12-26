@@ -3,16 +3,17 @@ title: Choir
 permalink: /choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### CHOIR
 
 <table>
-	<tr>
-		<td><img src="/images/Choir-1.jpg"/></td>
-		<td width="25%"><img src="/images/Choir-2.jpg"/></td>
-		<td><img src="/images/Choir-3.jpg"/></td>
+	<tbody><tr>
+		<td><img src="/images/Choir-1.jpg"></td>
+		<td width="25%"><img src="/images/Choir-2.jpg"></td>
+		<td><img src="/images/Choir-3.jpg"></td>
 	</tr>
-</table>
+</tbody></table>
 
 The Yu Neng Primary School Choir was established in 2015 with the aim of promoting the use of voice to spread the joy of music to others. Choir provides a fun and supportive environment that motivates and inspires members to pursue their passion in choral singing.
 
@@ -22,4 +23,4 @@ Our caring choristers also use their vocal talents to reach out and make a diffe
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mdm Wahidah (OIC) <br>Mdm Eymani | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Music Room 1<br> |
+| <br>Mdm Wahidah (OIC) <br>Mdm Eymani | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).*<br><br>Fridays 2pm - 4pm (&nbsp;till end of SYF)  | <br>Music Room 1<br> |
