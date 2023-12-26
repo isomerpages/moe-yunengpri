@@ -36,23 +36,22 @@ Insert the following blue ones;
 
 | Name of Event | Period / Date |
 | --- | --- |
-| Project Green | Ongoing (every Wed @ 12pm) |
 | P1 Breakfast with Dads | Term 1 |
-| World of Work for P1 and P2 | Term 1 |
+| Storytelling Library &amp; Literacy Week | Term 1 |
+|Mother Tongue Fortnight | Term 1|
 | International Friendship Day | Term 2 |
-| Kite Construction for P5 | Term 2 |
 | Healthy Me week | Term 2 |
 | Environmental Awareness Week | Term 2 |
-| Parents &amp; Guardians Appreciation Day | Term 2 |
+| Parents Day | Term 2 |
 | P1 – P3 Math Trail | Term 2 |
-| Library New Media Literacy Week | Term 3 |
 | Math Week | Term 3 |
 | Racial Harmony Day | Term 3 |
+|Rice Planting Harvest| Term 3 |
 | National Day | Term 3 |
 | Teachers’ Day Celebrations | Term 3 |
 | Children’s Day Celebration | Term 4 |
-| P5 Lifeskills Programme | Term 4 |
-| Post PSLE Programme for P6 | Term 4 |
+| P4 Lifeskills Programme | Term 4 |
+| Post PSLE Programme | Term 4 |
 
 The above schedule of events may be subject to changes from time to time. <br>
 **_Event photos will be available at our_**&nbsp;[PSG facebook group](https://www.facebook.com/groups/ynpspsg/),&nbsp;exclusive for PSG members.
