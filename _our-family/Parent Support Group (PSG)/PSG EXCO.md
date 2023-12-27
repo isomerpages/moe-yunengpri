@@ -25,5 +25,5 @@ variant: markdown
 | --- | --- |
 | Events | * To collaborate and support school-driven events / programmes<br> * To engage parents through education programmes and outreach efforts |
 | Creative Work | * To support in areas where artwork and/or creative design are required |
-| Environment | * To support school’s green initiatives such as Project Green &gt; change to Rice Planting |
-| Communication | * To support communication efforts with members via various contact platforms<br>* To support membership recruitment initiatives.&nbsp;&nbsp; (delete) ~and maintain membership database |
+| Environment | * To support school’s green initiatives such as Rice Planting |
+| Communication | * To support communication efforts with members via various contact platforms<br>* To support membership recruitment initiatives. |

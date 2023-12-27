@@ -11,9 +11,9 @@ variant: markdown
 
 
 
-* Project Green: &gt; change to Rice Planting – Our Growing Minds, Growing Hearts Programme to collaborate with members of the school community to do our part towards a more sustainable future.
+* Rice Planting – Our Growing Minds, Growing Hearts Programme to collaborate with members of the school community to do our part towards a more sustainable future.
 
-* Sharing – Give a career talk as part of the school’s WOW programme, motivational talk to inspire our P6 students \&gt; students
+* Sharing – Give a career talk as part of the school’s WOW programme, motivational talk to inspire our pupils
 
 * Events / Activities (Refer to PSG Events Calendar) – Collaborate with teachers to conduct activities for our students for events.&nbsp; Support in chaperone students during learning journeys.
 
@@ -30,8 +30,6 @@ variant: markdown
 ### PSG Events Calendar
 
 The following is planned schedule, and subject to changes  
-Delete: Project Green, World of work P1 P2, Kite Construction for P5,  
-Insert the following blue ones;
 
 
 | Name of Event | Period / Date |
@@ -47,11 +45,9 @@ Insert the following blue ones;
 | Math Week | Term 3 |
 | Racial Harmony Day | Term 3 |
 |Rice Planting Harvest| Term 3 |
-| National Day | Term 3 |
 | Teachers’ Day Celebrations | Term 3 |
 | Children’s Day Celebration | Term 4 |
 | P4 Lifeskills Programme | Term 4 |
 | Post PSLE Programme | Term 4 |
 
 The above schedule of events may be subject to changes from time to time. <br>
-**_Event photos will be available at our_**&nbsp;[PSG facebook group](https://www.facebook.com/groups/ynpspsg/),&nbsp;exclusive for PSG members.
