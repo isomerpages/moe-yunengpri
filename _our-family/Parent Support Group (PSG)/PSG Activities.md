@@ -47,11 +47,9 @@ Insert the following blue ones;
 | Math Week | Term 3 |
 | Racial Harmony Day | Term 3 |
 |Rice Planting Harvest| Term 3 |
-| National Day | Term 3 |
 | Teachers’ Day Celebrations | Term 3 |
 | Children’s Day Celebration | Term 4 |
 | P4 Lifeskills Programme | Term 4 |
 | Post PSLE Programme | Term 4 |
 
 The above schedule of events may be subject to changes from time to time. <br>
-**_Event photos will be available at our_**&nbsp;[PSG facebook group](https://www.facebook.com/groups/ynpspsg/),&nbsp;exclusive for PSG members.
