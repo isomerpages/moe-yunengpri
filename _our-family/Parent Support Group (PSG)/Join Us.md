@@ -23,7 +23,7 @@ When we come together in the PSG, we have to remember to balance our own needs a
 *   Check in with the security personnel at the foyer when entering the school premises.
 *   Don the PSG T-shirt when in the school premises for PSG events.
 *   Use the PSG room strictly for PSG-related activities.
-*   Use the PSG whatsapp group chat solely for PSG events communication
+*   Use the PSG Whatsapp Community Group solely for PSG events communication
 
 **Join Us Today!**
 
