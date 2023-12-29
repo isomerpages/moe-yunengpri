@@ -20,6 +20,11 @@ sections:
           url: /staff-useful-links/
       title: Yu Neng Primary School
   - infopic:
+      title: YN88
+      description: Coming Soon
+      image: /images/YN89logo.png
+      alt: Image alt text
+  - infopic:
       title: Celebrating Writing
       id: infopic
       description: As the year draws to a close, our school has once again published a
@@ -27,11 +32,6 @@ sections:
       button: Read
       url: /english-language/
       image: /images/celebrating writing.jpg
-      alt: Image alt text
-  - infopic:
-      title: YN88
-      description: Coming Soon
-      image: /images/YN89logo.png
       alt: Image alt text
   - infopic:
       title: ALP (ICT)
