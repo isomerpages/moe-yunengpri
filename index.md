@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: YN88
       description: Coming Soon
-      image: /images/YN89logo.png
+      image: /images/YN89logosmall.png
       alt: Image alt text
   - infopic:
       title: Celebrating Writing
