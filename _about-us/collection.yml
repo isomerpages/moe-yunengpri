@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - YN Celebrations/YN88.md
-      - YN Celebrations/.keep
       - School History.md
+      - YN Celebrations/.keep
+      - YN Celebrations/YN88.md
       - Mission, Vision, Values.md
       - Motto and Crests.md
       - Beliefs.md
