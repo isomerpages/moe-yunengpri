@@ -30,11 +30,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: YN88
-      description: 88 years on, and nestled in the heart of Bedok, we have established
-        ourselves as a school of choice, with distinctive programmes.
-      button: Read
-      url: /yn88/
-      image: /images/YN88logo.png
+      description: Coming Soon
+      image: /images/YN89logo.png
       alt: Image alt text
   - infopic:
       title: ALP (ICT)
