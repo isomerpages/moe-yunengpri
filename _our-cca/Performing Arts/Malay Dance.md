@@ -24,3 +24,5 @@ In line with our school values, GR3IT, our dancers grow together in&nbsp;keeping
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
 | <br>Mdm Marlina (OIC) <br>Mdm Zuhailah | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).*<br><br>Fridays 2pm - 4pm (&nbsp;Till end of SYF) | <br>Dance Studio |
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/y3Q0yDV-JWE?si=-uqw3BfWZ17Qerul" height="315" width="560"></iframe>

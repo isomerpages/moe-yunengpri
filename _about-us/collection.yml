@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - School History.md
+      - YN Celebrations/.keep
+      - YN Celebrations/YN88.md
       - Mission, Vision, Values.md
       - Motto and Crests.md
       - Beliefs.md

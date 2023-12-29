@@ -3,16 +3,17 @@ title: Table Tennis
 permalink: /table-tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ### TABLE TENNIS
 
 <table>
-	<tr>
-		<td><img src="/images/TableTennis-1.jpeg"/></td>
-		<td><img src="/images/TableTennis-2.jpeg"/></td>
-		<td><img src="/images/TableTennis-3.jpeg"/></td>
+	<tbody><tr>
+		<td><img src="/images/TableTennis-1.jpeg"></td>
+		<td><img src="/images/TableTennis-2.jpeg"></td>
+		<td><img src="/images/TableTennis-3.jpeg"></td>
 	</tr>
-</table>
+</tbody></table>
 
 Table tennis is one of the four sports CCAs in Yu Neng Primary School. The team has won numerous accolades at the zonal and national levels over the years. We hope to cultivate their love for Table Tennis in every member as well as to develop their skills and their physical fitness.
 
@@ -20,4 +21,6 @@ With the infusion of the YN GR3IT values, Table Tennis CCA provides opportunitie
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-|Mr Anuar(OIC)<br> Mr Jason Toh(2IC) <br>Mrs Sally Chew<br>Ms Esther Wong <br>Mr Mu Zhiming | Tuesdays: 2pm to 5pm<br>Fridays: 2pm to 5pm <br>*(Please refer to the schedules given each semester* | Indoor Sports Hall (ISH) Level 3 |
+|Mr Anuar(OIC)<br> Mr Jason Toh(2IC)&nbsp;<br>Mrs Sally Chew<br>Ms Esther Wong <br>Mr Mu Zhiming | Tuesdays: 2pm to 5pm<br>Fridays: 2pm to 5pm&nbsp;<br>*(Please refer to the schedules given each semester* | Indoor Sports Hall (ISH) Level 3 |
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/edh3uOCv6X0?si=qjRsxYBwd1uobnod" height="315" width="560"></iframe>
