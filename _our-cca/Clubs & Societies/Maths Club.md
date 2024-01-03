@@ -27,6 +27,6 @@ Promote teamwork and working with others.
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mrs Pauline Ng (OIC)<br>  | Tuesdays: 2pm to 4pm<br>*(Please refer to the schedule given each semester)* | Maths Space |
+| Ms Koh Sze Theng Hazel (OIC)<br> Mdm Shamana | Tuesdays: 2pm to 4pm<br>*(Please refer to the schedule given each semester)* | Maths Space |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aPjBSvFwjkY?si=hZbayBV1MMysZxhc" height="315" width="560"></iframe>

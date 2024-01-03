@@ -21,6 +21,6 @@ The Art Club provides a platform for students to build on their talent while exp
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Ms Ruzana&nbsp;(OIC)<br>Mrs Ravi <br>Mdm Questal Tay| Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Art Room |
+| Ms Ruzana&nbsp;(OIC)<br>Mrs Ravi <br>Ms Agustina Huang| Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Art Room |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZK8SvMpfvX4?si=LbKI-GmVWvHZXyKk" height="315" width="560"></iframe>
