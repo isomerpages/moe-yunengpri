@@ -3,6 +3,7 @@ title: School Services
 permalink: /school-services/
 description: ""
 third_nav_title: School Services
+variant: markdown
 ---
 ### SCHOOL SERVICES
 
@@ -28,17 +29,26 @@ Tel/Fax : 64438605</p>
     <label for="accordion2">SCHOOL UNIFORM, PE ATTIRE,  
 NAME TAG, SHOES &amp; SOCKS </label>
     <div>
-			<p>	<strong>Sowell Garment Pte Ltd  </strong><br>
+			<p>	<strong>Jeep Singh Fashion  </strong><br>
   <br>
-80 Playfair Road<br>
-#01-14 Kapo Factory Building<br>
-Singapore 367998
+				(Head Office /  Factory)<br>
+4012 Ang Mo Kio Ave 10<br>
+#01-09 Techplace 1<br>
+Singapore 569628
   <br><br>
 Uniform hours:  <br>
-Mon – Thu : 8.30 am – 9.15 am; 2.00 pm – 3.30 pm  <br>
-Fri: 8.30 am – 9.15 am; 1.00 pm – 3.30 pm  <br>
-  <br><br>
-Tel/Fax : 86183083</p>
+Mon – Fri :  <br>
+				0830 - 0915<br>
+				1100 - 1300<br>
+				1400 - 1530<br>
+
+  <br>
+Tel : 6456 3198<br><br>
+				<u>Operating Hours at Jeep Singh Fashion Head Office / Factory:</u><br>
+			Mon - Fri: 10am to 6pm<br>
+			Lunch break and Sanitising of Store: 1pm to 2pm<br>
+			Sat: 10am to 2pm<br>
+			Closed on Sunday and Public Holidays</p>
 		</div>
   </li>
   <li>
