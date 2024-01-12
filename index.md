@@ -20,7 +20,7 @@ sections:
           url: /staff-useful-links/
       title: Yu Neng Primary School
   - infopic:
-      title: YN88
+      title: YN89
       description: Coming Soon
       image: /images/YN89logosmall.png
       alt: Image alt text
