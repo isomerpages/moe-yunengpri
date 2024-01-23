@@ -28,8 +28,8 @@ Primary 6<br>
 
 
 #### Uniform
+[2024 Uniform List](/files/Information_sheet_on_2024_School_Uniform.pdf)
 
-[2024 Uniform List](/files/Sales_of_Uniform__2024_.pdf)
 
 #### School Bus
 [Request for School Bus Services Form](/files/request%20for%20school%20bus%20services%202024.pdf)
