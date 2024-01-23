@@ -2,8 +2,9 @@
 title: Natural Spring
 permalink: /natural-spring/
 description: ""
+variant: markdown
 ---
 ### NATURAL SPRING
 
 
-![](/images/Natural%20Spring%2020March23.png)
+![](/images/Natural_Spring_1Feb2024.png)
