@@ -1,6 +1,6 @@
 ---
 title: CCA OPEN HOUSE
-permalink: /cca-open-house/
+permalink: /cca-open-house-archive/
 description: ""
 variant: tiptap
 ---
