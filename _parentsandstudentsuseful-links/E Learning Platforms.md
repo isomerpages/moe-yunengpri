@@ -6,7 +6,11 @@ variant: markdown
 ---
 ### E-Learning Platforms
 
-To reset your child's MIMS Password (iCON Mail, Google classroom and SLS are under MIMS), please request for a reset via this link: [https://go.gov.sg/ynpwreset](https://go.gov.sg/ynpwreset)
+To reset your child's MIMS Password (iCON Mail, Google classroom and SLS are under MIMS), please request for a reset via this link: [https://go.gov.sg/ynpwreset](https://go.gov.sg/ynpwreset)<br><br>
+Please refer to the guide(s) below on how to login to MIMS, Google Classroom and SLS.<br>
+[ICT Familiarisation (P1 - P2)](/files/ICT_Familiarisation__P1___P2_.pdf)<br>
+[ICT Familiarisation (P3 - P6)](/files/ICT_Familiarisation__P3_to_P6_.pdf)
+
 
 | | |
 | --- | --- |
