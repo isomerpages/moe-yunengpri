@@ -1,0 +1,21 @@
+collections:
+  our-cca:
+    output: true
+    order:
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Volley Ball.md
+      - Sports & Games/Floorball.md
+      - Sports & Games/Table Tennis.md
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Contemporary Dance.md
+      - Performing Arts/Malay Dance.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Community & Environment Care Club.md
+      - Clubs & Societies/E nnovation Club.md
+      - Clubs & Societies/Broadcast Journalism Club.md
+      - Clubs & Societies/Maths Club.md
+      - Uniformed Group.md

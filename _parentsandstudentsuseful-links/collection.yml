@@ -1,0 +1,13 @@
+collections:
+  parentsandstudentsuseful-links:
+    output: true
+    order:
+      - Parents And Students Useful Links.md
+      - Sexuality Education (SEd).md
+      - School eResource Repository (OPAC).md
+      - School Waiting List.md
+      - Primary 1 Registration.md
+      - Financial Matters.md
+      - E Learning Platforms.md
+      - Direct School Admission (DSA Sec).md
+      - Booklist, Uniform & School Bus.md
