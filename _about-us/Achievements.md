@@ -38,17 +38,6 @@ article</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Community in Bloom Awards</p>
 </td>
@@ -512,6 +501,17 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Volleyball National League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>East Zone Primary School Volleyball Championship (Junior Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -565,6 +565,17 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teakwondo Poomsae Yellow7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National School Games Taekwondo Championship Junior Division Boys (Yellow
 7)</p>
 </td>
@@ -601,6 +612,32 @@ article</p>
 <td rowspan="1" colspan="1">
 <p>2nd Position:
 <br>Guo Junxi</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Wushu</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPSSC Wushu Junior Boys 1st International Changquan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 10</p>
 </td>
 </tr>
 </tbody>
