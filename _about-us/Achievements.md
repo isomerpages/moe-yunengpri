@@ -1289,6 +1289,94 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Raffles Institution Primary Maths World</p>
+<p>Contest (RIPMWC) Open and Junior</p>
+<p>Categories</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction:</p>
+<p>Li Zhenxi</p>
+<p>Wu Yao Xuan</p>
+<p>Ethan Yap Yu Kiat</p>
+<p>Elia Sim</p>
+<p></p>
+<p>Merit:</p>
+<p>Elizabeth Tan Xin Ying</p>
+<p>Chen Yehui</p>
+<p>Chern Ser Myn Amanda</p>
+<p>Fan Zixuan</p>
+<p>Lee Ying Xin Elise</p>
+<p>Ma Chen Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asia-Pacific Mathematical Olympiad for</p>
+<p>Primary Schools (APMOPS) organized</p>
+<p>by Hwa Chong Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver:</p>
+<p>Poon Ee Rui</p>
+<p>Tan Zhi Heng, Lucas</p>
+<p>Wu Yao Xuan</p>
+<p></p>
+<p>Bronze:</p>
+<p>Ethan Yap Yu Kiat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Mathematics Olympaid of Singapore (NMOS) Organized by NUS High</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver:</p>
+<p>Li Zhenxi</p>
+<p>Poon Ee Rui</p>
+<p>Choo Jie An Ashton</p>
+<p></p>
+<p>Bronze:</p>
+<p>Chan Yi Len</p>
+<p>Jiang Huixuan</p>
+<p>Kwoo Jing Hui</p>
+<p>Ma Ruize</p>
+<p>Chen Juntong</p>
+<p>Yuan Shuhan</p>
+<p>Zhang Xizhe</p>
+<p>Ting Chieu Heng Oliver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore &amp; Asian Schools Math</p>
+<p>Olympiad (SASMO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold:</p>
+<p>Shu Yuhang</p>
+<p>Shen Yizhen</p>
+<p>Yang Ruilin</p>
+<p>Li Zhenxi</p>
+<p></p>
+<p>Bronze:</p>
+<p>Tiffany Zhang Weizi</p>
+<p>Nathaniel Zhou Yuqi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Singapore Mathematics Olympiad for Primary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
