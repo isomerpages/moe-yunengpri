@@ -979,6 +979,18 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SOTA Primary 6 Art Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 50 Finalists:</p>
+<p>Yu Yiyang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Artist and Citizenship</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1428,50 +1440,6 @@ article</p>
 <br>Chen Wei</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Chinese Challenge 2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 20 Individual award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12th On-the-Spot Chinese Story Writing Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Merit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22nd National Primary On-the-Spot Chinese Creative Writing Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outstanding Prize</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22nd National Primary On-the-Spot Chinese Creative Writing Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Merit</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table>
@@ -1486,6 +1454,19 @@ article</p>
 <th rowspan="1" colspan="1">
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ops Baca Quiz Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fourth:</p>
+<p>Rhea Radella Binte Bahkuridin</p>
+<p>Shasmeen Natasha Binte Mohammad Fauzi</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1845,110 +1826,6 @@ article</p>
 <br>Chai Qihan
 <br>Phua Li Wen Collette
 <br>Rian Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Raffles Institution Primary Maths World Contest (RIPMWC) Open Category</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction:
-<br>Guo Yunwei
-<br>Yu Fei Yang
-<br>Zhan Tongyixuan
-<br>Lim Yee Hong
-<br>He Tianrui
-<br>Deng Liswei
-<br>Pang Jing Heng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Raffles Institution Primary Maths World Contest (RIPMWC) Open Category</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Credit:
-<br>Chen Wei
-<br>Zhao Mingyu
-<br>Wang Ting Yu
-<br>Rian Tan Jun Yi
-<br>Ng Wood Huee Eye</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Raffles Institution Primary Maths World Contest (RIPMWC) Junior Category</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction:
-<br>Lau Cia Shien</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hua Xia Cup (Singapore Region) Mathematical Olympiad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Round 1:
-<br>3 Golds, 3 BronzeFinal:
-<br>4 Silver, 2 Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Raffles Institution Primary Maths World Contest
-<br>Junior Category</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 High Distinction, 4 Distinctions, 5 Credits</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Mathematical Olympiad of Singapore (NMOS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Bronze, 4 Honorable Mention</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Mathematical Olympiad of Singapore 2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Silver, 1 Bronze</p>
 </td>
 </tr>
 </tbody>
