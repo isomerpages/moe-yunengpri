@@ -1968,6 +1968,47 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver:</p>
+<p>Li Zhenxi</p>
+<p></p>
+<p>Bronze:</p>
+<p>Ma Ruize</p>
+<p>Poon Ee Rui</p>
+<p></p>
+<p>Merit:</p>
+<p>Chen Juntong</p>
+<p>Ngeiw Chen Kang</p>
+<p>Ong Sheng Han Shawn</p>
+<p>Reina Celine Koh</p>
+<p></p>
+<p>Participation:</p>
+<p>Chew Sze Suan</p>
+<p>Chua zhi Kai Justin</p>
+<p>Ong Yan Qi, Chloe</p>
+<p>Tho Jing Ya</p>
+<p>Ting Chieu Heng Oliver</p>
+<p>Yong Tien Zhe, Martin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Highest Number of Research-grade Observations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>International Competitions and Assessments for Schools (ICAS) Science</p>
 </td>
 <td rowspan="1" colspan="1">
