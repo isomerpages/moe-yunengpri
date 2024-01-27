@@ -22,6 +22,6 @@ The slides shared during the session are now available.
 
 [Primary 5 ](https://drive.google.com/file/d/1HnzrhWL_HaGtwLeIBwiFbip_CbHAcvKG/view?usp=sharing)
 
-[Primary 6 ](https://www.yunengpri.moe.edu.sg/undermaintenance/)
+[Primary 6 ](https://drive.google.com/file/d/1_9X-3jRqMTd83MEeYGGYyNVUvmeHiW1B/view?usp=sharing)
 
 [Interaction Time with FTs (Generic)](/files/Interaction_Time_with_FT.pdf)
