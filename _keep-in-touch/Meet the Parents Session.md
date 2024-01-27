@@ -20,7 +20,7 @@ The slides shared during the session are now available.
 
 [Primary 4 ](https://drive.google.com/file/d/15vEbY1RN2RexRRlMUdMQuqu1QLEkrajh/view?usp=sharing)
 
-[Primary 5 ](https://www.yunengpri.moe.edu.sg/undermaintenance/)
+[Primary 5 ](https://drive.google.com/file/d/1HnzrhWL_HaGtwLeIBwiFbip_CbHAcvKG/view?usp=sharing)
 
 [Primary 6 ](https://www.yunengpri.moe.edu.sg/undermaintenance/)
 
