@@ -20,9 +20,8 @@ The slides shared during the session are now available.
 
 [Primary 4 ](https://drive.google.com/file/d/15vEbY1RN2RexRRlMUdMQuqu1QLEkrajh/view?usp=sharing)
 
-[Primary 5 ]()
+[Primary 5 ](https://drive.google.com/file/d/1IK7WrNPEwteaib_n2Cnwbl5BE0xXaAg_/view?usp=sharing)
 
-[Primary 6 ]()
+[Primary 6 ](https://drive.google.com/file/d/16nu7lReQdTUQjB-7Vj1U8S-mXe9-GLEW/view?usp=sharing)
 
 [Interaction Time with FTs (Generic)](/files/Interaction_Time_with_FT.pdf)
-
