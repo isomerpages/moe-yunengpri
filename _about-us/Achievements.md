@@ -420,6 +420,36 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Position:</p>
+<p>Elliot Ng Yu Zhe</p>
+<p>Muhammad Ilhan Bin Mohammad Ismail</p>
+<p>Muhammad Ryan Darwisy Bin Muhammad</p>
+<p>Masri</p>
+<p>Phua Zhe Yan</p>
+<p>Bu Shunji</p>
+<p>Mustaqim Bin Safarullah</p>
+<p>Mohamed Asheeque Bin Mohamed Ashraf</p>
+<p>Muhamad Arfa Irfan Bin Abdullah</p>
+<p>Rifqi Hadi Bin Hairelrizal</p>
+<p>Josh Lim Kuo Zi</p>
+<p>Neo Se Tang</p>
+<p>Rizq Hakeem Bin Muhammad Raihan</p>
+<p>Tan Ming Feng Donovan</p>
+<p>Goh Zi Rui Brayden</p>
+<p>Ong Sheng Han Shawn</p>
+<p>Tan Zhijie Joel</p>
+<p>Tok Kai Zher Jayden</p>
+<p>Kayden Lee Wen Hao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National School Games Floorball (Junior Division)</p>
 </td>
 <td rowspan="1" colspan="1">
