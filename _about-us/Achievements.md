@@ -1527,6 +1527,21 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Wits and Words</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Qualifying Round - Best Speakers:</p>
+<p>Ayden Garcia Sim</p>
+<p>Ian Foo</p>
+<p></p>
+<p>Top 4 Division 2 Schools (East Zone)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Plain English Speaking Competition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1539,46 +1554,38 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National English Writing Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Finalists:</p>
+<p>Liam Koh</p>
+<p>Megan Bang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>What's Up Published Article&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ayden Garcia Sim</p>
+<p>Ian Foo/ 6 Integrity</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Destination Imagination&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Service Learning Category (Pri) - 2nd place</p>
 </td>
 </tr>
 <tr>
