@@ -155,6 +155,28 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Table Tennis Senior Boys National League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis Senior Girls National League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sportsmanship Award</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -263,239 +285,6 @@ article</p>
 <p>3rd Position</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Primary Schools Table Tennis Championship, Junior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Primary Schools Table Tennis Championship, Junior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Primary Schools Table Tennis Championship, Senior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Primary Schools Table Tennis Championship, Junior Boys (Individual)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary Schools Table Tennis Championship, Senior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary Schools Table Tennis Championship, Junior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary Schools Table Tennis Championship, Senior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Runner up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary Schools Table Tennis Championship, Junior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Runner up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6th Singapore Youth Olympic Festival, Under 11 Boys, Singles</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6th Singapore Youth Olympic Festival, Under 11 Girls, Singles</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Crocodile Challenge Cup 2017 Finals, Singles, Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Olympic Foundation, Individual</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Peter Lim Scholarship</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Primary Schools Table Tennis Championship, Senior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overall runner Up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Primary Schools Table Tennis Championship, Junior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overall 4th Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Primary Schools Table Tennis Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overall National Champion
-<br>Zenden Lin Ye Zhan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Primary Schools Table Tennis Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semi-finalist
-<br>Zeke Ng Ke Sheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary Schools Table Tennis Championship, Junior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary Schools Table Tennis Championship, Senior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary Schools Table Tennis Championship, Senior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Crocodile Cup Challenge, Junior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Crocodile Cup Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8 Position</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table>
@@ -510,6 +299,39 @@ article</p>
 <th rowspan="1" colspan="1">
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton East Zone Championship Senior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton East Zone Championship Senior Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton Senior Girls National</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -587,186 +409,6 @@ article</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary School Badminton Championship (Junior Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Primary School Badminton Championship (Junior Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 16</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Senior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 16</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Junior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Senior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Junior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pines Cup Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singles Champion
-<br>Remus Ng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pines Cup Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Doubles Champion
-<br>Kalkin Kumar &amp; Tan Zhong Sing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pines Cup Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singles 1st Runner up
-<br>Ivie Poh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pines Cup Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Doubles 1st Runner up
-<br>Chloe Liew &amp; Renee Yong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Junior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Senior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Individual Championship 2016 (Junior Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary Schools Badminton Championship, Junior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary Schools Badminton Championship, Junior Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Primary Schools Badminton Championship, Senior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Position</p>
