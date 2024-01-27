@@ -1515,6 +1515,74 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Plain English Speaking Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist:</p>
+<p>William Tang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Plain English Speaking Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semi-finalist:</p>
+<p>Jewel Kee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Primary School Debate Open Championships</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1535,79 +1603,6 @@ article</p>
 <td rowspan="1" colspan="1">
 <p>3rd Position:
 <br>Siti Qayyimah Binte Ismail Nazri</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>International Primary and Secondary School English Speech Contest</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze:
-<br>Tan Yee Kai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scholastic Spot On Read &amp; Write Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Position:
-<br>Eugene Ong Yong Jun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wits and Words Debate Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Best speaker in the respective rounds:
-<br>Xu Ruokai
-<br>Keira Ng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SOTA Writing Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 60 students selected to attend a writing master class:
-<br>Lim Cheng Rui
-<br>Tan Han Wen Jonathan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National English Writing Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Merit:
-<br>Ang Rae Shyn</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Queen’s Commonwealth Essay Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Silver, 5 Bronze</p>
 </td>
 </tr>
 </tbody>
