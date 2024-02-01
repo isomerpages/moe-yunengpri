@@ -7,4 +7,4 @@ variant: markdown
 ### NATURAL SPRING
 
 
-![](/images/Natural_Spring_1Feb2024.png)
+![](/images/Natural_Spring.png)
