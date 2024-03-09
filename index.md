@@ -21,9 +21,11 @@ sections:
       title: Yu Neng Primary School
   - infopic:
       title: YN89
-      description: Coming Soon
+      description: "YN89 marks a special point in time for all Yu Neng students and staff. "
       image: /images/YN89logosmall.png
       alt: Image alt text
+      url: https://www.yunengpri.moe.edu.sg/yn89/
+      button: READ
   - infopic:
       title: Celebrating Writing
       id: infopic
