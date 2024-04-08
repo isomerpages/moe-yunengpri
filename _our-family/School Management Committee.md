@@ -8,38 +8,30 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Ms-Ong-Pei-Fen-Jamie-214x300.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" src="/images/Mdm_Nazimah1.png">
 </div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:Jamie_ONG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jamie Ong Pei Fen</a>
+<p><a href="mailto:Jamie_ONG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jamie Ong Pei Fen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:nazimah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazimah Abdullah</a>
+<p><a href="mailto:nazimah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazimah Abdullah</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table>
 <tbody>
 <tr>
