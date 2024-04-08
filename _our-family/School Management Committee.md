@@ -8,23 +8,19 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Ms-Ong-Pei-Fen-Jamie-214x300.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Mdm_Nazimah1.png">
-</div>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Ms_Ong.png">
+</div>
 <p><a href="mailto:Jamie_ONG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jamie Ong Pei Fen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Mdm_Naz.png">
+</div>
 <p><a href="mailto:nazimah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazimah Abdullah</a>
 </p>
 </td>
