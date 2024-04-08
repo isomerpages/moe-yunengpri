@@ -290,7 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Science</strong>
+<p><strong>Senior Teacher / Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,7 +300,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ed Support</strong>
+<p><strong>Senior Teacher / Ed Support</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -310,7 +310,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;Chinese</strong>
+<p><strong>&nbsp;Senior Teacher / Chinese</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -320,7 +320,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;Chinese (Covering)</strong>
+<p><strong>&nbsp;Senior Teacher / Chinese (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
