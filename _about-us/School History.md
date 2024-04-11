@@ -2,6 +2,7 @@
 title: School History
 permalink: /school-history/
 description: ""
+variant: markdown
 ---
 ### SCHOOL HISTORY
 
@@ -64,4 +65,4 @@ The YN Alumni has also launched a special YN88 publication titled "With All My V
 
 [Click here for YN88 Publication "With All My Voice".](https://go.gov.sg/yn88wamv)
 
-[Click here for YN80 Publication "With All My Voice".](https://bit.ly/3DVczWF)
+[Click here for YN80 Publication "With All My Heart".](https://bit.ly/3DVczWF)
