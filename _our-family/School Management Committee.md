@@ -2,33 +2,325 @@
 title: School Management Committee
 permalink: /school-management-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### SCHOOL MANAGEMENT COMMITTEE
-
-
-
-<table style="border:0px solid black">
-	<tbody><tr>
-		<td colspan="1">
-			</td></tr><tr>
-						<td width="23.5%">
-			<img src="/images/Ms-Ong-Pei-Fen-Jamie-214x300.jpg"><br>
-							<a href="mailto:Jamie_ONG@schools.gov.sg">Ms Jamie Ong Pei Fen</a>
-		</td>
-						<td width="25%">
-			<img src="/images/Mdm_Nazimah1.png"><br>
-			<a href="mailto:nazimah_abdullah@schools.gov.sg">Mdm Nazimah Abdullah</a>
-		</td>
-					</tr>
-</tbody></table>
-
-
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 739px; width: 867.982px; background-color: rgb(255, 255, 255);" cellpadding="0" cellspacing="0" width="99.9985%" border="0" class="inner-table"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 22px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 858.008px; height: 22px;" colspan="2" class="xl65"><h3 style="box-sizing: inherit; font-family: Lato, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">KEY PERSONNEL (HEADS OF DEPARTMENTS, SUBJECT HEADS &amp; LEVEL HEADS)</strong></h3></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 47px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 47px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">School Staff Developer</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 47px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:syarifah_fatimah@moe.edu.sg">Mdm Syarifah Fatimah&nbsp;</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 45px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 45px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">HOD / English Language &amp; Social Studies</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 45px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:yok_joon_meng@moe.edu.sg">Mr Yok Joon Meng</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 45px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 45px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">HOD / MTL</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 45px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:ng_chye_huat@moe.edu.sg">Mr Ng Chye Huat</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 46px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 46px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">HOD / Mathematics (Covering)</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 46px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:phang_yan_fen@moe.edu.sg">Mdm Chloe Phang</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 47px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 47px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">HOD / Science</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 47px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:dewi_wati_rahmat@moe.edu.sg">Mdm Dewi Wati</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 48px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 48px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">HOD / HHE, Aesthetics &amp; CCA</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 48px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:low_kok_chiah@moe.edu.sg">Mr Low Hao Rong</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 50px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 50px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">HOD / Student Management</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 50px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:yeo_chi_kin_shawn@moe.edu.sg">Mr Shawn Yeo</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 50px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 50px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">HOD / ICT (Covering)</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 50px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:Royston_Neo_Li_Ren@moe.edu.sg">Mr Royston Neo</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 50px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 50px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">HOD / CCE (Covering)</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 50px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:ho_wei_hao@moe.edu.sg"><span style="box-sizing: inherit;" id="cloak220af62f590afa6c1747480382569a8b">Mr Ho Wei Hao</span></a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 51px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 51px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">SH / Aesthetics</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 51px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:peh_pei_ying@moe.edu.sg">Ms Peh Pei Ying</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 10px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 10px; background-color: rgb(255, 255, 255);"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">SH / Student Leadership / AYH </strong></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 10px; background-color: rgb(255, 255, 255);"><p style="box-sizing: inherit; font-size: 1em;"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:ong_boon_leng@moe.edu.sg">Mdm Ong Boon Leng</a></p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 47px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 47px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">SH/CCE (Covering)</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 47px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:tan_xin_hui_shelwyn@moe.edu.sg">Ms Shelwyn Tan</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 23px; background-color: rgb(255, 255, 255);"><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">LH / English Language &amp; 21CC</strong></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 23px; background-color: rgb(255, 255, 255);"><p style="box-sizing: inherit; font-size: 1em;"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:tan_eng_ling_catherine@moe.edu.sg">Mdm Catherine Tan</a></p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 49px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 407.187px; height: 49px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">LH / Chinese Language &amp; Culture</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 450.82px; height: 49px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:cai_hanfeng@moe.edu.sg">Mr Cai Hanfeng</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 43px;"></tr></tbody></table>
-
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 374px; width: 867.995px; background-color: rgb(255, 255, 255);" cellpadding="0" cellspacing="0" width="100%" border="0" class="inner-table"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 86px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 867.995px; height: 86px; background-color: rgb(255, 255, 255);" colspan="2" class="xl65"><h3 style="box-sizing: inherit; font-family: Lato, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;Year Heads / Assistant Year Head</strong></h3></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 44px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 412.37px; height: 44px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;"><b style="box-sizing: inherit; font-weight: bold;">Year Head / P5 &amp; P6</b></strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 455.625px; height: 44px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:ng_siong_boon@moe.edu.sg">Mr Ng Siong Boon</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 46px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 412.37px; height: 46px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;"><b style="box-sizing: inherit; font-weight: bold;">Year Head / P3 &amp; P4</b></strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 455.625px; height: 46px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:ang_lie_chin@moe.edu.sg">Mdm Ang Lie Chin</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 45px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 412.37px; height: 45px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Year Head / P1 &amp; P2&nbsp;</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 455.625px; height: 45px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:wong_thin_wing_ignatia@moe.edu.sg">Mrs Ignatia Leng</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 45px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 412.37px; height: 45px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;"><b style="box-sizing: inherit; font-weight: bold;">Asst. Year Head (Covering)</b></strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 455.625px; height: 45px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:tan_pin_sing@moe.edu.sg">Ms Tan Pin Sing</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 42px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 412.37px; height: 42px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;"><b style="box-sizing: inherit; font-weight: bold;">Asst. Year Head (Covering)</b></strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 455.625px; height: 42px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:ngo_xiu_fen@moe.edu.sg">Mrs Esther Cheng-Ngo Xiu Fen</a></td></tr>
-	
-	</tbody></table>
-
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 355px; width: 866.953px; background-color: rgb(255, 255, 255);" cellpadding="0" cellspacing="0" width="99.8807%" border="0" class="inner-table"><colgroup style="box-sizing: inherit;"><col style="box-sizing: inherit;" width="64" span="3"></colgroup><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 86px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 862.812px; height: 86px; background-color: rgb(255, 255, 255);" height="20" colspan="2" class="xl65"><h3 style="box-sizing: inherit; font-family: Lato, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">SENIOR TEACHERS</strong></h3></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 38px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 418.008px; height: 38px; background-color: rgb(255, 255, 255);" height="20"><strong style="box-sizing: inherit; font-weight: bold;">English Language</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 444.805px; height: 38px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:peh_soh_kuen@moe.edu.sg">Mdm Esther Peh</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 40px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 418.008px; height: 40px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">English Language</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 444.805px; height: 40px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:leanna_lyn_gaffar@moe.edu.sg" title="[GMCP] Compose a new mail to Mdm Ang Lie Chin">Ms Leanna Lyn</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 35px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 418.008px; height: 35px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Mathematics</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 444.805px; height: 35px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:ng_lay_see_a@moe.edu.sg">Mdm Ng Lay See</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 40px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 418.008px; height: 40px; background-color: rgb(255, 255, 255);" height="20"><strong style="box-sizing: inherit; font-weight: bold;">Science</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 444.805px; height: 40px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:goh_hong_buay@moe.edu.sg">Mrs Iris Lim</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 38px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 418.008px; height: 38px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Ed Support</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 444.805px; height: 38px; background-color: rgb(255, 255, 255);"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:siti_nuraishah_rosli@moe.edu.sg" title="[GMCP] Compose a new mail to Mdm Ang Lie Chin">Mdm Siti Nuraishah</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 42px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 418.008px; height: 42px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;Chinese</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 444.805px; height: 42px; background-color: rgb(255, 255, 255);">&nbsp;<a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="mailto:mu_zhiming@moe.edu.sg">Mr Mu Zhiming</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 42px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 418.008px; height: 42px; background-color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;Chinese (Covering)</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 444.805px; height: 42px; background-color: rgb(255, 255, 255);">&nbsp;<a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(1, 0, 91);" href="loke_yik_pey@moe.edu.sg">Mdm Loke Yik Pey</a></td></tr>
-	</tbody></table>
+<h3>SCHOOL MANAGEMENT COMMITTEE</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Ms_Ong.png">
+</div>
+<p><a href="mailto:Jamie_ONG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jamie Ong Pei Fen</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Mdm_Naz.png">
+</div>
+<p><a href="mailto:nazimah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazimah Abdullah</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h3><strong>KEY PERSONNEL (HEADS OF DEPARTMENTS, SUBJECT HEADS &amp; LEVEL HEADS)</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Staff Developer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syarifah_fatimah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Syarifah Fatimah&nbsp;</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD / English Language &amp; Social Studies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yok_joon_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Yok Joon Meng</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD / MTL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_chye_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Chye Huat</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD / Mathematics (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phang_yan_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chloe Phang</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD / Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dewi_wati_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Dewi Wati</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD / HHE, Aesthetics &amp; CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_kok_chiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Low Hao Rong</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD / Student Management</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_chi_kin_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Shawn Yeo</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD / ICT (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Royston_Neo_Li_Ren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Royston Neo</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD / CCE (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_wei_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ho Wei Hao</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH / Aesthetics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peh_pei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Peh Pei Ying</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH / Student Leadership / AYH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_boon_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ong Boon Leng</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/CCE (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_xin_hui_shelwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Shelwyn Tan</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LH / English Language &amp; 21CC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_eng_ling_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Catherine Tan</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LH / Chinese Language &amp; Culture</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cai_hanfeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Cai Hanfeng</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table><pre><code>&lt;/tbody&gt;&lt;/table&gt;</code></pre>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h3><strong>&nbsp;Year Heads / Assistant Year Head</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head / P5 &amp; P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_siong_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Siong Boon</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head / P3 &amp; P4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_lie_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ang Lie Chin</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head / P1 &amp; P2&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_thin_wing_ignatia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ignatia Leng</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Asst. Year Head (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_pin_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Pin Sing</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Asst. Year Head (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ngo_xiu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Esther Cheng-Ngo Xiu Fen</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h3><strong>Teacher Leaders</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher / English Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peh_soh_kuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Esther Peh</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher / English Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leanna_lyn_gaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Leanna Lyn</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lead Teacher / Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_lay_see_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ng Lay See</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher / Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_hong_buay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Iris Lim</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher / Ed Support</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nuraishah_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Siti Nuraishah</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Senior Teacher / Chinese</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a href="mailto:mu_zhiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Mu Zhiming</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Senior Teacher / Chinese (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a href="loke_yik_pey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Loke Yik Pey</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
