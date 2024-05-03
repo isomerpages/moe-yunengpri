@@ -20,7 +20,7 @@ sections:
           url: /staff-useful-links/
       title: Yu Neng Primary School
   - infopic:
-      title: Infopic
+      title: Parents' Day 2024
       subtitle: Add an image and text
       id: infopic
       description: Click on the link below to know more about Parents' Day 2024
