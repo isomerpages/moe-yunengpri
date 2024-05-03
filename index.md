@@ -20,8 +20,17 @@ sections:
           url: /staff-useful-links/
       title: Yu Neng Primary School
   - infopic:
+      title: Parents' Day 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Click on the link below to know more about Parents' Day 2024
+      button: READ
+      url: https://yunengpri.moe.edu.sg/parentsday
+      image: /images/parentsdayinfo.png
+      alt: Image alt text
+  - infopic:
       title: YN89
-      description: "YN89 marks a special point in time for all Yu Neng students and staff. "
+      description: YN89 marks a special point in time for all Yu Neng students and staff.
       image: /images/YN89logosmall.png
       alt: Image alt text
       url: https://www.yunengpri.moe.edu.sg/yn89/
