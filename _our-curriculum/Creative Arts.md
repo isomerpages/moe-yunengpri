@@ -2,6 +2,7 @@
 title: Creative Arts
 permalink: /creative-arts-and-pal/creative-arts-art-music/
 description: ""
+variant: markdown
 ---
 ### CREATIVE ARTS
 
@@ -50,7 +51,7 @@ description: ""
 	</tr>
 	<tr>
 		<td colspan="3">	   
-An authentic learning experience is integral to Social Studies in Yu Neng. Each year, students embark on learning journeys to museums and heritage trails to reinforce what they have learnt in the classroom, outside of the classroom. By stepping out of the classroom, students are able to appreciate, understand and engage with the world around them more deeply. These learning journeys also help students bridge the gap between theory and real life.
+Students explore ideas using their imagination and develop their creativity using digital applications to design interesting art pieces.
 		</td>
 	</tr>
 </tbody></table><br>
@@ -68,7 +69,7 @@ An authentic learning experience is integral to Social Studies in Yu Neng. Each 
 	</tr>
 	<tr>
 		<td colspan="3">	   
-An authentic learning experience is integral to Social Studies in Yu Neng. Each year, students embark on learning journeys to museums and heritage trails to reinforce what they have learnt in the classroom, outside of the classroom. By stepping out of the classroom, students are able to appreciate, understand and engage with the world around them more deeply. These learning journeys also help students bridge the gap between theory and real life.
+The integration of the Music application in iPads and Music instruments lead students to enjoy and explore Music creatively.
 		</td>
 	</tr>
 </tbody></table><br>
@@ -120,7 +121,7 @@ Creative Students Innovators</h5>
 	</tr>
 	<tr>
 		<td colspan="3">	   
-Fame@YN develops students to be confident performers by encouraging students to perform live or send in a recording of their performances to be played on the TV at the library during recess.
+CSI@Play provides students enrichment opportunities to be engaged with Art and ICT activities. Throughout the whole program, students develop confidence and creativity while working on the different themed projects provided in the different terms.
 		</td>
 	</tr>
 </tbody></table><br>
