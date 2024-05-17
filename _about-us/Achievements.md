@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <h3>ACHIEVEMENTS</h3>
 <h4>ACCOLADES</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -35,7 +40,12 @@ article</p>
 </tbody>
 </table>
 <h4>SCHOOL ACHIEVEMENTS</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -129,7 +139,12 @@ article</p>
 </table>
 <h4>STUDENT ACHIEVEMENTS</h4>
 <h5>SPORTS</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -276,7 +291,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -405,7 +425,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -516,7 +541,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -553,7 +583,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -580,7 +615,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -619,7 +659,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -646,7 +691,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -673,7 +723,12 @@ article</p>
 </tbody>
 </table>
 <h5>ARTS</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -722,7 +777,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -814,7 +874,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -841,7 +906,12 @@ article</p>
 </tbody>
 </table>
 <h5>UNIFORMED GROUPS</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -890,7 +960,12 @@ article</p>
 </tbody>
 </table>
 <h5>CLUBS</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1016,7 +1091,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1070,7 +1150,12 @@ article</p>
 </tbody>
 </table>
 <h5>ACADEMIC</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1151,7 +1236,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1190,7 +1280,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1212,7 +1307,7 @@ article</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finalist:</p>
-<p>William Tang</p>
+<p>Joshua Tang</p>
 </td>
 </tr>
 <tr>
@@ -1238,7 +1333,7 @@ article</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semi-finalist:</p>
+<p>Finalist:</p>
 <p>Jewel Kee</p>
 </td>
 </tr>
@@ -1304,7 +1399,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1627,7 +1727,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1703,7 +1808,12 @@ will be offered once in two years, starting from 2015, to one teacher from
 each of the 11 SEAMEO member countries (10 ASEAN countries and Timor Leste)
 to celebrate excellence in the teaching profession and recognize teachers
 for their contribution to the future generation.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1732,7 +1842,12 @@ for their contribution to the future generation.</p>
 <h5>President’s Award for Teachers (PAT)</h5>
 <p>The President’s Award for Teachers (PAT) recognises excellent educators
 for their role in moulding the future of our nation.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1761,7 +1876,12 @@ for their role in moulding the future of our nation.</p>
 <h5>National Day Awards</h5>
 <p>Congratulations to the following officers who are recipients of National
 Day Awards 2019.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1869,7 +1989,12 @@ Day Awards 2019.</p>
 and concern for the holistic development of their students, and go the
 extra mile to ensure their charges grow up to be confident and independent
 learners.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1998,7 +2123,12 @@ learners.</p>
 <p>The LEAP Award recognizes exceptional teachers who have made a difference
 in the lives of their pupils.&nbsp; We are proud of our teacher who has
 attained the award.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2040,7 +2170,12 @@ attained the award.</p>
 Teachers in Singapore schools that acknowledges teachers who ignite a love
 for the English Language and are effective in helping their students speak
 and write accurately.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2071,7 +2206,12 @@ and write accurately.</p>
 Learning Space (SLS) Design Challenge 2018 and whose lesson was endorsed
 as Quality Lesson Design by the Educational Technology Division (ETD) MOE
 and East Zone ICT Committee.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2120,7 +2260,12 @@ and East Zone ICT Committee.</p>
 </tbody>
 </table>
 <h5>MOE Excellent Service Award (EXSA) Award</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
