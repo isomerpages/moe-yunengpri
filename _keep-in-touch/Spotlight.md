@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>SPOTLIGHT</h3>
-<h5><u>2023</u></h5>
+<h5><u>2024</u></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -15,9 +15,17 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<p>May 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Spotlight_May_2024.png">
+</div>
+<p><a href="https://drive.google.com/file/d/1wzpd-Qh3PrTAocfco19z7BVQuk0Q0o1C/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">May 2024</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/blank.png">
+</div>
 <p></p>
 </th>
 </tr>
