@@ -22,9 +22,10 @@ sections:
   - infopic:
       title: Parents' Day 2024
       id: infopic
-      description: Click on the link below to know more about Parents' Day 2024
+      description: Click on the link below to read the article on Parents' Day 2024
       button: READ
-      url: https://yunengpri.moe.edu.sg/parentsday
+      url: "https://www.8world.com/singapore/yuneng-pri-inaugural-parents-day-celebra\
+        tion-2459746  "
       image: /images/Teal_and_Purple_Modern_Parent_Meeting_Flyer__29_7_x_21_cm___1_.png
       alt: Image alt text
   - infopic:
