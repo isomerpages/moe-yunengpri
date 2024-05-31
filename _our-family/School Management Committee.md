@@ -5,30 +5,24 @@ description: ""
 variant: tiptap
 ---
 <h3>SCHOOL MANAGEMENT COMMITTEE</h3>
-<table>
+<p></p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Ms_Ong.png">
-</div>
-<p><a href="mailto:Jamie_ONG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jamie Ong Pei Fen</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Mdm_Naz.png">
-</div>
-<p><a href="mailto:nazimah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazimah Abdullah</a>
-</p>
-</td>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:Jamie_ONG@schools.gov.sg"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Ms_Ong.png"></a>
+</th>
 </tr>
 </tbody>
 </table>
-<p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -185,7 +179,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table><pre><code>&lt;/tbody&gt;&lt;/table&gt;</code></pre>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -244,7 +242,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
