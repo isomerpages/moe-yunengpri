@@ -2,6 +2,7 @@
 title: English Language
 permalink: /english-language/
 description: ""
+variant: markdown
 ---
 ### ENGLISH LANGUAGE
 
@@ -22,13 +23,13 @@ description: ""
 
 <b><u>2020 (For implementation from 2020 Primary 1 Cohort)</u></b>
 
-* **English Language:** [https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/primary\_els-2020-\_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/primary_els-2020-_syllabus.pdf)
-*   **Foundational English:**&nbsp;[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/felnt\_els-2020\_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/felnt_els-2020_syllabus.pdf)
+* **English Language:** [https://www.moe.gov.sg/-/media/files/primary/2020-english-language-primary.pdf](https://www.moe.gov.sg/-/media/files/primary/2020-english-language-primary.pdf)
+*   **Foundational English:**&nbsp;[https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/eng/felnt_els-2020_syllabus.pdf](https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/eng/felnt_els-2020_syllabus.pdf)
 
 <b><u>2010 (For implementation until 2024)</u></b>
 
-*   **English Language:**&nbsp;[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-secondary-express-normal-academic.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-secondary-express-normal-academic.pdf)
-*   **Foundation English**:&nbsp;[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-foundation-secondary-normal-technical.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-foundation-secondary-normal-technical.pdf)
+*   **English Language:**&nbsp;[https://www.moe.gov.sg/-/media/files/primary/english-primary-secondary-express-normal-academic.pdf](https://www.moe.gov.sg/-/media/files/primary/english-primary-secondary-express-normal-academic.pdf)
+
 
 #### Key Programmes
 
