@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /mathematics/
 description: ""
+variant: markdown
 ---
 ### MATHEMATICS
 
@@ -37,8 +38,8 @@ description: ""
 
 #### Syllabus
 
-[2013&nbsp;MOE Mathematics Syllabus (Primary 5 &amp; 6)](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf)<br>
-[2021 MOE Mathematics Sullabus (P1 - P4)](https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.pdf)
+[2013&nbsp;MOE Mathematics Syllabus (Primary 5 &amp; 6)]([https://www.moe.gov.sg/-/media/files/primary/mathematics\_syllabus\_primary\_1\_to\_6.pdf](https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf))<br>
+[2021 MOE Mathematics Sullabus (P1 - P4)](https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6.pdf)
 
 
 #### Key Programmes
