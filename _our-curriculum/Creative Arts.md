@@ -30,7 +30,7 @@ variant: markdown
 ####  Syllabus
 
 <b><u>Art</u></b> <br>
-[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/arts-education/files/2018\_primary\_art\_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/arts-education/files/2018_primary_art_syllabus.pdf)
+[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/arts-education/files/2018_primary_art_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/arts-education/files/2018_primary_art_syllabus.pdf)
 
 <b><u>Music Syllabus</u></b> <br>
 [https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-music-syllabus-primary-lower-secondary.pdf](https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-music-syllabus-primary-lower-secondary.pdf)
