@@ -4,7 +4,7 @@ title: Yu Neng Primary School
 description: Brief site description here
 image: /images/Yu Neng Primary School.jpg
 permalink: /
-notification: ""
+notification: E-Open House 2024 launch on 5th of July 2024.
 sections:
   - hero:
       subtitle: Aspire, Learn & Lead
@@ -24,8 +24,7 @@ sections:
       id: infopic
       description: Click on the link below to read the article on Parents' Day 2024
       button: READ
-      url: "https://www.8world.com/singapore/yuneng-pri-inaugural-parents-day-celebra\
-        tion-2459746  "
+      url: https://www.8world.com/singapore/yuneng-pri-inaugural-parents-day-celebration-2459746
       image: /images/Teal_and_Purple_Modern_Parent_Meeting_Flyer__29_7_x_21_cm___1_.png
       alt: Image alt text
   - infopic:
