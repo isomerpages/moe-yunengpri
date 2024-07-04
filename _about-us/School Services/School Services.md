@@ -20,8 +20,11 @@ Estate S (139952)
 Bookshop hours:  <br>
 Mon – Thu : 8.30 am – 9.15 am; 2.00 pm – 3.30 pm  <br>
 Fri: 8.30 am – 9.15 am; 1.00 pm – 3.30 pm  
-  <br><br>
-Tel/Fax : 64438605</p>
+  <br>
+Tel/Fax : 64438605
+			<br>
+Students can purchase school uniform and PE attire from the school bookshop
+				<br><br>			</p>
     </div>
 	</li>  
   <li>
@@ -35,13 +38,6 @@ NAME TAG, SHOES &amp; SOCKS </label>
 4012 Ang Mo Kio Ave 10<br>
 #01-09 Techplace 1<br>
 Singapore 569628
-  <br><br>
-Uniform hours:  <br>
-Mon – Fri :  <br>
-				0830 - 0915<br>
-				1100 - 1300<br>
-				1400 - 1530<br>
-
   <br>
 Tel : 6456 3198<br><br>
 				<u>Operating Hours at Jeep Singh Fashion Head Office / Factory:</u><br>
@@ -66,7 +62,7 @@ Mon – Fri : 7.00am – 3.00pm</p>
     <div>
       <p>
         Lingo Star Transport  
-  <br><br>
+  <br>
 Tel: 64450514  <br>
 Hp: 93874020 (Mr Eddie Lim)<br>  
 Fax: 65207944</p><br>
