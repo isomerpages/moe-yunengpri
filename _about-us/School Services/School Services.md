@@ -20,8 +20,11 @@ Estate S (139952)
 Bookshop hours:  <br>
 Mon – Thu : 8.30 am – 9.15 am; 2.00 pm – 3.30 pm  <br>
 Fri: 8.30 am – 9.15 am; 1.00 pm – 3.30 pm  
-  <br><br>
-Tel/Fax : 64438605</p>
+  <br>
+Tel/Fax : 64438605
+			<br>
+Students can purchase school uniform and PE attire from the school bookshop
+				<br><br>			</p>
     </div>
 	</li>  
   <li>
