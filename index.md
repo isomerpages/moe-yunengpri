@@ -4,7 +4,7 @@ title: Yu Neng Primary School
 description: Brief site description here
 image: /images/Yu Neng Primary School.jpg
 permalink: /
-notification: E-Open House 2024 launch on 5th of July 2024.
+notification: ""
 sections:
   - hero:
       subtitle: Aspire, Learn & Lead
@@ -19,6 +19,13 @@ sections:
           description: ""
           url: /staff-useful-links/
       title: Yu Neng Primary School
+  - infopic:
+      title: E-Open House 2024
+      id: infopic
+      description: Click on the link below to know more about Yu Neng Primary School.
+      button: Button Text
+      image: /images/E_OPEN_HOUSE.png
+      alt: Image alt text
   - infopic:
       title: Parents' Day 2024
       id: infopic
