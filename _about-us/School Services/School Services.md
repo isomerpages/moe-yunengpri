@@ -38,13 +38,6 @@ NAME TAG, SHOES &amp; SOCKS </label>
 4012 Ang Mo Kio Ave 10<br>
 #01-09 Techplace 1<br>
 Singapore 569628
-  <br><br>
-Uniform hours:  <br>
-Mon – Fri :  <br>
-				0830 - 0915<br>
-				1100 - 1300<br>
-				1400 - 1530<br>
-
   <br>
 Tel : 6456 3198<br><br>
 				<u>Operating Hours at Jeep Singh Fashion Head Office / Factory:</u><br>
@@ -69,7 +62,7 @@ Mon – Fri : 7.00am – 3.00pm</p>
     <div>
       <p>
         Lingo Star Transport  
-  <br><br>
+  <br>
 Tel: 64450514  <br>
 Hp: 93874020 (Mr Eddie Lim)<br>  
 Fax: 65207944</p><br>
