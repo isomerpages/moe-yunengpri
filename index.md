@@ -26,6 +26,7 @@ sections:
       button: Button Text
       image: /images/E_OPEN_HOUSE.png
       alt: Image alt text
+      url: https://go.gov.sg/yneoh
   - infopic:
       title: Parents' Day 2024
       id: infopic
