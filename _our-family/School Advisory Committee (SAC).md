@@ -8,4 +8,6 @@ variant: markdown
 
 #### SAC (2024)
 
-![](/images/sac_02.png)
+Click [HERE](/images/Untitled_design.png) to enlarge image
+
+![](/images/Untitled_design.png)
