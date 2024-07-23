@@ -20,14 +20,6 @@ sections:
           url: /staff-useful-links/
       title: Yu Neng Primary School
   - infopic:
-      title: E-Open House 2024
-      id: infopic
-      description: Click on the link below to know more about Yu Neng Primary School.
-      button: Button Text
-      image: /images/E_OPEN_HOUSE.png
-      alt: Image alt text
-      url: https://go.gov.sg/yneoh
-  - infopic:
       title: Parents' Day 2024
       id: infopic
       description: Click on the link below to read the article on Parents' Day 2024
