@@ -61,17 +61,18 @@ Mon – Fri : 7.00am – 3.00pm</p>
     <label for="accordion4">SCHOOL BUS</label>
     <div>
       <p>
-        Lingo Star Transport  
+				<b>With effect from 01 January 2025</b><br>
+				<u>Steadfast Transport Service</u>
   <br>
-Tel: 64450514  <br>
-Hp: 93874020 (Mr Eddie Lim)<br>  
-Fax: 65207944</p><br>
-	
+				For any enquiries  on School Bus transport matters, please contact them at:<br>
+Office: 64450514  <br>
+Hp: 93874020 <br>  
+Email: steadfastbus@gmail.com</p><br>
 <p><a href="/files/request%20for%20school%20bus%20services%202024.pdf">
 	Request for school bus services 2024 form
 </a></p>
 			
-<img style="width:85%" src="/images/new%20rates%20for%202024.png">
+<img style="width:200%" src="/images/IMG_1705.jpg">
     </div>
   </li>
 	  <li>
