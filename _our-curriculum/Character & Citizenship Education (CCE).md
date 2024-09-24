@@ -2,6 +2,7 @@
 title: Character & Citizenship Education (CCE)
 permalink: /character-and-citizenship-education-cce/
 description: ""
+variant: markdown
 ---
 ### CHARACTER &amp; CITIZENSHIP EDUCATION (CCE)
 
@@ -73,16 +74,23 @@ To establish an effective learning environment, spaces are created for their voi
 	</tr>
 	<tr>
 		<td colspan="3">	   
-Yu Neng Primary School Mother Tongue Language Teachers in collaboration with our Character and Citizenship Education department has put together the F.A.M.I.L.Y. (Father And Mother I Love You) @YN initiative. This initiative aims to bring in real world context to learning and imbued in students a sense of gratitude for the role their families play in shaping who they are and who they become. Through this, we hope students not only extend their learning beyond the classrooms, but also grow to appreciate and value family relationships more. Parents are strongly encouraged to write back to your child via the link provided. Please refer to your child’s Mother Tongue classes when you click on the link. Thank you.<br><br>
+Yu Neng Primary School Mother Tongue Language Teachers in collaboration with our Character
+and Citizenship Education department has put together the F.A.M.I.L.Y. (Father And Mother I
+Love You) @YN initiative. This initiative aims to bring in real world context to learning and
+imbued in students a sense of gratitude for the role their families play in shaping who they are
+and who they become. Through this, we hope students not only extend their learning beyond
+the classrooms, but also grow to appreciate and value family relationships more.
+Parents are strongly encouraged to write back to your child via the link provided. Please refer to
+your child’s Mother Tongue classes when you click on the link. <br>Thank you..<br><br>
 			
-P3 Appreciation Card link<br><br>
-    <a target="_blank" href="https://padlet.com/lim_hl/3gr-5o6f6uxesjsfm3yv">P3Graciousness</a><br>
-    <a target="_blank" href="https://padlet.com/lim_hl/3rp-9tzihew2dn8tmzv3">P3Respect</a><br>
-    <a target="_blank" href="https://padlet.com/lim_hl/3ry-8z2il9st8v1rr1t0">P3Responsibility</a><br>
-    <a target="_blank" href="https://padlet.com/LIMHL/3in-g5r0fbdfca8byzzu">P3Integrity</a><br>
-    <a target="_blank" href="https://padlet.com/LIMHL/3tm-smevnao1tb4a99rv">P3Teamwork</a><br>
-    <a target="_blank" href="https://padlet.com/LIMHL/3ml-appreciation-card-9ty07enzb17yr6yx">P3 Malay</a><br>
-    <a target="_blank" href="https://padlet.com/lim_hl_a1/p3-abled-jmep5f37u15no2w">3 able</a>
+**P3 Appreciation Card link**<br><br>
+    <a target="_blank" href="https://padlet.com/lim_hl/3gr-fqbg2a7fm4vxk231">P3Graciousness</a><br>
+    <a target="_blank" href="https://padlet.com/lim_hl/3rp-ui46dogx7w6eok5l">P3Respect</a><br>
+    <a target="_blank" href="https://padlet.com/lim_hl/3ry-zkvz89uctkjq12t2">P3Responsibility</a><br>
+    <a target="_blank" href="https://padlet.com/lim_hl/3in-ituks5fgyzwll96m">P3Integrity</a><br>
+    <a target="_blank" href="https://padlet.com/lim_hl/3tm-md956oukmixf7vk6">P3Teamwork</a><br>
+    <a target="_blank" href="https://padlet.com/LIMHL/p3-ml-e-appreciation-card2024-45ezlyu8xupu4pxt">P3 Malay</a><br>
+    <a target="_blank" href="https://padlet.com/LIMHL/p3-cl-able-daxwywoiplsnd39l">3 able</a>
 		</td>
 	</tr>
 </tbody></table><br>
