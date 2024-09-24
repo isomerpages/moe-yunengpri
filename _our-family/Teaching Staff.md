@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -141,7 +146,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -278,7 +288,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -316,12 +331,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_anuar_mohamed_sahri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Anuar</u></a>
+<p><a href="mailto:xu_qianhao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Xu Qianhao</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nadiah_murni_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nadiah Murni</u></a> 
-<br><a href="mailto:xu_qianhao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Xu Qianhao</u></a>
+<br>
 </p>
 </td>
 </tr>
@@ -385,7 +400,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -492,7 +512,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -602,7 +627,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -710,7 +740,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
