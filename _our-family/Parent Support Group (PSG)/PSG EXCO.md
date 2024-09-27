@@ -12,7 +12,7 @@ variant: markdown
 | | |
 | --- | --- |
 | PSG Advisor | Mr Ng Yeow Ling (Principal) |
-| Staff Liaisons (ST3) | Mdm Nazimah Abdullah (Vice Principal)<br>Mr Yok Joon Meng (HOD/EL &amp; SS)<br>Mr Low Hao Rong (HOD/PE &amp; CCA)<br>Ms Shelwyn Tan (SH/CCE Covering)<br>Ms Elizabeth Choo (Teacher) <br>Ms Alicia Tan (Corporate Support Officer) |
+| Staff Liaisons (ST3) | Mr Yok Joon Meng (HOD/EL &amp; SS)<br>Mr Low Hao Rong (HOD/PE &amp; CCA)<br>Ms Shelwyn Tan (SH/CCE Covering)<br>Ms Elizabeth Choo (Teacher) <br>Ms Alicia Tan (Corporate Support Officer) |
 
 
 #### EXCO Members
