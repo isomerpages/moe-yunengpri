@@ -7,7 +7,7 @@ variant: tiptap
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong><u>PRIMARY&nbsp;ONE </u></strong>
+<summary><strong><u>PRIMARY&nbsp;ONE</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -333,7 +333,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadiah_murni_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nadiah Murni</u></a> 
+<p><a href="mailto:nadiah_murni_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nadiah Murni</u></a>
 </p>
 </td>
 </tr>
