@@ -101,9 +101,13 @@ Operating Hours:<br>Mon – Fri: 10 am – 7 pm
 Contact number: 8189 2305<br>
 							
 </p><p> Email Address: </p><a href="mailto: yuneng@shgstudentcarecentre.com.sg">yuneng@shgstudentcarecentre.com.sg</a>			
-				
-<p></p><p><a href="https://staging.d983uqf4p7xhi.amplifyapp.com/images/YN-Big-Heart.jpg">
-<img src="/images/YN-Big-Heart.jpg" style="width:100%">
+	
+			
+<p></p><p><a href="https://staging.d983uqf4p7xhi.amplifyapp.com/images/YN_SCC_Info_Page.png">
+<img src="/images/YN_SCC_Info_Page.png" style="width:100%">		
+</a></p>
+			<p></p><p><a href="https://staging.d983uqf4p7xhi.amplifyapp.com/images/Big_Heart_Linktree_QR_Code.png">
+<img src="/images/Big_Heart_Linktree_QR_Code.png" style="width:100%">		
 </a></p>
     </div>
   </li>
