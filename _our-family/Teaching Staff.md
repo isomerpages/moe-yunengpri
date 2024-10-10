@@ -5,6 +5,12 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>PRIMARY&nbsp;ONE</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -12,11 +18,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<h3><strong>PRIMARY&nbsp;ONE LEVEL</strong></h3>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Learning Support Coordinator<br><br></strong>
@@ -48,13 +49,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Class</strong></h4>
+<p><strong><u>Class</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
+<p><strong><u>Form Teacher</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
+<p><strong><u>Form Teacher</u></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -145,6 +149,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>PRIMARY&nbsp;TWO</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -153,11 +163,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<h3><strong>PRIMARY&nbsp;TWO LEVEL</strong></h3>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Learning Support Coordinator<br><br></strong>
@@ -188,13 +193,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Class</strong></h4>
+<p><strong><u>Class</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
+<p><strong><u>Form Teacher</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
+<p><strong><u>Form Teacher</u></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -287,6 +295,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>PRIMARY&nbsp;THREE</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -296,33 +310,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<h3><strong>PRIMARY&nbsp;THREE LEVEL</strong></h3>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Class</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Form Teacher</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Form Teacher</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Class</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
 </td>
 </tr>
 <tr>
@@ -335,8 +333,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadiah_murni_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nadiah Murni</u></a> 
-<br>
+<p><a href="mailto:nadiah_murni_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nadiah Murni</u></a>
 </p>
 </td>
 </tr>
@@ -399,6 +396,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>PRIMARY&nbsp;FOUR</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -408,33 +411,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<h3><strong>PRIMARY&nbsp;FOUR LEVEL</strong></h3>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Class</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Form Teacher</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Form Teacher</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Class</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
 </td>
 </tr>
 <tr>
@@ -511,6 +498,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>PRIMARY&nbsp;FIVE</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -520,33 +513,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<h3><strong>PRIMARY&nbsp;FIVE LEVEL</strong></h3>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Class</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Form Teacher</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Form Teacher</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Class</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
 </td>
 </tr>
 <tr>
@@ -626,6 +603,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>PRIMARY&nbsp;SIX</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -635,33 +618,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<h3><strong>PRIMARY&nbsp;SIX LEVEL</strong></h3>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Class</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Form Teacher</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><u>Form Teacher</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Class</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4><strong>Form Teacher</strong></h4>
 </td>
 </tr>
 <tr>
@@ -739,6 +706,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>SUBJECT TEACHERS</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -747,11 +720,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<h3><strong><br><br>SUBJECT TEACHERS</strong></h3>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>EMS<br><br><br></strong>
@@ -800,4 +768,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>

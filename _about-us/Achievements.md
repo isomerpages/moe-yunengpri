@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>ACHIEVEMENTS</h3>
-<h4>ACCOLADES</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>ACCOLADES</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -13,17 +18,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Parent’s appreciation for his son’s teachers
@@ -39,7 +33,12 @@ article</p>
 </tr>
 </tbody>
 </table>
-<h4>SCHOOL ACHIEVEMENTS</h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>SCHOOL ACHIEVEMENTS</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -137,8 +136,16 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
 <h4>STUDENT ACHIEVEMENTS</h4>
-<h5>SPORTS</h5>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>SPORTS</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -291,6 +298,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -425,6 +433,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -541,6 +550,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -583,6 +593,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -615,6 +626,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -659,6 +671,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -691,6 +704,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -722,7 +736,13 @@ article</p>
 </tr>
 </tbody>
 </table>
-<h5>ARTS</h5>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>ARTS</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -777,6 +797,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -874,6 +895,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -905,7 +927,13 @@ article</p>
 </tr>
 </tbody>
 </table>
-<h5>UNIFORMED GROUPS</h5>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>UNIFORMED GROUPS</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -959,7 +987,13 @@ article</p>
 </tr>
 </tbody>
 </table>
-<h5>CLUBS</h5>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>CLUBS</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1091,6 +1125,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1149,7 +1184,13 @@ article</p>
 </tr>
 </tbody>
 </table>
-<h5>ACADEMIC</h5>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>ACADEMIC</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1236,6 +1277,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1280,6 +1322,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1399,6 +1442,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1727,6 +1771,7 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1800,8 +1845,16 @@ article</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
 <h4>STAFF ACHIEVEMENTS</h4>
-<h5>Princess Maha Chakri Award</h5>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Princess Maha Chakri Award</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>PMCA is a royal award to be presented by Her Royal Highness Princess Maha
 Chakri Sirindhorn of Thailand to commemorate her 60th birthday. This award
 will be offered once in two years, starting from 2015, to one teacher from
@@ -1839,7 +1892,12 @@ for their contribution to the future generation.</p>
 </tr>
 </tbody>
 </table>
-<h5>President’s Award for Teachers (PAT)</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>President’s Award for Teachers (PAT)</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The President’s Award for Teachers (PAT) recognises excellent educators
 for their role in moulding the future of our nation.</p>
 <table style="minWidth: 75px">
@@ -1873,7 +1931,12 @@ for their role in moulding the future of our nation.</p>
 </tr>
 </tbody>
 </table>
-<h5>National Day Awards</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>National Day Awards</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Congratulations to the following officers who are recipients of National
 Day Awards 2019.</p>
 <table style="minWidth: 75px">
@@ -1984,7 +2047,12 @@ Day Awards 2019.</p>
 </tr>
 </tbody>
 </table>
-<h5>Caring Teacher Award</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>Caring Teacher Award</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The Caring Teacher Awards aims to pay tribute to teachers who show care
 and concern for the holistic development of their students, and go the
 extra mile to ensure their charges grow up to be confident and independent
@@ -2119,7 +2187,12 @@ learners.</p>
 </tr>
 </tbody>
 </table>
-<h5>Listening Educator for Advancement &amp; Progress (LEAP) Award</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>Listening Educator for Advancement &amp; Progress (LEAP) Award</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The LEAP Award recognizes exceptional teachers who have made a difference
 in the lives of their pupils.&nbsp; We are proud of our teacher who has
 attained the award.</p>
@@ -2165,7 +2238,12 @@ attained the award.</p>
 </tr>
 </tbody>
 </table>
-<h5>Inspiring Teacher of English Award</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>Inspiring Teacher of English Award</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The Inspiring Teacher of English Award is a national award for English
 Teachers in Singapore schools that acknowledges teachers who ignite a love
 for the English Language and are effective in helping their students speak
@@ -2201,7 +2279,12 @@ and write accurately.</p>
 </tr>
 </tbody>
 </table>
-<h5>Student Learning Space (SLS) Design Challenge</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>Student Learning Space (SLS) Design Challenge</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Congratulations to the following teachers who participated in the Student
 Learning Space (SLS) Design Challenge 2018 and whose lesson was endorsed
 as Quality Lesson Design by the Educational Technology Division (ETD) MOE
@@ -2259,7 +2342,13 @@ and East Zone ICT Committee.</p>
 </tr>
 </tbody>
 </table>
-<h5>MOE Excellent Service Award (EXSA) Award</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>MOE Excellent Service Award (EXSA) Award</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -2555,7 +2644,7 @@ and East Zone ICT Committee.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sri Rathi Priya</p>
+<p>Ms Sri Rathi Priya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -2610,4 +2699,22 @@ and East Zone ICT Committee.</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<h5></h5>
+<p></p>
+<h5></h5>
+<p></p>
+<h5></h5>
+<p></p>
+<h5></h5>
+<p></p>
+<h5></h5>
+<p></p>
+<h5></h5>
+<p></p>
+<h5></h5>
+<p></p>
+<h5></h5>
 <p></p>

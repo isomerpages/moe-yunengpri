@@ -4,6 +4,12 @@ permalink: /non-teaching-staff/
 description: ""
 variant: tiptap
 ---
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>SEN Officers and Counsellor</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -11,11 +17,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<h3><strong>SEN Officers and Counsellor</strong></h3>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>SEN Officer</strong>
@@ -47,9 +48,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>NON-TEACHING STAFF</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -58,11 +62,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<h3><strong>NON-TEACHING STAFF</strong></h3>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Administration Manager</strong>
@@ -129,7 +128,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_tan_ee_kia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Alicia Tan</u></a>
 <br>
-<br>
 </p>
 </td>
 </tr>
@@ -148,7 +146,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>
 <br>
 </p>
 </td>
@@ -192,4 +189,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
