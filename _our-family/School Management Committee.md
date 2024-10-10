@@ -18,17 +18,18 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>KEY PERSONNEL (HEADS OF DEPARTMENTS, SUBJECT HEADS &amp; LEVEL HEADS)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<h3><strong>KEY PERSONNEL (HEADS OF DEPARTMENTS, SUBJECT HEADS &amp; LEVEL HEADS)</strong></h3>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>School Staff Developer</strong>
@@ -169,27 +170,21 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
-</table><pre><code>&lt;/tbody&gt;&lt;/table&gt;</code></pre>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Year Heads / Assistant Year Head</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<h3><strong>&nbsp;Year Heads / Assistant Year Head</strong></h3>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Year Head / P5 &amp; P6</strong>
@@ -242,17 +237,19 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Teacher Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<h3><strong>Teacher Leaders</strong></h3>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Senior Teacher / English Language</strong>
@@ -325,4 +322,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
 <p></p>
