@@ -20,7 +20,7 @@ variant: tiptap
 </table>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>KEY PERSONNEL (HEADS OF DEPARTMENTS, SUBJECT HEADS &amp; LEVEL HEADS)</strong>
+<summary><strong><u>KEY PERSONNEL (HEADS OF DEPARTMENTS, SUBJECT HEADS &amp; LEVEL HEADS)</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -175,7 +175,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Year Heads / Assistant Year Head</strong>
+<summary><strong><u>Year Heads / Assistant Year Head</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -240,7 +240,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Teacher Leaders</strong>
+<summary><strong><u>Teacher Leaders</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
