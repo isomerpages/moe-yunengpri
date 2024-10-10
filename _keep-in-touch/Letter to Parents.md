@@ -6,10 +6,46 @@ variant: tiptap
 ---
 <h3>LETTER TO PARENTS</h3>
 <p></p>
+<h4>October 2024</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/LTP_Oct_2024.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a>
+</p>
+</li>
+</ul>
+<h4>September  2024</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/LTP_Sep_2024.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Letter_to_Parent_Children_s_Day_2024.pdf" rel="noopener nofollow" target="_blank">Children's Day 2024</a>
+</p>
+</li>
+</ul>
+<h4>August  2024</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/LTP_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a>
+</p>
+</li>
+</ul>
+<h4>July 2024</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/01_Letter_to_Parents_national_day_celebrations_2024.pdf" rel="noopener nofollow" target="_blank">National Day Celebrations 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Letter_to_Parents_CNA_recording.pdf" rel="noopener nofollow" target="_blank">CNA Recording</a>
+</p>
+</li>
+</ul>
 <h4>June 2024</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/LTPJune_July_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents</a>
+<p><a href="/files/LTPJune_July_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents June and July</a>
 </p>
 </li>
 </ul>
