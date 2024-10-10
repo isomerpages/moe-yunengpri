@@ -93,30 +93,15 @@ at:
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vQKoE2luc20?si=dvl3hNVg60flXPoP"></iframe>
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YN_SCC_Info_Page.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big_Heart_Linktree_QR_Code.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-</li>
-</ul>
 <p></p>
