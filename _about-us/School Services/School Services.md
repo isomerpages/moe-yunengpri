@@ -58,9 +58,18 @@ at:
 </p>
 <p><a href="/files/request%20for%20school%20bus%20services%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for school bus services 2024 form</a>
 </p>
+<p>
+<br>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:200%" height="auto" width="100%" src="/images/IMG_1705.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Bus_pricing.png">
 </div>
+<p>
+<br>
+<br>
+<br>
+</p>
 </li>
 <li>
 <p>SCHOOL DENTAL CLINIC</p>
