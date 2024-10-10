@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>September  2024</h4>
+<h4>September 2024</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/LTP_Sep_2024.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a>
@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>August  2024</h4>
+<h4>August 2024</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/LTP_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a>
