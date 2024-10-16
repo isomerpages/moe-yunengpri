@@ -27,11 +27,11 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>SCHOOL UNIFORM, PE ATTIRE, NAME TAG, SHOES &amp; SOCKS</summary>
+<summary>SCHOOL UNIFORM, PE ATTIRE, NAME TAG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p><strong>Jeep Singh Fashion </strong>
+<p><strong>Jeep Sing Fashion </strong>
 <br>
 <br>(Head Office / Factory)
 <br>4012 Ang Mo Kio Ave 10
@@ -39,7 +39,7 @@ variant: tiptap
 <br>Singapore 569628
 <br>Tel : 6456 3198
 <br>
-<br><u>Operating Hours at Jeep Singh Fashion Head Office / Factory:</u>
+<br><u>Operating Hours at Jeep Sing Fashion Head Office / Factory:</u>
 <br>Mon - Fri: 10am to 6pm
 <br>Lunch break and Sanitising of Store: 1pm to 2pm
 <br>Sat: 10am to 2pm
