@@ -6,6 +6,13 @@ variant: tiptap
 ---
 <h3>LETTER TO PARENTS</h3>
 <p></p>
+<h4>November 2024</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/LTP_Nov_2024.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a>
+</p>
+</li>
+</ul>
 <h4>October 2024</h4>
 <ul data-tight="true" class="tight">
 <li>
