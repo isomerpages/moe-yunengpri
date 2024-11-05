@@ -20,6 +20,13 @@ sections:
           url: /staff-useful-links/
       title: Yu Neng Primary School
   - infopic:
+      title: Celebrating Writing
+      id: infopic
+      button: Read
+      url: https://drive.google.com/file/d/1YVkWh2t0l3uB7bnlI7Gru2TPj7NuyFWL/view?usp=sharing
+      image: /images/Celebrating_Writing.png
+      alt: Image alt text
+  - infopic:
       title: Parents' Day 2024
       id: infopic
       description: Click on the link below to read the article on Parents' Day 2024
