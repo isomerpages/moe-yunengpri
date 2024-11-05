@@ -80,9 +80,7 @@ Writing for different purposes is an important skill. The Joyful Writing program
 			<br><br><br>
 			<b><u>Celebrating Writing</u></b><br>
 			
-<a href="https://drive.google.com/file/d/1eKQ5g-KAT8KZtyf7yQc9f-vUvGPt6XQ_/view?usp=drive_web">P1 and P2</a><br>
-<a href="https://drive.google.com/file/d/1Oj0gVxXI2i8FqBE08uw_aWKDYS_e9ERb/view?usp=drive_web">P3 and P4</a><br>
-			<a href="https://drive.google.com/file/d/13a6MrY_lJVZu4ZWvo26gEvlMc8UHyd0X/view?usp=drive_web">P5 and P6</a><br>
+<a href="https://drive.google.com/file/d/1YVkWh2t0l3uB7bnlI7Gru2TPj7NuyFWL/view?usp=sharing">P1 to P6</a><br>
 						<br>
 		</td>
 	</tr>
