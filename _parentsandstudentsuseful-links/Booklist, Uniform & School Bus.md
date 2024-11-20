@@ -12,13 +12,13 @@ variant: tiptap
 <br><a href="/files/P3_Booklist.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
 <br><a href="/files/P4_Booklist.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
 <br>
-<br>Primary 5
+<br><u>Primary 5 </u>
 <br><a href="/files/P5__2S___English__Science___2F___Maths__MT_.pdf" rel="noopener nofollow" target="_blank">P5 (2S - English, Science) (2F - Maths, MT)</a>
 <br><a href="/files/P5__3S___English__Maths__Science___1F___MT_.pdf" rel="noopener nofollow" target="_blank">P5 (3S - English, Maths, Science) (1F - MT)</a>
 <br><a href="/files/P5__3S___English__Science__MT___1F___Maths_.pdf" rel="noopener nofollow" target="_blank">P5 (3S - English, Science, MT) (1F - Maths)</a>
 <br><a href="/files/P5__STD___HMT_.pdf" rel="noopener nofollow" target="_blank">P5 (STD &amp; HMT)</a>
 <br>
-<br>Primary 6
+<br><u>Primary 6 </u>
 <br><a href="/files/P6__3S___English__Maths__Science___1F___MT_.pdf" rel="noopener nofollow" target="_blank">P6 (3S - English, Maths, Science) (1F - MT)</a>
 <br><a href="/files/P6__3S_English__Science__MT___1F___Maths_.pdf" rel="noopener nofollow" target="_blank">P6 (3S-English, Science, MT) (1F - Maths)</a>
 <br><a href="/files/P6__STD___HMT_.pdf" rel="noopener nofollow" target="_blank">P6 (STD &amp; HMT)</a>
