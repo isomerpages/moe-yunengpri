@@ -13,11 +13,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:Jamie_ONG@schools.gov.sg"><img style="width: 83%;" height="auto" width="100%" alt="" src="/images/Ms_Ong.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:Jamie_ONG@schools.gov.sg"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Ms_Ong.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 34%;" height="auto" width="100%" alt="" src="/images/Mr_Ong2.png">
+<img style="width: 28%;" height="auto" width="100%" alt="" src="/images/Mr_Edwin_Ong_Yoke_Yam_VP.jpg">
 </div>
 </th>
 </tr>
