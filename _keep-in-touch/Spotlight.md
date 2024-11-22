@@ -16,7 +16,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Spotlight_May_2024.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight_May_2024.png">
 </div>
 <p><a href="https://drive.google.com/file/d/1wzpd-Qh3PrTAocfco19z7BVQuk0Q0o1C/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">May 2024</a>
 </p>
@@ -24,9 +24,10 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/blank.png">
+<img style="width: 33%;" height="auto" width="100%" alt="" src="/images/Spotlight_Nov_2024.png">
 </div>
-<p></p>
+<p><a href="Nov 2024" rel="noopener nofollow" target="_blank"> Nov2024</a>
+</p>
 </th>
 </tr>
 </tbody>
