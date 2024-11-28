@@ -30,7 +30,9 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 22%;" height="auto" width="100%" alt="" src="/images/Mr_Satiish_Sathasilvam_VP.jpg">
+</div>
 </th>
 </tr>
 </tbody>
@@ -234,7 +236,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Asst. Year Head </strong>
+<p><strong>Asst. Year Head</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,7 +246,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Asst. Year Head </strong>
+<p><strong>Asst. Year Head</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
