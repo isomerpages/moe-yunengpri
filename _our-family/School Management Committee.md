@@ -6,37 +6,11 @@ variant: tiptap
 ---
 <h3>SCHOOL MANAGEMENT COMMITTEE</h3>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:Jamie_ONG@schools.gov.sg"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Ms_Ong.png"></a>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 28%;" height="auto" width="100%" alt="" src="/images/Mr_Edwin_Ong_Yoke_Yam_VP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YNPS_School_Leaders__3_.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 22%;" height="auto" width="100%" alt="" src="/images/Mr_Satiish_Sathasilvam_VP.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong><u>KEY PERSONNEL (HEADS OF DEPARTMENTS, SUBJECT HEADS &amp; LEVEL HEADS)</u></strong>
