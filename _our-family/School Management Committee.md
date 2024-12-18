@@ -135,7 +135,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/CCE (Covering)</strong>
+<p><strong>SH/CCE </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,6 +163,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LH / Mathematics (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Janice</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -180,11 +189,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head / P5 &amp; P6</strong>
+<p><strong>Year Head / P1 &amp; P2&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_siong_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Siong Boon</u></a>
+<p><a href="mailto:wong_thin_wing_ignatia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ignatia Leng</u></a>
 </p>
 </td>
 </tr>
@@ -200,11 +209,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head / P1 &amp; P2&nbsp;</strong>
+<p><strong>Year Head / P5 &amp; P6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_thin_wing_ignatia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ignatia Leng</u></a>
+<p><a href="mailto:ng_siong_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Siong Boon</u></a>
 </p>
 </td>
 </tr>
@@ -215,16 +224,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_pin_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Pin Sing</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Asst. Year Head</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ngo_xiu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Esther Cheng-Ngo Xiu Fen</u></a>
 </p>
 </td>
 </tr>
@@ -270,16 +269,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_lay_see_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ng Lay See</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Teacher / Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_hong_buay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Iris Lim</u></a>
 </p>
 </td>
 </tr>
