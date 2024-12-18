@@ -4,15 +4,10 @@ permalink: /non-teaching-staff/
 description: ""
 variant: tiptap
 ---
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>SEN Officers and Counsellor</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 75px">
+<h4>SEN Officers and School Counsellor</h4>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -24,40 +19,27 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:syafiqah_mohamed_faiz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Syafiqah Mohamed Faiz</u></a>
-</p>
-<p><a href="mailto:rahmah_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Fawzi (Rahmah Binte Mohamed Ali)</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_firdaus_bahrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Muhammad Firdaus Bahrin</u></a>
+<br><a href="mailto:rahmah_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Fawzi (Rahmah Binte Mohamed Ali)</u></a>
+<br><a href="mailto:muhammad_firdaus_bahrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Muhammad Firdaus Bahrin</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Counsellor</strong>
+<p><strong>Counsellor </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choy_yuan_lin_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Choy Yuan Lin Amanda</u></a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>NON-TEACHING STAFF</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 75px">
+<h4>Administrative and Support Staff</h4>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -71,9 +53,6 @@ variant: tiptap
 <p><a href="mailto:liew_siew_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Dawn Liew</u></a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,9 +62,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Lim Yew Chai</u></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -97,9 +73,6 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank"><u>Ms Sri Rathi Priya</u></a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -108,10 +81,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rohayu_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Rohayu Bte Mohd</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:alawiah_hosni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Alawiah Hosni</u></a>
+<br><a href="mailto:alawiah_hosni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Alawiah Hosni</u></a>
 </p>
 </td>
 </tr>
@@ -123,17 +93,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_ah_im_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tan Ah Im Wendy</u></a>
 <br><a href="mailto:wang_mei_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Wang Mei Ann</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:alicia_tan_ee_kia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Alicia Tan</u></a>
-<br>
+<br><a href="mailto:alicia_tan_ee_kia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Alicia Tan</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officers (OSO)<br><br><br><br></strong>
+<p><strong>Operations Support </strong>
+<br><strong>Officers (OSO)<br><br><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,11 +111,6 @@ variant: tiptap
 <br>Mr Kamsani Bin Hassan
 <br>Mr Zulfadhli BIn Ishak</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -157,9 +119,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm B. Kartiany</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -171,9 +130,6 @@ variant: tiptap
 <p>Mr Shammi Dominic
 <br>Mr Hagilentherean Gopalan</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -183,14 +139,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Juwita</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<p></p>
 <p></p>
