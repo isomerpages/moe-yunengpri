@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - SEN Officers and School Counsellor.md
       - Principal's Message.md
       - School Management Committee.md
       - School Advisory Committee (SAC).md
