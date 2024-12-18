@@ -2,11 +2,11 @@ collections:
   our-family:
     output: true
     order:
-      - SEN Officers and School Counsellor.md
       - Principal's Message.md
       - School Management Committee.md
       - School Advisory Committee (SAC).md
       - Teaching Staff.md
+      - SEN Officers and School Counsellor.md
       - Administrative and Support Staff.md
       - Non Teaching Staff.md
       - Parent Support Group (PSG)/.keep
