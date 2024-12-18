@@ -10,13 +10,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YNPS_School_Leaders__3_.png">
 </div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>KEY PERSONNEL (HEADS OF DEPARTMENTS, SUBJECT HEADS &amp; LEVEL HEADS)</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h4>Key Personnel (Heads of Departments, Subject Heads &amp; Level Heads)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -174,13 +168,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>Year Heads / Assistant Year Head</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<h4>Year Heads / Assistant Year Head</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -229,13 +218,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>Teacher Leaders</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<h4>Teacher Leaders</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -304,7 +288,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
 <p></p>
