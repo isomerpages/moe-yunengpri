@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Vision, Mission and Values.md
       - School History.md
-      - YN Celebrations/YN89 (2024).md
       - YN Celebrations/.keep
+      - YN Celebrations/YN89 (2024).md
       - YN Celebrations/YN88 (2023).md
+      - Vision, Mission and Values.md
       - Mission, Vision, Values.md
       - Motto and Crests.md
       - Beliefs.md
