@@ -65,8 +65,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support </strong>
-<br><strong>Officers (OSO)<br><br><br><br></strong>
+<p><strong>Operations Support Officers (OSO)<br><br><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
