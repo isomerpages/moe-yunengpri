@@ -163,7 +163,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Janice</p>
+<p><a href="mailto:ang_pei_ying_janice@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Janice Ang</a>
+</p>
 </td>
 </tr>
 </tbody>
