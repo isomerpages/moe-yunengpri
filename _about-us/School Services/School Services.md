@@ -106,15 +106,11 @@ at:
 <p><a href="/files/request%20for%20school%20bus%20services%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for school bus services 2024 form</a>
 </p>
 <p></p>
-<ul>
-<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Bus_pricing.png">
 </div>
 <p></p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>
@@ -163,8 +159,6 @@ at:
 <br>
 <br>Contact number: 8189 2305</p>
 <p>Email Address:</p>
-<ul>
-<li>
 <p><a href="mailto: yuneng@shgstudentcarecentre.com.sg" rel="noopener noreferrer nofollow" target="_blank">yuneng@shgstudentcarecentre.com.sg</a>
 </p>
 <p></p>
@@ -173,11 +167,9 @@ at:
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YN_SCC_Info_Page.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/YN_SCC_Info_Page.png">
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Big_Heart_Linktree_QR_Code.png">
