@@ -2,13 +2,14 @@
 title: Motto and Crests
 permalink: /motto-and-crest/
 description: ""
+variant: markdown
 ---
-### MOTTO AND CRESTS
+
 
 <h4 align="center">Our School Crest</h4>
 
 
-<img src="/images/Yu_Neng_Final_Logo_-_Transparent_For_Coloured_Backgrounds-931x1024.png" style="width:40%"/>
+<img src="/images/Yu_Neng_Final_Logo_-_Transparent_For_Coloured_Backgrounds-931x1024.png" style="width:40%">
 
 The school crest symbolises the aims and aspirations of Yu Neng Primary School.
 - The circle represents the unity that everyone in Yu Neng Primary School will work towards a common goal amidst the diversity of people. It also represents the ‘total education’ that the school provides, that is, to develop all students in the social aesthetic, moral, physical and academic areas.
