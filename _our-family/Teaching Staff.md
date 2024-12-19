@@ -15,14 +15,22 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Learning Support Coordinator</strong>
+<p><strong><u>Learning Support Coordinator</u></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:marlina_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Marlina</u></a>&nbsp;(EL)
 <br><a href="mailto:rajeswarie_sundram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ravi</u></a>&nbsp;(Math)
 <br><a href="mailto:tuty_atiqah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tuty Atiqah</u></a>&nbsp;(Math)</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -114,9 +122,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <hr>
 <h4>Primary 2</h4>
 <table style="minWidth: 50px">
@@ -127,13 +132,21 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Learning Support Coordinator</strong>
+<p><strong><u>Learning Support Coordinator</u></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:marlina_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Marlina</u></a>&nbsp;(EL)
 <br><a href="mailto:tuty_atiqah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tuty Atiqah</u></a>&nbsp;(Math)</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -218,13 +231,251 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zulaiha_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zulaiha</u></a>
 <br><a href="mailto:cai_hanfeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Cai Hanfeng</u></a>
-</p>
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Fathima Parvin Binte</u></a>
+<br><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Fathima Parvin Binte</u></a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<hr>
+<h4>Primary 3</h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Class</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Form Teacher</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 Graciousness</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rethinamala_rajendran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Raj</u></a>
+<br><a href="mailto:low_kok_chiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Low Hao Rong</u></a>
+<br><a href="mailto:chiang_chew_huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Chiang Doris</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 Respect</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:samsugani_abdul_saleem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Saleem</u></a>
+<br><a href="mailto:hui_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Lim Hui Ling</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 Responsibility</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_swee_lai_jessamine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jessamine Tan</u></a>
+<br><a href="mailto:tan_keng_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Keng Bee</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 Integrity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mu_zhiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Mu Zhiming</u></a>
+<br><a href="mailto:ang_lie_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ang Lie Chin</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 Teamwork</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zuhaila_md_jizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zuhaila</u></a>
+<br><a href="mailto:wong_bridget@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Bridget Wong</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4>Primary 4</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Class</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Form Teacher</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4 Graciousness</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xu_qianhao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Xu Qianhao</u></a>
+<br><a href="mailto:nadiah_murni_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nadiah Murni</u></a>
+<br><a href="mailto:peh_pei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Peh Pei Ying</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4 Respect</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:roslinda_rasli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Roslinda</u></a>
+<br><a href="mailto:phan_huey_ju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Phan Huey Ju</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4 Responsibility</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_sze_theng_hazel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Koh Sze Theng Hazel</u></a>
+<br><a href="mailto:xu_jingwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Xu Jingwei</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4 Integrity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_yan_yan_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Jasmine Teo</u></a>
+<br><a href="mailto:ong_boon_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ong Boon Leng</u></a>
+<br><a href="mailto:neoh_swee_lan_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Pauline Ng</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4 Teamwork</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wahidah_abdul_wahid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wahidah</u></a>
+<br><a href="mailto:peh_soh_kuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Esther Peh</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4>Primary 5</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Class</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Form Teacher</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5 Graciousness</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xu_qianhao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Xu Qianhao</u></a>
+<br><a href="mailto:nadiah_murni_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nadiah Murni</u></a>
+<br><a href="mailto:peh_pei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Peh Pei Ying</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5 Respect</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:roslinda_rasli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Roslinda</u></a>
+<br><a href="mailto:phan_huey_ju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Phan Huey Ju</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5 Responsibility</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_sze_theng_hazel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Koh Sze Theng Hazel</u></a>
+<br><a href="mailto:xu_jingwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Xu Jingwei</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5 Integrity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_yan_yan_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Jasmine Teo</u></a>
+<br><a href="mailto:ong_boon_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ong Boon Leng</u></a>
+<br><a href="mailto:neoh_swee_lan_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Pauline Ng</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5 Teamwork</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wahidah_abdul_wahid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wahidah</u></a>
+<br><a href="mailto:peh_soh_kuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Esther Peh</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
