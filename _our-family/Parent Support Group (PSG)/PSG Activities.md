@@ -5,12 +5,6 @@ description: ""
 third_nav_title: Parent Support Group (PSG)
 variant: markdown
 ---
-### PSG Activities
-
-#### PSG Activities
-
-
-
 * Rice Planting – Our Growing Minds, Growing Hearts Programme to collaborate with members of the school community to do our part towards a more sustainable future.
 
 * Sharing – Give a career talk as part of the school’s WOW programme, motivational talk to inspire our pupils
