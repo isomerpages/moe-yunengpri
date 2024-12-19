@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Parent Support Group (PSG)
 variant: markdown
 ---
-### PSG EXCO
-
 #### School Representatives
 
 | | |
