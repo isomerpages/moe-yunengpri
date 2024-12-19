@@ -18,7 +18,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Pacific Bookstores Pte Ltd </strong>
+<p><strong>Pacific Bookstores Pte Ltd</strong>
 </p>
 <p>Blk 73 Ayer Rajah Crescent
 <br>#03-01/09 Ayer Rajah Industrial
@@ -94,8 +94,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
 <p><strong>With effect from 01 January 2025</strong>
 <br><u>Steadfast Transport Service</u> 
 <br>For any enquiries on School Bus transport matters, please contact them
@@ -108,6 +106,8 @@ at:
 <p><a href="/files/request%20for%20school%20bus%20services%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for school bus services 2024 form</a>
 </p>
 <p></p>
+<ul>
+<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Bus_pricing.png">
@@ -156,8 +156,6 @@ at:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
 <p>Big Heart Student Care
 <br>
 <br>Operating Hours:
@@ -165,6 +163,8 @@ at:
 <br>
 <br>Contact number: 8189 2305</p>
 <p>Email Address:</p>
+<ul>
+<li>
 <p><a href="mailto: yuneng@shgstudentcarecentre.com.sg" rel="noopener noreferrer nofollow" target="_blank">yuneng@shgstudentcarecentre.com.sg</a>
 </p>
 <p></p>
