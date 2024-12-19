@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Achievements/Achievements.md
       - Achievements/School Achievements and Accolades.md
       - Achievements/.keep
       - School History.md
