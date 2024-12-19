@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-### COMMUNITY &amp; ENVIRONMENTAL CARE CLUB
 
 <table>
 	<tbody><tr>
