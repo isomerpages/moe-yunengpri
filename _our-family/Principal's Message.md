@@ -2,35 +2,118 @@
 title: Principal's Message
 permalink: /principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### PRINCIPAL'S MESSAGE
-
-#### **_ChangeMakers:_ Always Connecting, Creating and Contributing**
-
-
-<img src="/images/Mr%20Ng%202023.jpg" style="width:30%">
-		 
-
-
-   
-
-More than 100 years ago, John Dewey proposed a philosophy of education known as progressivism. A central idea of progressivism calls on educational institutions to do more than prepare students to participate in society after they leave education. Instead, students can learn more and better by participating in society while they are studying. Furthermore, Dewey and his colleagues believed that students should not accept society as it is and then learn in order to carve out the best niche for themselves within the status quo. In contrast, students should seek to help society progress for the benefit of all, and students should learn with that altruistic, cooperative goal in mind (Dewey, 1916).<br>
-
-To develop young changemakers, we must identify ourselves as changemakers, practise changemaking, and model that journey for students.&nbsp; A Changemaker School recognises the power of investing in people at all levels of the organisation, and create spaces where we are encouraged to pause and reflect on our action, our professional relationships, and our practice.&nbsp; Agency has become a buzz word in education in recent years. To be an agent or to be agentive is, in the words of Albert Bandura, to “intentionally make things happen by one’s actions”. In the field of general education, scholars have talked about teachers as agents of change or agents of curricular and pedagogical reform.&nbsp;<br>
-
-In a Changemaker School, students are immersed in a community environment where living out values of personal responsibility, hard work, initiative and excellence go hand-in-hand with empathy, creativity, contribution, and caring. Set routines and procedures enable students to understand the class expectations. How are they supposed to act toward other students? What are they supposed to do when they start losing control of their emotions? What are they supposed to do when a conflict occurs? When we become a Changemaker School, we should be able to feel and see the trust, respect and equality between the students and the adults. Here, vulnerability is a learning asset, emotional expression is encouraged, and mutual trust is built over time in small, daily interactions.<br>
-
-Changemaker Schools focus on creating the conditions for changemakers to emerge and flourish. The mindset that supports this kind of learning environment can be summed up by the mantra ‘I matter. I can.’ It is about humanizing education by centering the students and their holistic development. Students are not merely passive recipients or disengaged consumers of education, they are active participants and leaders of their learning experiences.&nbsp; Kurt Hahn, the founding father of UWC Atlantic, a UK Changemaker School, famously said: “There is more in us than we know if we could be made to see it perhaps, for the rest of our lives we will be unwilling to settle for less.” &nbsp;Changemaker Education embodies this aspiration to ‘see more’ as educators so we can meet the demands of young people to step into their power as changemakers in ways that truly prepare them to rediscover certainty in these complex times.&nbsp;<br>
-
-May we continue to contribute to the Yu Neng story as changemakers – as we connect with our past, we create our future.<br>
-
-Yours in Education  
-Mr Ng Yeow Ling  
-Principal
-
-
-<img src="/images/Change%20Maker.jpg" style="width:60%">
-
-
-![](/images/The%20YN%20Experience.png)
+<div class="isomer-image-wrapper">
+<img style="width:20%" height="auto" width="100%" src="/images/Mr%20Ng%202023.jpg">
+</div>
+<p>Dear Team Yu Neng</p>
+<p>On behalf of the School Advisory Committee and Alumni Association, we
+welcome you back to school to commemorate an extraordinary milestone -
+90 glorious years of Yu Neng Primary School's educational journey! We are
+indeed humbled by the remarkable legacy that has brought us to this moment.
+Since 1935, Yu Neng has stood as a beacon of learning, nurturing generations
+of students who have gone on to make significant contributions to Singapore
+and beyond. Our school's history is interwoven with that of our nation,
+having witnessed and adapted to the transformative changes in our education
+system and society.<strong><br></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Pen1.jpg">
+</div>
+<p><em>Aspire</em>: &nbsp;For nine decades, Yu Neng has inspired its students
+to dream big and reach for the stars. We have consistently encouraged our
+pupils to set high goals, both academically and in character development.
+This aspiration to excel has been the cornerstone of our school's ethos.&nbsp; <em>Learn</em>:
+&nbsp;At the heart of Yu Neng's philosophy is a commitment to lifelong
+learning. We have always strived to provide a holistic education that goes
+beyond textbooks, embracing innovation and adapting to the evolving needs
+of our students. From our humble beginnings to our current standing as
+a forward-thinking institution, learning has remained our core focus.&nbsp; <em>Lead</em>:
+&nbsp;Yu Neng has always believed in cultivating leaders of tomorrow. Our
+alumni have gone on to lead in various fields - be it in public service,
+business, arts, or sciences. We take pride in instilling values of integrity,
+resilience, and compassion, shaping not just successful individuals, but
+responsible citizens.</p>
+<p></p>
+<p>As we celebrate this milestone, we must acknowledge the tireless efforts
+of all YN educators, past and present, whose dedication has been the driving
+force behind our success. We also extend our gratitude to the parents and
+community partners who have supported us throughout this journey. Looking
+ahead, Yu Neng Primary School remains committed to its mission of nurturing
+future-ready and passionate learners. We will continue to innovate, inspire,
+and lead in education, ensuring that the next 90 years are as impactful
+as the last.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Aw Chye Wee
+<br>Chairman, School Advisory Committee</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mr Tan Heng Lee
+<br>Chairman, School Alumni Association</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Yu Neng at 90: A Legacy of Growth, A Future of Promise</strong></h4>
+<p>As we embark on the year 2025, we are filled with immense pride and joy
+to welcome all to a momentous chapter in our school's history - the 90th
+anniversary of Yu Neng Primary School. This year marks nine decades of
+educational excellence, character building, and community service that
+have defined our beloved institution. Since 1935, Yu Neng has stood as
+a pillar of learning in Singapore, adapting and evolving with our nation's
+progress. Our journey has been one of continuous growth, innovation, and
+unwavering commitment to nurturing young minds. As we celebrate this milestone,
+we reflect on our rich heritage while looking forward to the exciting future
+that lies ahead.</p>
+<p></p>
+<p>Even as navigate the ever-changing landscape of education, let us draw
+inspiration from the resilience and adaptability that have defined Yu Neng
+for 90 years. May we continue to innovate in our teaching methods, foster
+a love for learning in our students, and uphold the values that have been
+the cornerstone of our institution. More than just teachers; we are custodians
+of a legacy, mentors shaping the future, and key players in writing the
+next chapter of Yu Neng's story. Our impact extends far beyond the classroom,
+touching lives and inspiring generations. As we celebrate our past and
+look to the future, let us reaffirm our commitment to excellence in education
+and to nurturing every child who walks through our gates.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Bear_1.jpg">
+</div>
+<p></p>
+<p>As we step into this landmark year, let us carry forward the spirit of
+excellence, compassion, and innovation that has defined Yu Neng for 90
+years. Together, we will honour our past, celebrate our present, and shape
+an even brighter future for Yu Neng Primary School. Here's to 90 years
+of inspiring young minds, and to many more decades of growth and achievement!</p>
+<p></p>
+<p>"A Legacy of Growth, a Future of Promise" - this powerful message encapsulates
+not only our journey thus far but also our aspirations for the years to
+come. For nine decades, Yu Neng has been a cornerstone of education in
+Singapore. Our legacy of growth is evident in the thousands of students
+who have passed through our halls, the countless innovations we have embraced,
+and the unwavering commitment to excellence that has defined us. Each of
+us has played a crucial role in cultivating this legacy, nurturing young
+minds, and fostering a culture of continuous improvement.</p>
+<p>As we reflect on our rich history, we must also look ahead to the promising
+future that awaits us. The world of education is evolving rapidly, presenting
+both challenges and opportunities. Our task is to harness these changes,
+to continue growing, and to prepare our students for a world that is yet
+to unfold.</p>
+<p>&nbsp;</p>
+<p>Ng Yeow Ling
+<br>Principal</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
