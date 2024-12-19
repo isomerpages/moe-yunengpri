@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-### BADMINTON
+
 
 <table>
 	<tbody><tr>
