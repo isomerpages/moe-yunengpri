@@ -4,8 +4,6 @@ permalink: /school-management-committee/
 description: ""
 variant: tiptap
 ---
-<h3></h3>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YNPS_School_Leaders__3_.png">
