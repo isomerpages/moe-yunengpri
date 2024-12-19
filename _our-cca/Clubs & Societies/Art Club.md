@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-### ART CLUB
+
 
 <table>
 	<tbody><tr>
