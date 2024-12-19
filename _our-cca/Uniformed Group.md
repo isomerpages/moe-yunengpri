@@ -4,7 +4,6 @@ permalink: /uniformedgroup/
 description: ""
 variant: markdown
 ---
-
 #### BOY &amp; GIRL SCOUTS (WOLVERINE CUB SCOUTS)
 
 <table>
