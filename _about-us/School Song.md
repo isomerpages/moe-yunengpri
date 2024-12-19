@@ -2,10 +2,11 @@
 title: School Song
 permalink: /school-song/
 description: ""
+variant: markdown
 ---
-### SCHOOL SONG
 
-<p align=center>
+
+<p align="center">
 We are the young builders of our nation  <br>
 Marching on to a bright future.  <br>
 In Yu Neng we’re taught love and loyalty,  <br>
