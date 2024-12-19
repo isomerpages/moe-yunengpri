@@ -35,11 +35,11 @@ sections:
       image: /images/Teal_and_Purple_Modern_Parent_Meeting_Flyer__29_7_x_21_cm___1_.png
       alt: Image alt text
   - infopic:
-      title: YN89
-      description: YN89 marks a special point in time for all Yu Neng students and staff.
-      image: /images/YN89logosmall.png
+      title: YN90
+      description: YN90 marks a special point in time for all Yu Neng students and staff.
+      image: /images/ynlogosmall.png
       alt: Image alt text
-      url: https://www.yunengpri.moe.edu.sg/yn89/
+      url: https://www.yunengpri.moe.edu.sg/yn90-2025/
       button: READ
   - infopic:
       title: Celebrating Writing
