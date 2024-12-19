@@ -27,14 +27,6 @@ sections:
       image: /images/Celebrating_Writing.png
       alt: Image alt text
   - infopic:
-      title: Parents' Day 2024
-      id: infopic
-      description: Click on the link below to read the article on Parents' Day 2024
-      button: READ
-      url: https://www.8world.com/singapore/yuneng-pri-inaugural-parents-day-celebration-2459746
-      image: /images/Teal_and_Purple_Modern_Parent_Meeting_Flyer__29_7_x_21_cm___1_.png
-      alt: Image alt text
-  - infopic:
       title: YN90
       description: YN90 marks a special point in time for all Yu Neng students and staff.
       image: /images/ynlogosmall.png
