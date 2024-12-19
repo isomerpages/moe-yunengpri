@@ -2,9 +2,8 @@
 title: Social Studies
 permalink: /social-studies-learning-journeys/
 description: ""
+variant: markdown
 ---
-### SOCIAL STUDIES
-
 #### Objectives
 
 * Develop students into informed, concerned and participative citizens
