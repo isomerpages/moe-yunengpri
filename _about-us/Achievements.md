@@ -4,13 +4,7 @@ permalink: /achievements/
 description: ""
 variant: tiptap
 ---
-<h3>ACHIEVEMENTS</h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>ACCOLADES</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h3>Accolades</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -33,12 +27,8 @@ article</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>SCHOOL ACHIEVEMENTS</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h3>School Achievements</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -136,16 +126,7 @@ article</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-</div>
-</details>
-</div>
-<h4>STUDENT ACHIEVEMENTS</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>SPORTS</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4>Student Achievements<br>Sports</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -454,7 +435,7 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Games Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -737,12 +718,7 @@ article</p>
 </tbody>
 </table>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>ARTS</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4>Arts</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -928,12 +904,7 @@ article</p>
 </tbody>
 </table>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>UNIFORMED GROUPS</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4>Uniformed Groups</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -988,12 +959,7 @@ article</p>
 </tbody>
 </table>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>CLUBS</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4>Clubs</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1171,26 +1137,10 @@ article</p>
 <br>3rd placing in Precision category</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>ACADEMIC</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4>Academic</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1846,15 +1796,9 @@ article</p>
 </tbody>
 </table>
 <p></p>
-</div>
-</details>
-</div>
-<h4>STAFF ACHIEVEMENTS</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>Princess Maha Chakri Award</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h3>Staff Achievements</h3>
+<p><strong><u>Princess Maha Chakri Award</u></strong>
+</p>
 <p>PMCA is a royal award to be presented by Her Royal Highness Princess Maha
 Chakri Sirindhorn of Thailand to commemorate her 60th birthday. This award
 will be offered once in two years, starting from 2015, to one teacher from
@@ -1892,12 +1836,9 @@ for their contribution to the future generation.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>President’s Award for Teachers (PAT)</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>President’s Award for Teachers (PAT)</u></strong>
+</p>
 <p>The President’s Award for Teachers (PAT) recognises excellent educators
 for their role in moulding the future of our nation.</p>
 <table style="minWidth: 75px">
@@ -1931,12 +1872,9 @@ for their role in moulding the future of our nation.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>National Day Awards</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>National Day Awards</u></strong>
+</p>
 <p>Congratulations to the following officers who are recipients of National
 Day Awards 2019.</p>
 <table style="minWidth: 75px">
@@ -2047,12 +1985,9 @@ Day Awards 2019.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>Caring Teacher Award</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>Caring Teacher Award</u></strong>
+</p>
 <p>The Caring Teacher Awards aims to pay tribute to teachers who show care
 and concern for the holistic development of their students, and go the
 extra mile to ensure their charges grow up to be confident and independent
@@ -2187,12 +2122,9 @@ learners.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>Listening Educator for Advancement &amp; Progress (LEAP) Award</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>Listening Educator for Advancement &amp; Progress (LEAP) Award</u></strong>
+</p>
 <p>The LEAP Award recognizes exceptional teachers who have made a difference
 in the lives of their pupils.&nbsp; We are proud of our teacher who has
 attained the award.</p>
@@ -2238,12 +2170,9 @@ attained the award.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>Inspiring Teacher of English Award</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>Inspiring Teacher of English Award</u></strong>
+</p>
 <p>The Inspiring Teacher of English Award is a national award for English
 Teachers in Singapore schools that acknowledges teachers who ignite a love
 for the English Language and are effective in helping their students speak
@@ -2279,12 +2208,9 @@ and write accurately.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>Student Learning Space (SLS) Design Challenge</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>Student Learning Space (SLS) Design Challenge</u></strong>
+</p>
 <p>Congratulations to the following teachers who participated in the Student
 Learning Space (SLS) Design Challenge 2018 and whose lesson was endorsed
 as Quality Lesson Design by the Educational Technology Division (ETD) MOE
@@ -2342,13 +2268,9 @@ and East Zone ICT Committee.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>MOE Excellent Service Award (EXSA) Award</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong><u>MOE Excellent Service Award (EXSA) Award</u></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -2364,344 +2286,368 @@ and East Zone ICT Committee.</p>
 <p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Award</p>
+<p>Awardee</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liew Siew Meng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Platinum</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dewi Wati Binte Rahmat</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Zhu Xiangjun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eymani Helmi</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Thin Wing Ignatia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hu Hui Ru</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sharifah Maryam Shahab</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loke Yik Pey</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Catherine Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neo Li Ren Royston</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Pin Sing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Norashikin Bte Mohd Ali</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Lay See</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Boon Leng</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Siong Boon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peh Soh Kuen</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sharon Peh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phang Yan Fen</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cinthia Liou</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Roslinda Binte Rasli</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Marlina Mohd Noor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samsugani Abdul Saleem</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Chye Huat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Aminah Binte Mohamed Hassan</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Cai Hanfeng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sri Rathi Priya</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Sally Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Xinhui Shelwyn</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Dewi Wati</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hu Hui Ru</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
+<p>Tuty Atiqah Binte Mohamed</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Seok Khim</p>
+<p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Loke Yik Pey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
+<p>Yeo Chi Kin Shawn</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadiah Murni Abdul Malek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bridget Wong Teo Soh Peng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norashikin Mohd Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Claire Yeo (Yang Min)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Tiam Chai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Faridah Binte Husin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Peh Soh Kuen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Hong Buay</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Roslinda Rasli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Si Wei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Saleem Samsugani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jamilah Binte Abdullah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Aminah Md Hassan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Hui Yi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sri Rathi Priya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lu Wen</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Swee Lai Jessamine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mu Zhiming</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xin Hui Shelwyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nawshein Binte Shikkander</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tuty Atiqah Mohamad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phan Huey Ju</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Mei Ann</p>
+<p>Silver</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Sitti Maisarah Bte Abu Bakar</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Keng Bee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Seow Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wahidah Binte Abdul Wahid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yong Li Ling</p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h4></h4>
 <h5></h5>
 <p></p>
 <h5></h5>
