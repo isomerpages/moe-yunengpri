@@ -4,7 +4,7 @@ permalink: /school-management-committee/
 description: ""
 variant: tiptap
 ---
-<h3>SCHOOL MANAGEMENT COMMITTEE</h3>
+<h3></h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
