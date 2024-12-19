@@ -4,7 +4,6 @@ permalink: /school-history/
 description: ""
 variant: markdown
 ---
-### SCHOOL HISTORY
 
 
 In 1934, the late Mr Ng Huay Leng, along with 4 humble villagers, took upon themselves the responsibility of nurturing and educating the young. With meagre resources, they managed to build a zinc and attap school and called it Yeu Nerng School. Conducting lessons in Mandarin and dialect, Yeu Nerng catered to 20 students from the neighbouring villages. Despite poverty and difficult times, the students of Yeu Nerng achieved commendable examination results.
