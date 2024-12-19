@@ -4,7 +4,6 @@ permalink: /power-ynps/
 description: ""
 variant: tiptap
 ---
-<h3>LEARNING DISPOSITIONS</h3>
 <h4>Power @ YNPS</h4>
 <p>Learning dispositions, or habits of learning, are the different characteristics
 with which children approach the learning process. Some have referred to
