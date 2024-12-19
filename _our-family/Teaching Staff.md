@@ -469,6 +469,83 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
+<h4>Primary 6</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Class</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><u>Form Teacher</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6 Graciousness</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leanna_lyn_gaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Leanna Lyn</u></a>
+<br><a href="mailto:eugene_tan_ronghui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Eugene Tan Ronghui</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6 Respect</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_lay_see_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ng Lay See</u></a>
+<br><a href="mailto:yok_joon_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Yok Joon Meng</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6 Responsibility</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharifah_maryam_shahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sharifah Maryam</u></a>
+<br><a href="mailto:ang_pei_ying_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Janice Keng</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6 Integrity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_eng_ling_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Catherine Tan</u></a>
+<br><a href="mailto:Royston_Neo_Li_Ren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Royston Neo</u></a>
+<br><a href="mailto:thia_yoke_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Thia Yoke Ping</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6 Teamwork</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamad_haniffa_mohd@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Haniffa</u></a>
+<br><a href="mailto:siti_nuraishah_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Siti Nuraishah</u></a>
+<br><a href="mailto:ng_siong_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Siong Boon</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p></p>
 <p></p>
 <p></p>
