@@ -3,10 +3,8 @@ title: Holistic Health & CCA
 permalink: /holistic-health-ed-and-cca/
 description: ""
 third_nav_title: Holistic Health & CCA
+variant: markdown
 ---
-
-### HOLISTIC HEALTH &amp; CCA
-
 #### Objectives / Goals
 
 <h5><u> Vision </u></h5>
@@ -44,7 +42,7 @@ third_nav_title: Holistic Health & CCA
 
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td colspan="3">
 		The <b>upper primary</b> level builds on students’ development in the lower primary. There is further refinement of basic movement patterns, and the&nbsp;<b>development of combined skills to help them move with increasing complexity, variety, and versatility to take on more challenging movement activities and tasks.</b> Students, therefore, develop the more complex and specialised movement skills that are needed for sports and other physical activities. Specifically for games and sports, the games-related concepts such as ‘use of space’, ‘maintain possession’, ‘create attack’, ‘organise defence’ and ‘defend space and bases’ are articulated within the various categories of territorial-invasion, net-barrier, and striking-fielding games. <br><br>
 			Key Learning Areas
@@ -60,9 +58,9 @@ third_nav_title: Holistic Health & CCA
 			</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/4-300x225.png"/></td>
-		<td width="33%"><img src="/images/5-300x225.png"/></td>
-		<td width="33%"><img src="/images/6-300x225.png"/></td>
+		<td width="33%"><img src="/images/4-300x225.png"></td>
+		<td width="33%"><img src="/images/5-300x225.png"></td>
+		<td width="33%"><img src="/images/6-300x225.png"></td>
 	</tr>
 	<tr>
 		<td>Athletes</td>
@@ -70,23 +68,23 @@ third_nav_title: Holistic Health & CCA
 		<td>Net Barrier Games</td>
 	</tr>
 	<tr>
-		<td><img src="/images/7-300x225.png"/></td>
-		<td><img src="/images/8-113x150.jpg" style="padding:0px 45px 0px 45px"/></td>
-		<td><img src="/images/9-300x225.png"/></td>
+		<td><img src="/images/7-300x225.png"></td>
+		<td><img src="/images/8-113x150.jpg" style="padding:0px 45px 0px 45px"></td>
+		<td><img src="/images/9-300x225.png"></td>
 	</tr>
 	<tr>
-		<td>Games & Sports</td>
+		<td>Games &amp; Sports</td>
 		<td>Modified Equipment</td>
 		<td>Swimming Lessons</td>
 	</tr>
 	<tr>
-		<td><img src="/images/10-300x225.png"/></td>
-		<td><img src="/images/Gymnastics-Agility-Balance-1-169x300.jpg" style="padding:0px 60px 0px 60px"/></td>
-		<td><img src="/images/12-300x225.jpg"/></td>
+		<td><img src="/images/10-300x225.png"></td>
+		<td><img src="/images/Gymnastics-Agility-Balance-1-169x300.jpg" style="padding:0px 60px 0px 60px"></td>
+		<td><img src="/images/12-300x225.jpg"></td>
 	</tr>
 	<tr>
 		<td>Health Education</td>
 		<td>Gymnastics</td>
 		<td>PE Monitor Training</td>
 	</tr>
-</table>
+</tbody></table>
