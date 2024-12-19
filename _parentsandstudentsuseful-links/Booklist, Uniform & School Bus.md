@@ -4,8 +4,7 @@ permalink: /booklist/
 description: ""
 variant: tiptap
 ---
-<h3>BOOKLIST, UNIFORM &amp; SCHOOL BUS</h3>
-<h4>Booklist</h4>
+<h4>Booklist (2025)</h4>
 <p></p>
 <p><a href="/files/P1_Booklist___Online_Purchase_Guide.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
 <br><a href="/files/P2_Booklist.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
