@@ -4,8 +4,6 @@ permalink: /financial-matters/
 description: ""
 variant: markdown
 ---
-### FINANCIAL MATTERS
-
 #### MOE Financial Assistance Scheme (FAS)
 
 
