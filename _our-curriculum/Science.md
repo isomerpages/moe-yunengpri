@@ -2,16 +2,15 @@
 title: Science
 permalink: /science/
 description: ""
+variant: markdown
 ---
-### SCIENCE
-
 #### Objectives / Goals
 
 <h5><u> Vision </u></h5>
 
-*   To Explore & Engage
+*   To Explore &amp; Engage
 *   To Think
-*   To Innovate & Apply
+*   To Innovate &amp; Apply
 
 <h5><u> Objectives </u></h5>
 
@@ -31,15 +30,15 @@ description: ""
     *   help students appreciate how science influences people and the environment.
 *   MOE Science Curriculum Framework:
 
-<img src="/images/1%20(1).png" style="width:40%"/>
+<img src="/images/1%20(1).png" style="width:40%">
 
 #### KEY PROGRAMMES
 
 <b>A) Growing Minds, Growing Hearts</b> <br>
- Growing Minds, Growing Hearts is a Science department 6 year programme to groom students to be stewards of the environment in promoting green efforts towards a more sustainable future. This is to ensure that the Earth and all of its resources can continue to provide a home for people, animals and plants.
+&nbsp;Growing Minds, Growing Hearts is a Science department 6 year programme to groom students to be stewards of the environment in promoting green efforts towards a more sustainable future. This is to ensure that the Earth and all of its resources can continue to provide a home for people, animals and plants.
 
 <table style="border:1px solid black">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>
 				EXPOSE P1 and P2<br>
@@ -49,10 +48,10 @@ description: ""
 			The Science in STELLAR Programme is a collaboration with the English department to infuse Science with learning English. Themes include “A Butterfly is Born”, “What Will the Weather Be Like Today?”, and “The Enormous Watermelon”. Cross-disciplinary activities are used to engage learners in the classroom and arouse their interests in Science and the world around them, before they start learning Science at P3.
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table style="border:1px solid black">
-	<tr>
+	<tbody><tr>
 		<td colspan="3">
 			<b>
 				EXTEND P3 and P4 <br>
@@ -66,17 +65,17 @@ description: ""
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/pic-3.png" style="padding:0px 20px 0px 25px"/></td>
-		<td width="33%"><img src="/images/pic-2.png"/></td>
-		<td width="33%"><img src="/images/pic-1-215x300.png" style="padding:0px 50px 0px 40px"/></td>
+		<td width="33%"><img src="/images/pic-3.png" style="padding:0px 20px 0px 25px"></td>
+		<td width="33%"><img src="/images/pic-2.png"></td>
+		<td width="33%"><img src="/images/pic-1-215x300.png" style="padding:0px 50px 0px 40px"></td>
 	</tr>
-</table>
+</tbody></table>
 
 <b>B) Learning Journeys</b><br>
 Science learning takes place beyond the classroom. Besides at one learning trails at our school Multi-Sensory Ecogarden from P3 to P6 levels, students also explore other places to foster stronger connections between real-life experiences and its application in Science questions.
 
 <table style="border:1px solid black">
-	<tr>
+	<tbody><tr>
 		<td colspan="3">
 			<b>P1 and P2 Learning Journeys to the Singapore Science Centre</b>
 			<br><br>
@@ -84,14 +83,14 @@ Science learning takes place beyond the classroom. Besides at one learning trail
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/pic-3-1-300x225.jpg"/></td>
-		<td width="33%"><img src="/images/pic-2-1-300x225.jpg"/></td>
-		<td width="33%"><img src="/images/pic-1-225x300.jpg" style="padding:0px 50px 0px 40px"/></td>
+		<td width="33%"><img src="/images/pic-3-1-300x225.jpg"></td>
+		<td width="33%"><img src="/images/pic-2-1-300x225.jpg"></td>
+		<td width="33%"><img src="/images/pic-1-225x300.jpg" style="padding:0px 50px 0px 40px"></td>
 	</tr>
-</table>
+</tbody></table>
 
 <table style="border:1px solid black">
-	<tr>
+	<tbody><tr>
 		<td colspan="3">
 			<b>P3 Learning Journey to the Singapore Zoo</b>
 			<br><br>
@@ -99,14 +98,14 @@ Science learning takes place beyond the classroom. Besides at one learning trail
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/IMG-20200709-WA0000-300x225.jpg"/></td>
-		<td width="33%"><img src="/images/IMG-20200709-WA0008-300x225.jpg"/></td>
-		<td width="33%"><img src="/images/IMG-20200709-WA0010-300x225.jpg"/></td>
+		<td width="33%"><img src="/images/IMG-20200709-WA0000-300x225.jpg"></td>
+		<td width="33%"><img src="/images/IMG-20200709-WA0008-300x225.jpg"></td>
+		<td width="33%"><img src="/images/IMG-20200709-WA0010-300x225.jpg"></td>
 	</tr>
-</table>
+</tbody></table>
 
 <table style="border:1px solid black">
-	<tr>
+	<tbody><tr>
 		<td colspan="3">
 			<b>P5 Learning Journey to the Sustainable Singapore Gallery</b>
 			<br><br>
@@ -114,8 +113,8 @@ Science learning takes place beyond the classroom. Besides at one learning trail
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/pic-3-2-300x169.jpg"/></td>
-		<td width="33%"><img src="/images/pic-2-2-300x169.jpg"/></td>
-		<td width="33%"><img src="/images/pic-1-1-300x169.jpg"/></td>
+		<td width="33%"><img src="/images/pic-3-2-300x169.jpg"></td>
+		<td width="33%"><img src="/images/pic-2-2-300x169.jpg"></td>
+		<td width="33%"><img src="/images/pic-1-1-300x169.jpg"></td>
 	</tr>
-</table>
+</tbody></table>
