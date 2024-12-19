@@ -2,9 +2,8 @@
 title: Applied Learning in ICT
 permalink: /applied-learning-programme-in-ict/
 description: ""
+variant: markdown
 ---
-### APPLIED LEARNING IN ICT
-
 #### Objectives / Goals
 
 <h5><u>Vision</u></h5>
