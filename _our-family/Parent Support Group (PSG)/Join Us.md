@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Parent Support Group (PSG)
 variant: markdown
 ---
-### JOIN US 
-
-#### Join Us
-
 #### PSG Members’ Guidelines
 
 
