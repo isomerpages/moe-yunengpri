@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-
-
 <table>
 	<tbody><tr>
 		<td><img src="/images/Floorball-1.jpeg"></td>
