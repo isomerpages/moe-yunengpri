@@ -424,25 +424,25 @@ article</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd Position:</p>
-<p>Elliot Ng Yu Zhe</p>
-<p>Muhammad Ilhan Bin Mohammad Ismail</p>
-<p>Muhammad Ryan Darwisy Bin Muhammad</p>
-<p>Masri</p>
-<p>Phua Zhe Yan</p>
-<p>Bu Shunji</p>
-<p>Mustaqim Bin Safarullah</p>
-<p>Mohamed Asheeque Bin Mohamed Ashraf</p>
-<p>Muhamad Arfa Irfan Bin Abdullah</p>
-<p>Rifqi Hadi Bin Hairelrizal</p>
-<p>Josh Lim Kuo Zi</p>
-<p>Neo Se Tang</p>
-<p>Rizq Hakeem Bin Muhammad Raihan</p>
-<p>Tan Ming Feng Donovan</p>
-<p>Goh Zi Rui Brayden</p>
-<p>Ong Sheng Han Shawn</p>
-<p>Tan Zhijie Joel</p>
-<p>Tok Kai Zher Jayden</p>
-<p>Kayden Lee Wen Hao</p>
+<p>Elliot Ng Yu Zhe
+<br>Muhammad Ilhan
+<br>Muhammad Ryan Darwisy
+<br>Masri
+<br>Phua Zhe Yan
+<br>Bu Shunji
+<br>Mustaqim Bin Safarullah
+<br>Mohamed Asheeque
+<br>Muhamad Arfa Irfan
+<br>Rifqi Hadi
+<br>Josh Lim Kuo Zi
+<br>Neo Se Tang
+<br>Rizq Hakeem Raihan
+<br>Tan Ming Feng Donovan
+<br>Goh Zi Rui Brayden
+<br>Ong Sheng Han Shawn
+<br>Tan Zhijie Joel
+<br>Tok Kai Zher Jayden
+<br>Kayden Lee Wen Hao</p>
 </td>
 </tr>
 <tr>
