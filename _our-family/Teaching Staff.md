@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <h4>Primary 1</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -32,21 +31,14 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <p><strong><u>Class</u></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <p><strong><u>Form Teacher</u></strong>
 </p>
 </th>
@@ -120,16 +112,12 @@ variant: tiptap
 <br>Mdm Herda</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Primary 2</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong><u>Learning Support Coordinator</u></strong>
@@ -148,21 +136,14 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <p><strong><u>Class</u></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <p><strong><u>Form Teacher</u></strong>
 </p>
 </th>
@@ -235,17 +216,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<h4>Primary 3</h4>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+<h4>Primary 3</h4>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong><u>Class</u></strong>
@@ -312,16 +288,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Primary 4</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong><u>Class</u></strong>
@@ -389,16 +361,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Primary 5</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong><u>Class</u></strong>
@@ -466,16 +434,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h4>Primary 6</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong><u>Class</u></strong>
@@ -545,16 +509,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h4></h4>
 <p></p>
