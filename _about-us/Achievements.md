@@ -1876,21 +1876,10 @@ learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sally Chew-Chua Siew Hoon</p>
+<p>Mrs Esther Cheng-Ngo Xiu Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Level</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ignatia Wong Thin Wing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Level</p>
@@ -1898,21 +1887,10 @@ learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Lay See</p>
+<p>Ms Leanna Lyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Level</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Phang Yan Fen Chloe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Level</p>
@@ -1920,21 +1898,10 @@ learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fiona Cham Qing Hui</p>
+<p>Mdm Yong Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Level</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ignatia Wong Thin Wing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Level</p>
@@ -1942,21 +1909,10 @@ learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Meng Kee</p>
+<p>Mr Low Hao Rong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Level</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Catherine Tan Eng Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Level</p>
@@ -1964,21 +1920,10 @@ learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sim Li Hiang</p>
+<p>Mr Cai Hanfeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Level</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Siti Aminah Bte Mohd Hassan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Level</p>
