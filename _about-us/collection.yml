@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements/Student Achievements.md
-      - Achievements/Accolades and School Achievements.md
       - Achievements/.keep
+      - Achievements/Accolades and School Achievements.md
+      - Achievements/Student Achievements.md
       - School History.md
       - YN Celebrations/YN90 (2025).md
       - YN Celebrations/.keep
