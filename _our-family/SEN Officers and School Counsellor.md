@@ -12,7 +12,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEN Officer</strong>
+<p><strong>SEN Officers</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -24,7 +24,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Counsellor</strong>
+<p><strong>School Counsellor</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
