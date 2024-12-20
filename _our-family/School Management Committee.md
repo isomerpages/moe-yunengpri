@@ -8,13 +8,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YNPS_School_Leaders__3_.png">
 </div>
-<h4>Key Personnel (Heads of Departments, Subject Heads &amp; Level Heads)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Key Personnel (Heads of Departments, Subject Heads &amp; Level Heads)</h4>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>School Staff Developer</strong>
@@ -165,16 +169,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
 <h4>Year Heads / Assistant Year Head</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Year Head / P1 &amp; P2&nbsp;</strong>
@@ -215,16 +215,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
 <h4>Teacher Leaders</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Senior Teacher / English Language</strong>
@@ -287,4 +283,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4></h4>
+<p></p>
+<h4></h4>
 <p></p>
