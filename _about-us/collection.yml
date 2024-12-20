@@ -2,13 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements/.keep
-      - Achievements/Accolades and School Achievements.md
-      - Achievements/Student Achievements.md
-      - Achievements/Staff Achievements.md
       - School History.md
-      - YN Celebrations/YN90 (2025).md
       - YN Celebrations/.keep
+      - YN Celebrations/YN90 (2025).md
       - YN Celebrations/YN89 (2024).md
       - YN Celebrations/YN88 (2023).md
       - Vision, Mission and Values.md
@@ -16,6 +12,10 @@ collections:
       - Our Beliefs.md
       - School Song.md
       - Learning Dispositions.md
+      - Achievements/.keep
+      - Achievements/Accolades and School Achievements.md
+      - Achievements/Student Achievements.md
+      - Achievements/Staff Achievements.md
       - School Services/.keep
       - School Services/School Services.md
       - School Services/Canteen Menu.md
