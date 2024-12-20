@@ -4,7 +4,7 @@ permalink: /newsletter/
 description: ""
 variant: tiptap
 ---
-<h3>SPOTLIGHT</h3>
+<h3></h3>
 <h5><u>2024</u></h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -26,7 +26,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 33%;" height="auto" width="100%" alt="" src="/images/Spotlight_Nov_2024.png">
 </div>
-<p><a href="Nov 2024" rel="noopener nofollow" target="_blank"> Nov2024</a>
+<p><a href="Nov 2024" rel="noopener nofollow" target="_blank">Nov2024</a>
 </p>
 </th>
 </tr>
