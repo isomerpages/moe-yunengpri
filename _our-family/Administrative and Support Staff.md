@@ -70,7 +70,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Seok Khim
-<br>Lam Joo Teck
+<br>Mr Lam Joo Teck
 <br>Mr Ong Tiam Chai
 <br>Mdm Faridah Binte Husin
 <br>Mr Kamsani Bin Hassan
