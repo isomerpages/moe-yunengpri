@@ -19,15 +19,117 @@ third_nav_title: Achievements
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Kin-Ball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Kin-Ball Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze:
+<br>Evan Lim Yan Xuan
+<br>Jin Moxun Joseph
+<br>Wong Jun Kai Aiden
+<br>Jayson Che Wei Zhe
+<br>Tan Lee Soh Sonia
+<br>Heng Shun Kai Aiden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sportsmanship</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Sportsmanship (Senior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tong Yong Rui, Gabriel
+<br>Choo Jia Feng Cheryse Katelyn
+<br>Rizq Hakeem
+<br>Amir
+<br>Fong Yee Hui
+<br>Seow Jia Yuan
+<br>Wong Ke Xin Giona</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gymnastics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual Sport Achievement National Gymnastics (Rhythmic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Level 1:
+<br>Tok Jia Hsuen Janessa</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <p>Table Tennis</p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis Tier 4 Juniors Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quek Yi Ru Emma</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -305,6 +407,17 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Floorball Tier 1 Junior Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Games Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -538,6 +651,66 @@ third_nav_title: Achievements
 <p></p>
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Wushu Junior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-Duan Cudgel:
+<br>Ang Si Kai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Wushu Junior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-Duan Broadsword:
+<br>Chua Jun Kai Zylan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Wushu Junior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-Duan Chngquan:
+<br>Chua Jun Kai Zylan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Wushu Junior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-Duan Spear
+<br>Lim sheng Da, Jacob</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Wushu Junior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-Duan Sword
+<br>Lim Sheng Da, Jacob</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
