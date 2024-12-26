@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-### TABLE TENNIS
+
 
 <table>
 	<tbody><tr>
@@ -21,6 +21,6 @@ With the infusion of the YN GR3IT values, Table Tennis CCA provides opportunitie
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mr Eugene Tan  <br>Mrs Sally Chew <br>Mr Mu Zhiming <br>Mdm Sitti Maisarahn <br> Mdm Xu Jingwei | Tuesdays: 2pm to 5pm<br>Fridays: 2pm to 5pm&nbsp;<br>*(Please refer to the schedules given each semester* | Indoor Sports Hall (ISH) Level 3 |
+| Mr Eugene Tan  <br>Mr Mu Zhiming <br>Mdm Xu Jingwei <br> Mdm Esther Peh <br>Mrs Ravi | Tuesdays: 2pm to 5pm<br>Fridays: 2pm to 5pm&nbsp;<br>*(Please refer to the schedules given each semester* | Indoor Sports Hall (ISH) Level 3 |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/edh3uOCv6X0?si=qjRsxYBwd1uobnod" height="315" width="560"></iframe>

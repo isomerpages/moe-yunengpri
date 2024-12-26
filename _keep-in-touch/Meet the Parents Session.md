@@ -4,10 +4,7 @@ permalink: /meet-parents-session/
 description: ""
 variant: markdown
 ---
-### MEET THE PARENTS SESSION
 
-2024
-----
 Thank you for taking part in MPS 1 on 27 January 2024.
 
 The slides shared during the session are now available.

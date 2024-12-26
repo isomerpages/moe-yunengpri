@@ -5,15 +5,22 @@ description: ""
 third_nav_title: School Services
 variant: tiptap
 ---
-<h3>SCHOOL SERVICES</h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>SCHOOL BOOKSHOP</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
-<p><strong>Pacific Bookstores Pte Ltd </strong>
-<br>Blk 73 Ayer Rajah Crescent
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>School Bookshop</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Pacific Bookstores Pte Ltd</strong>
+</p>
+<p>Blk 73 Ayer Rajah Crescent
 <br>#03-01/09 Ayer Rajah Industrial
 <br>Estate S (139952)
 <br>
@@ -22,48 +29,71 @@ variant: tiptap
 <br>Fri: 8.30 am – 9.15 am; 1.00 pm – 3.30 pm
 <br>Tel/Fax : 64438605
 <br>Students can purchase school uniform and PE attire from the school bookshop</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>SCHOOL UNIFORM, PE ATTIRE, NAME TAG</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
-<p><strong>Jeep Sing Fashion </strong>
-<br>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>School Uniform, PE Attire, Name Tag</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Jeep Sing Fashion</strong> 
 <br>(Head Office / Factory)
 <br>4012 Ang Mo Kio Ave 10
 <br>#01-09 Techplace 1
 <br>Singapore 569628
 <br>Tel : 6456 3198
 <br>
-<br><u>Operating Hours at Jeep Sing Fashion Head Office / Factory:</u>
+<br>Operating Hours at Jeep Sing Fashion Head Office / Factory:
 <br>Mon - Fri: 10am to 6pm
 <br>Lunch break and Sanitising of Store: 1pm to 2pm
 <br>Sat: 10am to 2pm
 <br>Closed on Sunday and Public Holidays</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>SCHOOL CANTEEN</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>School Canteen</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Canteen Hours:
 <br>Mon – Fri : 7.00am – 3.00pm</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>SCHOOL BUS</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>School Bus</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>With effect from 01 January 2025</strong>
 <br><u>Steadfast Transport Service</u> 
 <br>For any enquiries on School Bus transport matters, please contact them
@@ -81,33 +111,47 @@ at:
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Bus_pricing.png">
 </div>
 <p></p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>SCHOOL DENTAL CLINIC</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
-<p>School Dental Clinic
-<br>
-<br>Opening hours:
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>School Dental Clinic</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Opening hours:
 <br>Mon – Thu: 8.00am – 5.30pm
 <br>Fri – 8.00am – 5.00pm
 <br>Lunch time : 12.30pm – 1.30pm
 <br>
 <br>
 <br>Tel/Fax: 64435067</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>STUDENT CARE</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Student Care</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Big Heart Student Care
 <br>
 <br>Operating Hours:
@@ -123,23 +167,19 @@ at:
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YN_SCC_Info_Page.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/YN_SCC_Info_Page.png">
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big_Heart_Linktree_QR_Code.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Big_Heart_Linktree_QR_Code.png">
 </div>
 <p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
-<br>
 <br>
 </p>
 <p></p>

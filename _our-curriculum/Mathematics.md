@@ -4,8 +4,6 @@ permalink: /mathematics/
 description: ""
 variant: markdown
 ---
-### MATHEMATICS
-
 #### Objectives / Goals
 
 <h5><u> Vision </u></h5>

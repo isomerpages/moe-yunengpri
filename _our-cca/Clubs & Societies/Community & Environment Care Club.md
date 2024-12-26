@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-### COMMUNITY &amp; ENVIRONMENTAL CARE CLUB
 
 <table>
 	<tbody><tr>
@@ -29,6 +28,6 @@ Cultivate the spirit of scientific inquiry and innovation.
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mdm Maryam (OIC)<br>Ms Lim Hui Y<br>Esther Cheng-Ngo<br>Mdm Faridah | Tuesdays: 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Science Labs 1 &amp; 2 |
+| Mdm Maryam<br>Mdm Faridah | Tuesdays: 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Science Labs 1 &amp; 2 |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/N13pvTnrBk4?si=3Jmh32uLP0brWqV5" height="315" width="560"></iframe>

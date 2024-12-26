@@ -4,8 +4,10 @@ permalink: /school-management-committee/
 description: ""
 variant: tiptap
 ---
-<h3>SCHOOL MANAGEMENT COMMITTEE</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YNPS_School_Leaders__3_.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,42 +15,10 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:Jamie_ONG@schools.gov.sg"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Ms_Ong.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 28%;" height="auto" width="100%" alt="" src="/images/Mr_Edwin_Ong_Yoke_Yam_VP.jpg">
-</div>
-</th>
+<td rowspan="1" colspan="2">
+<h4>Key Personnel (Heads of Departments, Subject Heads &amp; Level Heads)</h4>
+</td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 22%;" height="auto" width="100%" alt="" src="/images/Mr_Satiish_Sathasilvam_VP.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>KEY PERSONNEL (HEADS OF DEPARTMENTS, SUBJECT HEADS &amp; LEVEL HEADS)</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>School Staff Developer</strong>
@@ -161,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/CCE (Covering)</strong>
+<p><strong>SH/CCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,28 +159,29 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>Year Heads / Assistant Year Head</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head / P5 &amp; P6</strong>
+<p><strong>LH / Mathematics (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_siong_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Siong Boon</u></a>
+<p><a href="mailto:ang_pei_ying_janice@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Janice Ang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<h4>Year Heads / Assistant Year Head</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head / P1 &amp; P2&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_thin_wing_ignatia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ignatia Leng</u></a>
 </p>
 </td>
 </tr>
@@ -226,11 +197,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head / P1 &amp; P2&nbsp;</strong>
+<p><strong>Year Head / P5 &amp; P6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_thin_wing_ignatia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ignatia Leng</u></a>
+<p><a href="mailto:ng_siong_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Siong Boon</u></a>
 </p>
 </td>
 </tr>
@@ -245,30 +216,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Asst. Year Head</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ngo_xiu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Esther Cheng-Ngo Xiu Fen</u></a>
-</p>
+<td rowspan="1" colspan="2">
+<p></p>
+<h4>Teacher Leaders</h4>
 </td>
 </tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><u>Teacher Leaders</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Senior Teacher / English Language</strong>
@@ -296,16 +248,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_lay_see_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ng Lay See</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Teacher / Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_hong_buay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Iris Lim</u></a>
 </p>
 </td>
 </tr>
@@ -341,7 +283,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
+<p></p>
+<h4></h4>
+<p></p>
+<h4></h4>
 <p></p>

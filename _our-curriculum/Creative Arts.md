@@ -4,8 +4,6 @@ permalink: /creative-arts-and-pal/creative-arts-art-music/
 description: ""
 variant: markdown
 ---
-### CREATIVE ARTS
-
 #### Objectives / Goals
 
 <h5><u> Vision </u></h5>

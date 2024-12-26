@@ -4,8 +4,6 @@ permalink: /character-and-citizenship-education-cce/
 description: ""
 variant: markdown
 ---
-### CHARACTER &amp; CITIZENSHIP EDUCATION (CCE)
-
 #### Objectives / Goals
 
 Character and Citizenship Education (CCE) is an integral part in developing our students to be caring leaders, who are socially and emotionally competent, anchored in our school’s GR<sup>3</sup>IT values and future ready, and will make a positive impact to the community. The school thus takes a holistic approach to CCE, seeking to integrate the cognitive with the affective and social aspects of education.
