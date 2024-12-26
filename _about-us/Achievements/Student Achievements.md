@@ -620,6 +620,50 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contemporary Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1090,6 +1134,37 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Wits and Words Debate Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Division 2 Champions:
+<br>Nathaniel Zhou Yuqi
+<br>Isabel Teoh Canete
+<br>Hao Qingyue
+<br>Shasmeen Natasha
+<br>Fong Yee Hui</p>
+<p></p>
+<p>Best Speaker Award:
+<br>Isabel Teoh Canete</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YMCA Plain English Speaking Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finals:</p>
+<p>Yang Yan Wen, Joshua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Plain English Speaking Competition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1200,6 +1275,72 @@ third_nav_title: Achievements
 <p></p>
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asia-Pacific Mathematical Olympiad for Primary Schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver:
+<br>Li Zhenxi
+<br>Poon Ee Rui
+<br>Yen Shuo Cheng</p>
+<p></p>
+<p>Bronze:
+<br>Chong Chee Hun, Brendan
+<br>Ma Ruize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore and Asian Schools Math Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold:
+<br>Tiffany Zhang Weizi
+<br>Tang Yan Wen Joshua
+<br>Lau Yoyo
+<br>Shen Yizhen</p>
+<p></p>
+<p>Silver:
+<br>Ang Kang Zhe
+<br>Moey Jun Jay
+<br>Yang Luhan
+<br>Deng Lisiqi
+<br>Nathaniel Zhou Yuqi
+<br>Chan Yi Len
+<br>Li Zhenxi
+<br>Poon Ee Rui
+<br>Ong Sheng Han Shawn
+<br>Zhang Xizhe</p>
+<p></p>
+<p>Bronze:
+<br>Zeng Qi'En Chloe
+<br>Wong Ka Wai
+<br>Lucas Shiu Rui Hong
+<br>Lau Kaiser
+<br>Zhang Yiqi
+<br>Hao Yueran
+<br>Burhanuddin Mustafa
+<br>Yam Yu Chern Jarryl
+<br>Gu Zhelin Jolie
+<br>Chen Juntong
+<br>Reina Celine Koh</p>
+<p></p>
+<p>Honorable Mention:
+<br>Richard Hsiang Tzehao
+<br>Wang Jiaen
+<br>Wang Yixin
+<br>Lim Wen Qin @ Alvin
+<br>Yang Yu Xin, Emma
+<br>Ang Wei Chen Issac</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
