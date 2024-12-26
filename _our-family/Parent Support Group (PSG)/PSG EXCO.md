@@ -115,8 +115,14 @@ variant: tiptap
 <p>Events</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* To collaborate and support school-driven events / programmes
-<br>* To engage parents through education programmes and outreach efforts</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To collaborate and support school-driven events / programmes</p>
+</li>
+<li>
+<p>To engage parents through education programmes and outreach efforts</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -124,7 +130,11 @@ variant: tiptap
 <p>Creative Work</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* To support in areas where artwork and/or creative design are required</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To support in areas where artwork and/or creative design are required</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -132,7 +142,11 @@ variant: tiptap
 <p>Environment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* To support school’s green initiatives such as Rice Planting</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To support school’s green initiatives such as Rice Planting</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -140,8 +154,14 @@ variant: tiptap
 <p>Communication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* To support communication efforts with members via various contact platforms
-<br>* To support membership recruitment initiatives.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To support communication efforts with members via various contact platforms</p>
+</li>
+<li>
+<p>To support membership recruitment initiatives.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
