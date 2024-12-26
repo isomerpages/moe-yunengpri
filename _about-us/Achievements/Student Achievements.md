@@ -960,6 +960,18 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>YMCA Mandarin Speaking Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Position:</p>
+<p>Li Jiayao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Text Recital Competition for Primary and Secondary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1191,6 +1203,40 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Raffles Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Category (Distinction):
+<br>Chen Chuanren
+<br>Chong Chee Hun, Brendan
+<br>Ma Ruize
+<br>Poon Ee Rui
+<br>Yen Shuo Cheng
+<br>Chen Juntong
+<br>Zhang Xizhe</p>
+<p></p>
+<p>Open Category (Merit):
+<br>Chan Yi Len
+<br>Jiang Huixuan
+<br>Li Zhenxi
+<br>Reina Celine Koh</p>
+<p></p>
+<p>Junior Category (Distinction):
+<br>Lau Yoyo
+<br>Qu Yiran
+<br>Toh Yu Xuan</p>
+<p></p>
+<p>Junior Category (Merit):
+<br>Deng Lisiqi
+<br>Shen Yizhen
+<br>Jacob Low Shao Qi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Raffles Institution Primary Maths World</p>
 <p>Contest (RIPMWC) Open and Junior</p>
 <p>Categories</p>
@@ -1199,19 +1245,19 @@ third_nav_title: Achievements
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction:</p>
-<p>Li Zhenxi</p>
-<p>Wu Yao Xuan</p>
-<p>Ethan Yap Yu Kiat</p>
-<p>Elia Sim</p>
+<p>Distinction:
+<br>Li Zhenxi
+<br>Wu Yao Xuan
+<br>Ethan Yap Yu Kiat
+<br>Elia Sim</p>
 <p></p>
-<p>Merit:</p>
-<p>Elizabeth Tan Xin Ying</p>
-<p>Chen Yehui</p>
-<p>Chern Ser Myn Amanda</p>
-<p>Fan Zixuan</p>
-<p>Lee Ying Xin Elise</p>
-<p>Ma Chen Cheng</p>
+<p>Merit:
+<br>Elizabeth Tan Xin Ying
+<br>Chen Yehui
+<br>Chern Ser Myn Amanda
+<br>Fan Zixuan
+<br>Lee Ying Xin Elise
+<br>Ma Chen Cheng</p>
 </td>
 </tr>
 <tr>
@@ -1224,13 +1270,13 @@ third_nav_title: Achievements
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver:</p>
-<p>Poon Ee Rui</p>
-<p>Tan Zhi Heng, Lucas</p>
-<p>Wu Yao Xuan</p>
+<p>Silver:
+<br>Poon Ee Rui
+<br>Tan Zhi Heng, Lucas
+<br>Wu Yao Xuan</p>
 <p></p>
-<p>Bronze:</p>
-<p>Ethan Yap Yu Kiat</p>
+<p>Bronze:
+<br>Ethan Yap Yu Kiat</p>
 </td>
 </tr>
 <tr>
@@ -1241,20 +1287,20 @@ third_nav_title: Achievements
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver:</p>
-<p>Li Zhenxi</p>
-<p>Poon Ee Rui</p>
-<p>Choo Jie An Ashton</p>
+<p>Silver:
+<br>Li Zhenxi
+<br>Poon Ee Rui
+<br>Choo Jie An Ashton</p>
 <p></p>
-<p>Bronze:</p>
-<p>Chan Yi Len</p>
-<p>Jiang Huixuan</p>
-<p>Kwoo Jing Hui</p>
-<p>Ma Ruize</p>
-<p>Chen Juntong</p>
-<p>Yuan Shuhan</p>
-<p>Zhang Xizhe</p>
-<p>Ting Chieu Heng Oliver</p>
+<p>Bronze:
+<br>Chan Yi Len
+<br>Jiang Huixuan
+<br>Kwoo Jing Hui
+<br>Ma Ruize
+<br>Chen Juntong
+<br>Yuan Shuhan
+<br>Zhang Xizhe
+<br>Ting Chieu Heng Oliver</p>
 </td>
 </tr>
 <tr>
@@ -1266,15 +1312,15 @@ third_nav_title: Achievements
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold:</p>
-<p>Shu Yuhang</p>
-<p>Shen Yizhen</p>
-<p>Yang Ruilin</p>
-<p>Li Zhenxi</p>
+<p>Gold:
+<br>Shu Yuhang
+<br>Shen Yizhen
+<br>Yang Ruilin
+<br>Li Zhenxi</p>
 <p></p>
-<p>Bronze:</p>
-<p>Tiffany Zhang Weizi</p>
-<p>Nathaniel Zhou Yuqi</p>
+<p>Bronze:
+<br>Tiffany Zhang Weizi
+<br>Nathaniel Zhou Yuqi</p>
 </td>
 </tr>
 <tr>
@@ -1519,26 +1565,26 @@ third_nav_title: Achievements
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver:</p>
-<p>Li Zhenxi</p>
+<p>Silver:
+<br>Li Zhenxi</p>
 <p></p>
-<p>Bronze:</p>
-<p>Ma Ruize</p>
-<p>Poon Ee Rui</p>
+<p>Bronze:
+<br>Ma Ruize
+<br>Poon Ee Rui</p>
 <p></p>
-<p>Merit:</p>
-<p>Chen Juntong</p>
-<p>Ngeiw Chen Kang</p>
-<p>Ong Sheng Han Shawn</p>
-<p>Reina Celine Koh</p>
+<p>Merit:
+<br>Chen Juntong
+<br>Ngeiw Chen Kang</p>
+<p>Ong Sheng Han Shawn
+<br>Reina Celine Koh</p>
 <p></p>
-<p>Participation:</p>
-<p>Chew Sze Suan</p>
-<p>Chua zhi Kai Justin</p>
-<p>Ong Yan Qi, Chloe</p>
-<p>Tho Jing Ya</p>
-<p>Ting Chieu Heng Oliver</p>
-<p>Yong Tien Zhe, Martin</p>
+<p>Participation:
+<br>Chew Sze Suan
+<br>Chua zhi Kai Justin
+<br>Ong Yan Qi, Chloe
+<br>Tho Jing Ya
+<br>Ting Chieu Heng Oliver
+<br>Yong Tien Zhe, Martin</p>
 </td>
 </tr>
 <tr>
