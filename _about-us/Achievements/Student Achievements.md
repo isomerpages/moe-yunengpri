@@ -1004,6 +1004,31 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>The 14th "Huiguan Cup" National Day Mandarin Karaoke Singing Competition
+- Children's Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Position:
+<br>Li Jiayao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Chinese Story Telling Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Final (Top 15):
+<br>Li Jiayao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National Chinese Text Recitation</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1173,6 +1198,19 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>The 19th National Primary School Crosstalk Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit:
+<br>Tang yan Wen Joshua
+<br>Alice Wang Yueran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>YMCA Plain English Speaking Awards</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1295,6 +1333,23 @@ third_nav_title: Achievements
 <p></p>
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science, Technology, Engineering and Mathematics Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver:
+<br>Li Zhenxi
+<br>Ma Ruize
+<br>Poon Ee Rui</p>
+<p></p>
+<p>Individual Stem Whizz 10th Place:
+<br>Li Zhenxi</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1717,6 +1772,25 @@ third_nav_title: Achievements
 <p></p>
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold:
+<br>Kee Jia Hui Jewel</p>
+<p></p>
+<p>Silver:
+<br>Kara Abigail Ng Xuan Hui</p>
+<p></p>
+<p>Bronze:
+<br>Shen Yizhen
+<br>Yang Yu Xin, Emma</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
