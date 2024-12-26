@@ -1004,6 +1004,26 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National Chinese Text Recitation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Position:
+<br>Hu Xintian
+<br>Shen Yizhen</p>
+<p></p>
+<p>Silver:
+<br>Li Jiayao
+<br>Siew Lok Yan</p>
+<p></p>
+<p>Bronze:
+<br>Ethan Loi Encai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>YMCA Mandarin Speaking Awards</p>
 </td>
 <td rowspan="1" colspan="1">
