@@ -17,18 +17,10 @@ variant: tiptap
 <p><strong><u>Learning Support Coordinator</u></strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:marlina_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Marlina</u></a>&nbsp;(EL)
 <br><a href="mailto:rajeswarie_sundram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ravi</u></a>&nbsp;(Math)
 <br><a href="mailto:tuty_atiqah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tuty Atiqah</u></a>&nbsp;(Math)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -123,17 +115,9 @@ variant: tiptap
 <p><strong><u>Learning Support Coordinator</u></strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:marlina_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Marlina</u></a>&nbsp;(EL)
 <br><a href="mailto:tuty_atiqah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tuty Atiqah</u></a>&nbsp;(Math)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
