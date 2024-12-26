@@ -4,8 +4,8 @@ permalink: /newsletter/
 description: ""
 variant: tiptap
 ---
-<h3></h3>
-<h5><u>2024</u></h5>
+<p>Click on the image to read the magazine.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,87 +13,63 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight_May_2024.png">
-</div>
-<p><a href="https://drive.google.com/file/d/1wzpd-Qh3PrTAocfco19z7BVQuk0Q0o1C/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">May 2024</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 33%;" height="auto" width="100%" alt="" src="/images/Spotlight_Nov_2024.png">
-</div>
-<p><a href="Nov 2024" rel="noopener nofollow" target="_blank">Nov2024</a>
-</p>
+<th rowspan="1" colspan="2">
+<h4>2024</h4>
 </th>
 </tr>
-</tbody>
-</table>
-<h5><u>2023</u></h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1wzpd-Qh3PrTAocfco19z7BVQuk0Q0o1C/view?usp=sharing"><img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Spotlight_May_2024.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1pS6zMHj6ZIHtVVTOFJd4I36ogd-Eh4Rd/view?usp=sharing"><img style="width: 38%;" height="auto" width="100%" alt="" src="/images/Spotlight_Nov_2024.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<h4>2023</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17qlRefa_qSOo-YI-i2iaD-ZIdFVwlJzl/view?usp=sharing"><img style="width:90%" height="auto" width="100%" src="/images/spotlight%20issue%201%20may%202023.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1_JI216-UqZQrEJDsCcCrP5Kdd0Yr18Qa/view?usp=sharing"><img style="width: 38%;" height="auto" width="100%" src="/images/Spotlight_Nov_2023.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<h4>2022</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1cUFzVN05O23nbmuVURmql15a222lUWYv/view?usp=drive_link"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_26_101442.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1r4V4BahxX4CF_b_TrxAuELOtjCKQ4hJ3/view?usp=drive_link"><img style="width: 38%;" height="auto" width="100%" src="/images/spotlight%20issue%202%20november%202022.png"></a>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/spotlight%20issue%201%20may%202023.png">
-</div>
-<p>
-<br>
-</p>
-<p><a href="https://drive.google.com/file/d/17qlRefa_qSOo-YI-i2iaD-ZIdFVwlJzl/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">May 2023</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:43%" height="auto" width="100%" src="/images/Spotlight_Nov_2023.png">
-</div>
-<p>
-<br>
-</p>
-<p><a href="https://drive.google.com/file/d/1_JI216-UqZQrEJDsCcCrP5Kdd0Yr18Qa/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Nov 2023</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><u>2022</u></h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/spotlight%20issue%201%20may%202022.png">
-</div>
-<p>
-<br>
-</p>
-<p><a href="https://drive.google.com/file/d/1cUFzVN05O23nbmuVURmql15a222lUWYv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">May 2022</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/spotlight%20issue%202%20november%202022.png">
-</div>
-<p>
-<br>
-</p>
-<p><a href="https://drive.google.com/file/d/1r4V4BahxX4CF_b_TrxAuELOtjCKQ4hJ3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Nov 2022</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p></p>
+<p></p>
+<h5></h5>
+<h5></h5>
 <h5><u>2021</u></h5>
 <table style="minWidth: 25px">
 <colgroup>
