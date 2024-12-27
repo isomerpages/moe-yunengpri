@@ -1,13 +1,15 @@
 ---
-title: School Management Committee
-permalink: /school-management-committee/
+title: School Executive Committee
+permalink: /school-executive-committee/
 description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YNPS_School_Leaders__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YNPS_School_Leaders__6_.png">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
