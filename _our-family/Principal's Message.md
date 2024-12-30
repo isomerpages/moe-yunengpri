@@ -32,7 +32,7 @@ look to the future, let us reaffirm our commitment to excellence in education
 and to nurturing every child who walks through our gates.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Bear_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Bear_1.jpg">
 </div>
 <p></p>
 <p>As we step into this landmark year, let us carry forward the spirit of
