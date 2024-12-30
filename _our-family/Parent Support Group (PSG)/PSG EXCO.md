@@ -22,7 +22,7 @@ variant: tiptap
 <p>PSG Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Yeow Ling (Principal)</p>
+<p>Mr Edwin Ong Yoke Yam (Vice-Principal)</p>
 </td>
 </tr>
 <tr>
