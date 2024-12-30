@@ -30,9 +30,42 @@ these visuals to facilitate related processes during lessons. &nbsp;Our
 goal is to foster a positive classroom environment and help students be
 the best learners they can be!</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Dispositions__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YN_learningdisposition_FINAL_22April2021_04.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YN_learningdisposition_FINAL_22April2021_01.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YN_learningdisposition_FINAL_22April2021_03.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YN_learningdisposition_FINAL_22April2021_02.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD%20Lower%20Primary.png">
 </div>

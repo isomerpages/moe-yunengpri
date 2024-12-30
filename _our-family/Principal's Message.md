@@ -7,66 +7,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:20%" height="auto" width="100%" src="/images/Mr%20Ng%202023.jpg">
 </div>
-<p>Dear Team Yu Neng</p>
-<p>On behalf of the School Advisory Committee and Alumni Association, we
-welcome you back to school to commemorate an extraordinary milestone -
-90 glorious years of Yu Neng Primary School's educational journey! We are
-indeed humbled by the remarkable legacy that has brought us to this moment.
-Since 1935, Yu Neng has stood as a beacon of learning, nurturing generations
-of students who have gone on to make significant contributions to Singapore
-and beyond. Our school's history is interwoven with that of our nation,
-having witnessed and adapted to the transformative changes in our education
-system and society.<strong><br></strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Pen1.jpg">
-</div>
-<p><em>Aspire</em>: &nbsp;For nine decades, Yu Neng has inspired its students
-to dream big and reach for the stars. We have consistently encouraged our
-pupils to set high goals, both academically and in character development.
-This aspiration to excel has been the cornerstone of our school's ethos.&nbsp; <em>Learn</em>:
-&nbsp;At the heart of Yu Neng's philosophy is a commitment to lifelong
-learning. We have always strived to provide a holistic education that goes
-beyond textbooks, embracing innovation and adapting to the evolving needs
-of our students. From our humble beginnings to our current standing as
-a forward-thinking institution, learning has remained our core focus.&nbsp; <em>Lead</em>:
-&nbsp;Yu Neng has always believed in cultivating leaders of tomorrow. Our
-alumni have gone on to lead in various fields - be it in public service,
-business, arts, or sciences. We take pride in instilling values of integrity,
-resilience, and compassion, shaping not just successful individuals, but
-responsible citizens.</p>
-<p></p>
-<p>As we celebrate this milestone, we must acknowledge the tireless efforts
-of all YN educators, past and present, whose dedication has been the driving
-force behind our success. We also extend our gratitude to the parents and
-community partners who have supported us throughout this journey. Looking
-ahead, Yu Neng Primary School remains committed to its mission of nurturing
-future-ready and passionate learners. We will continue to innovate, inspire,
-and lead in education, ensuring that the next 90 years are as impactful
-as the last.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Mr
-Aw Chye Wee
-<br><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Chairman,
-School Advisory Committee</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Mr
-Tan Heng Lee
-<br><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Chairman,
-School Alumni Association</p>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
 <h4><strong>Yu Neng at 90: A Legacy of Growth, A Future of Promise</strong></h4>
 <p>As we embark on the year 2025, we are filled with immense pride and joy
@@ -92,7 +32,7 @@ look to the future, let us reaffirm our commitment to excellence in education
 and to nurturing every child who walks through our gates.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Bear_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Bear_1.jpg">
 </div>
 <p></p>
 <p>As we step into this landmark year, let us carry forward the spirit of
