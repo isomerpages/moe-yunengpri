@@ -88,8 +88,8 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <br>
 <br>
 </p>
-<h4>At Yu Neng Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2024</u>:</h4>
-<h4>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br>Primary 5</h4>
+<h4>At Yu Neng Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</h4>
+<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE <br> <br>Primary 5</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -180,7 +180,7 @@ and how to seek help for themselves and their friends.</p>
 <br>
 <br>
 </p>
-<h4>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br>Primary 6</h4>
+<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE  <br>Primary 6</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -224,7 +224,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 week 6</p>
+<p>Term 2 week 4</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 week 7</p>
+<p>Term 2 week 5</p>
 </td>
 </tr>
 </tbody>
