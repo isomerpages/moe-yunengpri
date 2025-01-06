@@ -89,7 +89,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <br>
 </p>
 <h4>At Yu Neng Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</h4>
-<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE <br> <br>Primary 5</h4>
+<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE <br><br>Primary 5</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -180,7 +180,7 @@ and how to seek help for themselves and their friends.</p>
 <br>
 <br>
 </p>
-<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE  <br>Primary 6</h4>
+<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE <br>Primary 6</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -253,11 +253,11 @@ and learn to behave maturely towards each other.</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
 children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also accessible <a href="/files/02_Annex_A___Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out
-form is to be submitted by 26/01/2024.</p>
+start of the year and is also downloadable <a href="/files/03_2025_Annex_A_Opt_Out_form.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 31/01/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6449 0121 or email us at &nbsp;<a href="mailto:ynps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ynps@moe.edu.sg</a> for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
