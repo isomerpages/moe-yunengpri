@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-
 <table>
 	<tbody><tr>
 		<td width="30%"><img src="/images/Ennovation1.jpg"></td>
@@ -18,6 +17,6 @@ E-nnovation Club strives to nurture successful innovators of tomorrow. Through t
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mr Zhu Xiang Jun<br>Mr Roonie Chew<br>Ms Sri Rathi Priya | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Computer Lab 2<br>Computer Lab 3 |
+| Mr Roonie Chew<br>Ms Sri Rathi Priya | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Computer Lab 2<br>Computer Lab 3 |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YIeODAdcrHw?si=35568pqIbCNXTX3R" height="315" width="560"></iframe>
