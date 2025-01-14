@@ -15,7 +15,7 @@ Character and Citizenship Education (CCE) is an integral part in developing our 
 | CCE | Teaching of knowledge, skills and values for CCE in Mother Tongue Languages (MTL) |
 | School-based CCE programmes | Assembly programmes that are linked to school wide programmes |
 | Education Career Guidance (ECG) | Enabling students to discover their strengths, the different occupations in the economy and to explore viable education and career options |
-| Sexuality Education (SEd) | Enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships, and make wise, informed and responsible decisions in their growing up years |
+| Sexuality Education (SEd) | Enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships, and make wise, informed and responsible decisions in their growing up years <br><br>Click [here](https://www.yunengpri.moe.edu.sg/sexuality-education-sed/) to know more about the programme |
 
 #### Key Programmes
 
