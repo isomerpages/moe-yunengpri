@@ -21,7 +21,7 @@ variant: markdown
 
 #### Syllabus
 
-*   [MOE Primary Science Syllabus (implemented in 2014 for P3 cohort)](https://www.moe.gov.sg/-/media/files/primary/science-primary-2014.pdf)
+*   [MOE Primary Science Syllabus (implemented in 2014 for P6 cohort)](https://www.moe.gov.sg/-/media/files/primary/science-primary-2014.pdf)
 *   [2023 Primary Science Syllabus](https://www.moe.gov.sg/-/media/files/primary/science-primary-2014.pdf)
 *   **The Primary Science Syllabus aims to:**
 	*   provide students with experiences which build on their interest in and stimulate their curiosity about their environment;
