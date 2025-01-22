@@ -16,7 +16,6 @@ The slides shared during the session are now available.
 
 [Primary 4 ](https://drive.google.com/file/d/1h41pyxrbpXPaA-SspWPAXY8NwmQMhWmO/view?usp=drive_link)
 
-[Primary 5 ](https://drive.google.com/file/d/1HnzrhWL_HaGtwLeIBwiFbip_CbHAcvKG/view?usp=sharing)
+[Primary 5 ](https://drive.google.com/file/d/1AslLvEk5wrEjnSqgC-2_G5R_pE8rpcLS/view?usp=drive_link)
 
 [Primary 6 ](https://drive.google.com/file/d/1t8GNzh93txbf_au1bVBPaQN1HeexAkWg/view?usp=drive_link)
-
