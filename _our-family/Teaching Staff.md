@@ -101,7 +101,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ngo_xiu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Esther Cheng-Ngo Xiu Fen</u></a>
 <br><a href="mailto:eymani_helmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Eymani</u></a>
-<br>Mdm Herda</p>
+<br><a href="mailto:herda_dolfata@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Herda</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -402,7 +403,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jamilah_abdullah_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jamilah</u></a>
 <br><a href="mailto:%20nawshein_shikkander@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Nawshein</u></a>
-<br><u>Mr Ho Keng Chiong</u>
+<br><a href="mailto:ho_keng_chiong_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ho Keng Chiong</a>
 </p>
 </td>
 </tr>
