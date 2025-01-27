@@ -26,7 +26,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Lim Yew Chai</u></a>
+<p><a href="mailto:lim_yew_chai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Lim Yew Chai</u></a>
 </p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>Ms Sri Rathi Priya</u></a>
+<p><a href="mailto:sri_rathi_priya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Sri Rathi Priya</u></a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rohayu_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Rohayu Bte Mohd</u></a>
-<br><a href="mailto:alawiah_hosni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Alawiah Hosni</u></a>
+<br><a href="mailto:alawiah_hosni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Alawiah Hosni</u></a>
 </p>
 </td>
 </tr>
@@ -57,9 +57,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ah_im_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tan Ah Im Wendy</u></a>
-<br><a href="mailto:wang_mei_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Wang Mei Ann</u></a>
-<br><a href="mailto:alicia_tan_ee_kia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Alicia Tan</u></a>
+<p><a href="mailto:tan_ah_im_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tan Ah Im Wendy</u></a>
+<br><a href="mailto:wang_mei_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Wang Mei Ann</u></a>
+<br><a href="mailto:alicia_tan_ee_kia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Alicia Tan</u></a>
 </p>
 </td>
 </tr>
