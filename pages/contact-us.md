@@ -22,7 +22,7 @@ contacts:
     title: General Office
   - content:
       - phone: ""
-      - email: ynps@moe.edu.sg
+      - email: ynps@schools.gov.sg
       - other: ""
     title: Email
   - content:
@@ -30,4 +30,5 @@ contacts:
       - email: ""
       - other: ""
     title: Fax
+feedback: https://form.gov.sg/5f20c79d5961620011e343f7
 ---
