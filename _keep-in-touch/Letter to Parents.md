@@ -26,6 +26,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/LTP_MOE_SEXUALITY_EDUCATION_IN_SCHOOLS.pdf" rel="noopener nofollow" target="_blank">MOE Sexuality Education in Schools</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2025_LTP_Cycling_Advisory.pdf" rel="noopener nofollow" target="_blank">Cycling Advisory</a>
 </p>
 </li>
