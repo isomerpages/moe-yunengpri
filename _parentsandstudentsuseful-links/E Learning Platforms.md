@@ -14,4 +14,4 @@ Please refer to the guide(s) below on how to login to MIMS, Google Classroom and
 | | |
 | --- | --- |
 | [![](/images/Screenshot_2024_01_24_141759.png)<br><br><br><br>MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso) | [![](/images/koobits.png)<br> Koobits](https://www.koobits.com/) 
-| [![](/images/images.png)<br>Microsoft Teams](https://teams.microsoft.com/) | [![](/images/ezhishi-300x169.png)<br><br>eZhishi](https://www.ezhishi.net/Contents/) |
+| [![](/images/images.png)<br>Microsoft Teams](https://teams.microsoft.com/) | [![](/images/ezhishi-300x169.png)<br><br>eZhishi](https://www.ezhishi.com) |
