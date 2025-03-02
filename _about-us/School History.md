@@ -4,8 +4,6 @@ permalink: /school-history/
 description: ""
 variant: markdown
 ---
-
-
 In 1934, the late Mr Ng Huay Leng, along with 4 humble villagers, took upon themselves the responsibility of nurturing and educating the young. With meagre resources, they managed to build a zinc and attap school and called it Yeu Nerng School. Conducting lessons in Mandarin and dialect, Yeu Nerng catered to 20 students from the neighbouring villages. Despite poverty and difficult times, the students of Yeu Nerng achieved commendable examination results.
 
 <img src="/images/tnoldschoolJPG2.jpg" style="width:40%">
@@ -27,6 +25,9 @@ Yeu Nerng Public School continued to grow from strength to strength. In 1982, it
 
 Through the years, Yu Neng Primary School has maintained the traits and virtues of its early founders. 2015 will be a significant year for the school as it commemorates its 80th anniversary. With its rich history , strong foundation, values and beliefs, Yu Neng continues to grow and strive towards its motto of "Light Up and Shine".
 
+*   Mr Ng Huey Leng (1935 – 1953)
+*   Mr Zheng Zhao Wu (1954 – 1956)
+*   Mr Lin Qin Rong (1957 – 1959)
 *   Mr Ng Sin Soo (1960 – 1983)
 *   Mr Chia Chee Fun (1983 – 1988)
 *   Mr Foo Don Wan (1989 – 1992)
