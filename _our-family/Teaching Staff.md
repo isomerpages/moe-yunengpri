@@ -141,6 +141,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rajeswarie_sundram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ravi</u></a>
 <br><a href="mailto:ng_chye_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Chye Huat</u></a>
+<br><u>Ms Carrie Lim</u>
 </p>
 </td>
 </tr>
@@ -270,6 +271,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zuhaila_md_jizan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zuhaila</u></a>
 <br><a href="mailto:wong_bridget@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Bridget Wong</u></a>
+<br><u>Mdm Serene Low</u>
 </p>
 </td>
 </tr>
@@ -474,8 +476,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_eng_ling_catherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Catherine Tan</u></a>
-<br><a href="mailto:Royston_Neo_Li_Ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Royston Neo</u></a>
+<p><a href="mailto:Royston_Neo_Li_Ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Royston Neo</u></a>
+<br><a href="Mailto:yeo_chi_kin_shawn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Shawn Yeo</a>
 <br><a href="mailto:thia_yoke_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Thia Yoke Ping</u></a>
 </p>
 </td>
