@@ -133,26 +133,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/CCE</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_xin_hui_shelwyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Shelwyn Tan</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>LH / English Language &amp; 21CC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_eng_ling_catherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Catherine Tan</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>LH / Chinese Language &amp; Culture</strong>
 </p>
 </td>
