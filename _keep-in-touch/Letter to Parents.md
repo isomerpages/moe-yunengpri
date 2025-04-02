@@ -4,6 +4,13 @@ permalink: /letter-to-parents/
 description: ""
 variant: tiptap
 ---
+<h4>April</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/April_LTP_2025.pdf" rel="noopener nofollow" target="_blank">Letter To Parents</a>
+</p>
+</li>
+</ul>
 <h4>March</h4>
 <ul data-tight="true" class="tight">
 <li>
