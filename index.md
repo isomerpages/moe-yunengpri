@@ -20,19 +20,19 @@ sections:
           url: /staff-useful-links/
       title: Yu Neng Primary School
   - infopic:
-      title: Celebrating Writing
-      id: infopic
-      button: Read
-      url: https://drive.google.com/file/d/1YVkWh2t0l3uB7bnlI7Gru2TPj7NuyFWL/view?usp=sharing
-      image: /images/Celebrating_Writing.png
-      alt: Image alt text
-  - infopic:
       title: YN90
       description: YN90 marks a special point in time for all Yu Neng students and staff.
       image: /images/ynlogosmall.png
       alt: Image alt text
       url: https://www.yunengpri.moe.edu.sg/yn90-2025/
       button: READ
+  - infopic:
+      title: Celebrating Writing
+      id: infopic
+      button: Read
+      url: https://drive.google.com/file/d/1YVkWh2t0l3uB7bnlI7Gru2TPj7NuyFWL/view?usp=sharing
+      image: /images/Celebrating_Writing.png
+      alt: Image alt text
   - infopic:
       title: Celebrating Writing
       id: infopic
