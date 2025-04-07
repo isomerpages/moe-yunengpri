@@ -261,7 +261,7 @@ variant: tiptap
 <p><a href="mailto:mu_zhiming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Mu Zhiming</u></a>
 <br><a href="mailto:ang_lie_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ang Lie Chin</u></a>
 </p>
-<p><u>Ms Goh Ya Di</u>
+<p><u>Miss Goh Ya Di</u>
 </p>
 </td>
 </tr>
