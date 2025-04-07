@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-
-
 <table>
 	<tbody><tr>
 		<td width="43%"><img src="/images/ArtClub-1.jpg"></td>
@@ -21,6 +19,6 @@ The Art Club provides a platform for students to build on their talent while exp
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Ms Ruzana<br>Ms Carrie Lam| Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Art Room |
+| Ms Ruzana<br>Ms Carrie Lam<br>Miss Goh Ya Di| Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Art Room |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZK8SvMpfvX4?si=LbKI-GmVWvHZXyKk" height="315" width="560"></iframe>
