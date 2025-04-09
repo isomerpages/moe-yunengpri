@@ -9,16 +9,15 @@ sections:
   - hero:
       subtitle: Aspire, Learn & Lead
       background: /images/banner 1.jpg
-      url: https://form.gov.sg/5f20c79d5961620011e343f7
-      button: Share a Compliment
-      key_highlights:
-        - title: For Parents and Students (Useful Links)
-          description: ""
-          url: /ps-useful-links/
-        - title: For Staff (Useful Links)
-          description: ""
-          url: /staff-useful-links/
       title: Yu Neng Primary School
+      variant: image
+      dropdown:
+        title: Yu Neng Primary School
+        options:
+          - title: YN 90 Messages and Well Wishes
+            url: go.gov.sg/ynps90ww
+          - title: Share a Compliment
+            url: https://form.gov.sg/5f20c79d5961620011e343f7
   - infopic:
       title: YN90
       description: YN90 marks a special point in time for all Yu Neng students and staff.
