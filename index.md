@@ -11,13 +11,8 @@ sections:
       background: /images/banner 1.jpg
       title: Yu Neng Primary School
       variant: image
-      dropdown:
-        title: Yu Neng Primary School
-        options:
-          - title: YN 90 Messages and Well Wishes
-            url: go.gov.sg/ynps90ww
-          - title: Share a Compliment
-            url: https://form.gov.sg/5f20c79d5961620011e343f7
+      button: Send Yu Neng Messages and well wishes for YN90
+      url: go.gov.sg/ynps90ww
   - infopic:
       title: YN90
       description: YN90 marks a special point in time for all Yu Neng students and staff.
