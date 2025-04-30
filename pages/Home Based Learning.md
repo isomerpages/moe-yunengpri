@@ -2,12 +2,19 @@
 title: Home Based Learning
 permalink: /hbl/
 description: ""
+variant: markdown
 ---
 ## Home Based Learning
 
-Starting from ___________, Yu Neng Primary School students will shift to Home Based Learning (HBL) until further notice.<br>
+To better equip our students with the skills necessary for independent learning and to prepare them for potential future disruptions, all students will participate in our E-Learning Day on&nbsp;**Monday, 26 May 2025**.<br>
 
-Students need not report to school starting from ___________ until further notice and are expected to stay at home to engage in planned online and offline learning activites. Students are strongly encouraged to follow the proposed learning timetable. <br>
+Through this E-Learning experience, students will:
+
+a)&nbsp;&nbsp;&nbsp; Enhance Readiness for E-Learning: By practicing home-based learning, students will be better prepared to adapt to prolonged school closures, while helping the school address any logistical or technological challenges.
+
+b)&nbsp;&nbsp;&nbsp; Cultivate Self-Directed Learning Skills: Students will learn to manage their time effectively, take ownership of their learning, and seek assistance when needed within a digital environment.
+
+c)&nbsp;&nbsp;&nbsp;&nbsp; Appreciate the Role of Technology in Learning: Students will experience first-hand how technology can support and enrich learning, collaboration, and communication beyond the traditional classroom. <br>
 
 Teachers will monitor students' learning progress and provide the necessary support i.e. providing feedback through the online platforms. They will also contact the students via Class Dojo or phone call to check in with their students and monitor how they are coping with HBL. <br>
 
@@ -21,15 +28,6 @@ Primary 5<br>
 Primary 6<br>
 ##### E-Learning Portals<br>
 Please click [HERE](https://www.yunengpri.moe.edu.sg/e-learning-platforms/) to view the list of useful links.<br> 
-##### Support for Teacher-Student Live Interaction Sessions
-
-There are scheduled live lessons or interaction time which your child needs to attend during HBL. The schedule will shared via the HBL Daily-to-do list.<br><br>
-To ensure a positive experience, your child should prepare the following:  
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Headphones/ earphones<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microphone (optional)<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web camera (optional)<br>
-
-![/images/live%20lesson%20etiquette%201.png](/images/live%20lesson%20etiquette%201.png)<br>
 
 ##### Contact Us
 If you have any technical queries, please call 6449 0121 ext 114.<br>
