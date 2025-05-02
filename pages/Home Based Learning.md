@@ -16,10 +16,10 @@ b)&nbsp;&nbsp;&nbsp; Cultivate Self-Directed Learning Skills: Students will lear
 
 c)&nbsp;&nbsp;&nbsp;&nbsp; Appreciate the Role of Technology in Learning: Students will experience first-hand how technology can support and enrich learning, collaboration, and communication beyond the traditional classroom. <br>
 
-Teachers will monitor students' learning progress and provide the necessary support i.e. providing feedback through the online platforms. They will also contact the students via Class Dojo or phone call to check in with their students and monitor how they are coping with HBL. <br>
+Teachers will monitor students' learning progress and provide the necessary support i.e. providing feedback through the online platforms. <br>
 
 ##### Timetable and HBL to-do-list<br>
-Click on the link below to access the level Weekly learning Timetable and HBL to-do-list.<br>
+Click on the link below to access the to-do-list.<br>
 Primary 1<br>
 Primary 2<br>
 Primary 3<br>
