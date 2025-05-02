@@ -39,11 +39,10 @@ variant: markdown
 			<br>
 At Yu Neng, we foster Joyful Writing by explicitly teaching strategies for purposeful writing through PACC (Purpose, Audience, Context, and Culture), nurturing CAIT (Critical, Adaptive, and Inventive Thinking) through journalling and Making Thinking Visible (MTV) routines, engaging students in authentic writing experiences through initiatives like Flat Stanley and Project Pen Pal, and celebrating exemplary student work from various classes and the Writing Challenge in our _Celebrating Writing_ publication.
 			<br><br><br>
-			<b><u>Celebrating Writing</u></b><br>
-			
+			<b><u>Celebrating Writing</u><br>
 <a href="https://drive.google.com/file/d/1YVkWh2t0l3uB7bnlI7Gru2TPj7NuyFWL/view?usp=sharing">P1 to P6</a><br>
 						<br>
-		</td>
+		</b></td>
 	</tr>
 	<tr>
 		<td width="22%"><img src="/images/EL1.png"></td>
