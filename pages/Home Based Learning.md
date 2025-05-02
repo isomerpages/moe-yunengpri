@@ -18,17 +18,20 @@ c)&nbsp;&nbsp;&nbsp;&nbsp; Appreciate the Role of Technology in Learning: Studen
 
 Teachers will monitor students' learning progress and provide the necessary support i.e. providing feedback through the online platforms. <br>
 
-##### Timetable and HBL to-do-list<br>
-Click on the link below to access the to-do-list.<br>
+##### Timetable and to-do-list<br>
+Click on the link below to access the to-do-list. **(Links will be uploaded soon)**<br>
 Primary 1<br>
 Primary 2<br>
 Primary 3<br>
 Primary 4<br>
 Primary 5<br>
 Primary 6<br>
-##### E-Learning Portals<br>
-Please click [HERE](https://www.yunengpri.moe.edu.sg/e-learning-platforms/) to view the list of useful links.<br> 
+
 
 ##### Contact Us
-If you have any technical queries, please call 6449 0121 ext 114.<br>
-To request for a reset of password, please fill in the form at [go.gov.sg/ynpwdreset](https://form.gov.sg/5cca661ede59dc00172f7e26)<br>
+* If you're experiencing issues logging into MIMS, please click [here](https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?forceAuth=TRUE) to reset your password. Remember to provide answers to your three secret questions to complete the reset process.<br>
+* If you're unsure how to access SLS, please click the links below for guidance.<br>
+[P1 - P2](https://www.yunengpri.moe.edu.sg/files/ICT_Familiarisation__P1___P2_.pdf)<br>
+[P3 - P6](https://www.yunengpri.moe.edu.sg/files/ICT_Familiarisation__P3_to_P6___1_.pdf)
+<br>
+* If you have any technical queries, please call 6449 0121 ext 114.
