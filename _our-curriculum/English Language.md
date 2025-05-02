@@ -87,6 +87,6 @@ We provide differentiated learning experiences in English Language (EL) lessons 
 		</td>
 	</tr>
 	<tr>
-		<td width="33%"><img src="/images/EL2.png"></td>
+		<td width="33%"><img src="/images/EL3.png"></td>
 	</tr>
 </tbody></table>
