@@ -31,75 +31,61 @@ variant: markdown
 
 #### Key Programmes
 
-<table style="border:1px solid black">
-	<tbody><tr>
-		<td colspan="2">
-			<b><u>World Class@YN - Staying Current@YN</u></b><br>
-			<br>The WorldClass@YN – Staying Current@YN programme seeks to bring the world into the classrooms by introducing people and cultures from around the world to our students. This helps students to develop intercultural, social and global awareness.<br>
-<br>
-The programme consists of The Flat Stanley Project, Staying Current@YN and Contemporary Issues@YN. <br>
-<br>
-Through The Flat Stanley Project, P2 and P3 students take the book character, Flat Stanley, on different adventures and outings and share these experiences with friends locally and overseas by writing letters and emails. <br>
-<br>
-P4 to P6 students subscribe to a student news publication, What’s Up, to discuss contemporary issues that matter to them and others.<br>
-<br>
-Students also acquire multiliteracies when they analyse texts, pictures and videos.
-		</td>
-	</tr>
-	<tr>
-		<td width="25%">
-			<img src="/images/WorldClass_YN-1-e1594797016544-146x300.jpg">
-		</td>
-		<td>
-			<img src="/images/WorldClass_YN-2-e1594797306642-768x441.jpg">
-		</td>
-	</tr>
-</tbody></table>
-
-<table style="border:1px solid black">
-	<tbody><tr>
-		<td>
-			<b><u>Rich Texts</u></b><br>
-			<br>
-			Upper Primary read a series of authentic, content-rich texts featuring culturally diverse settings and characters to learn more about how people in different parts of the world experience life. The reading of these carefully curated texts and the specially designed pre- and post-reading activities inculcate positive values, develop critical thinking and foster empathy in our students.
-		</td>
-	</tr>
-	<tr>
-		<td> <img src="/images/Rich-Text-768x363.jpg"> </td>
-	</tr>
-</tbody></table>
 
 <table style="border:1px solid black">
 	<tbody><tr>
 		<td colspan="3">
 			<b><u>Joyful Writing</u></b><br>
 			<br>
-Writing for different purposes is an important skill. The Joyful Writing programme aims to provide students with positive, authentic writing experiences. Students are equipped with the skills and strategies to use appropriate text types to write for different purposes.
+At Yu Neng, we foster Joyful Writing by explicitly teaching strategies for purposeful writing through PACC (Purpose, Audience, Context, and Culture), nurturing CAIT (Critical, Adaptive, and Inventive Thinking) through journalling and Making Thinking Visible (MTV) routines, engaging students in authentic writing experiences through initiatives like Flat Stanley and Project Pen Pal, and celebrating exemplary student work from various classes and the Writing Challenge in our _Celebrating Writing_ publication.
 			<br><br><br>
-			<b><u>Celebrating Writing</u></b><br>
-			
+			<b><u>Celebrating Writing</u><br>
 <a href="https://drive.google.com/file/d/1YVkWh2t0l3uB7bnlI7Gru2TPj7NuyFWL/view?usp=sharing">P1 to P6</a><br>
 						<br>
-		</td>
+		</b></td>
 	</tr>
 	<tr>
-		<td width="22%"><img src="/images/Joyful-Writing-1-173x300.jpg"></td>
-		<td width="28%"><img src="/images/Joyful-Writing-2-225x300.jpg"></td>
-		<td width="49%"><img src="/images/Joyful-Writing-3-300x225.jpg"></td>
+		<td width="22%"><img src="/images/EL1.png"></td>
 	</tr>
 </tbody></table>
 
 <table style="border:1px solid black">
 	<tbody><tr>
 		<td colspan="3">
-			<b><u>Pupil Oracy Programme (POP): Learning To Talk Through Talk </u></b><br>
+			<b><u>Oracy Lessons </u></b><br>
 			<br>
-The POP is an exciting programme designed to enable our students to acquire the skills to talk effectively as well as developing subject knowledge and understanding through talk. POP focuses on the four strands of oracy – physical, cognitive, linguistic and socio-emotional – to enable students to communicate effectively with one another. Students practise their skills through presentations, discussions (of current affairs and contemporary issues) and debates.
+We cultivate confident communicators by enhancing oracy through the integration of learning tasks and discussions on contemporary issues (CI) into Prema (pre-assembly) sessions, while providing tailored opportunities for students to refine their speaking skills through oral presentations, inquiry dialogues, Say it in 90s, Speak Up!, debates, and prestigious competitions such as  PESA and Wits and Words.
 		</td>
 	</tr>
 	<tr>
 		<td width="33%"><img src="/images/Pupil-Oracy-Programme-1-300x199.jpg"></td>
 		<td width="30%"><img src="/images/Pupil-Oracy-Programme-2-300x233.jpeg"></td>
 		<td width="37%"><img src="/images/Pupil-Oracy-Programme-3-300x180.jpg"></td>
+	</tr>
+</tbody></table>
+
+<table style="border:1px solid black">
+	<tbody><tr>
+		<td colspan="3">
+			<b><u>EL Enrichment </u></b><br>
+			<br>
+The Wits &amp; Words is an inter-school debate championship which builds the oral competencies of verbally talented Primary 5 and 6 students. In 2024, our EL Debate Team were the champions in the Wits and Words Division 2.
+		</td>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/EL2.png"></td>
+	</tr>
+</tbody></table>
+
+<table style="border:1px solid black">
+	<tbody><tr>
+		<td colspan="3">
+			<b><u>Differentiated Learning Experiences and Incorporation of EDTEch </u></b><br>
+			<br>
+We provide differentiated learning experiences in English Language (EL) lessons by using technology tools from the Student Learning Space (SLS). By integrating educational technology into our teaching, we help students develop essential 21st-century skills such as critical thinking, adaptability, creativity, communication, collaboration, and information literacy.
+		</td>
+	</tr>
+	<tr>
+		<td width="33%"><img src="/images/EL3.png"></td>
 	</tr>
 </tbody></table>
