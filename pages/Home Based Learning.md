@@ -31,7 +31,6 @@ Primary 6<br>
 ##### Contact Us
 * If you're experiencing issues logging into MIMS, please click [here](https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?forceAuth=TRUE) to reset your password. Remember to provide answers to your three secret questions to complete the reset process.<br>
 * If you're unsure how to access SLS, please click the links below for guidance.<br>
-[P1 - P2](https://www.yunengpri.moe.edu.sg/files/ICT_Familiarisation__P1___P2_.pdf)<br>
-[P3 - P6](https://www.yunengpri.moe.edu.sg/files/ICT_Familiarisation__P3_to_P6___1_.pdf)
-<br>
+[P1 - P2](/files/ICT_Familiarisation__P1___P2___1_.pdf)<br>
+[P3 - P6](/files/ICT_Familiarisation__P3_to_P6___2_.pdf)<br>
 * If you have any technical queries, please call 6449 0121 ext 114.
