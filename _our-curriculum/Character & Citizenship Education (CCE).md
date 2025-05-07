@@ -100,4 +100,3 @@ These school based initiatives and experiences help to ensure students’ learni
 | ![](/images/citizen1.jpg) | ![](/images/citizen2.jpg) | ![](/images/citizen3.jpg) | 
 |---|---|---|
 |  |  | |
-
