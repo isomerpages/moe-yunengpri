@@ -13,6 +13,13 @@ sections:
       variant: image
       button: Send Yu Neng Messages and well wishes for YN90
       url: go.gov.sg/ynps90ww
+      key_highlights:
+        - title: Parents And Students Useful Links
+          description: ""
+          url: https://www.yunengpri.moe.edu.sg/ps-useful-links/
+        - title: Staff Useful Links
+          description: ""
+          url: https://www.yunengpri.moe.edu.sg/staff-useful-links/
   - infopic:
       title: YN90
       description: YN90 marks a special point in time for all Yu Neng students and staff.
