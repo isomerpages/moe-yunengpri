@@ -2,7 +2,7 @@ collections:
   keep-in-touch:
     output: true
     order:
-      - Staff Useful Links.md
+      - Contact Us.md
       - ParentsandStudentsUsefulLinks/.keep
       - ParentsandStudentsUsefulLinks/Parents And Students Useful Links.md
       - ParentsandStudentsUsefulLinks/E Learning Platforms.md
@@ -13,7 +13,7 @@ collections:
       - ParentsandStudentsUsefulLinks/School Waiting List.md
       - ParentsandStudentsUsefulLinks/School eResource Repository (OPAC).md
       - ParentsandStudentsUsefulLinks/Sexuality Education (SEd).md
-      - Contact Us.md
+      - Staff Useful Links.md
       - Parents Gateway.md
       - Meet the Parents Session.md
       - P1 Orientation.md
