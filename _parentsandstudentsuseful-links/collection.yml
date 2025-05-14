@@ -2,7 +2,6 @@ collections:
   parentsandstudentsuseful-links:
     output: true
     order:
-      - Primary 1 Registration.md
       - Financial Matters.md
       - E Learning Platforms.md
       - Direct School Admission (DSA Sec).md
