@@ -2,5 +2,4 @@ collections:
   parentsandstudentsuseful-links:
     output: true
     order:
-      - Direct School Admission (DSA Sec).md
       - Booklist, Uniform & School Bus.md
