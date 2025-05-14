@@ -3,6 +3,7 @@ title: Financial Matters
 permalink: /financial-matters/
 description: ""
 variant: markdown
+third_nav_title: ParentsandStudentsUsefulLinks
 ---
 #### MOE Financial Assistance Scheme (FAS)
 

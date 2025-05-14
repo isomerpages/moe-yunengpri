@@ -3,6 +3,7 @@ title: E Learning Platforms
 permalink: /e-learning-platforms/
 description: ""
 variant: markdown
+third_nav_title: ParentsandStudentsUsefulLinks
 ---
 To reset your child's MIMS Password (iCON Mail, Google classroom and SLS are under MIMS), please request for a reset via this link: [https://go.gov.sg/ynpwreset](https://go.gov.sg/ynpwreset)<br><br>
 Please refer to the guide(s) below on how to login to MIMS, Google Classroom and SLS.<br>
