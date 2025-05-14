@@ -2,6 +2,5 @@ collections:
   parentsandstudentsuseful-links:
     output: true
     order:
-      - E Learning Platforms.md
       - Direct School Admission (DSA Sec).md
       - Booklist, Uniform & School Bus.md
