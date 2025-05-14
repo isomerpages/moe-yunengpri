@@ -2,6 +2,7 @@ collections:
   keep-in-touch:
     output: true
     order:
+      - ParentsandStudentsUsefulLinks/E Learning Platforms.md
       - ParentsandStudentsUsefulLinks/Financial Matters.md
       - ParentsandStudentsUsefulLinks/Primary 1 Registration.md
       - ParentsandStudentsUsefulLinks/School Waiting List.md
