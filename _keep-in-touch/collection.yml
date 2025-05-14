@@ -2,6 +2,7 @@ collections:
   keep-in-touch:
     output: true
     order:
+      - ParentsandStudentsUsefulLinks/School eResource Repository (OPAC).md
       - ParentsandStudentsUsefulLinks/Sexuality Education (SEd).md
       - ParentsandStudentsUsefulLinks/Parents And Students Useful Links.md
       - ParentsandStudentsUsefulLinks/.keep
