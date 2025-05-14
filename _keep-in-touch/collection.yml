@@ -2,6 +2,7 @@ collections:
   keep-in-touch:
     output: true
     order:
+      - ParentsandStudentsUsefulLinks/Booklist, Uniform & School Bus.md
       - ParentsandStudentsUsefulLinks/Direct School Admission (DSA Sec).md
       - ParentsandStudentsUsefulLinks/E Learning Platforms.md
       - ParentsandStudentsUsefulLinks/Financial Matters.md
