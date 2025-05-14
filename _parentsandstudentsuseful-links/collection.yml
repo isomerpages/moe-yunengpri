@@ -2,7 +2,6 @@ collections:
   parentsandstudentsuseful-links:
     output: true
     order:
-      - School Waiting List.md
       - Primary 1 Registration.md
       - Financial Matters.md
       - E Learning Platforms.md
