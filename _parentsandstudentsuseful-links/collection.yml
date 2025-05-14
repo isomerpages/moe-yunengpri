@@ -2,7 +2,6 @@ collections:
   parentsandstudentsuseful-links:
     output: true
     order:
-      - Sexuality Education (SEd).md
       - School eResource Repository (OPAC).md
       - School Waiting List.md
       - Primary 1 Registration.md
