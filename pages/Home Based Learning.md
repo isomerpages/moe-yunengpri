@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning
-permalink: /hbl/
+permalink: /hblarchive/
 description: ""
 variant: markdown
 ---
@@ -19,7 +19,7 @@ c)&nbsp;&nbsp;&nbsp;&nbsp; Appreciate the Role of Technology in Learning: Studen
 Teachers will monitor students' learning progress and provide the necessary support i.e. providing feedback through the online platforms. <br>
 
 ##### Timetable and to-do-list<br>
-Click on the link below to access the to-do-list. **(Links will be uploaded soon)**<br>
+Click on the link below to access the to-do-list. <br>
 [Primary 1](https://drive.google.com/file/d/1db3yXX9PrAqBFV2dN-tvbxHdEKo03WSU/view?usp=drive_link)<br>
 [Primary 2](https://drive.google.com/file/d/1DLNdF5wdpFBGn5-YSrCberA1ZZKtgONB/view?usp=drive_link)<br>
 [Primary 3](https://drive.google.com/file/d/1m8M4zvObohgO_5J95o6b1vtQ9nUdEU9C/view?usp=drive_link)<br>
