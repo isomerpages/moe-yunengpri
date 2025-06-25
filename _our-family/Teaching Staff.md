@@ -54,7 +54,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew-chua_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Sally Chew</u></a>
-<br><a href="mailto:gao_qijie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Gao Qijie</u></a>
+<br><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wu Chin Min</u></a>
 <br><a href="mailto:agustina_huang_fang_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Agustina Huang</u></a>
 </p>
 </td>
@@ -140,7 +140,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rajeswarie_sundram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ravi</u></a>
-<br><a href="mailto:ng_chye_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Chye Huat</u></a>
+<br><a href="mailto:tan_xin_hui_shelwyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Shelwyn Tan</u></a>
 <br><a rel="noopener nofollow" target="_blank">Ms Carrie Lim</a>
 </p>
 </td>
