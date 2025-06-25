@@ -54,7 +54,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew-chua_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Sally Chew</u></a>
-<br><a href="mailto:gao_qijie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Gao Qijie</u></a>
+<br><a href="mailto:Wu_Chin_Min_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wu Chin Min</u></a>
 <br><a href="mailto:agustina_huang_fang_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Agustina Huang</u></a>
 </p>
 </td>
@@ -99,9 +99,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ngo_xiu_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Esther Cheng-Ngo Xiu Fen</u></a>
-<br><a href="mailto:eymani_helmi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Eymani</u></a>
+<p><a href="mailto:eymani_helmi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Eymani</u></a>
 <br><a href="mailto:herda_dolfata@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Herda</a>
+<br><a href="mailto:Lim_Chai_Har_Mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Loh Soo Meng</u></a>
 </p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rajeswarie_sundram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ravi</u></a>
-<br><a href="mailto:ng_chye_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Chye Huat</u></a>
+<br><a href="mailto:tan_xin_hui_shelwyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Shelwyn Tan</u></a>
 <br><a rel="noopener nofollow" target="_blank">Ms Carrie Lim</a>
 </p>
 </td>
@@ -152,7 +152,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_seow_wee_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ivy Tan</u></a>
-<br><a href="mailto:tan_meng_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tan Meng Kee</u></a>
+<br><a href="mailto:fathima_parvin_noormaideen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Fathima Parvin Binte</u></a>
+</p>
+<p><a href="mailto:Yuan_Minting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Yuan Minting</u></a>
 </p>
 </td>
 </tr>
@@ -198,7 +200,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zulaiha_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zulaiha</u></a>
 <br><a href="mailto:cai_hanfeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Cai Hanfeng</u></a>
-<br><a href="mailto:fathima_parvin_noormaideen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Fathima Parvin Binte</u></a>
+<br><a href="mailto:Zhang_Di_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zhang Di</u></a>
 </p>
 </td>
 </tr>
