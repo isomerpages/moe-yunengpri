@@ -39,10 +39,54 @@ article</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Healthy Meals School Canteen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Healthy Meals School Canteen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Healthy Meals School Canteen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Community in Bloom Awards</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Healthy Meals School Canteen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
