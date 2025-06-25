@@ -122,6 +122,20 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Division
+<br>(League 1):
+<br>Table Tennis Senior Boys
+<br>Table Tennis Senior Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Table Tennis Tier 4 Juniors Champion</p>
 </td>
 <td rowspan="1" colspan="1">
