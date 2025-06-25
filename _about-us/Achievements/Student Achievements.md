@@ -1352,6 +1352,21 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National English Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best writing selected for publication:
+<br>Tan Rui Qi
+<br>Tang Yan Wen Joshua
+<br>Yang Yu Xin, Emma
+<br>Toh Yu Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Wits and Words Debate Competition</p>
 </td>
 <td rowspan="1" colspan="1">
