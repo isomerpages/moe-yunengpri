@@ -20,7 +20,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.straitstimes.com/singapore/from-dri-fit-tees-to-cool-paint-s-pore-schools-beat-the-heat-with-unique-cooling-solutions" rel="noopener nofollow" target="_blank">From dri-fit tees to cool paint, S’pore schools beat the heat  with unique cooling solutions</a>
+<p><a href="https://www.straitstimes.com/singapore/from-dri-fit-tees-to-cool-paint-s-pore-schools-beat-the-heat-with-unique-cooling-solutions" rel="noopener nofollow" target="_blank">From dri-fit tees to cool paint, S’pore schools beat the heat with unique cooling solutions</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,7 +44,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.8world.com/singapore/yn89-aspirations-2451431" rel="noopener nofollow" target="_blank">育能小学举办双亲节活动 分享如何运用爱的五种语言</a>
+<p><a href="https://www.8world.com/singapore/yn89-aspirations-2451431" rel="noopener nofollow" target="_blank">育能小学办“母校愿景”庆典活动 让学生向母校和母亲致敬</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
