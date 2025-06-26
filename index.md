@@ -22,7 +22,6 @@ sections:
           url: https://www.yunengpri.moe.edu.sg/staff-useful-links/
   - infopic:
       title: E-Open House
-      subtitle: Add an image and text
       id: infopic
       description: Click here to read more
       button: Read
