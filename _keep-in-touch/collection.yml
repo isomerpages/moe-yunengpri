@@ -3,16 +3,16 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - ParentsandStudentsUsefulLinks/.keep
-      - ParentsandStudentsUsefulLinks/Parents And Students Useful Links.md
-      - ParentsandStudentsUsefulLinks/E Learning Platforms.md
-      - ParentsandStudentsUsefulLinks/Primary 1 Registration.md
-      - ParentsandStudentsUsefulLinks/Financial Matters.md
-      - ParentsandStudentsUsefulLinks/Booklist, Uniform & School Bus.md
-      - ParentsandStudentsUsefulLinks/Direct School Admission (DSA Sec).md
-      - ParentsandStudentsUsefulLinks/School Waiting List.md
-      - ParentsandStudentsUsefulLinks/School eResource Repository (OPAC).md
-      - ParentsandStudentsUsefulLinks/Sexuality Education (SEd).md
+      - Useful Links(Parents Students)/.keep
+      - Useful Links(Parents Students)/Parents And Students Useful Links.md
+      - Useful Links(Parents Students)/E Learning Platforms.md
+      - Useful Links(Parents Students)/Primary 1 Registration.md
+      - Useful Links(Parents Students)/Financial Matters.md
+      - Useful Links(Parents Students)/Booklist, Uniform & School Bus.md
+      - Useful Links(Parents Students)/Direct School Admission (DSA Sec).md
+      - Useful Links(Parents Students)/School Waiting List.md
+      - Useful Links(Parents Students)/School eResource Repository (OPAC).md
+      - Useful Links(Parents Students)/Sexuality Education (SEd).md
       - Staff Useful Links.md
       - Parents Gateway.md
       - Meet the Parents Session.md
