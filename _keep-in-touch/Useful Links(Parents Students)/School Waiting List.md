@@ -3,7 +3,7 @@ title: School Waiting List
 permalink: /school-waiting-list/
 description: ""
 variant: markdown
-third_nav_title: ParentsandStudentsUsefulLinks
+third_nav_title: Useful Links(Parents Students)
 ---
 Parents who wish to express their interest in registering their child with Yu Neng Primary School may use the form below to join the school waiting list.
 

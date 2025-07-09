@@ -3,7 +3,7 @@ title: Sexuality Education (SEd)
 permalink: /sexuality-education-sed/
 description: ""
 variant: tiptap
-third_nav_title: ParentsandStudentsUsefulLinks
+third_nav_title: Useful Links(Parents Students)
 ---
 <h4>YU NENG PRIMARY SCHOOL</h4>
 <h5>Moe Sexuality Education in Schools</h5>

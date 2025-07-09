@@ -2,7 +2,7 @@
 title: Parents And Students Useful Links
 permalink: /ps-useful-links/
 description: ""
-third_nav_title: ParentsandStudentsUsefulLinks
+third_nav_title: Useful Links(Parents Students)
 ---
 *   [E-Learning Platforms](https://yunengpri.moe.edu.sg/e-learning-platforms/)
 *   [School eResource Repository (OPAC)](https://schoolibrary.moe.edu.sg/yunengpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
