@@ -61,6 +61,8 @@ description: ""
 <br><a href="mailto:wang_mei_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Wang Mei Ann</u></a>
 <br><a href="mailto:alicia_tan_ee_kia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Alicia Tan</u></a>
 </p>
+<p><a href="mailto:hamidah_abdul_latheef@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hamidah Abdul Latheef</a>
+</p>
 </td>
 </tr>
 <tr>
