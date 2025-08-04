@@ -21,14 +21,6 @@ sections:
           description: ""
           url: https://www.yunengpri.moe.edu.sg/staff-useful-links/
   - infopic:
-      title: E-Open House
-      id: infopic
-      description: Click here to read more
-      button: Read
-      url: https://go.gov.sg/yneoh
-      image: /images/E_OPEN_HOUSE2025.png
-      alt: Image alt text
-  - infopic:
       title: YN90
       description: YN90 marks a special point in time for all Yu Neng students and staff.
       image: /images/ynlogosmall.png
