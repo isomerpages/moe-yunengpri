@@ -46,6 +46,19 @@ culture will stay with them for years to come.&nbsp;
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>We’d like to express our appreciation for the great work Mrs Sally Chew
+has done so far. Beyond the academic aspects, she has shown strong awareness
+and care for our child's overall well-being, including social and emotional
+development. We’re especially grateful for her attentiveness and thoughtful
+communication. Her supportive approach has made a positive difference for
+our child and for us as parents.
+<br>
+<br>Cheah Fen Ying, Linda
+<br>Parent of a student at Yu Neng Primary</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="2">
 <p>As a parent, I was truly inspired. Beyond academic achievements, what
 we hope for our children is to grow up with integrity, resilience, and
