@@ -2,6 +2,7 @@ collections:
   keep-in-touch:
     output: true
     order:
+      - Share A Compliment.md
       - Contact Us.md
       - Useful Links(Parents Students)/.keep
       - Useful Links(Parents Students)/Parents And Students Useful Links.md
