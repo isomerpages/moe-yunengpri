@@ -47,7 +47,7 @@ On 15 December 2020, our current principal, Mr Ng Yeow Ling, joined Yu Neng Prim
 
 The bell (currently in the school hall) was donated to the school by Mr Ng Hong Kok and his brothers after the Japanese Occupation.&nbsp;It was used by the school to signify the start of school, recess and dismissal till the 1980s. It was kept in store until it was displayed at the YN Gallery in 2015.&nbsp;
 
-Since reallocating in September 2016, the school rung the school bell to signify important school events and celebration of individual or team achievements.
+Since relocating in September 2016, the school rung the school bell to signify important school events and celebration of individual or team achievements.
 
 <img src="/images/school%20bell1.png" style="width:40%">
 
