@@ -32,7 +32,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Yok Joon Meng (HOD/EL &amp; SS)
 <br>Mr Low Hao Rong (HOD/PE &amp; CCA)
-<br>Ms Shelwyn Tan (SH/CCE Covering)
 <br>Ms Elizabeth Choo (Teacher)
 <br>Ms Alicia Tan (Corporate Support Officer)</p>
 </td>
