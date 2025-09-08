@@ -82,13 +82,13 @@ Parents are strongly encouraged to write back to your child via the link provide
 your child’s Mother Tongue classes when you click on the link. <br>Thank you..<br><br>
 			
 **P3 Appreciation Card link**<br><br>
-    <a target="_blank" href="https://padlet.com/lim_hl/3gr-fqbg2a7fm4vxk231">P3Graciousness</a><br>
-    <a target="_blank" href="https://padlet.com/lim_hl/3rp-ui46dogx7w6eok5l">P3Respect</a><br>
-    <a target="_blank" href="https://padlet.com/lim_hl/3ry-zkvz89uctkjq12t2">P3Responsibility</a><br>
-    <a target="_blank" href="https://padlet.com/lim_hl/3in-ituks5fgyzwll96m">P3Integrity</a><br>
-    <a target="_blank" href="https://padlet.com/lim_hl/3tm-md956oukmixf7vk6">P3Teamwork</a><br>
-    <a target="_blank" href="https://padlet.com/LIMHL/p3-ml-e-appreciation-card2024-45ezlyu8xupu4pxt">P3 Malay</a><br>
-    <a target="_blank" href="https://padlet.com/LIMHL/p3-cl-able-daxwywoiplsnd39l">3 able</a>
+    <a target="_blank" href="https://padlet.com/zhu_xj/remake-of-3gr-vswf7pm7l4bw2k42">P3Graciousness</a><br>
+    <a target="_blank" href="https://padlet.com/lim_hl/remake-of-3rp-pzqcp7d56pxt839p">P3Respect</a><br>
+    <a target="_blank" href="https://padlet.com/thia_yoke_ping/3ry-18-8-98bhcnhkd5vs2x4c">P3Responsibility</a><br>
+    <a target="_blank" href="https://padlet.com/mdmloke/3in-vydel0to5vctk3mr">P3Integrity</a><br>
+    <a target="_blank" href="https://padlet.com/mdmloke/3tm-i3dduzl1x1ctqjkp">P3Teamwork</a><br>
+    <a target="_blank" href="https://padlet.com/mdmloke/3tm-i3dduzl1x1ctqjkp">P3 Malay</a><br>
+    <a target="_blank" href="https://padlet.com/mdmloke/3able-rrxp1prtehpt0318">3 able</a>
 		</td>
 	</tr>
 </tbody></table><br>
