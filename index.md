@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       subtitle: Aspire, Learn & Lead
-      background: /images/banner 1.jpg
+      background: /images/Untitled_design__2_.png
       title: Yu Neng Primary School
       variant: image
       button: Send Yu Neng Messages and well wishes for YN90
