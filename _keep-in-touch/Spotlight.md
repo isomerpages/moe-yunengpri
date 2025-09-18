@@ -19,10 +19,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 74%;" height="auto" width="100%" alt="" src="/images/May_2025_Spotlight.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1hjOJDrNId1YGFmrOIHFekmtykqokuMIC/view?usp=sharing"><img style="width: 74%;" height="auto" width="100%" alt="" src="/images/May_2025_Spotlight.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
