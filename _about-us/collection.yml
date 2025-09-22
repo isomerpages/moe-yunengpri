@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - MOE Engagement Charter.md
       - School History.md
       - YN Celebrations/.keep
       - YN Celebrations/YN90 (2025).md
