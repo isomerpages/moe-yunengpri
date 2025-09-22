@@ -87,7 +87,7 @@ your child’s Mother Tongue classes when you click on the link. <br>Thank you..
     <a target="_blank" href="https://padlet.com/thia_yoke_ping/3ry-18-8-98bhcnhkd5vs2x4c">P3Responsibility</a><br>
     <a target="_blank" href="https://padlet.com/mdmloke/3in-vydel0to5vctk3mr">P3Integrity</a><br>
     <a target="_blank" href="https://padlet.com/mdmloke/3tm-i3dduzl1x1ctqjkp">P3Teamwork</a><br>
-    <a target="_blank" href="https://padlet.com/mdmloke/3tm-i3dduzl1x1ctqjkp">P3 Malay</a><br>
+    <a target="_blank" href="https://padlet.com/mdmloke/3ml-thank-you-card-u81vhtdbwx2j10vr">P3 Malay</a><br>
     <a target="_blank" href="https://padlet.com/tan_keng_bee/remake-of-3able-hxmggesybeg4dlqb">3 able</a>
 		</td>
 	</tr>
