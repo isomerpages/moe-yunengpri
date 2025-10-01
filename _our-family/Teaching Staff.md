@@ -273,7 +273,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zuhaila_md_jizan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zuhaila</u></a>
 <br><a href="mailto:bridget_wong_teo_soh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Bridget Wong</u></a>
-<br><a href="mailto:serene_low_li_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Serene Low</a>
+<br>
 </p>
 </td>
 </tr>
