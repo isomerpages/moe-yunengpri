@@ -20,6 +20,18 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.8world.com/singapore/yu-neng-pass-ball-2921746" rel="noopener noreferrer nofollow" target="_blank">庆祝创校90周年 育能小学传球活动缔造新加坡纪录 - 8world</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8World</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.straitstimes.com/singapore/from-dri-fit-tees-to-cool-paint-s-pore-schools-beat-the-heat-with-unique-cooling-solutions" rel="noopener nofollow" target="_blank">From dri-fit tees to cool paint, S’pore schools beat the heat with unique cooling solutions</a>
 </p>
 </td>
