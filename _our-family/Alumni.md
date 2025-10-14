@@ -4,8 +4,6 @@ permalink: /alumni/
 description: ""
 variant: markdown
 ---
-
-
 #### YU NENG ALUMNI ASSOCIATION EXECUTIVE COMMITTEE
 
 | Designation | Name |
