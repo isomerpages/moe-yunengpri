@@ -2,9 +2,8 @@
 title: Alumni
 permalink: /alumni/
 description: ""
+variant: markdown
 ---
-### ALUMNI
-
 #### YU NENG ALUMNI ASSOCIATION EXECUTIVE COMMITTEE
 
 | Designation | Name |
@@ -15,4 +14,4 @@ description: ""
 | Treasurer | Mr Chee Yoh Chuang |
 | Committee Member | Mr Chen Keng Nam<br>Mr Koh Cheng Hock<br>Mr Gng Yeo Thuang |
 
-To be a Yu Neng Alumni, download the [Alumni Application Form](/files/YU_NENG_PRIMARY_SCHOOL_ALUMNI_ASSOCIATION_2015.pdf). The completed form can be submitted to the school’s General Office.
+To be a Yu Neng Alumni, download the&nbsp;[Alumni Application Form](/files/Yu_Neng_Membership_Form_2.pdf). The completed form can be submitted to the school’s General Office.
