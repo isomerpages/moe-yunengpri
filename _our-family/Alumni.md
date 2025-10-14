@@ -4,7 +4,7 @@ permalink: /alumni/
 description: ""
 variant: markdown
 ---
-### ALUMNI
+
 
 #### YU NENG ALUMNI ASSOCIATION EXECUTIVE COMMITTEE
 
@@ -17,4 +17,3 @@ variant: markdown
 | Committee Member | Mr Chen Keng Nam<br>Mr Koh Cheng Hock<br>Mr Gng Yeo Thuang |
 
 To be a Yu Neng Alumni, download the&nbsp;[Alumni Application Form](/files/Yu_Neng_Membership_Form_2.pdf). The completed form can be submitted to the school’s General Office.
-
