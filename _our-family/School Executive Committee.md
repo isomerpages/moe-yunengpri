@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YNPS_School_Leaders.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YNPS_SL.png">
 </div>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
