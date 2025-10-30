@@ -337,60 +337,6 @@ and write accurately.</p>
 <tr>
 <td rowspan="1" colspan="3">
 <p></p>
-<p><strong><u>Student Learning Space (SLS) Design Challenge</u></strong>
-<br>Congratulations to the following teachers who participated in the Student
-Learning Space (SLS) Design Challenge 2018 and whose lesson was endorsed
-as Quality Lesson Design by the Educational Technology Division (ETD) MOE
-and East Zone ICT Committee.</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Award</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zuraida Akbar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SLS Design Challenge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Shawn Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SLS Design Challenge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Royston Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SLS Design Challenge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
 <p><strong><u>MOE Excellent Service Award (EXSA) Award</u></strong>
 </p>
 </td>
