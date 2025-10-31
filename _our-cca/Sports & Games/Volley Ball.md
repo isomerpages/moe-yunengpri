@@ -19,6 +19,6 @@ In addition, the regular trainings will develop their social and emotional skill
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Ms Elizabeth Choo Min<br>Ms Carrie Lam<br>Mdm Ong Lee Eng| Mondays: 3.30pm-5.30pm<br>Fridays: 2pm to 5pm<br>*(Please refer to the schedule given each semester).* | Mondays: Hall<br>Fridays: Indoor Sports Hall (ISH) Level 1 |
+| Ms Elizabeth Choo Min<br>Mdm Miaw Jeng| Mondays: 3.30pm-5.30pm<br>Fridays: 2pm to 5pm<br>*(Please refer to the schedule given each semester).* | Mondays: Hall<br>Fridays: Indoor Sports Hall (ISH) Level 1 |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-3qpIXzSSZM?si=O36SGZa8sKiJKnWx" height="315" width="560"></iframe>
