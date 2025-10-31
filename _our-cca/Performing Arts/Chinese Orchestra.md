@@ -17,6 +17,6 @@ The Chinese Orchestra aims to nurture students into passionate individuals with 
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Ms Lim Hui Ling <br>Ms Phan Huey Ju<br>Mrs Sally Chew<br>Mdm Loke Yik Pey<br>Ms Tan Keng Bee<br>Mdm Yong Li Ling<br>Wu Chin Min<br>Mdm Yuan Minting | Mondays – 3.30pm to 5:30pm<br>Tuesdays – 2pm to 5pm<br>*(Please refer to the schedule given each semester).* | Monday: Band Room <br>Tuesday: 4RY to 4TM and 5TM |
+| Ms Lim Hui Ling <br>Ms Phan Huey Ju<br>Mdm Loke Yik Pey<br>Ms Tan Keng Bee<br>Mdm Ong Lee Eng<br>Wu Chin Min | Mondays – 3.30pm to 5:30pm<br>Tuesdays – 2pm to 5pm<br>*(Please refer to the schedule given each semester).* | Monday: Band Room <br>Tuesday: 4RY to 4TM and 5TM |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-6YSyeBNTgg?si=E1lkxguHHS0FiqId" height="315" width="560"></iframe>
