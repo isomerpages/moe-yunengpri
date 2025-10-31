@@ -16,6 +16,13 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<h4>October</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/L109_LTP_Oct_2025_.pdf" rel="noopener nofollow" target="_blank">Letter To Parents</a>
+</p>
+</li>
+</ul>
 <h4>September</h4>
 <ul data-tight="true" class="tight">
 <li>
