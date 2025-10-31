@@ -19,6 +19,6 @@ Through the post-training reflections, students will gain a deeper knowledge and
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mdm Jessamine Tan <br>Ms Jasmine Teo<br>Mdm Bridget Wong | Mondays: 3.30pm to 5.30pm <br>Tuesdays: 2pm to 4pm <br>*(Please refer to the schedules given each semester).* | Indoor Sports Hall (ISH) Level 1 |
+| Mdm Jessamine Tan <br>Mr Lionel<br>Mdm Bridget Wong <br>Mdm Tasneem | Mondays: 3.30pm to 5.30pm <br>Tuesdays: 2pm to 4pm <br>*(Please refer to the schedules given each semester).* | Indoor Sports Hall (ISH) Level 1 |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pw2ECbXlP8c?si=gk54Ye0EbLBGDuY7" height="315" width="560"></iframe>
