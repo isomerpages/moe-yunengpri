@@ -20,6 +20,6 @@ Working in packs (teams) places responsibility on their young shoulders and teac
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mdm Siti Aminah <br>Ms Leelanti | Tuesdays: 2pm to 4pm <br> *(Please refer to the schedule given each semester).* | Teaching Lab |
+| Mdm Siti Aminah <br>Ms Leelakanti | Tuesdays: 2pm to 4pm <br> *(Please refer to the schedule given each semester).* | Teaching Lab |
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wYVabXNCeDA?si=hJfB3UrBngjOSvlk" height="315" width="560"></iframe>
