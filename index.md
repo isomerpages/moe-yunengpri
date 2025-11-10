@@ -31,18 +31,12 @@ sections:
       title: Celebrating Writing
       id: infopic
       button: Read
-      url: https://drive.google.com/file/d/1YVkWh2t0l3uB7bnlI7Gru2TPj7NuyFWL/view?usp=sharing
-      image: /images/Celebrating_Writing.png
+      url: http://go.gov.sg/celebratingwriting25
+      image: /images/Celebrating_Writing_2025.jpg
       alt: Image alt text
-  - infopic:
-      title: Celebrating Writing
-      id: infopic
-      description: As the year draws to a close, our school has once again published a
-        compilation of stories by our students.
-      button: Read
-      url: /english-language/
-      image: /images/celebrating writing.jpg
-      alt: Image alt text
+      description: We are thrilled to share the publication of Celebrating Writing
+        2025, our annual collection that proudly recognises and celebrates our
+        students.
   - infopic:
       title: ALP (ICT)
       description: Read more about our ALP in Info-Comm Technology.

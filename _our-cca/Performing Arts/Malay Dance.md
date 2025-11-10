@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-
-
 <table>
 	<tbody><tr>
 		<td><img src="/images/MalayDance-1.jpeg"></td>
