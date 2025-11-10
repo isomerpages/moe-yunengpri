@@ -31,7 +31,7 @@ sections:
       title: Celebrating Writing
       id: infopic
       button: Read
-      url: http://gov.gov.sg/celebratingwriting25
+      url: http://go.gov.sg/celebratingwriting25
       image: /images/Celebrating_Writing_2025.jpg
       alt: Image alt text
       description: We are thrilled to share the publication of Celebrating Writing
