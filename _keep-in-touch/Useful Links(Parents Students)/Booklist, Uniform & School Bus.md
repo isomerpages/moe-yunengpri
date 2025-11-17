@@ -21,7 +21,7 @@ third_nav_title: Useful Links(Parents Students)
 <br><a href="/files/P6__STD___HMT__2026.pdf" rel="noopener nofollow" target="_blank">P6 (STD &amp; HMT)</a>
 </p>
 <h4>Uniform</h4>
-<p><a href="/files/Jeep_Sing_Uniform_2025.pdf" rel="noopener nofollow" target="_blank">Jeep Sing Uniform 2025</a>
+<p><a href="/files/Jeep_Sing_School_Uniform_for_Yu_Neng_Primary_School_2026.pdf" rel="noopener nofollow" target="_blank">Jeep Sing Uniform 2026</a>
 </p>
 <h4>School Bus</h4>
 <p><a href="/files/Annex_C___Information_Sheet_on_School_Bus_Services.pdf" rel="noopener nofollow" target="_blank">Annex C - Information Sheet on School Bus Services</a>
