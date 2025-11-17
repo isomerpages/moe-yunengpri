@@ -24,7 +24,5 @@ third_nav_title: Useful Links(Parents Students)
 <p><a href="/files/Jeep_Sing_School_Uniform_for_Yu_Neng_Primary_School_2026.pdf" rel="noopener nofollow" target="_blank">Jeep Sing Uniform 2026</a>
 </p>
 <h4>School Bus</h4>
-<p><a href="/files/Annex_C___Information_Sheet_on_School_Bus_Services.pdf" rel="noopener nofollow" target="_blank">Annex C - Information Sheet on School Bus Services</a>
-<br><a href="/files/Yu_Neng_Primary_School_Bus_Service_Contract_Terms___Conditions.pdf" rel="noopener nofollow" target="_blank">Yu Neng Primary School Bus Service Contract Terms &amp; Conditions</a>
-<br><a href="/files/Yu_Neng_Primary_School_Bus_Service_Renewal_Form.pdf" rel="noopener nofollow" target="_blank">Yu Neng Primary School Bus Service Renewal F</a>
+<p><a href="/files/Information_Sheet_on_School_Bus_Services_2026.pdf" rel="noopener nofollow" target="_blank">Information on School Bus Services 2026</a>
 </p>
