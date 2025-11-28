@@ -66,3 +66,9 @@ The YN Alumni has also launched a special YN88 publication titled "With All My V
 [Click here for YN88 Publication "With All My Voice".](https://go.gov.sg/yn88wamv)
 
 [Click here for YN80 Publication "With All My Heart".](https://bit.ly/3DVczWF)
+
+
+#### OUR 90TH ANNIVERSARY
+
+Yu Neng celebrates 90th Anniversary in 2025! <br>
+See link for more details [https://www.yunengpri.moe.edu.sg/yn90-2025/](https://www.yunengpri.moe.edu.sg/yn90-2025/)
