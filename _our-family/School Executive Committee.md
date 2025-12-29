@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>'Ms Tan Ming Yueh</p>
+<p>Ms Tan Ming Yueh</p>
 </td>
 </tr>
 <tr>
