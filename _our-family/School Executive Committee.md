@@ -122,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH / Student Leadership </strong>
+<p><strong>SH / Student Leadership</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,7 +181,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:choo_min_elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Elizabeth Choo Min</u></a>
+</p>
 </td>
 </tr>
 <tr>
