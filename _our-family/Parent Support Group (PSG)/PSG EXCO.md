@@ -39,68 +39,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4>EXCO Members</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chairperson:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Elina Gwee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairperson:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chua Chern Yi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Outreach:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rachel Lai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Treasurer:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>N Shimah Jailanie</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Creative:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stephanie Poon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Events:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ong San San
-<br>Lee Hooi Ling
-<br>Hiew Chia Hia
-<br>Gan Ai Choo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Super Dads:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Michael Ow
-<br>Tan Zu Wei
-<br>Neil Aaron Munas</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco.jpg">
+</div>
 </td>
 </tr>
 <tr>
