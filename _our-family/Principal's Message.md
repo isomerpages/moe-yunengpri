@@ -78,7 +78,8 @@ And to our dedicated staff — thank you for your unwavering commitment to
 excellence in learning and care.</p>
 <p>Let us continue this mindful journey together — shaping hearts and minds,
 and writing the next exciting chapter of our Yu Neng story.</p>
-<p>
+<p></p>
+<p><a href="https://www.spen-network.com/blog/mindfulness-in-education-and-the-inner-work-of-teaching" rel="noopener noreferrer nofollow" target="_blank">https://www.spen-network.com/blog/mindfulness-in-education-and-the-inner-work-of-teaching</a>
 <br>
 </p>
 <p><strong>Ng Yeow Ling</strong>
