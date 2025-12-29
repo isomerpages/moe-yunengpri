@@ -43,6 +43,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HOD / Mother Tongue Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ming Yueh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>HOD / Mathematics (Covering)</strong>
 </p>
 </td>
@@ -113,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH / Student Leadership / AYH</strong>
+<p><strong>SH / Student Leadership</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,11 +132,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH / Chinese Language &amp; Culture</strong>
+<p><strong>SH / Social Studies (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cai_hanfeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Cai Hanfeng</u></a>
+<p><a href="mailto:claire_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Claire Yeo</u></a>
 </p>
 </td>
 </tr>
@@ -139,6 +148,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_pei_ying_janice@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Janice Ang</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shaline Tan Yen Ling</p>
 </td>
 </tr>
 <tr>
@@ -159,11 +177,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Asst. Year Head (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choo_min_elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Elizabeth Choo Min</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Year Head / P3 &amp; P4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_lie_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ang Lie Chin</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Asst. Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_boon_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ong Boon Leng</u></a>
 </p>
 </td>
 </tr>
