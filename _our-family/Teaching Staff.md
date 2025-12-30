@@ -151,7 +151,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shamana_khatu_kassim_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Shamana</u></a>
 <br><a href="mailto:phan_huey_ju@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Phan Huey Ju</u></a>
-<br><u>Mdm Tasneem</u>
+<br><a href="TASNEEM_ABDUL_HAMID_C@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tasneem</a>
 </p>
 </td>
 </tr>
@@ -494,7 +494,8 @@ variant: tiptap
 <p><a href="mailto:mahendran_shamala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Kanesan</u></a>
 <br><a href="mailto:dewi_wati_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Dewi</u></a>
 <br><a href="mailto:norashikin_mohd_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Norashikin</u></a>
-<br>Mdm Suraya</p>
+<br><a href="Mailto:Suraya_Mohamed_Ismail@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Suraya</a>
+</p>
 </td>
 </tr>
 </tbody>
