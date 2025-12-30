@@ -18,10 +18,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 74%;" height="auto" width="100%" alt="" src="/images/Spotlight_Nov_2025.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1xeHtlg9iidO83cyrKnDyU90lDJKvc5pC/view?usp=drive_link"><img style="width: 74%;" height="auto" width="100%" alt="" src="/images/Spotlight_Nov_2025.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1hjOJDrNId1YGFmrOIHFekmtykqokuMIC/view?usp=sharing"><img style="width: 64%;" height="auto" width="100%" alt="" src="/images/May_2025_Spotlight.png"></a>
 </td>
