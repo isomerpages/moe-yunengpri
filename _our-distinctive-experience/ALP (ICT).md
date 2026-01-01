@@ -1,13 +1,11 @@
 ---
-title: Applied Learning in ICT
+title: ALP (ICT)
 permalink: /applied-learning-programme-in-ict/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Our Vision</strong></h3>
-<p>We are committed to developing future-ready digital learners who are firmly
-anchored in values, preparing them for the challenges and opportunities
-of tomorrow's world.</p>
+<h3><strong>Our Mission</strong></h3>
+<p>Tech to Transform: Nurturing Digitally Empowered Leaders</p>
 <p></p>
 <h4><strong>Why ICT Matters</strong></h4>
 <p>In today's digital age, technology literacy is as fundamental as reading
@@ -47,28 +45,24 @@ skills and media literacy.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Primary 1: Osmo Coding Awbie - Making first steps into coding through
-playful learning</p>
+<p>Primary 1: <strong>Tale-Bot - Making first steps into coding through playful learning</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_23_at_2_56_01_PM.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Talebot2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_23_at_10_09_24_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talebot01.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_23_at_2_56_02_PM__1_.jpg">
-</div>
 </td>
 </tr>
 </tbody>
@@ -208,7 +202,7 @@ our future</p>
 <p><strong>Digital Multimedia (Creative Arts)</strong>
 <br>Students express their creativity through various digital mediums:</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Primary 3: Cody Rocky - Design thinking for solutions
+Primary 3: Codey Rocky - Design thinking for solutions
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Primary 4: Scratch Programme - Making dynamic visual content with programming
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -238,6 +232,6 @@ Primary School embarks on a journey to become digitally empowered, values-driven
 individuals ready to make their mark in an increasingly connected world.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xc2hRyL7N6I?si=8aSoWgg91HBXZIoY"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FzY-LvpNsHk?si=4Lt6llaZqCF2W7pY"></iframe>
 </div>
 <p></p>

@@ -2,8 +2,8 @@ collections:
   our-distinctive-experience:
     output: true
     order:
-      - Applied Learning in ICT.md
-      - Learning for Life Programme.md
+      - ALP (ICT).md
+      - LLP (Sports).md
       - CCA/.keep
       - CCA/CCA Overview.md
       - CCA/Sports & Games.md

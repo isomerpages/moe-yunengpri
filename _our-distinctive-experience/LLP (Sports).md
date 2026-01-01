@@ -1,5 +1,5 @@
 ---
-title: Learning for Life Programme
+title: LLP (Sports)
 permalink: /life-long-learning-programme/
 description: ""
 variant: markdown

@@ -47,7 +47,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ming Yueh</p>
+<p><a href="mailto:tan_ming_yueh@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Ming Yueh</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -142,21 +143,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SH/English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shaline Tan Yen Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>LH / Mathematics (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_pei_ying_janice@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Janice Ang</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH/English</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Shaline Tan Yen Ling</p>
 </td>
 </tr>
 <tr>
@@ -289,6 +290,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="loke_yik_pey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Loke Yik Pey</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Senior Teacher / Music</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Shao Wei</p>
 </td>
 </tr>
 </tbody>

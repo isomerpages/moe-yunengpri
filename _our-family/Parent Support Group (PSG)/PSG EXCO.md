@@ -39,9 +39,61 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco.jpg">
-</div>
+<h4>PSG Exco Members</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Advisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elina Gwee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Chern Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rachel Lai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretariat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woo Ern Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tresurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hiew Chai Hia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N. Shimah
+<br>Jailanie
+<br>Wong Siao Ning
+<br>Lee Hooi Ling
+<br>Nga Guang Jenq
+<br>Tan Zu Wei
+<br>Michael Ow</p>
 </td>
 </tr>
 <tr>
