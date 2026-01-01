@@ -208,7 +208,7 @@ our future</p>
 <p><strong>Digital Multimedia (Creative Arts)</strong>
 <br>Students express their creativity through various digital mediums:</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Primary 3: Cody Rocky - Design thinking for solutions
+Primary 3: Codey Rocky - Design thinking for solutions
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Primary 4: Scratch Programme - Making dynamic visual content with programming
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
