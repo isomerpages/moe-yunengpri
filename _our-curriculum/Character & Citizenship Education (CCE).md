@@ -8,8 +8,10 @@ variant: tiptap
 <p>To nurture socially and emotionally competent students grounded in GR3IT,
 future-ready, and committed to making a positive impact in their communities.</p>
 <p></p>
-<h4>CCE Aims to Develop In Our Students:</h4>
-<p><strong><u>Good Character</u></strong>
+<h4>Why CCE Matters?</h4>
+<p>CCE Aims to Develop In Our Students:
+<br>
+<br><strong><u>Good Character</u></strong>
 <br>Have a sound moral compass and a strong sense of right and wrong, think
 critically and ethically, be discerning in judgment, take responsibility
 for choices and actions, be caring towards others and strive for excellence;</p>
