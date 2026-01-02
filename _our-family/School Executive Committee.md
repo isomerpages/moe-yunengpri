@@ -298,7 +298,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Shao Wei</p>
+<p><a href="loh_shao_wei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Loh Shao Wei</a>
+</p>
 </td>
 </tr>
 </tbody>
