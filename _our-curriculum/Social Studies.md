@@ -32,6 +32,9 @@ responsibilities toward the nation’s future.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
+</div>
 <h4>The Yu Neng Difference</h4>
 <p>What sets the Social Studies programme at Yu Neng Primary School apart
 is the deliberate shift from <strong>content consumption</strong> to <strong>active inquiry</strong>.
