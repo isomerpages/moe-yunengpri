@@ -44,6 +44,16 @@ issues
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
+<h4>The Yu Neng Difference</h4>
+<p>At Yu Neng Primary School, the English Language curriculum distinguishes
+itself by shifting the focus from classroom theory to <strong>meaningful real-life application</strong>.
+Our approach ensures that every skill learnt is immediately put into practice
+within authentic contexts.</p>
+<p>By grounding the curriculum in the <strong>PACC framework (Purpose, Audience, Context, and Culture)</strong>,
+we move beyond textbook exercises. Whether it is through the <strong>Flat Stanley</strong> and <strong>Project Pen Pal</strong> initiatives—where
+writing becomes a tool for genuine social connection—or the <strong>Say it in 90s</strong> platform
+that develops real-world oratorical confidence, our students learn that
+language is a powerful vehicle for influence. This emphasis on "learning
+by doing" transforms students into purposeful communicators who can navigate
+diverse audiences and real-world challenges with ease.</p>
 <p></p>
