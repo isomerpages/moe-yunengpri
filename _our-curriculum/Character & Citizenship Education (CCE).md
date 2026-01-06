@@ -8,21 +8,21 @@ variant: tiptap
 <p>To nurture socially and emotionally competent students grounded in GR3IT,
 future-ready, and committed to making a positive impact in their communities.</p>
 <p></p>
-<h4>CCE Aims to Develop In Our Students: <br></h4>
-<p><strong><u>Good Character</u></strong>
+<h4>Why CCE Matters?<br></h4>
+<p><strong>CCE Aims to Develop In Our Students: <br></strong><u>Good Character</u>
 <br>Have a sound moral compass and a strong sense of right and wrong, think
 critically and ethically, be discerning in judgment, take responsibility
 for choices and actions, be caring towards others and strive for excellence;</p>
-<p><strong><u>Resilience and Social-Emotional Well-Being</u></strong>
+<p><u>Resilience and Social-Emotional Well-Being</u>
 <br>Have a balanced sense of self, form healthy relationships, be resilient
 when faced with challenges, find meaning in life, and have a sense of gratitude
 and appreciation;</p>
-<p><strong><u>Future Readiness</u></strong>
+<p><u>Future Readiness</u>
 <br>Have a sense of purpose in life, develop the dispositions of adaptability
 and lifelong learning so as to be able to navigate education and career
 pathways purposefully and take on the challenges of the future, including
 the world of work and life; and</p>
-<p><strong><u>Active Citizenship</u></strong>
+<p><u>Active Citizenship</u>
 <br>Develop a strong national identity based on a sense of belonging to the
 nation, a sense of hope in themselves and the future, an awareness of the
 reality of Singapore’s vulnerabilities and constraints, and the will to
