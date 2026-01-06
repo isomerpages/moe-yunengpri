@@ -165,7 +165,7 @@ self-directed and ‘unstructured’ play.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/IMG20210413Recess-Play-300x225.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/IMG20210413Recess-Play-300x225.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,16 +174,7 @@ self-directed and ‘unstructured’ play.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>
-<br><strong>P2 Talent Identification Programme (Sports)</strong>
-<br>
-<br>Provides opportunity for selected P2 students to gain greater exposure
-and experience to the expected rigor and demand of the sporting CCA of
-their choice and interest. Selected P2 will be invited to participate in
-the CCA enrichment in their talented area. At the end of the training,
-those with potential will be invited to join the CCA when they are in P3.
-However, they still need to go through the CCA selection process and choose
-a CCA of their choice.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -224,31 +215,6 @@ and make a difference to the community. Pupils are also given opportunities
 to take the lead to contribute to the school and the community.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>
-<br><strong>Sports Motivational Talk &amp; Learning Journeys</strong>
-<br>
-<br>This programme is opened only to students from Sports CCAs, To inspire
-in our students through sports sharing, appreciation and experiential learning.
-They will be invited to a learning journey to visit places such as Sports
-Museum, Sports Hub and/or Sports School to know our Past, appreciate our
-Present and understand our Future in sports development.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Motivational-Talk-300x283.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <ol start="3" data-tight="true" class="tight">
@@ -279,16 +245,14 @@ major sporting events to our students via SLS and assembly talks.</p>
 <p>
 <br><strong>Sports &amp; Cultural Immersion Programme</strong>
 <br>
-<br>To enhance global awareness in our students through sports education,
-experiential learning and cultural appreciation. Also to develop 21st century
-competencies such as global awareness and cross-cultural skills in our
-students so as to prepare them to thrive in the age of globalisation. Selected
-students in this programme will have a formal visit to our overseas partner
-school(s) and interact with their counterparts. Our students will attend
-lessons to experience life as a student there and participate in Sports
-to exchange pointers. They will also be engaged in cultural and hands-on
-activities which allow them to have fun and at the same time have a better
-understanding of their culture.</p>
+<br>This programme aims to enhance students’ global awareness through sports
+education, experiential learning, and cultural appreciation. It also seeks
+to develop 21st-century competencies such as global awareness and cross-cultural
+skills, preparing students to thrive in an increasingly globalised world.</p>
+<p>Selected students will engage in online interactions with overseas partner
+schools, allowing them to connect with their counterparts while exchanging
+ideas and experiences. Through these interactions, students will acquire
+new knowledge while sharing Singapore’s culture and</p>
 </td>
 </tr>
 <tr>
