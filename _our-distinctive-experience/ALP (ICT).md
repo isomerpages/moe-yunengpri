@@ -29,176 +29,25 @@ to their community.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>Our Innovative Learning Journey</strong></h4>
+<h4><strong>Activities</strong></h4>
 <p><strong>Baseline ICT Standards &amp; New Media Literacies</strong>
 <br>From Primary 1 to 6, students progressively build their digital foundation
 through carefully structured learning experiences that emphasise both technical
 skills and media literacy.</p>
 <p><strong>Tech4Good Programme</strong>
 <br>Our exciting age-appropriate coding journey includes:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Primary 1: <strong>Tale-Bot - Making first steps into coding through playful learning</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Talebot2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talebot01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Primary 2: Matalab - Exploring basic programming concepts through hands-on
-activities</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_14_at_10_12_12_AM__1_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_14_at_10_12_13_AM__1_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_14_at_10_09_31_AM__23_.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Primary 3: Codey Rocky - Advancing coding skills with interactive robotics</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7750.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7749.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7737.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Primary 5: Minecraft - Building virtual worlds while learning computational
-thinking</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/M3.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/m2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/m1.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Primary 6: Artificial Intelligence - Understanding AI and its impact on
-our future</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_03_07_at_10_32_19_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/28.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_03_07_at_10_32_18_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/29.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_03_07_at_10_32_18_AM__1_.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p><strong>Digital Multimedia (Creative Arts)</strong>
 <br>Students express their creativity through various digital mediums:</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
