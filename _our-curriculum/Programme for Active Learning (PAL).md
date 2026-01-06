@@ -2,31 +2,72 @@
 title: Programme for Active Learning (PAL)
 permalink: /creative-arts-and-pal/programme-for-active-learning-pal/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### Objective / Goals
-
-<h5><u> Vision </u></h5>
-
-*   Confident, curious and co-operative learners
-
-<h5><u> Objectives </u></h5>
-
-*   To develop students’ confidence and the ability to express themselves effectively.
-*   To develop students to be curious learners&nbsp; and have&nbsp; a positive attitude towards&nbsp; learning.&nbsp;
-*   To provide students the opportunities to cooperate and enjoy teamwork.
-
-<table>
-	<tbody><tr>
-		<td><img src="/images/Outdoor-Education.jpg"></td>
-		<td><img src="/images/Sposrts-Games-1024x768.jpg"></td>
-		<td><img src="/images/Visual-Art-1024x768.jpg"></td>
-	</tr>
-	<tr>
-		<td><b><u> Outdoor Education </u></b></td>
-		<td><b><u> Sports &amp; Games </u></b></td>
-		<td><b><u> Visual Art </u></b></td>
-	</tr>
-</tbody></table>
-
-PAL in Yu Neng aims to nurture students to be passionate, caring and engaged learners. We hope to develop in each child&nbsp; a curious mind about their environment and build a positive attitude towards learning. Students are provided with different learning experiences and opportunities to develop the 21 CC competencies and social and emotional competencies.During PAL Visual Art lessons, students explore ideas using art materials and learn creative ways to share and work in their teams.&nbsp; For PAL Drama lessons, students work in groups to enact a given scenario or take the perspective of a character in the story to solve a problem. PAL Music lessons encourage students to engage in musical games and to enjoy creative music making with musical instruments. For the Sports and Games PAL module, students learn the importance of teamwork when playing team games and creating their own games to share with their friends. Outdoor Education skills such as map reading, pacing, first aid and tent pitching equip pupils with skills for the great outdoors and at the same time provide students opportunities to cooperate, work together and listen to one another’s opinions in a&nbsp;fun way.&nbsp; At the end of every lesson, time is allocated for students to express their thoughts and reflect on their learning experiences.
+<h4>Our Mission</h4>
+<p>Confident, curious and co-operative learners</p>
+<p></p>
+<h4>Why PAL Matters</h4>
+<p>Our Programme for Active Learning recognises the critical importance of
+holistic development in nurturing confident, engaged, and collaborative
+learners. PAL provides essential opportunities for students to develop
+beyond academic achievement, fostering personal growth and social skills
+that form the foundation for lifelong success.</p>
+<p>We are committed to developing students' confidence and self-expression
+capabilities through diverse, hands-on learning experiences. PAL creates
+supportive environments where students can explore their potential, take
+creative risks, and develop the assurance to communicate their ideas effectively
+across various contexts.</p>
+<p>PAL emphasises collaborative learning experiences that develop essential
+teamwork skills and social competencies. Through carefully structured group
+activities, students learn to cooperate effectively, appreciate diverse
+perspectives, and find genuine enjoyment in collective achievement.</p>
+<p>Through PAL, we prepare students not only for academic success but for
+active citizenship and meaningful participation in their communities, equipped
+with the confidence, curiosity, and collaborative skills essential for
+thriving in an interconnected world.</p>
+<p></p>
+<h4>Our Key Programmes</h4>
+<p><strong>Programme for Active Learning (PAL) Modules</strong>
+<br>Our Programme for Active Learning offers carefully designed modules that
+provide students with diverse experiential learning opportunities across
+multiple domains. These modules are strategically structured to support
+developmental progression and ensure comprehensive exposure to various
+learning experiences.</p>
+<p><strong>Primary 1 Programme</strong>
+<br>Primary 1 students engage in three foundational modules that establish
+essential skills and positive learning attitudes. The Music and Movement
+module develops rhythmic awareness, coordination, and creative expression
+through integrated musical and physical activities. Students explore sound,
+rhythm, and movement whilst building confidence in creative self-expression.</p>
+<p>The Visual Arts module introduces students to fundamental artistic concepts
+and techniques, encouraging creative exploration and visual communication
+skills. Through hands-on activities, students develop fine motor skills,
+aesthetic appreciation, and the ability to express ideas through various
+artistic media.</p>
+<p>The Sports and Games module focuses on developing gross motor skills,
+teamwork, and sportsmanship through age-appropriate physical activities.
+Students learn fundamental movement skills whilst experiencing the joy
+of active participation and collaborative play.</p>
+<p><strong>Primary 2 Programme</strong>
+<br>Primary 2 students advance to three complementary modules that build upon
+foundational skills whilst introducing new areas of exploration. The Outdoor
+Education module connects students with their natural environment, developing
+environmental awareness, problem-solving skills, and appreciation for outdoor
+activities through structured exploration and discovery-based learning.</p>
+<p>Students continue their artistic development through the Visual Arts module,
+progressing to more sophisticated techniques and concepts whilst maintaining
+focus on creative expression and aesthetic development.</p>
+<p>The Drama module introduces students to theatrical expression, developing
+communication skills, creativity, and confidence through role-play, storytelling,
+and performance activities. This module enhances verbal and non-verbal
+communication whilst fostering imagination and collaborative creativity.</p>
+<p></p>
+<h4>Activities</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25.png">
+</div>
+<p></p>
