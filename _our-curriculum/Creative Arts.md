@@ -16,7 +16,7 @@ voices whilst developing critical thinking skills and cultural awareness.
 Our approach emphasises both individual expression and collaborative learning,
 fostering an environment where creativity flourishes alongside personal
 growth and social responsibility.</p>
-<h4>Why Arts matters</h4>
+<h4>Why Art matters</h4>
 <p>Our art programme recognises the fundamental role of visual arts in developing
 well-rounded, culturally literate individuals. We are committed to fostering
 deep engagement with artistic practice whilst nurturing students' creative
