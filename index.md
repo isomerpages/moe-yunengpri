@@ -21,11 +21,12 @@ sections:
           description: ""
           url: https://www.yunengpri.moe.edu.sg/staff-useful-links/
   - infopic:
-      title: YN90
-      description: YN90 marks a special point in time for all Yu Neng students and staff.
-      image: /images/ynlogosmall.png
+      title: YN91
+      description: YN91 marks a special point in time for all Yu Neng students and
+        staff. Coming Soon
+      image: /images/Untitled_design__5_.png
       alt: Image alt text
-      url: https://www.yunengpri.moe.edu.sg/yn90-2025/
+      url: https://www.yunengpri.moe.edu.sg/
       button: READ
   - infopic:
       title: Celebrating Writing
