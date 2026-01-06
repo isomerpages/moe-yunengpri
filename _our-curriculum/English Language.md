@@ -11,7 +11,7 @@ nurture curiosity and literacy, equipping learners to express ideas with
 purpose, clarity and intent. We inspire a lifelong love for the English
 language and humanities, preparing every child to navigate the world with
 confidence.</p>
-<h4>Why EL matters</h4>
+<h4>Why English Language matters</h4>
 <p>The acquisition of English Language skills play an important role in developing
 students to communicate with empathy, read with discernment and inquire
 with creativity, as well as equip them to use standard English effectively
