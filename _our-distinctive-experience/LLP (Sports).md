@@ -19,7 +19,7 @@ put values into action, and encourage students to contribute meaningfully
 to the community. In addition, the programme seeks to enhance students’
 cultural and global awareness through sports education, appreciation, and
 experiential learning.</p>
-<h4>Key Programmes</h4>
+<h4>Our Key Programmes</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>GOal Play: Sports Discover &amp; Sports Grow</strong>
@@ -327,4 +327,15 @@ understanding of their culture.</p>
 </tr>
 </tbody>
 </table>
+<h4>The Yu Neng Difference</h4>
+<p>Building on the syllabus, we place strong emphasis on students’ active
+participation. Guided by this direction, most programmes and activities
+are designed to enhance students’ learning experiences and are anchored
+in the school’s values to develop their character and positive values.</p>
+<p><strong><u>6Year Programmes in Yu Neng</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
 <p></p>
