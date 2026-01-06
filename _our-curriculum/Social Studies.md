@@ -2,50 +2,45 @@
 title: Social Studies
 permalink: /social-studies-learning-journeys/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### Objectives
-
-* Develop students into informed, concerned and participative citizens
-
-* Empower students to be confident and self-directed learners
-
-Our Social Studies curriculum prepares our students to be citizens of tomorrow by helping them understand the connections within Singapore, as well as between Singapore and the world. Through this, we seek to inculcate values that define the Singaporean identity in our students.
-
-In our classrooms, students are encouraged to question and inquire about the world around them, with a special emphasis on real-world issues that impact their lives. This not only equips them with relevant knowledge but also hones their critical and reflective thinking skills. It creates an safe environment where students learn to appreciate different perspectives and develop care and empathy for others.
-
-<img src="/images/The-singapore-social-studies-curriculum.jpg" style="width:40%">
-
-
-
-#### Syllabus
-
-**2020 Social Studies (Primary) Syllabus:** <br>
-[https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.pdf](https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.pdf)
-
+<h4>Our Mission</h4>
+<p>We nurture <strong>informed, concerned, and participative citizens</strong> by
+empowering students to become <strong>confident, self-directed learners</strong> who
+understand their place in Singapore and the world.
+<br>This foundation serves as a vital prelude to post-primary humanities learning.
+By fostering critical inquiry, and cross-cultural and global awareness,
+we prepare students to navigate a complex world with empathy and insight
+beyond their primary years.</p>
+<h4>Why Social Studies matters</h4>
+<p>Social Studies develops informed, concerned, and participative citizens.
+By exploring Singapore’s identity and global connections, students learn
+to appreciate diverse perspectives and understand their personal and collective
+responsibilities toward the nation’s future.</p>
+<h4>Our Key Programmes</h4>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performance Tasks
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journeys
 <br>
-
-<table>
-	<tbody><tr>
-		<td colspan="3">
-			<h5> Field-based Learning </h5>
-		</td>
-	</tr>
-	<tr>
-		<td width="33%"><img src="/images/field-based%20learning%201.jpg"></td>
-		<td width="33%"><img src="/images/field-based%20learning%203.jpg" style="padding:0px 40px 0px 40px"></td>
-		<td width="33%"><img src="/images/field-based%20learning%202.jpg"></td>
-	</tr>
-		<tr>
-		<td width="33%"><img src="/images/field-based%20learning%204.jpg"></td>
-	</tr>
-	<tr>
-		<td colspan="3">	   
-An authentic learning experience is integral to Social Studies in Yu Neng. Each year, students embark on learning journeys to museums and heritage trails to reinforce what they have learnt in the classroom, outside of the classroom. By stepping out of the classroom, students are able to appreciate, understand and engage with the world around them more deeply. These learning journeys also help students bridge the gap between theory and real life.
-		</td>
-	</tr>
-</tbody></table>
-
-##### Contemporary Issues
-
-Topics and concepts learnt in Social Studies are applied to our students’ everyday lives. For instance, in Primary 5, students delve into Singapore’s ties with Southeast Asia and explore the region’s physical geography. To solidify their learning, students have hands-on opportunities to cultivate rice to reinforce their understanding of geography, Southeast Asian relations, and food sustainability.
+</p>
+<h4>Activities</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
+</div>
+<h4>The Yu Neng Difference</h4>
+<p>What sets the Social Studies programme at Yu Neng Primary School apart
+is the deliberate shift from <strong>content consumption</strong> to <strong>active inquiry</strong>.
+While the standard curriculum covers facts and figures, Yu Neng emphasises <strong>real-world learning,</strong> ensuring
+students do not just "know" Social Studies – they "experience" it.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
