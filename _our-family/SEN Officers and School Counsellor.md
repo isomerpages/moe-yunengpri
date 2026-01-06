@@ -17,7 +17,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rahmah_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Fawzi (Rahmah Binte Mohamed Ali)</u></a>
-<br><a href="mailto:muhammad_firdaus_bahrin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Muhammad Firdaus Bahrin</u></a>
+<br><a href="mailto:chew_poh_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Chew Poh Choo</u></a>
 </p>
 </td>
 </tr>
