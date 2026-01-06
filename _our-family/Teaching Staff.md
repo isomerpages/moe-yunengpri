@@ -262,8 +262,6 @@ variant: tiptap
 <br><a href="mailto:peh_pei_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Peh Pei Ying</u></a>
 <br><a href="mailto:Ong_Lee_Eng_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Lee Eng</a>
 </p>
-<p><a href="mailto:roslinda_rasli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Roslinda</u></a>
-</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +272,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_boon_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ong Boon Leng</u></a>
 <br><a href="mailto:nadiah_murni_ab_malek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nadiah Murni</u></a>
-<br><a href="Ng_Jenny_C@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jenny Ng</a>
+<br><a href="mailto:Ng_Jenny_C@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jenny Ng</a>
 </p>
 </td>
 </tr>
