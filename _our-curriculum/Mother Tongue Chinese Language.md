@@ -2,84 +2,105 @@
 title: Mother Tongue Chinese Language
 permalink: /mother-tongue-chinese-language/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### Objectives / Goals
-
-<h5><u> Vision </u></h5>
-
-*   Active Learners, Proficient Communicators and Cultured Individuals
-
-<h5><u> Objectives </u></h5>
-
-*   To build a globally-minded community of passionate and future-ready learners
-*   To improve students’ learning and achievement that support the achievement of “personal best” in academic subjects
-
-#### KEY PROGRAMMES
-
-<table style="border:1px solid black">
-	<tbody><tr>
-		<td colspan="3">
-			The department aims to make the learning of MT languages a joyful, meaningful and relatable experience by incorporating authentic learning in its curriculum. We also create a language-rich environment in the classrooms and school language corner to promote fun learning of Chinese language.
-		</td>
-	</tr>
-	<tr>
-		<td width="33%"><img src="/images/03-300x187.jpg"></td>
-		<td width="33%"><img src="/images/02-300x186.jpg"></td>
-		<td width="33%"><img src="/images/01-300x223.jpg" style="padding: 0px 15px 0px 15px"></td>
-	</tr>
-</tbody></table>
-<br>
-<table style="border:1px solid black">
-	<tbody><tr>
-		<td colspan="3">
-			Festival celebrations such as Chinese New Year and Mid-Autumn, as well as annual Mother Tongue Fortnight are conducted with dedicated groups of Chinese and Malay students and staff members coming together to enjoy, learn and appreciate their Mother-Tongue languages and culture.
-		</td>
-	</tr>
-	<tr>
-		<td width="33%"><img src="/images/03-1-300x260.jpg" style="padding: 0px 30px 0px 30px"></td>
-		<td width="33%"><img src="/images/02-1-300x181.jpg"></td>
-		<td width="33%"><img src="/images/01-1-300x193.jpg"></td>
-	</tr>
-</tbody></table>
-<br>
-<table style="border:1px solid black">
-	<tbody><tr>
-		<td colspan="3">
-			In order to cultivate in all Yu Neng students, the joy of reading Chinese Languages books and newspapers, the Chinese Language Department came up with 2 initiatives, namely “A Date With Books” (与书有约) for our lower primary students and “News in Brief” (我知天下事) for our upper primary students.
-		</td>
-	</tr>
-	<tr>
-		<td width="33%"><img src="/images/02-2-300x216.jpg"></td>
-		<td width="33%"><img src="/images/01-2-300x199.jpg"></td>
-		<td width="33%"></td>
-	</tr>
-</tbody></table>
-<br>
-<table style="border:1px solid black">
-	<tbody><tr>
-		<td colspan="3">
-			In addition, we provide platforms for students to expose to the Chinese Languages and cultures through both internal and external competitions, to allow students to gain experience and learn from their peers and from other schools.
-		</td>
-	</tr>
-	<tr>
-		<td width="33%"><img src="/images/01-3-300x225.jpg"></td>
-		<td width="33%"><img src="/images/02-3-300x225.jpg"></td>
-		<td width="33%"><img src="/images/03-2-300x171.jpg" style="padding: 20px 0px 0px 0px"></td>
-	</tr>
-</tbody></table>
-<br>
-<table style="border:1px solid black">
-	<tbody><tr>
-		<td colspan="3">
-			Students are selected to embark on Cultural Immersion Programs to China and / or Taiwan. Besides visiting historical and significant places of interest, the highlight of the program was the school immersion experience with the Chinese Primary School. Our students forged strong friendships with their Chinese counterparts as they attended lessons together and learnt together through different cultural enrichment programs such as calligraphy lesson and pottery lesson. Students have learnt to be independent and demonstrated the spirit of GR3IT values during the trip.<br>
-			<br>
-Despite the challenges brought about by the pandemic, we continue to provide our students with meaningful cultural exchange with students from Beijing Doudian Primary School (北京窦店小学) virtually, where students learnt about the history and culture of each other.
-		</td>
-	</tr>
-	<tr>
-		<td width="33%"><img src="/images/03-3-300x185.jpg"></td>
-		<td width="33%"><img src="/images/02-4-300x175.jpg"></td>
-		<td width="33%"><img src="/images/01-4-300x166.jpg"></td>
-	</tr>
-</tbody></table>
+<h4>Our Mission</h4>
+<p>Nurturing future-ready, effectively bilingual Yu Neng students through
+digital innovationand creative thinking, fostering proficiency in Mother
+Tonguage Language while deepening appreciation of traditional culture and
+moral values.</p>
+<p></p>
+<h4>Why Chinese Language Matters</h4>
+<p>Our Chinese Language curriculum equips students with essential skills
+and competencies required in using their Chinese Language to thrive in
+a rapidly evolving, interconnected world. To ensure that our Yu Neng students
+are future ready, our curriculum aims to equip them with:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Effective Communication Skills</strong>
+</p>
+<p>Develop confidence and fluency in Chinese Language to communicate clearly
+and competently across diverse contexts, strengthening bilingual competence.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Cultural Awareness and Global Mindset</strong>
+</p>
+<p>Deepen appreciation of Chinese cultural heritage, traditions, and values,
+while fostering respect for diversity and a strong sense of identity.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Global Connectivity</strong>
+</p>
+<p>Connect meaningfully with wider communities across Asia and the world,
+enabling collaboration in an increasingly interconnected global landscape.</p>
+<p></p>
+</li>
+<li>
+<p><strong>21st Century Competencies</strong>
+</p>
+<p>Cultivate critical and inventive thinking, digital literacy, collaboration,
+and cross-cultural understanding—essential skills for future-ready learners.</p>
+</li>
+</ul>
+<p></p>
+<h4>Key Programmes</h4>
+<p>Our Mother Tongue Languages programme offers a rich and engaging range
+of activities designed to develop language proficiency while nurturing
+cultural understanding and 21st-century competencies. Students participate
+in a variety of language-focused activities, including Library Week, MTL
+SOAR (Reading programme), and language competitions, to strengthen their
+literacy, communication, and creative thinking skills. Beyond the classroom,
+students immerse themselves in cultural and festival celebrations, such
+as Chinese New Year, Mid-Autumn Festival, and Chinese Cultural Camp, where
+they engage in traditional activities like lion dances, lantern-making
+with watercolours, etc during these festivities. These experiences make
+learning vibrant and interactive, fostering values such as respect, collaboration,
+gratitude, and a sense of community. Special learning spaces such as the
+Multilingual Hub further enhance learning, providing visual and exploratory
+environments where students can connect with their Mother Tongue Language,
+culture, and values in meaningful and interactive ways. Through these programmes,
+our Mother Tongue Languages curriculum nurtures future-ready, confident,
+and culturally grounded learners who are proficient in language and deeply
+appreciative of their heritage.</p>
+<p></p>
+<h4>Activities</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/30.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/31.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/32.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/33.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/34.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/035.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/36.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
