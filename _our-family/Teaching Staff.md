@@ -234,7 +234,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shaline Tan Yen Ling
+<p><a href="mailto:Shaline_Tan_Yen_Ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shaline Tan Yen Ling</a>
 <br><a href="mailto:eugene_tan_ronghui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Eugene Tan Ronghui</u></a>
 <br><a href="mailto:neoh_swee_lan_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Pauline Ng</u></a>
 </p>
