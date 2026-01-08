@@ -147,7 +147,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shaline Tan Yen Ling</p>
+<p><a href="mailto:Shaline_Tan_Yen_Ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Shaline Tan Yen Ling</a>
+</p>
 </td>
 </tr>
 <tr>
