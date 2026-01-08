@@ -94,7 +94,46 @@ appreciative of their heritage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/36.png">
 </div>
+<h4>The Yu Neng Difference</h4>
+<p>Our MTL Curriculum @ Yu Neng emphasises:</p>
+<p><strong>Strong Foundations through Purposeful Scaffolding</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Differentiated and progressive support to build core literacy, oral skills,
+and learner confidence, e.g. MTL Fundamental, AI tools to reinforce, etc</p>
+</li>
+</ul>
+<p><strong>Stretch Programmes to Challenge our students</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enrichment programmes (e.g. calligraphy, Weiqi, and cross-talk, etc. and
+competitions (e.g. text recital, storytelling, cross-talk, and language
+quizzes) to deepen language mastery, articulation and resilience</p>
+</li>
+</ul>
+<p><strong>Integration of Language, Culture, and Values</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Experiential learning stations, authentic language and cultural immersion
+through lessons, camps, and festive celebrations, e.g. Virtual Immersion
+Program, etc</p>
+</li>
+</ul>
+<p><strong>Future-Ready and Digitally Enabled Learning</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Effective use of digital tools to engage learners and develop confident,
+bilingual learners in a globalised world, e.g. SLS, wordwall, etc</p>
+</li>
+</ul>
 <p></p>
+<p>Through this balanced and inclusive approach, Yu Neng’s Mother Tongue
+Languages curriculum aims to nurture confident and future-ready bilingual
+learners grounded in language, culture, values and innovation.</p>
 <p></p>
 <p></p>
 <p></p>
