@@ -17,7 +17,7 @@ evolving, interconnected world.&nbsp; To ensure that our Yu Neng students
 are future ready, our curriculum aims to equip them with:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <strong>Effective Communication Skills<br></strong>Develop confidence
+<p><strong>Effective Communication Skills<br></strong>Develop confidence
 and fluency in Malay Language to communicate clearly and competently across
 diverse contexts, strengthening bilingual competence.</p>
 </li>
@@ -64,7 +64,6 @@ are proficient in language and deeply appreciative of their heritage.</p>
 <p></p>
 <h4>The Yu Neng Difference</h4>
 <p>Our <strong>MTL Curriculum @ Yu Neng</strong> emphasises:</p>
-<p>&nbsp;</p>
 <p><strong>Strong Foundations through Purposeful Scaffolding</strong>
 <br>Differentiated and progressive support to build core literacy, oral skills,
 and learner confidence, e.g. MTL Fundamental, AI tools to reinforce, etc
