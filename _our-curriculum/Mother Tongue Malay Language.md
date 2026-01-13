@@ -56,12 +56,28 @@ and interactive ways.</p>
 <p>Through these programmes, our Mother Tongue Languages curriculum nurtures <strong>future-ready, confident, and culturally grounded learners</strong> who
 are proficient in language and deeply appreciative of their heritage.</p>
 <p></p>
+<h4>Activities</h4>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/37.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/38.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/39.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/34.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/40.png">
+</div>
 <h4>The Yu Neng Difference</h4>
 <p>Our <strong>MTL Curriculum @ Yu Neng</strong> emphasises:</p>
 <p><strong>Strong Foundations through Purposeful Scaffolding</strong>
