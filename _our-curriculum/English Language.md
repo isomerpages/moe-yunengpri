@@ -12,11 +12,13 @@ purpose, clarity and intent. We inspire a lifelong love for the English
 language and humanities, preparing every child to navigate the world with
 confidence.</p>
 <h4>Why English Language matters</h4>
-<p>The acquisition of English Language skills play an important role in developing
-students to communicate with empathy, read with discernment and inquire
-with creativity, as well as equip them to use standard English effectively
-to engage with others, generate meaning, develop critical thinking, and
-contribute to society.</p>
+<p>The acquisition of English Language skills plays an important role in:
+<br>- developing students to communicate with empathy,
+<br>- read with discernment and
+<br>- inquire with creativity.</p>
+<p>Students are also able to use standard English effectively to engage with
+others, generate meaning, develop critical thinking, and contribute to
+society.</p>
 <h4></h4>
 <h4>Our Key Programmes</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flat Stanley (P1 to
