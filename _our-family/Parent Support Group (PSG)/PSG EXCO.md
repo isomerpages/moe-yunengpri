@@ -45,14 +45,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Advisor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Elina Gwee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,6 +57,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Rachel Lai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Advisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elina Gwee</p>
 </td>
 </tr>
 <tr>
@@ -88,8 +88,7 @@ variant: tiptap
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N. Shimah
-<br>Jailanie
+<p>N. Shimah Jailanie
 <br>Wong Siao Ning
 <br>Lee Hooi Ling
 <br>Nga Guang Jenq
