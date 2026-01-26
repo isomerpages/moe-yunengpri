@@ -4,7 +4,7 @@ permalink: /meet-parents-session/
 description: ""
 variant: markdown
 ---
-Thank you for taking part in MPS 1 on 18 January 2025.
+Thank you for taking part in PTM 1 on 24 January 2025.
 
 The slides shared during the session are now available.
 
