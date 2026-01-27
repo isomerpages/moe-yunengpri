@@ -123,26 +123,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH / Student Leadership</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_boon_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ong Boon Leng</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH / Social Studies (Covering)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:claire_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Claire Yeo</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SH/English</strong>
 </p>
 </td>
@@ -159,6 +139,24 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_pei_ying_janice@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Janice Ang</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH / Social Studies (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:claire_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Claire Yeo</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
