@@ -298,7 +298,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rethinamala_rajendran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Raj</u></a>
+<p><a href="mailto:rethinamala_rajendran_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Raj</u></a>
 <br><a href="mailto:low_kok_chiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Low Hao Rong</u></a>
 <br><a href="mailto:chiang_chew_huay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Chiang Doris</u></a>
 </p>
