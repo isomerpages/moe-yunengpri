@@ -195,7 +195,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener nofollow" target="_blank"><u>Ms Carrie Lim</u></a>
+<p><a rel="noopener nofollow" target="_blank"><u>Ms Carrie Lam</u></a>
 <br><a href="mailto:tan_keng_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Keng Bee</u></a>
 <br><a href="mailto:Lim_Chai_Har_Mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Loh Soo Meng</u></a>
 </p>
