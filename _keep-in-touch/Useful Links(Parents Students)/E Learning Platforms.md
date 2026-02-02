@@ -6,10 +6,9 @@ variant: markdown
 third_nav_title: Useful Links(Parents Students)
 ---
 To reset your child's MIMS Password (iCON Mail, Google classroom and SLS are under MIMS), please request for a reset via this link: [https://go.gov.sg/ynpwreset](https://go.gov.sg/ynpwreset)<br><br>
-Please refer to the guide(s) below on how to login to MIMS, Google Classroom and SLS.<br>
-
-[ICT Familiarisation (P1 - P2)](/files/ICT_Familiarisation__P1___P2___1_.pdf)<br>
-[ICT Familiarisation (P3 - P6)](/files/ICT_Familiarisation__P3_to_P6___2_.pdf)
+Please refer to the guide(s) below on how to login to MIMS, SLS, Password reset and setting of secret questions for MIMS.<br>
+[Guide to login to MIMS and SLS](/files/Guide_to_login_to_MIMS_and_SLS.pdf)<br>
+[How to reset password and set secret questions for MIMS](/files/How_to_reset_password_and_set_secret_questions_for_MIMS.pdf)
 
 
 
