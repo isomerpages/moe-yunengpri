@@ -4,15 +4,25 @@ permalink: /parent-volunteer/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Parent Volunteer (PV) Application</strong></h3>
-<p>Dear Parents,</p>
-<p>Parent volunteer recruitment exercise for children who are born between
-2 Jan 2020 and 1 Jan 2021 (both dates inclusive) is <strong><u>now closed</u></strong> and
-we will no longer accept new applications.</p>
-<p>For Parents who have applied, you will be informed of the outcome via
-email by end of May 2025.</p>
-<p>For children born between 2 Jan 2021 and 1 Jan 2022 (both dates inclusive),
-the details for Parent Volunteer recruitment exercise 2026 and application
-will be posted on our school website from February 2026.</p>
+<h3><strong>Parent Volunteer (PV) Application @ YNPS</strong></h3>
+<p>
+<br>Yu Neng Primary School values our Parent Volunteers' contribution to the
+school and welcomes all interested parents to apply as Parent Volunteers
+under our Parent Volunteer Scheme.</p>
+<p></p>
+<p>The Parent Volunteer Scheme application period for <strong>2026/2027</strong> is
+strictly for children born between 2 <strong>January 2021 and 1 January 2022 (both dates inclusive).</strong>
+</p>
+<p></p>
+<p>Please note that only successful applicants will be notified.&nbsp;The
+decision of the school in the selection of Parent Volunteers is final,
+and the school is not obliged to give any reason for unsuccessful application.</p>
+<p></p>
+<p>To apply, please complete the online form <a href="https://form.gov.sg/65a09610ba213b00127ee72a" rel="noopener nofollow" target="_blank">here</a><u>.</u>
+</p>
+<p></p>
+<p>Closing date is <strong><u>30 Apr 2026.</u></strong>
+</p>
+<p></p>
 <p>Thank you.</p>
 <p>&nbsp;</p>
