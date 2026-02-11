@@ -29,15 +29,13 @@ teachers for the following National Language Awards:</p>
 23 March 2026</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>2. Distinguished Chinese Language Teachers Awards</strong>
-<br><strong>Nomination Period:</strong> 4 February – 30 April 2026 <a href="https://contest.sph.com.sg/campaigns/dclta" rel="noopener noreferrer nofollow" target="_blank">https://contest.sph.com.sg/campaigns/dclta</a><strong><br><br></strong>
+<br><strong>Nomination Period:</strong> 4 February – 30 April 2026 <a href="https://contest.sph.com.sg/campaigns/dclta" rel="noopener noreferrer nofollow" target="_blank">https://contest.sph.com.sg/campaigns/dclta</a><strong><br></strong>
 </p>
 <p><strong>3. Arif Budiman Malay Language Teacher Award</strong>
 <br><strong>Nomination Period:</strong> 2 February – 13 March 2026
-<br><a href="https://go.gov.sg/agab-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agab-2026</a>
-</p>
-<p><strong><br>Instructions:</strong>
+<br><a href="https://go.gov.sg/agab-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agab-2026</a><strong><br>Instructions:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
