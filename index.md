@@ -21,6 +21,13 @@ sections:
           description: ""
           url: https://www.yunengpri.moe.edu.sg/staff-useful-links/
   - infopic:
+      title: Nomination for Teachers’ Awards
+      id: infopic
+      button: Read
+      url: yunengpri.moe.edu.sg/nomination-for-teachers-awards/
+      image: /images/Teachers__award.jpg
+      alt: Image alt text
+  - infopic:
       title: YN91
       description: YN91 marks a special point in time for all Yu Neng students and
         staff. Coming Soon
