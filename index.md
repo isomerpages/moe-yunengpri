@@ -24,7 +24,7 @@ sections:
       title: Nomination for Teachers’ Awards
       id: infopic
       button: Read
-      url: yunengpri.moe.edu.sg/nomination-for-teachers-awards/
+      url: https://www.yunengpri.moe.edu.sg/nomination-for-teachers-awards/
       image: /images/Teachers__award.jpg
       alt: Image alt text
   - infopic:
