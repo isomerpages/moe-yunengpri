@@ -54,7 +54,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rajeswarie_sundram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ravi</u></a>
-<br><a href="mailto:tan_ming_yueh@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Ming Yueh</a>
+<br>Ms Lou Junheng
+<br><a href="TASNEEM_ABDUL_HAMID_C@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tasneem</a>
 </p>
 </td>
 </tr>
@@ -151,7 +152,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shamana_khatu_kassim_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Shamana</u></a>
 <br><a href="mailto:phan_huey_ju@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Phan Huey Ju</u></a>
-<br><a href="TASNEEM_ABDUL_HAMID_C@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tasneem</a>
+<br>
 </p>
 </td>
 </tr>
@@ -272,8 +273,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_boon_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ong Boon Leng</u></a>
 <br><a href="mailto:nadiah_murni_ab_malek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nadiah Murni</u></a>
-<br><a href="mailto:Ng_Jenny_C@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jenny Ng</a>
-</p>
+<br>Mr Patrick Wong</p>
 </td>
 </tr>
 <tr>
@@ -482,6 +482,7 @@ variant: tiptap
 <p><a href="mailto:jamilah_abdullah_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jamilah</u></a>
 <br><a href="mailto:%20nawshein_shikkander@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Nawshein</u></a>
 <br><a href="mailto:ho_keng_chiong_a@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mr Ho Keng Chiong</u></a>
+<br><a href="mailto:tan_ming_yueh@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Ming Yueh</a>
 </p>
 </td>
 </tr>
