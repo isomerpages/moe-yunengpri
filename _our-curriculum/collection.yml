@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mother Tongue Tamil Language.md
       - English Language.md
       - Mathematics.md
       - Science.md
