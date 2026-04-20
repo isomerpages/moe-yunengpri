@@ -273,7 +273,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_boon_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Ong Boon Leng</u></a>
 <br><a href="mailto:nadiah_murni_ab_malek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nadiah Murni</u></a>
-<br>Mr Patrick Wong</p>
+<br><a href="mailto:Wong_Yew_Seng_Patrick@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Patrick Wong</a>
+</p>
 </td>
 </tr>
 <tr>
