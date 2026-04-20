@@ -10,7 +10,7 @@ digital innovation and creative thinking, fostering proficiency in Mother
 Tonguage Language while deepening appreciation of traditional culture and
 moral values.</p>
 <p></p>
-<h4>Why Malay Language matters</h4>
+<h4>Why Tamil Language matters</h4>
 <p>Our Tamil Language curriculum equips students with essential skills and
 competencies required in using their Tamil Language to thrive in a rapidly
 evolving, interconnected world. To ensure that our Yu Neng students are
