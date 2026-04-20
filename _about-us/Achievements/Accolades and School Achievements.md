@@ -140,7 +140,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.pmca.or.th/eng/?page_id=2434" rel="noopener nofollow" target="_blank">Princess Maha Chakri Award</a>
+<p><a href="https://indiplomacy.com/2025/08/12/singapore-educator-honoured-with-thailands-2025-princess-maha-chakri-award/" rel="noopener nofollow" target="_blank">Princess Maha Chakri Award</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
