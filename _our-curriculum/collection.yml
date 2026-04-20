@@ -2,12 +2,12 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Mother Tongue Tamil Language.md
       - English Language.md
       - Mathematics.md
       - Science.md
       - Mother Tongue Chinese Language.md
       - Mother Tongue Malay Language.md
+      - Mother Tongue Tamil Language.md
       - Creative Arts.md
       - Social Studies.md
       - Holistic Health & CCA/.keep
