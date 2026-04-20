@@ -66,4 +66,8 @@ are proficient in language and deeply appreciative of their heritage.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTTamil2.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTTamil3.png">
+</div>
+<p></p>
 <p></p>
