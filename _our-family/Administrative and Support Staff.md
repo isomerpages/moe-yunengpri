@@ -49,6 +49,7 @@ description: ""
 <p><a href="mailto:alawiah_hosni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Alawiah Hosni</a>
 <br><a href="mailto:wang_mei_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Wang Mei Ann</u></a>
 <br><a href="mailto:alicia_tan_ee_kia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Alicia Tan</u></a>
+<br><u>Mr Ng Jia Shin</u>
 </p>
 </td>
 </tr>
