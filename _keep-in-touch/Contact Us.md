@@ -4,7 +4,7 @@ permalink: /contact-us/
 description: ""
 variant: markdown
 ---
-56 Bedok North Street 3 Singapore 469623<br>
+56 Bedok North Street 3, Singapore 469623<br>
 General Office: 6449 0121<br>
 Fax : 6449 8564<br>
 Email : [ynps@schools.gov.sg](mailto:ynps@schools.gov.sg)<br>
