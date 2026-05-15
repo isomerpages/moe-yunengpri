@@ -43,5 +43,6 @@ to reset your password. Remember to provide answers to your three secret
 questions to complete the reset process.&lt;br&gt;</p>
 <p>* If you're unsure how to access SLS, please click the links below for
 guidance.&lt;br&gt;</p>
-<p></p>
+<p><a href="https://www.yunengpri.moe.edu.sg/files/Guide_to_login_to_MIMS_and_SLS.pdf" rel="noopener nofollow" target="_blank">YNPS Guide to login to MIMS and SLS</a>
+</p>
 <p>* If you have any technical queries, please call 6449 0121 ext 114.</p>
