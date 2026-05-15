@@ -37,10 +37,9 @@ support i.e. providing feedback through the online platforms. &lt;br&gt;</p>
 <p>[Primary 6](<a href="https://drive.google.com/file/d/1wOUnW1Yjx1l4TT-zrK5LOaZkEz0D3h3z/view?usp=drive_link)<br>" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1wOUnW1Yjx1l4TT-zrK5LOaZkEz0D3h3z/view?usp=drive_link)&lt;br&gt;</a>
 </p>
 <p>##### Contact Us</p>
-<p>* If you're experiencing issues logging into MIMS, please click [here](
-<a href="https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?forceAuth=TRUE" rel="noopener noreferrer nofollow" target="_blank">https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?forceAuth=TRUE</a>)
-to reset your password. Remember to provide answers to your three secret
-questions to complete the reset process.&lt;br&gt;</p>
+<p>* If you're experiencing issues logging into MIMS, please click <strong><a href="https://go.gov.sg/ynpwreset" rel="noopener nofollow" target="_blank">here</a> </strong>to
+reset your password. Remember to provide answers to your three secret questions
+to complete the reset process.&lt;br&gt;</p>
 <p>* If you're unsure how to access SLS, please click the links below for
 guidance.&lt;br&gt;</p>
 <p><a href="https://www.yunengpri.moe.edu.sg/files/Guide_to_login_to_MIMS_and_SLS.pdf" rel="noopener nofollow" target="_blank">YNPS Guide to login to MIMS and SLS</a>
