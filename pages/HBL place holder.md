@@ -7,7 +7,7 @@ description: ""
 <p>## Home Based Learning</p>
 <p>To better equip our students with the skills necessary for independent
 learning and to prepare them for potential future disruptions, all students
-will participate in our E-Learning Day on&amp;nbsp;**Monday, 26 May 2025**.&lt;br&gt;</p>
+will participate in our E-Learning Day on&amp;nbsp;**Monday, 25 May 2026**.&lt;br&gt;</p>
 <p>Through this E-Learning experience, students will:</p>
 <p>a)&amp;nbsp;&amp;nbsp;&amp;nbsp; Enhance Readiness for E-Learning: By
 practicing home-based learning, students will be better prepared to adapt
@@ -44,4 +44,4 @@ to complete the reset process.&lt;br&gt;</p>
 guidance.&lt;br&gt;</p>
 <p><a href="https://www.yunengpri.moe.edu.sg/files/Guide_to_login_to_MIMS_and_SLS.pdf" rel="noopener nofollow" target="_blank">YNPS Guide to login to MIMS and SLS</a>
 </p>
-<p>* If you have any technical queries, please call 6449 0121 ext 114.</p>
+<p>* If you have any technical queries, please call 6449 0121.</p>
