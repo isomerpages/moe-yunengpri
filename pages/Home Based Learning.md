@@ -4,8 +4,6 @@ permalink: /hbl/
 description: ""
 variant: markdown
 ---
-
-
 To better equip our students with the skills necessary for independent learning and to prepare them for potential future disruptions, all students will participate in our E-Learning Day on&nbsp;**Monday, 26 May 2025**.<br>
 
 Through this E-Learning experience, students will:<br><br>
