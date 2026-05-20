@@ -47,9 +47,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alawiah_hosni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Alawiah Hosni</a>
-<br><a href="mailto:wang_mei_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Wang Mei Ann</u></a>
 <br><a href="mailto:alicia_tan_ee_kia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Alicia Tan</u></a>
-<br><u>Mr Ng Jia Shin</u>
+<br><a href="mailto:ng_jia_shin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ng Jia Shin</a>
 </p>
 </td>
 </tr>
