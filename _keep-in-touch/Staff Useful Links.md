@@ -96,7 +96,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://sites.google.com/moe.edu.sg/ynpscmtresourceportal/home" rel="noopener nofollow" target="_blank">SEN Resource Portal</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://kahoot.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Kahoot</u></a>
