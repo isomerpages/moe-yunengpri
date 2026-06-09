@@ -277,7 +277,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:mu_zhiming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Mu Zhiming</u></a>
+<p><a href="mailto:mu_zhiming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Mu Zhiming</u></a>
 </p>
 </td>
 </tr>
@@ -287,7 +287,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="loke_yik_pey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Loke Yik Pey</u></a>
+<p><a href="loke_yik_pey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Loke Yik Pey</u></a>
 </p>
 </td>
 </tr>
