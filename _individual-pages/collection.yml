@@ -1,0 +1,4 @@
+collections:
+  individual-pages:
+    output: true
+    order: []
