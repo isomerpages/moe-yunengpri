@@ -1,4 +1,5 @@
 collections:
   individual-pages:
     output: true
-    order: []
+    order:
+      - CCA OPEN HOUSE.md
