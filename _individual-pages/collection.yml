@@ -2,4 +2,5 @@ collections:
   individual-pages:
     output: true
     order:
+      - Home Based Learning.md
       - CCA OPEN HOUSE.md
