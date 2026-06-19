@@ -93,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD / ICT (Covering)</strong>
+<p><strong>HOD / ICT </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
