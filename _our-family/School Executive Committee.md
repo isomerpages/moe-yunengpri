@@ -301,6 +301,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Senior Teacher / Lower Primary Learners</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew-chua_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Sally Chew</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
