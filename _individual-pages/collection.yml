@@ -2,5 +2,6 @@ collections:
   individual-pages:
     output: true
     order:
+      - YN88 Art Collections.md
       - Home Based Learning.md
       - CCA OPEN HOUSE.md
