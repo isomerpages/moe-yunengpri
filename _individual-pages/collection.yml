@@ -2,6 +2,7 @@ collections:
   individual-pages:
     output: true
     order:
+      - privacy.md
       - terms-of-use.md
       - faq.md
       - YN88 With All My Voice.md
