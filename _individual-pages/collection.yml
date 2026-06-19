@@ -2,6 +2,7 @@ collections:
   individual-pages:
     output: true
     order:
+      - HBL place holder.md
       - FAMILY Father And Mother I Love You at YN.md
       - YN88 Art Collections.md
       - Home Based Learning.md
