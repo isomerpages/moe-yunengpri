@@ -2,6 +2,7 @@ collections:
   individual-pages:
     output: true
     order:
+      - terms-of-use.md
       - faq.md
       - YN88 With All My Voice.md
       - Nomination For Teachers’ Awards.md
