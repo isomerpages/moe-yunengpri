@@ -2,6 +2,7 @@ collections:
   individual-pages:
     output: true
     order:
+      - Student Learning Space (SLS).md
       - Under Maintenance.md
       - privacy.md
       - terms-of-use.md
