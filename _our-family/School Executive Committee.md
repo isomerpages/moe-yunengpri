@@ -93,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD / ICT (Covering)</strong>
+<p><strong>HOD / ICT </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -298,6 +298,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="loh_shao_wei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Loh Shao Wei</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Senior Teacher / Lower Primary Learners</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew-chua_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Sally Chew</u></a>
 </p>
 </td>
 </tr>
