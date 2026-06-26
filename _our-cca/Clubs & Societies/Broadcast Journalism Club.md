@@ -31,4 +31,4 @@ Through this CCA, students will grow to be passionate learners, creative thinker
 | --- | --- | --- |
 | Mdm Esther Peh<br>Miss Claire Yeo<br>Mdm Farhana<br>Ms Sabrina| Tuesday: 2.00 pm – 4.00 pm <br>(Please refer to the schedule given per semester.) | Maker Space |
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vvDJjrYFNGY?si=DKVAxS6SmKsjA6gk" height="315" width="560"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dvEgWOD9giw?si=Oh2VE9gkW3_jtM2H" height="315" width="560"></iframe>
