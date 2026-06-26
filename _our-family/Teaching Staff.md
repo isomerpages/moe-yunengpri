@@ -177,6 +177,8 @@ variant: tiptap
 <p><a href="mailto:wong_min_shia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Wong Min Shia</u></a>
 <br><a href="mailto:ho_wei_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ho Wei Hao</u></a>
 </p>
+<p><a href="mailto:nursyahirah_salahuddin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nursyahirah</a>
+</p>
 </td>
 </tr>
 <tr>
