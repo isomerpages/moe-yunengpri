@@ -19,6 +19,6 @@ Through the post-training reflections, students will gain a deeper knowledge and
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-|Mr Lionel<br>Mdm Bridget Wong <br>Mdm Tasneem | Mondays: 3.30pm to 5.30pm <br>Tuesdays: 2pm to 4pm <br>*(Please refer to the schedules given each semester).* | Indoor Sports Hall (ISH) Level 1 |
+|Mr Lionel<br>Mdm Bridget Wong <br>Mdm Tasneem<br>Ms Nursyahirah | Mondays: 3.30pm to 5.30pm <br>Tuesdays: 2pm to 4pm <br>*(Please refer to the schedules given each semester).* | Indoor Sports Hall (ISH) Level 1 |
 
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DtK2xsNDKeI?si=HtmrdkrjH-8aDgc8" height="315" width="560"></iframe>
