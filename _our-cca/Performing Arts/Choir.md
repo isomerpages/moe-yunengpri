@@ -23,4 +23,4 @@ Our caring choristers also use their vocal talents to reach out and make a diffe
 | --- | --- | --- |
 | <br>Mdm Wahidah<br>Mr Shao Wei | Tuesdays – 2pm to 4pm<br>*(Please refer to the schedule given each semester).*<br><br>Fridays 2pm - 4pm (&nbsp;till end of SYF)  | <br>Music Room 1<br> |
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6_Raxt5n-pw?si=zH9UmD9ij_3r1dtQ" height="315" width="560"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wxJ237BTzt0?si=ncWg4nKrHbmzqbh5" height="315" width="560"></iframe>

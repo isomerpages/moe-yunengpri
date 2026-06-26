@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-
-
 <table>
 	<tbody><tr>
 		<td width="34.25%"><img src="/images/MA_Club_3.jpg"></td>
@@ -29,4 +27,4 @@ Promote teamwork and working with others.
 | --- | --- | --- |
 | Ms Koh Sze Theng Hazel<br> Mdm Shamana | Tuesdays: 2pm to 4pm<br>*(Please refer to the schedule given each semester)* | Maths Space |
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aPjBSvFwjkY?si=hZbayBV1MMysZxhc" height="315" width="560"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/glxnDCx60L8?si=QwCJvPCScADlkS-z" height="315" width="560"></iframe>
