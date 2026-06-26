@@ -21,4 +21,4 @@ With the infusion of the YN GR3IT values, Table Tennis CCA provides opportunitie
 | --- | --- | --- |
 | Mr Eugene Tan  <br>Mr Mu Zhiming <br>Mdm Xu Jingwei <br> Mr Zhu Xiangjun <br>Mdm Suraya | Tuesdays: 2pm to 5pm<br>Fridays: 2pm to 5pm&nbsp;<br>*(Please refer to the schedules given each semester* | Indoor Sports Hall (ISH) Level 3 |
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/edh3uOCv6X0?si=qjRsxYBwd1uobnod" height="315" width="560"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TnL55_fCjN8?si=dmhw5rOU2u2TMwAm" height="315" width="560"></iframe>
