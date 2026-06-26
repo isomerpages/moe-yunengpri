@@ -29,4 +29,4 @@ Cultivate the spirit of scientific inquiry and innovation.
 | --- | --- | --- |
 | Mdm Maryam<br>Mdm Herda<br>Mdm Faridah | Tuesdays: 2pm to 4pm<br>*(Please refer to the schedule given each semester).* | Science Labs 1 &amp; 2 |
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/N13pvTnrBk4?si=3Jmh32uLP0brWqV5" height="315" width="560"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LwqV4WW9GHM?si=AtKF63vxGHYhJu-Q" height="315" width="560"></iframe>
