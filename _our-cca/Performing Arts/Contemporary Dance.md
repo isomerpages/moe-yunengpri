@@ -19,4 +19,4 @@ In Contemporary Dance CCA, we strive to develop students’ movement skills, mus
 | --- | --- | --- |
 | Ms Leanna Lyn<br>Ms Mandy Chan | Tuesdays – 2pm to 4pm <br>*(Please refer to the schedule given each semester).*<br><br>Fridays 2pm - 4pm (&nbsp;till end of SYF)  | <br>PAL Room |
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Ra1Ao2XsFNU?si=37oHRv3yvY8DSmlD" height="315" width="560"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YSd3isvWsUA?si=tppNEzDVPUwW_C4Q" height="315" width="560"></iframe>
