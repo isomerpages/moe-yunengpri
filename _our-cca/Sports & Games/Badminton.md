@@ -20,6 +20,6 @@ Badminton CCA provides opportunities for students to cooperate and work together
 
 | Teachers | Training Details | Venue |
 | --- | --- | --- |
-| Mr Mohamad Haniffa <br>Mdm Jamilah Abdullah<br>Mdm Siti Nuraishah <br>Mr Muhammad Naqib <br>Mdm Ivy Tan <br>Mr Ho Keng Chiong <em>|<u>Tuesdays</u><br>2pm to 5pm<br><u>Fridays</u><br>2pm to 5pm<br>(Please refer to the schedules given each semester).</em>| School Hall |
+| Mr Mohamad Haniffa <br>Mdm Jamilah Abdullah<br>Mdm Siti Nuraishah <br>Mr Muhammad Naqib <br>Mdm Ivy Tan <em>|<u>Tuesdays</u><br>2pm to 5pm<br><u>Fridays</u><br>2pm to 5pm<br>(Please refer to the schedules given each semester).</em>| School Hall |
 
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sQTbFZK7ZmA?si=mqF19Tl0fwdYY-dM" height="315" width="560"></iframe>
