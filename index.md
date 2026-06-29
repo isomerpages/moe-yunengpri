@@ -21,6 +21,13 @@ sections:
           description: ""
           url: https://www.yunengpri.moe.edu.sg/staff-useful-links/
   - infopic:
+      title: E-Open House 2026
+      id: infopic
+      button: Read
+      url: https://go.gov.sg/yneoh
+      image: /images/E_Open_House_2026__3_.png
+      alt: Image alt text
+  - infopic:
       title: Nomination for Teachers’ Awards
       id: infopic
       button: Read
