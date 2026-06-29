@@ -4,7 +4,17 @@ permalink: /letter-to-parents/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h4>July 2026</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/LTP_July_2026.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/LTP_Implementation_of_the_Beverage_Container_Return_Scheme__BCRS__in_schools.pdf" rel="noopener nofollow" target="_blank">Implementation of the Beverage Container Return Scheme (BCRS) in schools</a>
+</p>
+</li>
+</ul>
 <h4>May 2026</h4>
 <ul data-tight="true" class="tight">
 <li>
