@@ -201,7 +201,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener nofollow" target="_blank"><u>Ms Carrie Lam</u></a>
 <br><a href="mailto:tan_keng_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Keng Bee</u></a>
-<br><a href="mailto:ngo_xiu_fen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Esther Cheng-Ngo </a>
+<br><a href="mailto:ngo_xiu_fen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Esther Cheng-Ngo</a>
 </p>
 </td>
 </tr>
