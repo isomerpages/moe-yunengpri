@@ -201,7 +201,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener nofollow" target="_blank"><u>Ms Carrie Lam</u></a>
 <br><a href="mailto:tan_keng_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Keng Bee</u></a>
-<br>Mrs Esther Cheng-Ngo</p>
+<br><a href="mailto:ngo_xiu_fen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Esther Cheng-Ngo</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +264,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loke_yik_pey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Loke Yik Pey</u></a>
 <br><a href="mailto:peh_pei_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Peh Pei Ying</u></a>
-<br><u>Mdm Roslinda</u>
+<br><a href="mailto:roslinda_rasli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Roslinda</a>
 </p>
 </td>
 </tr>
