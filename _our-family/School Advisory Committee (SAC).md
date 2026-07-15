@@ -4,9 +4,6 @@ permalink: /school-advisory-committee-sac/
 description: ""
 variant: markdown
 ---
+#### SAC (July 2026 - Jun 2028)
 
-#### SAC (2024)
-
-Click [HERE](/images/Untitled_design.png) to enlarge image
-
-![](/images/Untitled_design.png)
+![](/images/SAC.jpg)
