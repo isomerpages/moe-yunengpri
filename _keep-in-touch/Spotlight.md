@@ -21,7 +21,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/May_2026.png">
+<img style="width: 54%;" height="auto" width="100%" alt="" src="/images/May_2026.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,9 +69,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1cUFzVN05O23nbmuVURmql15a222lUWYv/view?usp=drive_link"><img style="width: 76%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_26_101442.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1cUFzVN05O23nbmuVURmql15a222lUWYv/view?usp=drive_link"><img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_26_101442.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1r4V4BahxX4CF_b_TrxAuELOtjCKQ4hJ3/view?usp=drive_link"><img style="width: 54%;" height="auto" width="100%" src="/images/spotlight%20issue%202%20november%202022.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1r4V4BahxX4CF_b_TrxAuELOtjCKQ4hJ3/view?usp=drive_link"><img style="width: 51%;" height="auto" width="100%" src="/images/spotlight%20issue%202%20november%202022.png"></a>
 </td>
 </tr>
 <tr>
