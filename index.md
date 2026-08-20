@@ -11,8 +11,6 @@ sections:
       background: /images/Untitled_design__2_.png
       title: Yu Neng Primary School
       variant: image
-      button: Send Yu Neng Messages and well wishes for YN90
-      url: go.gov.sg/ynps90ww
       key_highlights:
         - title: Parents And Students Useful Links
           description: ""
