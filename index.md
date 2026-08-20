@@ -26,14 +26,6 @@ sections:
       image: /images/Teachers__award.jpg
       alt: Image alt text
   - infopic:
-      title: YN91
-      description: YN91 marks a special point in time for all Yu Neng students and
-        staff. Coming Soon
-      image: /images/Untitled_design__5_.png
-      alt: Image alt text
-      url: https://www.yunengpri.moe.edu.sg/
-      button: READ
-  - infopic:
       title: ALP (ICT)
       description: Read more about our ALP in Info-Comm Technology.
       button: Read
