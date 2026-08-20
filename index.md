@@ -21,13 +21,6 @@ sections:
           description: ""
           url: https://www.yunengpri.moe.edu.sg/staff-useful-links/
   - infopic:
-      title: E-Open House 2026
-      id: infopic
-      button: Read
-      url: https://go.gov.sg/yneoh
-      image: /images/E_Open_House_2026__3_.png
-      alt: Image alt text
-  - infopic:
       title: Nomination for Teachers’ Awards
       id: infopic
       button: Read
@@ -42,16 +35,6 @@ sections:
       alt: Image alt text
       url: https://www.yunengpri.moe.edu.sg/
       button: READ
-  - infopic:
-      title: Celebrating Writing
-      id: infopic
-      button: Read
-      url: http://go.gov.sg/celebratingwriting25
-      image: /images/Celebrating_Writing_2025.jpg
-      alt: Image alt text
-      description: We are thrilled to share the publication of Celebrating Writing
-        2025, our annual collection that proudly recognises and celebrates our
-        students.
   - infopic:
       title: ALP (ICT)
       description: Read more about our ALP in Info-Comm Technology.
