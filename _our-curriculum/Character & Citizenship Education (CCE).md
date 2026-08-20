@@ -52,7 +52,16 @@ school culture.</p>
 <td rowspan="1" colspan="1">
 <p>Integrates the teaching of values, skills, and knowledge in students'
 Mother Tongue Languages (MTL), reinforcing character education in a culturally
-meaningful way.</p>
+meaningful way.
+<br>
+<br><strong><u>P3 Thank You Note</u></strong>
+<br><a href="https://padlet.com/mdmloke/3-graciousness-y6d9men7lsansczu" rel="noopener nofollow" target="_blank">P3 Graciousness</a>
+<br><a href="https://padlet.com/mdmloke/3-respect-tc1g6n2j795yhlv8" rel="noopener nofollow" target="_blank">P3 Respect</a>
+<br><a href="https://padlet.com/mdmloke/3-responsibility-mbac6heixddgajdt" rel="noopener nofollow" target="_blank">P3 Responsibility</a>
+<br><a href="https://padlet.com/mdmloke/3-integrity-80fql09g2lzmejxp" rel="noopener nofollow" target="_blank">P3 Integrity</a>
+<br><a href="https://padlet.com/mdmloke/3-teamwork-agc1u36cnzcxksp" rel="noopener nofollow" target="_blank">P3 Teamwork</a>
+<br><a href="https://padlet.com/mdmloke/3-ml-2l14blv023masmp5" rel="noopener nofollow" target="_blank">P3 Malay</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -90,6 +99,7 @@ know more about the programme</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <h4>Activities</h4>
 <div class="isomer-image-wrapper">
