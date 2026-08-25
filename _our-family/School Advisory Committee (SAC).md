@@ -7,3 +7,10 @@ variant: markdown
 #### SAC (July 2026 - Jun 2028)
 
 ![](/images/SAC.jpg)
+
+Left to Right<br>
+**Second Row:** Mdm Siew Meng Liew (Administrative Manager), Mrs Satiish Sathasilvam (Vice-Principal), Mr Mun Chun Keong (Member),<br>Mr Edmond Wong Teng Xiang (Member), Mr Foo How Yin (Member), Mr Ng Jaan Woei Brandon (Member), Mr Ong Yok Yam (Vice Principal),<br><br>
+**First Row:** Ms Tan Si Yu Faith (Treasurer), Mr Ng Yeow Ling (Principal), Mr Aw Chye Wee (Chairman), Mr Tan Chor Khoon Vincent (Vice Chairman)<br> Mr Chan Sen Meng (Member)
+
+
+![](/images/sac_02.png)
